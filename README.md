@@ -1,1 +1,0 @@
-# katalog-komiksow.github.io
