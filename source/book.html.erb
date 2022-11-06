@@ -1,0 +1,80 @@
+<% collection = data.collections.find { |collection| collection.slug == collection_slug } %>
+<% book = data.collection[collection_slug].find { |book| book.isbn == book_isbn } %>
+<% book_isbn = data.isbn[book.isbn] %>
+
+<section>
+  <div class="container px-4 px-lg-5 my-5">
+    <div class="row gx-4 gx-lg-5 align-items-center">
+      <div class="col-md-6">
+        <%= image_tag "covers/#{collection_slug}/#{data.isbn[book.isbn].image}", class: "card-img-top mb-5 mb-md-0" %>
+        <br>
+        Źródło okładki: <%= book_isbn.image_source %>
+      </div>
+      <div class="col-md-6">
+        <h1 class="display-5 fw-bolder"><%= book_isbn.name %></h1>
+        <p class="lead"><%= collection.name %></p>
+        <p class="lead"><%= book_isbn.release_date %></p>
+      </div>
+      <div class="col-md-4 my-2">
+        <strong>Sklepy</strong>
+        <% book_isbn.shops.each do |key, link| %>
+          <p><%= link_to key.titleize, link, target: "_blank" %></p>
+        <% end %>
+      </div>
+      <div class="col-md-4 my-2">
+        <strong>Recenzje</strong>
+        <% book_isbn.reviews.each do |key, link| %>
+          <p><%= link_to key.titleize, link, target: "_blank" %></p>
+        <% end %>
+      </div>
+      <div class="col-md-4 my-2">
+        <strong>Linki</strong>
+        <% book_isbn.links.each do |key, link| %>
+          <p><%= link_to key.titleize, link, target: "_blank" %></p>
+        <% end %>
+      </div>
+    </div>
+
+    <% if book.isbn %>
+      <table class="table my-2">
+        <thead>
+          <tr>
+            <th scope="col" width="1">Okładka</th>
+            <th scope="col">Zeszyt</th>
+            <th scope="col" class="text-end">Inne książki</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% book_isbn.issues.each do |issue| %>
+            <% cv_issue = data.comic_vine_issues[issue.comic_vine_issue_id] %>
+            <% cv_volume = data.comic_vine_volumes[cv_issue.volume.id] %>
+            <tr>
+              <td>
+                <%= image_tag "cv_issues/#{cv_issue.id}.jpeg", height: "100" %>
+              </td>
+              <td>
+                <%= cv_volume.name %> (<%= cv_volume.start_year %>) #<%= cv_issue.issue_number %>
+                <% if cv_issue.name %>
+                  - <%= cv_issue.name %>
+                <% end %>
+              </td>
+              <td class="text-end">
+                <% if data.aggregates[cv_issue.id] %>
+                  <% data.aggregates[cv_issue.id].each do |isbn| %>
+                    <% unless book.isbn.to_i == isbn.to_i %>
+                      <% isbn_book = data.isbn[isbn] %>
+
+                      <% link_to "/book/#{isbn}.html", relative: true do %>
+                        <%= image_tag "covers/#{isbn_book.collection}/#{data.collection[isbn_book.collection].find { |b| b.isbn.to_i == isbn.to_i }.image}", height: "100" %>
+                      <% end %>
+                    <% end %>
+                  <% end %>
+                <% end %>
+              </td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    <% end %>
+  </div>
+</section>

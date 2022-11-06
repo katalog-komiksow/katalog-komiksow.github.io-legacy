@@ -1,0 +1,37 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Okładka</th>
+      <th scope="col">Tytuł</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% data.collection[collection_slug].each_with_index do |book, index| %>
+      <tr>
+        <th scope="row">#<%= index + 1 %></th>
+        <th scope="row">
+          <% if book.release_date %>
+            <%= book.release_date %>
+          <% elsif book.isbn && data.isbn[book.isbn] %>
+            <%= data.isbn[book.isbn].release_date %>
+          <% end %>
+        </th>
+        <td>
+          <% if book.image %>
+            <%= image_tag("covers/#{collection_slug}/#{book.image}", width: "100") %>
+          <% elsif book.isbn && data.isbn[book.isbn] %>
+            <%= image_tag("covers/#{collection_slug}/#{data.isbn[book.isbn].image}", width: "100") %>
+          <% end %>
+        </td>
+        <td>
+          <% if book.isbn && book.isbn != "" && data.isbn[book.isbn] %>
+            <%= link_to book.name, "/ksiazka/#{book.isbn}.html", relative: true %>
+          <% else %>
+            <%= book.name %>
+          <% end %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

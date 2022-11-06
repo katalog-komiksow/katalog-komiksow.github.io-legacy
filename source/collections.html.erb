@@ -1,0 +1,26 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Data startu</th>
+      <th scope="col">Uniwersum</th>
+      <th scope="col">Wydawca</th>
+      <th scope="col">Kolekcja</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% data.collections.each do |collection| %>
+      <tr>
+        <th scope="row"><%= collection.date %></th>
+        <th><%= collection.universum %></th>
+        <th><%= collection.publisher %></th>
+        <td>
+          <% if data.collection[collection.slug] %>
+            <%= link_to collection.name, "/kolekcje/#{collection.slug}.html", relative: true %>
+          <% else %>
+            <%= collection.name %>
+          <% end %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

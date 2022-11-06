@@ -1,0 +1,171 @@
+---
+- name: Wielka Kolekcja Komiksów Marvela
+  slug: wkkm
+  universum: Marvel
+  publisher: Hachette Polska
+  date: "2012-12-05"
+- name: Nowe DC Comics
+  slug: nowe-dc-comics
+  universum: DC
+  publisher: Egmont
+  date: "2013-03-01"
+- name: "Kick-Ass"
+  slug: kick-ass
+  universum: Kick-Ass
+  publisher: Mucha Comics
+  date: "2013-07-01"
+- name: "Strażnicy Początek"
+  slug: straznicy-poczatek
+  universum: DC
+  publisher: Egmont
+  date: "2013-09-09"
+- name: DC Delux
+  slug: dc-delux
+  universum: DC
+  publisher: Egmont
+  date: "2015-04-24"
+- name: Marvel NOW!
+  slug: marvel-now
+  universum: Marvel
+  publisher: Egmont
+  date: "2015-05-13"
+- name: JLA - Amerykańska Liga Sprawiedliwości
+  slug: jla
+  universum: DC
+  publisher: Egmont
+  date: "2016-01-27"
+- name: SUPERMAN/BATMAN
+  slug: superman-batman
+  universum: DC
+  publisher: Egmont
+  date: "2016-01-27"
+- name: Wielka Kolekcja Komiksów DC Comics
+  slug: wkkdc
+  universum: DC
+  publisher: Eaglemoss Polska
+  date: "2016-08-24"
+- name: Klasyka Marvela
+  slug: klasyka-marvela
+  universum: Marvel
+  publisher: Egmont
+  date: "2016-10-05"
+- name: ChłoPAKI
+  slug: chlopaki
+  universum: The Boys
+  publisher: Planeta Komiksów
+  date: "2016-10-10"
+- name: Superbohaterowie Marvela
+  slug: superbohaterowie-marvela
+  universum: Marvel
+  publisher: Hachette Polska
+  date: "2017-01-04"
+- name: DC Odrodzenie
+  slug: dc-odrodzenie
+  universum: DC
+  publisher: Egmont
+  date: "2017-06-21"
+- name: DC Odrodzenie Komiks
+  slug: dc-odrodzenie-komiks
+  universum: DC
+  publisher: Egmont
+  date: "2017-10-03"
+- name: Invincible
+  slug: invincible
+  universum: Invincible
+  publisher: Egmont
+  date: "2018-09-19"
+- name: Marvel NOW! 2.0
+  slug: marvel-now-2-0
+  universum: Marvel
+  publisher: Egmont
+  date: "2018-12-05"
+- name: "Spider-Man Kultowe Komiksy (wydruk próbny)"
+  slug: spider-man-kultowe-komiksy
+  universum: Marvel
+  publisher: Hachette Polska
+  date: "2019-04-11"
+- name: "Batman Metal"
+  slug: batman-metal
+  universum: DC
+  publisher: Egmont
+  date: "2019-04-24"
+- name: "Doom Patrol"
+  slug: doom-patrol
+  universum: DC
+  publisher: Egmont
+  date: "2019-06-19"
+- name: "Marvel Komiks"
+  slug: marvel-komiks
+  universum: Marvel
+  publisher: Egmont
+  date: "2019-06-21"
+- name: "DC Black Label"
+  slug: dc-black-label
+  universum: DC
+  publisher: Egmont
+  date: "2019-10-02"
+- name: "Uniwersum DC"
+  slug: uniwersum-dc
+  universum: DC
+  publisher: Egmont
+  date: "2019-10-02"
+- name: "Mighty Morphin Power Rangers"
+  slug: mighty-morphin-power-rangers
+  universum: Power Rangers
+  publisher: Egmont
+  date: "2019-11-20"
+- name: "Ptaki Nocy"
+  slug: ptaki-nocy
+  universum: DC
+  publisher: Egmont
+  date: "2020-02-12"
+- name: "Marvel Limited"
+  slug: marvel-limited
+  universum: Marvel
+  publisher: Egmont
+  date: "2020-09-23"
+- name: "Batman (różne)"
+  slug: batman-rozne
+  universum: DC
+  publisher: Egmont
+  date: "2021-01-20"
+- name: "Marvel Fresh"
+  slug: marvel-fresh
+  universum: Marvel
+  publisher: Egmont
+  date: "2021-05-19"
+- name: "Wielka Kolekcja Komiksów DC Bohaterowie i Złoczyńcy"
+  slug: wkkdc2
+  universum: DC
+  publisher: Hachette Polska
+  date: "2021-08-18"
+- name: "Injustice"
+  slug: injustice
+  universum: DC
+  publisher: Egmont
+  date: "2021-09-29"
+- name: "Marvel Delux"
+  slug: marvel-delux
+  universum: Marvel
+  publisher: Egmont
+  date: "2021-09-29"
+- name: "DC Limited"
+  slug: dc-limited
+  universum: DC
+  publisher: Egmont
+  date: "2021-10-27"
+- name: "Wielkie Pojedynki"
+  slug: wielkie-pojedynki
+  universum: Marvel
+  publisher: Panini
+  date: "2022-03-01"
+- name: "Batman Knightfall"
+  slug: batman-knightfall
+  universum: DC
+  publisher: Egmont
+  date: "2022-04-27"
+- name: "Ciemna Strona Marvela"
+  slug: ciemna-strona-marvela
+  universum: Marvel
+  publisher: Panini
+  date: "2022-11-01"

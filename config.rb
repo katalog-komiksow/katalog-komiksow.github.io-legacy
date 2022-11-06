@@ -9,33 +9,110 @@ end
 # https://middlemanapp.com/basics/layouts/
 
 # Per-page layout changes
-page '/*.xml', layout: false
-page '/*.json', layout: false
-page '/*.txt', layout: false
+page "/*.xml", layout: false
+page "/*.json", layout: false
+page "/*.txt", layout: false
 
 # With alternative layout
-# page '/path/to/file.html', layout: 'other_layout'
+# page "/path/to/file.html", layout: "other_layout"
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
 
 # proxy(
-#   '/this-page-has-no-template.html',
-#   '/template-file.html',
+#   "/this-page-has-no-template.html",
+#   "/template-file.html",
 #   locals: {
-#     which_fake_page: 'Rendering a fake page with a local variable'
+#     which_fake_page: "Rendering a fake page with a local variable"
 #   },
 # )
+
+proxy("/kolekcje.html", "/collections.html", ignore: true)
+
+YAML.load_file("data/collections.yml").each do |collection|
+  next unless File.exists?("data/collection/#{collection["slug"]}.yml")
+
+  proxy(
+    "/kolekcje/#{collection["slug"]}.html",
+    "/collection.html",
+    locals: {
+      collection_slug: collection["slug"]
+    },
+    ignore: true
+  )
+
+  YAML.load_file("data/collection/#{collection["slug"]}.yml").each do |book|
+    next unless book["isbn"]
+
+    proxy(
+      "/ksiazka/#{book["isbn"]}.html",
+      "/book.html",
+      locals: {
+        collection_slug: collection["slug"],
+        book_isbn: book["isbn"]
+      },
+      ignore: true
+    )
+  end
+end
+
+book_page_size = 12
+set :book_page_size, book_page_size
+released_books = Dir.glob("data/isbn/*.yml")
+                    .map { |path| YAML.load_file(path) }
+                    .select { |book| Date.parse(book["release_date"]) <= Date.today }
+book_pages = (1..(released_books.size)).to_a.each_slice(book_page_size).to_a.size
+book_pages = book_pages > 0 ? book_pages : 1
+set :last_book_page, book_pages
+
+(1..book_pages).each do |page|
+  proxy(
+    "/#{page}.html",
+    "index2.html",
+    locals: {
+      page: page
+    },
+    ignore: true
+  )
+end
 
 # Helpers
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
+helpers do
+  def collection_dict
+    unless @collection_dict
+      @collection_dict = data.collections.map do |collection|
+        [collection.slug, { name: collection.name, slug: collection.slug, publisher: collection.publisher }]
+      end.to_h
+    end
+
+    @collection_dict
+  end
+
+  def books
+    slugs = data.collections.map { |collection| collection.slug }
+    books = []
+    slugs.each do |slug|
+      next unless data.collection[slug]
+
+      data.collection[slug].each_with_index do |book, index|
+        next if Date.parse(data.isbn[book.isbn].release_date) > Date.today
+
+        book.release_date = data.isbn[book.isbn].release_date
+        book.collection_slug = slug
+        book.collection_name = collection_dict[slug][:name]
+        book.publisher = collection_dict[slug][:publisher]
+        book.number = index + 1
+
+        books << book
+      end
+    end
+
+    books.sort_by { |book| Date.parse(book.release_date, book.number) }.reverse
+  end
+end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
@@ -44,3 +121,7 @@ page '/*.txt', layout: false
 #   activate :minify_css
 #   activate :minify_javascript
 # end
+
+configure :build do
+  set :images_dir, "katalog-static/images"
+end
