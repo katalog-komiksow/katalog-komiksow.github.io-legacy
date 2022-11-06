@@ -1,0 +1,53 @@
+---
+collection: batman-rozne
+name: Batman. Wojownicze Żółwie Ninja
+image: batman.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328160576
+release_date: "2021-06-16"
+series:
+  - "Batman"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4973586/batman-wojownicze-zolwie-ninja
+shops:
+  egmont: https://egmont.pl/Batman.-Wojownicze-Zolwie-Ninja,53792771,p.html
+  gildia: https://www.gildia.pl/komiksy/483329-batman-wojownicze-zolwie-ninja
+reviews:
+  naekranie: https://naekranie.pl/recenzje/batman-wojownicze-zolwie-ninja-recenzja-komiksu
+issues:
+  - name: "Batman/Teenage Mutant Ninja Turtles #1"
+    comic_vine_issue_id: 507737
+  - name: "Batman/Teenage Mutant Ninja Turtles #2"
+    comic_vine_issue_id: 510911
+  - name: "Batman/Teenage Mutant Ninja Turtles #3"
+    comic_vine_issue_id: 514399
+  - name: "Batman/Teenage Mutant Ninja Turtles #4"
+    comic_vine_issue_id: 518829
+  - name: "Batman/Teenage Mutant Ninja Turtles #5"
+    comic_vine_issue_id: 524994
+  - name: "Batman/Teenage Mutant Ninja Turtles #6"
+    comic_vine_issue_id: 529620
+  - name: "Batman/Teenage Mutant Ninja Turtles II #1"
+    comic_vine_issue_id: 644468
+  - name: "Batman/Teenage Mutant Ninja Turtles II #2"
+    comic_vine_issue_id: 647907
+  - name: "Batman/Teenage Mutant Ninja Turtles II #3"
+    comic_vine_issue_id: 654028
+  - name: "Batman/Teenage Mutant Ninja Turtles II #4"
+    comic_vine_issue_id: 660624
+  - name: "Batman/Teenage Mutant Ninja Turtles II #5"
+    comic_vine_issue_id: 663541
+  - name: "Batman/Teenage Mutant Ninja Turtles II #6"
+    comic_vine_issue_id: 666771
+  - name: "Batman/Teenage Mutant Ninja Turtles III #1"
+    comic_vine_issue_id: 707484
+  - name: "Batman/Teenage Mutant Ninja Turtles III #2"
+    comic_vine_issue_id: 710582
+  - name: "Batman/Teenage Mutant Ninja Turtles III #3"
+    comic_vine_issue_id: 712944
+  - name: "Batman/Teenage Mutant Ninja Turtles III #4"
+    comic_vine_issue_id: 715212
+  - name: "Batman/Teenage Mutant Ninja Turtles III #5"
+    comic_vine_issue_id: 717910
+  - name: "Batman/Teenage Mutant Ninja Turtles III #6"
+    comic_vine_issue_id: 721036

@@ -1,0 +1,33 @@
+---
+collection: batman-rozne
+name: Batman. Budowniczowie Gotham
+image: batman.4.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328152526
+release_date: "2021-11-10"
+series:
+  - "Batman"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4992252/batman---budowniczowie-gotham
+shops:
+  egmont: https://egmont.pl/Batman.-Budowniczowie-Gotham,58900491,p.html
+  gildia: https://www.gildia.pl/komiksy/498216-batman-budowniczowie-gotham
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-budowniczowie-gotham-recenzja-komiksu-opinie-recenzje-most-do-przeszlosci
+  naekranie: https://naekranie.pl/recenzje/batman-budowniczowie-gotham-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/42598-batman-budowniczowie-gotham-recenzja
+issues:
+  - name: "Batman: Gates of Gotham #1"
+    comic_vine_issue_id: 270443
+  - name: "Batman: Gates of Gotham #2"
+    comic_vine_issue_id: 275553
+  - name: "Batman: Gates of Gotham #3"
+    comic_vine_issue_id: 280286
+  - name: "Batman: Gates of Gotham #4"
+    comic_vine_issue_id: 283130
+  - name: "Batman: Gates of Gotham #5"
+    comic_vine_issue_id: 288287
+  - name: "Detective Comics Annual #12"
+    comic_vine_issue_id: 248431
+  - name: "Batman Annual #28"
+    comic_vine_issue_id: 250640

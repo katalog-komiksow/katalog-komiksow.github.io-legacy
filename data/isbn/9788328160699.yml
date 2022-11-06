@@ -1,0 +1,19 @@
+---
+collection: batman-rozne
+name: Batman - Świat
+image: batman.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328160699
+release_date: "2021-09-14"
+series:
+  - "Batman"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4984835/batman---swiat
+shops:
+  egmont: https://egmont.pl/Batman-Swiat,56947738,p.html
+  gildia: https://www.gildia.pl/komiksy/491702-batman-swiat
+reviews:
+  paradoks: https://paradoks.net.pl/read/42276-batman-swiat-recenzja
+issues:
+  - name: "Batman: The World #1"
+    comic_vine_issue_id: 884575
