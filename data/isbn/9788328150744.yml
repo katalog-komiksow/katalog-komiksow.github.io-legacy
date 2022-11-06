@@ -1,0 +1,57 @@
+---
+collection: batman-knightfall
+name: "Batman Knightfall: Prolog. Tom 1"
+image: batman-knightfall.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328150744
+release_date: "2022-04-27"
+series:
+  - "Batman Knightfall"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5014985/batman-knightfall-prolog-tom-1
+shops:
+  egmont: https://egmont.pl/Batman-Knightfall-Prolog.-Tom-1,63891466,p.html
+  gildia: https://www.gildia.pl/komiksy/515772-batman-knightfall-tom-1-prolog
+reviews:
+  naekranie: https://naekranie.pl/recenzje/batman-knightfall-prolog-tom-1-recenzja-egmont-komiks
+issues:
+  - name: "Batman: The Sword Of Azrael #16"
+    comic_vine_issue_id: 34013
+  - name: "Batman: The Sword Of Azrael #17"
+    comic_vine_issue_id: 34118
+  - name: "Batman: The Sword Of Azrael #18"
+    comic_vine_issue_id: 34220
+  - name: "Batman: The Sword Of Azrael #19"
+    comic_vine_issue_id: 34321
+  - name: "Batman: The Sword Of Azrael #20"
+    comic_vine_issue_id: 34440
+  - name: "Batman: Vengeance of Bane #1"
+    comic_vine_issue_id: 131755
+  - name: "Batman #484"
+    comic_vine_issue_id: 36110
+  - name: "Batman #485"
+    comic_vine_issue_id: 36228
+  - name: "Batman #486"
+    comic_vine_issue_id: 36353
+  - name: "Batman #487"
+    comic_vine_issue_id: 36470
+  - name: "Batman #488"
+    comic_vine_issue_id: 36710
+  - name: "Batman #489"
+    comic_vine_issue_id: 36816
+  - name: "Batman #490"
+    comic_vine_issue_id: 36921
+  - name: "Batman #491"
+    comic_vine_issue_id: 37038
+  - name: "Legends of The Dark Knight Annual #2"
+    comic_vine_issue_id: 194778
+  - name: "Detective Comics #654"
+    comic_vine_issue_id: 113125
+  - name: "Detective Comics #655"
+    comic_vine_issue_id: 113127
+  - name: "Detective Comics #656"
+    comic_vine_issue_id: 113128
+  - name: "Detective Comics #657"
+    comic_vine_issue_id: 113129
+  - name: "Detective Comics #658"
+    comic_vine_issue_id: 106803
