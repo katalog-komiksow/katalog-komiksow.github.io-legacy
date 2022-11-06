@@ -1,0 +1,37 @@
+---
+collection: jla
+name: JLA - Amerykańska Liga Sprawiedliwości. Tom 2.
+image: jla.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328116559
+release_date: "2016-01-27"
+series:
+  - "JLA - Amerykańska Liga Sprawiedliwości"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/300349/jla---amerykanska-liga-sprawiedliwosci-tom-2
+shops:
+  egmont: https://egmont.pl/JLA-Amerykanska-Liga-Sprawiedliwosci.-Tom-2.,606278,p.html
+  gildia: https://www.gildia.pl/komiksy/300124-amerykanska-liga-sprawiedliwosci-jla-tom-2
+reviews:
+  paradoks: https://paradoks.net.pl/read/29479-jla-amerykanska-liga-sprawiedliwosci-tom-2-recenzja
+issues:
+  - name: "JLA #10"
+    comic_vine_issue_id: 44142
+  - name: "JLA #11"
+    comic_vine_issue_id: 44219
+  - name: "JLA #12"
+    comic_vine_issue_id: 44328
+  - name: "JLA #13"
+    comic_vine_issue_id: 44425
+  - name: "JLA #14"
+    comic_vine_issue_id: 44596
+  - name: "JLA #15"
+    comic_vine_issue_id: 44707
+  - name: "JLA #16"
+    comic_vine_issue_id: 44804
+  - name: "JLA #17"
+    comic_vine_issue_id: 44890
+  - name: "JLA New Year’s Evil – Prometheus #1"
+    comic_vine_issue_id: 150072
+  - name: "JLA/WILDC.A.T.s #1"
+    comic_vine_issue_id: 159158

@@ -19,9 +19,9 @@
         </th>
         <td>
           <% if book.image %>
-            <%= image_tag("covers/#{collection_slug}/#{book.image}", width: "100") %>
+            <%= image_tag("#{config[:book_cover_base_url]}/#{collection_slug}/#{book.image}", width: "100") %>
           <% elsif book.isbn && data.isbn[book.isbn] %>
-            <%= image_tag("covers/#{collection_slug}/#{data.isbn[book.isbn].image}", width: "100") %>
+            <%= image_tag("#{config[:book_cover_base_url]}/#{collection_slug}/#{data.isbn[book.isbn].image}", width: "100") %>
           <% end %>
         </td>
         <td>

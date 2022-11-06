@@ -1,0 +1,38 @@
+---
+collection: jla
+name: JLA - Amerykańska Liga Sprawiedliwości. Tom 1.
+image: jla.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328116122
+release_date: "2016-01-27"
+series:
+  - "JLA - Amerykańska Liga Sprawiedliwości"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/289501/jla---amerykanska-liga-sprawiedliwosci-tom-1
+shops:
+  egmont: https://egmont.pl/JLA-Amerykanska-Liga-Sprawiedliwosci.Tom-1.,607204,p.html
+  gildia: https://www.gildia.pl/komiksy/290163-amerykanska-liga-sprawiedliwosci-jla-tom-1
+reviews:
+  naekranie: https://naekranie.pl/recenzje/jla-amerykanska-liga-sprawiedliwosci-tom-1-recenzja
+  paradoks: https://paradoks.net.pl/read/28515-jla-amerykanska-liga-sprawiedliwosci-tom-1-recenzja
+issues:
+  - name: "JLA #1"
+    comic_vine_issue_id: 43302
+  - name: "JLA #2"
+    comic_vine_issue_id: 109452
+  - name: "JLA #3"
+    comic_vine_issue_id: 43508
+  - name: "JLA #4"
+    comic_vine_issue_id: 43606
+  - name: "JLA #5"
+    comic_vine_issue_id: 43711
+  - name: "JLA #6"
+    comic_vine_issue_id: 43798
+  - name: "JLA #7"
+    comic_vine_issue_id: 43909
+  - name: "JLA #8"
+    comic_vine_issue_id: 44003
+  - name: "JLA #9"
+    comic_vine_issue_id: 44044
+  - name: "JLA Secret Files #1"
+    comic_vine_issue_id: 78349

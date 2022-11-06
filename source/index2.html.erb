@@ -40,7 +40,7 @@
         <div class="card-header">
           <%= book.collection_name %> #<%= book.number %>
         </div>
-        <%= image_tag "covers/#{book.collection_slug}/#{data.isbn[book.isbn].image}", class: "card-img-top" %>
+        <%= image_tag "#{config[:book_cover_base_url]}/#{book.collection_slug}/#{data.isbn[book.isbn].image}", class: "card-img-top" %>
         <div class="card-body">
           <h5 class="card-title">
             <% if book.isbn && book.isbn != "" && data.isbn[book.isbn] %>

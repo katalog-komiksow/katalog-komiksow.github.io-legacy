@@ -76,6 +76,9 @@ set :last_book_page, book_pages
   )
 end
 
+set :book_cover_base_url, "https://katalog-komiksow.github.io/book_covers/images/"
+set :issue_cover_base_url, "https://katalog-komiksow.github.io/issue_covers_thumb/images/"
+
 # Helpers
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
@@ -111,6 +114,26 @@ helpers do
     end
 
     books.sort_by { |book| Date.parse(book.release_date, book.number) }.reverse
+  end
+
+  def comic_vine_issue(id)
+    file_path = "../comic_vine/issues/#{id}.json"
+ 
+    if File.exists?(file_path)
+      YAML.load_file(file_path)
+    else
+      {}
+    end
+  end
+
+  def comic_vine_volume(id)
+    file_path = "../comic_vine/volumes/#{id}.json"
+ 
+    if File.exists?(file_path)
+      YAML.load_file(file_path)
+    else
+      {}
+    end
   end
 end
 

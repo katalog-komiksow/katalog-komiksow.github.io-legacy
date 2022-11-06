@@ -1,0 +1,37 @@
+---
+collection: jla
+name: JLA - Amerykańska Liga Sprawiedliwości. Tom 4.
+image: jla.4.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328118942
+release_date: "2016-09-14"
+series:
+  - "JLA - Amerykańska Liga Sprawiedliwości"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4117008/jla---amerykanska-liga-sprawiedliwosci-tom-4
+shops:
+  egmont: https://egmont.pl/JLA-Amerykanska-Liga-Sprawiedliwosci.-Tom-4.,606537,p.html
+  gildia: https://www.gildia.pl/komiksy/319372-amerykanska-liga-sprawiedliwosci-jla-tom-4
+reviews:
+  paradoks: https://paradoks.net.pl/read/31640-jla-amerykanska-liga-sprawiedliwosci-tom-4-recenzja
+issues:
+  - name: "JLA #34"
+    comic_vine_issue_id: 46067
+  - name: "JLA #36"
+    comic_vine_issue_id: 109289
+  - name: "JLA #37"
+    comic_vine_issue_id: 46220
+  - name: "JLA #38"
+    comic_vine_issue_id: 46264
+  - name: "JLA #39"
+    comic_vine_issue_id: 46297
+  - name: "JLA #40"
+    comic_vine_issue_id: 46314
+  - name: "JLA #41"
+    comic_vine_issue_id: 46339
+  - name: "JLA Classified #1"
+    comic_vine_issue_id: 97403
+  - name: "JLA Classified #2"
+    comic_vine_issue_id: 97404
+  - name: "JLA Classified #3"
+    comic_vine_issue_id: 97405
