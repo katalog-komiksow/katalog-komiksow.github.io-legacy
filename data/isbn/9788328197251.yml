@@ -1,0 +1,26 @@
+---
+collection: marvel-komiks
+name: "Marvel Komiks. 4/2019 Avengers"
+image: marvel-komiks.4.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328197251
+release_date: "2019-10-18"
+series:
+  - "Marvel Komiks"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4904802/marvel-komiks-4-2019-avengers
+shops:
+  egmont: https://egmont.pl/Marvel-Komiks.-4-2019,19343381,p.html
+  gildia: https://www.gildia.pl/komiksy/403742-marvel-komiks-4-4-2019
+reviews: []
+issues:
+  - name: "Marvel Adventures Super Heroes #9"
+    comic_vine_issue_id: 154289
+  - name: "Marvel Adventures Spider-Man #8"
+    comic_vine_issue_id: 246855
+  - name: "Marvel Adventures Spider-Man #9"
+    comic_vine_issue_id: 253761
+  - name: "Marvel Adventures Avengers #4"
+    comic_vine_issue_id: 106762
+  - name: "Marvel Adventures Hulk #1"
+    comic_vine_issue_id: 113635

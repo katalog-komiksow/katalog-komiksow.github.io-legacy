@@ -1,0 +1,35 @@
+---
+collection: batman-metal
+name: Batman Metal. Batman, Który się Śmieje. Tom 1
+image: batman-ktory-sie-smieje.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328142916
+release_date: "2020-04-29"
+series:
+  - "Batman Metal"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4919743/batman-ktory-sie-smieje
+shops:
+  egmont: https://egmont.pl/Batman-Metal.-Batman-Ktory-sie-Smieje.-Tom-1,25426963,p.html
+  gildia: https://www.gildia.pl/literatura/425024-batman-ktory-sie-smieje
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-ktory-sie-smieje-tom-1-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/batman-ktory-sie-smieje-tom-1-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/39963-batman-ktory-sie-smieje-tom-1-recenzja
+issues:
+  - name: "The Batman Who Laughs #1"
+    comic_vine_issue_id: 694877
+  - name: "The Batman Who Laughs #2"
+    comic_vine_issue_id: 697602
+  - name: "The Batman Who Laughs #3"
+    comic_vine_issue_id: 700638
+  - name: "The Batman Who Laughs #4"
+    comic_vine_issue_id: 705887
+  - name: "The Batman Who Laughs #5"
+    comic_vine_issue_id: 708086
+  - name: "The Batman Who Laughs #6"
+    comic_vine_issue_id: 711240
+  - name: "The Batman Who Laughs #7"
+    comic_vine_issue_id: 714615
+  - name: "The Batman Who Laughs: Grim Knight #1"
+    comic_vine_issue_id: 703027

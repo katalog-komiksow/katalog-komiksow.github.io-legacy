@@ -1,0 +1,42 @@
+---
+collection: invincible
+name: "Invincible. Tom 9"
+image: invincible.09.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328198531
+release_date: "2020-10-28"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4936566/invincible-9
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-9,34405421,p.html
+  gildia: https://www.gildia.pl/komiksy/438155-invincible-niezwyciezony-wyd-zbiorcze-tom-9
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-9-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/41070-invincible-tom-9-recenzja
+issues:
+  - name: "Invincible #97"
+    comic_vine_issue_id: 367681
+  - name: "Invincible #98"
+    comic_vine_issue_id: 371155
+  - name: "Invincible #99"
+    comic_vine_issue_id: 376607
+  - name: "Invincible #100"
+    comic_vine_issue_id: 382769
+  - name: "Invincible #101"
+    comic_vine_issue_id: 394819
+  - name: "Invincible #102"
+    comic_vine_issue_id: 398960
+  - name: "Invincible #103"
+    comic_vine_issue_id: 411794
+  - name: "Invincible #104"
+    comic_vine_issue_id: 417942
+  - name: "Invincible #105"
+    comic_vine_issue_id: 424510
+  - name: "Invincible #106"
+    comic_vine_issue_id: 428972
+  - name: "Invincible #107"
+    comic_vine_issue_id: 436166
+  - name: "Invincible #108"
+    comic_vine_issue_id: 443962

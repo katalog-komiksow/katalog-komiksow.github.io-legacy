@@ -1,0 +1,35 @@
+---
+collection: marvel-delux
+name: "X-Men: Wielki projekt"
+image: marvel-delux.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328150072
+release_date: "2021-09-29"
+series:
+  - "Marvel Delux"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4987181/x-men---wielki-projekt
+shops:
+  egmont: https://egmont.pl/X-Men-Wielki-projekt,56947723,p.html
+  gildia: https://www.gildia.pl/komiksy/491914-x-men-wielki-projekt
+reviews:
+  paradoks: https://paradoks.net.pl/read/42552-x-men-wielki-projekt-recenzja
+issues:
+  - name: "X-Men: Grand Design #1"
+    comic_vine_issue_id: 647842
+  - name: "X-Men: Grand Design #2"
+    comic_vine_issue_id: 651101
+  - name: "X-Men: Grand Design – Second Genesis #1"
+    comic_vine_issue_id: 677823
+  - name: "X-Men: Grand Design – Second Genesis #2"
+    comic_vine_issue_id: 682508
+  - name: "X-Men: Grand Design – X-Tinction #1"
+    comic_vine_issue_id: 709915
+  - name: "X-Men: Grand Design – X-Tinction #2"
+    comic_vine_issue_id: 711971
+  - name: "X-Men (1963) #1"
+    comic_vine_issue_id: 6694
+  - name: "Giant-Size X-Men (1975) #1"
+    comic_vine_issue_id: 14890
+  - name: "Uncanny X-Men (1981) #268"
+    comic_vine_issue_id: 33256

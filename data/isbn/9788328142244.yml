@@ -1,0 +1,42 @@
+---
+collection: invincible
+name: "Invincible. Tom 4"
+image: invincible.04.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328142244
+release_date: "2019-06-19"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4883745/invincible-4
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-4,17096718,p.html
+  gildia: https://www.gildia.pl/komiksy/395366-invincible-niezwyciezony-wyd-zbiorcze-tom-4
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-4-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/38177-invincible-tom-4-recenzja
+issues:
+  - name: "Invincible #36"
+    comic_vine_issue_id: 126528
+  - name: "Invincible #37"
+    comic_vine_issue_id: 128611
+  - name: "Invincible #38"
+    comic_vine_issue_id: 106421
+  - name: "Invincible #39"
+    comic_vine_issue_id: 106647
+  - name: "Invincible #40"
+    comic_vine_issue_id: 109270
+  - name: "Invincible #41"
+    comic_vine_issue_id: 109271
+  - name: "Invincible #42"
+    comic_vine_issue_id: 126823
+  - name: "Invincible #43"
+    comic_vine_issue_id: 130610
+  - name: "Invincible #44"
+    comic_vine_issue_id: 112028
+  - name: "Invincible #45"
+    comic_vine_issue_id: 126819
+  - name: "Invincible #46"
+    comic_vine_issue_id: 118125
+  - name: "Invincible #47"
+    comic_vine_issue_id: 120920

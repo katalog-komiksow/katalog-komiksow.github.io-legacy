@@ -1,0 +1,32 @@
+---
+collection: spider-man-kultowe-komiksy
+name: Saga klonów
+image: spider-man.3.jpeg
+image_source: "https://paradoks.net.pl"
+isbn: 9788328223868
+release_date: "2019-05-08"
+series:
+  - "Spider-Man Kultowe Komiksy"
+links: []
+shops: []
+reviews:
+  paradoks: https://paradoks.net.pl/read/37762-spider-man-saga-klonow-trzeci-numer-kolekcji-z-pajaczkiem-juz-dostepny
+issues:
+  - name: "Amazing Spider-Man #129"
+    comic_vine_issue_id: 105443
+  - name: "Amazing Spider-Man #143"
+    comic_vine_issue_id: 111360
+  - name: "Amazing Spider-Man #144"
+    comic_vine_issue_id: 15170
+  - name: "Amazing Spider-Man #145"
+    comic_vine_issue_id: 15259
+  - name: "Amazing Spider-Man #146"
+    comic_vine_issue_id: 15364
+  - name: "Amazing Spider-Man #147"
+    comic_vine_issue_id: 15469
+  - name: "Amazing Spider-Man #148"
+    comic_vine_issue_id: 15572
+  - name: "Amazing Spider-Man #149"
+    comic_vine_issue_id: 15668
+  - name: "Amazing Spider-Man #150"
+    comic_vine_issue_id: 15772

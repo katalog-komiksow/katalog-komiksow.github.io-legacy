@@ -1,0 +1,25 @@
+---
+collection: batman-metal
+name: Batman Metal. Batman Death Metal. Tom 4
+image: batman-death-metal.4.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328150720
+release_date: "2022-04-13"
+series:
+  - "Batman Metal"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5014975/batman-metal-batman-death-metal-tom-4
+shops:
+  egmont: https://egmont.pl/Batman-Metal.-Batman-Death-Metal.-Tom-4,63891481,p.html
+  gildia: https://www.gildia.pl/komiksy/515636-batman-death-metal-4
+reviews:
+  paradoks: https://paradoks.net.pl/read/43372-batman-death-metal-tom-4-recenzja
+issues:
+  - name: "Dark Nights: Death Metal #6"
+    comic_vine_issue_id: 821189
+  - name: "Dark Nights: Death Metal #7"
+    comic_vine_issue_id: 823806
+  - name: "Dark Nights: Death Metal – The Secret Origin #1"
+    comic_vine_issue_id: 821759
+  - name: "Dark Nights: Death Metal-The Last 52: War of the Multiverses #1"
+    comic_vine_issue_id: 823034

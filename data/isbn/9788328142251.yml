@@ -1,0 +1,44 @@
+---
+collection: invincible
+name: "Invincible. Tom 5"
+image: invincible.05.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328142251
+release_date: "2019-10-02"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4886020/invincible-5
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-5,19343378,p.html
+  gildia: https://www.gildia.pl/komiksy/403737-invincible-niezwyciezony-wyd-zbiorcze-tom-5
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-5-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/38807-invincible-tom-5-recenzja
+issues:
+  - name: "Invincible #48"
+    comic_vine_issue_id: 125073
+  - name: "Invincible #49"
+    comic_vine_issue_id: 126001
+  - name: "Invincible #50"
+    comic_vine_issue_id: 131455
+  - name: "Invincible #51"
+    comic_vine_issue_id: 134119
+  - name: "Invincible #52"
+    comic_vine_issue_id: 138424
+  - name: "Invincible #53"
+    comic_vine_issue_id: 139696
+  - name: "Invincible #54"
+    comic_vine_issue_id: 140811
+  - name: "Invincible #55"
+    comic_vine_issue_id: 142745
+  - name: "Invincible #56"
+    comic_vine_issue_id: 145547
+  - name: "Invincible #57"
+    comic_vine_issue_id: 148141
+  - name: "The Astounding Wolf-Man #11"
+    comic_vine_issue_id: 148136
+  - name: "Invincible #58"
+    comic_vine_issue_id: 150046
+  - name: "Invincible #59"
+    comic_vine_issue_id: 152425

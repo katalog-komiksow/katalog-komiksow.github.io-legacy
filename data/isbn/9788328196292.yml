@@ -1,0 +1,46 @@
+---
+collection: doom-patrol
+name: "Doom Patrol Tom 3"
+image: doom-patrol.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328196292
+release_date: "2020-05-20"
+series:
+  - "Doom Patrol"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4929156/doom-patrol-tom-3
+shops:
+  egmont: https://egmont.pl/Doom-Patrol.-Tom-3,27409426,p.html
+  gildia: https://www.gildia.pl/komiksy/426257-doom-patrol-3
+reviews:
+  naekranie: https://naekranie.pl/recenzje/doom-patrol-tom-3-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/40285-doom-patrol-tom-3-recenzja
+issues:
+  - name: "Doom Patrol #51"
+    comic_vine_issue_id: 35222
+  - name: "Doom Patrol #52"
+    comic_vine_issue_id: 35329
+  - name: "Doom Patrol #53"
+    comic_vine_issue_id: 35438
+  - name: "Doom Patrol #54"
+    comic_vine_issue_id: 35535
+  - name: "Doom Patrol #55"
+    comic_vine_issue_id: 35644
+  - name: "Doom Patrol #56"
+    comic_vine_issue_id: 35747
+  - name: "Doom Patrol #57"
+    comic_vine_issue_id: 35868
+  - name: "Doom Patrol #58"
+    comic_vine_issue_id: 35989
+  - name: "Doom Patrol #59"
+    comic_vine_issue_id: 36113
+  - name: "Doom Patrol #60"
+    comic_vine_issue_id: 36232
+  - name: "Doom Patrol #61"
+    comic_vine_issue_id: 36358
+  - name: "Doom Patrol #62"
+    comic_vine_issue_id: 36475
+  - name: "Doom Patrol #63"
+    comic_vine_issue_id: 36713
+  - name: "Doom Force Special #1"
+    comic_vine_issue_id: 165691

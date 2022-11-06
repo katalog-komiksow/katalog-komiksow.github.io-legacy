@@ -1,0 +1,28 @@
+---
+collection: spider-man-kultowe-komiksy
+name: Zmysły
+image: spider-man.2.jpeg
+image_source: "https://paradoks.net.pl"
+isbn: 9788328223837
+release_date: "2019-04-24"
+series:
+  - "Spider-Man Kultowe Komiksy"
+links: []
+shops: []
+reviews:
+  paradoks: https://paradoks.net.pl/read/37654-spider-man-zmysly-drugi-numer-kolekcji-z-pajaczkiem-juz-dostepny
+issues:
+  - name: "Spider-Man #6"
+    comic_vine_issue_id: 64608
+  - name: "Spider-Man #7"
+    comic_vine_issue_id: 64609
+  - name: "Spider-Man #8"
+    comic_vine_issue_id: 64610
+  - name: "Spider-Man #9"
+    comic_vine_issue_id: 64611
+  - name: "Spider-Man #10"
+    comic_vine_issue_id: 64612
+  - name: "Spider-Man #11"
+    comic_vine_issue_id: 64613
+  - name: "Spider-Man #12"
+    comic_vine_issue_id: 64614

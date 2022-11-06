@@ -1,0 +1,34 @@
+---
+collection: batman-metal
+name: Batman Metal. Batman Death Metal. Tom 3
+image: batman-death-metal.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328150713
+release_date: "2022-03-23"
+series:
+  - "Batman Metal"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5000665/batman---death-metal-tom-3
+shops:
+  egmont: https://egmont.pl/Batman-Metal.-Batman-Death-Metal.-Tom-3,62981146,p.html
+  gildia: https://www.gildia.pl/komiksy/510580-batman-death-metal-3
+reviews:
+  naekranie: https://naekranie.pl/recenzje/batman-death-metal-tom-3-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/43277-batman-death-metal-tom-3-recenzja
+issues:
+  - name: "Dark Nights: Death Metal #5"
+    comic_vine_issue_id: 818625
+  - name: "Dark Nights: Death Metal – Infinite Hour Exxxtreme! #1"
+    comic_vine_issue_id: 817447
+  - name: "Dark Nights: Death Metal-The Multiverse Who Laughs #1"
+    comic_vine_issue_id: 819285
+  - name: "Justice League #53"
+    comic_vine_issue_id: 798860
+  - name: "Justice League #54"
+    comic_vine_issue_id: 806770
+  - name: "Justice League #55"
+    comic_vine_issue_id: 812521
+  - name: "Justice League #56"
+    comic_vine_issue_id: 815605
+  - name: "Justice League #57"
+    comic_vine_issue_id: 818626

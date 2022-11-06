@@ -1,0 +1,27 @@
+---
+collection: marvel-komiks
+name: "Marvel Komiks. 3/2019 Iron Man"
+image: marvel-komiks.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328197244
+release_date: "2019-08-20"
+series:
+  - "Marvel Komiks"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4899077/marvel-komiks-3-2019-iron-man
+shops:
+  egmont: https://egmont.pl/Marvel-Komiks.-3-2019,18493453,p.html
+  gildia: https://www.gildia.pl/komiksy/401522-marvel-komiks-3-3-2019
+reviews:
+  czytajkomiksy: https://czytajkomiksy.pl/marvel-komiks-3-2019-recenzja/
+issues:
+  - name: "Marvel Adventures Super Heroes #4"
+    comic_vine_issue_id: 141146
+  - name: "Marvel Adventures Super Heroes #5"
+    comic_vine_issue_id: 146803
+  - name: "Marvel Adventures Spider-Man #6"
+    comic_vine_issue_id: 235694
+  - name: "Marvel Adventures Spider-Man #7"
+    comic_vine_issue_id: 241075
+  - name: "Marvel Adventures Avengers #3"
+    comic_vine_issue_id: 111403

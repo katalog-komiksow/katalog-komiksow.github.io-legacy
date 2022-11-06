@@ -1,0 +1,27 @@
+---
+collection: marvel-komiks
+name: "Marvel Komiks. 1/2019 Spider-Man"
+image: marvel-komiks.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328197220
+release_date: "2019-06-21"
+series:
+  - "Marvel Komiks"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4899076/marvel-komiks-1-2019-spider-man
+shops:
+  egmont: https://egmont.pl/Marvel-Komiks.-1-2019,18493441,p.html
+  gildia: https://www.gildia.pl/komiksy/401395-marvel-komiks-1-1-2019
+reviews:
+  komiksydisneya: https://www.komiksydisneya.pl/2019/07/nie-jest-az-tak-zle-marvel-komiks-tom-1.html
+issues:
+  - name: "Marvel Adventures Super Heroes #1"
+    comic_vine_issue_id: 134207
+  - name: "Marvel Adventures Super Heroes #2"
+    comic_vine_issue_id: 138825
+  - name: "Marvel Adventures Spider-Man #1"
+    comic_vine_issue_id: 211668
+  - name: "Marvel Adventures Spider-Man #2"
+    comic_vine_issue_id: 216556
+  - name: "Marvel Adventures Avengers #1"
+    comic_vine_issue_id: 111401

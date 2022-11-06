@@ -1,0 +1,40 @@
+---
+collection: batman-metal
+name: Batman Metal. Batman, Który się Śmieje - Zarażeni. Tom 2
+image: batman-ktory-sie-smieje.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328158573
+release_date: "2020-11-25"
+series:
+  - "Batman Metal"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4940744/batman-ktory-sie-smieje-zarazeni
+shops:
+  egmont: https://egmont.pl/Batman-Metal.-Batman-Ktory-sie-Smieje-Zarazeni.-Tom-2,36385805,p.html
+  gildia: https://www.gildia.pl/komiksy/440215-batman-ktory-sie-smieje-2
+reviews:
+  naekranie: https://naekranie.pl/recenzje/batman-ktory-sie-smieje-tom-2-zarazeni-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/41220-batman-ktory-sie-smieje-tom-2-zarazeni-recenzja
+issues:
+  - name: "Batman/Superman #1"
+    comic_vine_issue_id: 717390
+  - name: "Batman/Superman #2"
+    comic_vine_issue_id: 720037
+  - name: "Batman/Superman #3"
+    comic_vine_issue_id: 723826
+  - name: "Batman/Superman #4"
+    comic_vine_issue_id: 728315
+  - name: "Batman/Superman #5"
+    comic_vine_issue_id: 731303
+  - name: "Black Adam: Year of the Villain #1"
+    comic_vine_issue_id: 723827
+  - name: "The Infected: King Shazam #1"
+    comic_vine_issue_id: 726007
+  - name: "The Infected: Scarab #1"
+    comic_vine_issue_id: 728322
+  - name: "The Infected: Deathbringer #1"
+    comic_vine_issue_id: 729500
+  - name: "The Infected: The Commissioner #1"
+    comic_vine_issue_id: 731309
+  - name: "Supergirl Annual #1"
+    comic_vine_issue_id: 617808

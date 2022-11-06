@@ -1,0 +1,43 @@
+---
+collection: injustice
+name: Injustice. Bogowie pośród nas. Rok trzeci. Tom 3
+image: injustice.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328156470
+release_date: "2022-08-10"
+series:
+  - "Injustice"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5031530/injustice-bogowie-posrod-nas---3---rok-trzeci
+shops:
+  egmont: https://egmont.pl/Injustice.-Bogowie-posrod-nas.-Rok-trzeci.-Tom-3,66890754,p.html
+  gildia: https://www.gildia.pl/komiksy/528167-injustice-bogowie-posrod-nas-3-rok-trzeci
+reviews:
+  naekranie: https://naekranie.pl/recenzje/injustice-bogowie-posrod-nas-rok-trzeci-tom-3-recenzja-komiks-egmont
+issues:
+  - name: "Injustice: Gods Among Us Year Three #1"
+    comic_vine_issue_id: 467814
+  - name: "Injustice: Gods Among Us Year Three #2"
+    comic_vine_issue_id: 468447
+  - name: "Injustice: Gods Among Us Year Three #3"
+    comic_vine_issue_id: 469478
+  - name: "Injustice: Gods Among Us Year Three #4"
+    comic_vine_issue_id: 470836
+  - name: "Injustice: Gods Among Us Year Three #5"
+    comic_vine_issue_id: 472110
+  - name: "Injustice: Gods Among Us Year Three #6"
+    comic_vine_issue_id: 474762
+  - name: "Injustice: Gods Among Us Year Three #7"
+    comic_vine_issue_id: 476062
+  - name: "Injustice: Gods Among Us Year Three #8"
+    comic_vine_issue_id: 477969
+  - name: "Injustice: Gods Among Us Year Three #9"
+    comic_vine_issue_id: 479395
+  - name: "Injustice: Gods Among Us Year Three #10"
+    comic_vine_issue_id: 479958
+  - name: "Injustice: Gods Among Us Year Three #11"
+    comic_vine_issue_id: 482142
+  - name: "Injustice: Gods Among Us Year Three #12"
+    comic_vine_issue_id: 482669
+  - name: "Injustice: Gods Among Us Year Three Annual #1"
+    comic_vine_issue_id: 487197

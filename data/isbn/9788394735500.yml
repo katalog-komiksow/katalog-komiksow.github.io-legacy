@@ -1,0 +1,32 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 4: Na nas już czas"
+image: chlopaki.04.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788394735500
+release_date: "2017-05-15"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4701742/chlopaki---tom-4-na-nas-juz-czas
+shops:
+  gildia: https://www.gildia.pl/komiksy/335864-chlopaki-4-na-nas-juz-czas
+reviews:
+  paradoks: https://paradoks.net.pl/read/32611-chlopaki-tom-4-na-nas-juz-czas-recenzja
+issues:
+  - name: "The Boys #23"
+    comic_vine_issue_id: 139681
+  - name: "The Boys #24"
+    comic_vine_issue_id: 141293
+  - name: "The Boys #25"
+    comic_vine_issue_id: 144657
+  - name: "The Boys #26"
+    comic_vine_issue_id: 149787
+  - name: "The Boys #27"
+    comic_vine_issue_id: 151222
+  - name: "The Boys #28"
+    comic_vine_issue_id: 153188
+  - name: "The Boys #29"
+    comic_vine_issue_id: 154613
+  - name: "The Boys #30"
+    comic_vine_issue_id: 156702

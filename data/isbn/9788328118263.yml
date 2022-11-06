@@ -1,0 +1,29 @@
+---
+collection: superman-batman
+name: Superman/Batman. Zemsta. Tom 4.
+image: superman-batman.4.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328118263
+release_date: "2016-11-09"
+series:
+  - "Superman/Batman"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3897725/superman-batman-zemsta
+shops:
+  egmont: https://egmont.pl/Superman-Batman.-Zemsta.-Tom-4.,607006,p.html
+  gildia: https://www.gildia.pl/komiksy/316797-superman-batman-tom-4-zemsta
+reviews:
+  paradoks: https://paradoks.net.pl/read/31107-supermanbatman-tom-4-zemsta-recenzja
+issues:
+  - name: "Superman/Batman #20"
+    comic_vine_issue_id: 111188
+  - name: "Superman/Batman #21"
+    comic_vine_issue_id: 111189
+  - name: "Superman/Batman #22"
+    comic_vine_issue_id: 111190
+  - name: "Superman/Batman #23"
+    comic_vine_issue_id: 111191
+  - name: "Superman/Batman #24"
+    comic_vine_issue_id: 111192
+  - name: "Superman/Batman #25"
+    comic_vine_issue_id: 111193

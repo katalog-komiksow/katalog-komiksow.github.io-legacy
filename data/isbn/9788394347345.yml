@@ -1,0 +1,28 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 1: Jak na imię tej grze"
+image: chlopaki.01.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788394347345
+release_date: "2016-10-10"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3788030/chlopaki---tom-1-jak-na-imie-tej-grze
+shops:
+  gildia: https://www.gildia.pl/komiksy/314359-chlopaki-1-jak-na-imie-tej-grze
+reviews:
+  paradoks: https://paradoks.net.pl/read/31032-chlopaki-tom-1-jak-na-imie-tej-grze-recenzja
+issues:
+  - name: "The Boys #1"
+    comic_vine_issue_id: 105593
+  - name: "The Boys #2"
+    comic_vine_issue_id: 105609
+  - name: "The Boys #3"
+    comic_vine_issue_id: 105610
+  - name: "The Boys #4"
+    comic_vine_issue_id: 105611
+  - name: "The Boys #5"
+    comic_vine_issue_id: 105612
+  - name: "The Boys #6"
+    comic_vine_issue_id: 105912

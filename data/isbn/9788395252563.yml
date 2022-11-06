@@ -1,0 +1,28 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 11: Ze wzgórz tysięczny runął wojów huf"
+image: chlopaki.11.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788395252563
+release_date: "2019-05-13"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4887928/chlopaki---tom-11-ze-wzgorz-tysieczny-runal-wojow-huf
+shops:
+  gildia: https://www.gildia.pl/komiksy/395793-chlopaki-11-ze-wzgorz-tysieczny-runal-wojow-huf
+reviews:
+  paradoks: https://paradoks.net.pl/read/38124-chlopaki-tom-11-ze-wzgorz-tysieczny-runal-wojow-huf-recenzja
+issues:
+  - name: "The Boys #60"
+    comic_vine_issue_id: 301065
+  - name: "The Boys #61"
+    comic_vine_issue_id: 305694
+  - name: "The Boys #62"
+    comic_vine_issue_id: 309463
+  - name: "The Boys #63"
+    comic_vine_issue_id: 313753
+  - name: "The Boys #64"
+    comic_vine_issue_id: 319276
+  - name: "The Boys #65"
+    comic_vine_issue_id: 326852

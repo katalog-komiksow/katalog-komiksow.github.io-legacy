@@ -1,0 +1,28 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 8: Waleczne serce"
+image: chlopaki.08.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788395044533
+release_date: "2018-06-22"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4851888/chlopaki---tom-8-waleczne-serce
+shops:
+  gildia: https://www.gildia.pl/komiksy/367316-chlopaki-8-waleczne-serce
+reviews:
+  paradoks: https://paradoks.net.pl/read/35938-chlopaki-tom-8-waleczne-serce-recenzja
+issues:
+  - name: "The Boys: Highland Laddie #1"
+    comic_vine_issue_id: 230162
+  - name: "The Boys: Highland Laddie #2"
+    comic_vine_issue_id: 234469
+  - name: "The Boys: Highland Laddie #3"
+    comic_vine_issue_id: 239017
+  - name: "The Boys: Highland Laddie #4"
+    comic_vine_issue_id: 244800
+  - name: "The Boys: Highland Laddie #5"
+    comic_vine_issue_id: 249127
+  - name: "The Boys: Highland Laddie #6"
+    comic_vine_issue_id: 259231

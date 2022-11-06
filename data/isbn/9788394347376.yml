@@ -1,0 +1,32 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 2: Chwalebny plan pięcioletni"
+image: chlopaki.02.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788394347376
+release_date: "2016-12-01"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4096987/chlopaki---tom-2-chwalebny-plan-piecioletni
+shops:
+  gildia: https://www.gildia.pl/komiksy/318937-chlopaki-2-chwalebny-plan-piecioletni
+reviews:
+  paradoks: https://paradoks.net.pl/read/32504-chlopaki-tom-2-chwalebny-plan-piecioletni-recenzja
+issues:
+  - name: "The Boys #7"
+    comic_vine_issue_id: 110063
+  - name: "The Boys #8"
+    comic_vine_issue_id: 110990
+  - name: "The Boys #9"
+    comic_vine_issue_id: 112965
+  - name: "The Boys #10"
+    comic_vine_issue_id: 114207
+  - name: "The Boys #11"
+    comic_vine_issue_id: 115525
+  - name: "The Boys #12"
+    comic_vine_issue_id: 118126
+  - name: "The Boys #13"
+    comic_vine_issue_id: 119931
+  - name: "The Boys #14"
+    comic_vine_issue_id: 121155

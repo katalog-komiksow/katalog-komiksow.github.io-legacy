@@ -1,0 +1,29 @@
+---
+collection: batman-metal
+name: Batman Metal. Batman Death Metal. Tom 1
+image: batman-death-metal.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328160330
+release_date: "2021-09-29"
+series:
+  - "Batman Metal"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4980066/batman---death-metal-tom-1
+shops:
+  egmont: https://egmont.pl/Batman-Metal.-Batman-Death-Metal.-Tom-1,57959431,p.html
+  gildia: https://www.gildia.pl/komiksy/494786-batman-death-metal-1
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-death-metal-tom-1-recenzja-komiksu-opinie-wrazenia-czasem-mniej-znaczy-wiecej
+  naekranie: https://naekranie.pl/recenzje/batman-death-metal-tom-1-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/42362-batman-death-metal-tom-1-recenzja
+issues:
+  - name: "Dark Nights: Death Metal #1"
+    comic_vine_issue_id: 768300
+  - name: "Dark Nights: Death Metal #2"
+    comic_vine_issue_id: 778244
+  - name: "Dark Nights: Death Metal #3"
+    comic_vine_issue_id: 790343
+  - name: "Dark Nights: Death Metal - Legends of the Dark Knights #1"
+    comic_vine_issue_id: 786296
+  - name: "Dark Nights: Death Metal Guidebook #1"
+    comic_vine_issue_id: 794384

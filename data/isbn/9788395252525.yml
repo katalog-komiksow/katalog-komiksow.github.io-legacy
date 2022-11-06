@@ -1,0 +1,28 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 10: Rzeźnik, Piekarz, Żołnierz, Szpieg"
+image: chlopaki.10.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788395252525
+release_date: "2019-01-24"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4874928/chlopaki---tom-10-rzeznik-piekarz-zolnierz-szpieg
+shops:
+  gildia: https://www.gildia.pl/komiksy/386053-chlopaki-10-rzeznik-piekarz-zolnierz-szpieg
+reviews:
+  paradoks: https://paradoks.net.pl/read/37051-chlopaki-tom-10-rzeznik-piekarz-zolnierz-szpieg-recenzja
+issues:
+  - name: "The Boys: Butcher, Baker, Candlestickmaker #1"
+    comic_vine_issue_id: 280663
+  - name: "The Boys: Butcher, Baker, Candlestickmaker #2"
+    comic_vine_issue_id: 286950
+  - name: "The Boys: Butcher, Baker, Candlestickmaker #3"
+    comic_vine_issue_id: 293451
+  - name: "The Boys: Butcher, Baker, Candlestickmaker #4"
+    comic_vine_issue_id: 297675
+  - name: "The Boys: Butcher, Baker, Candlestickmaker #5"
+    comic_vine_issue_id: 302679
+  - name: "The Boys: Butcher, Baker, Candlestickmaker #6"
+    comic_vine_issue_id: 307524

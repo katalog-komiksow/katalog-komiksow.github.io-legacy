@@ -1,0 +1,32 @@
+---
+collection: straznicy-poczatek
+name: Strażnicy - Początek. Tom 4. Ozymandiasz. Karmazynowy Korsarz.
+image: straznicy-poczatek.4.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761952
+release_date: "2014-11-03"
+series:
+  - "Strażnicy - Początek"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/235180/straznicy---poczatek-ozymandiasz-karmazynowy-korsarz
+shops:
+  egmont: https://egmont.pl/Straznicy-Poczatek.-Tom-4.,608912,p.html
+  gildia: https://www.gildia.pl/komiksy/251628-straznicy-poczatek-4-ozymandiasz-karmazynowy-korsarz
+reviews:
+  naekranie: https://naekranie.pl/recenzje/straznicy-poczatek-4-ozymandiasz-karmazynowy-korsarz-recenzja
+  paradoks: https://paradoks.net.pl/read/25495-straznicy-poczatek-tom-4-ozymandiasz-karmazynowy-korsarz-recenzja
+issues:
+  - name: "Before Watchmen: Ozymandias #1"
+    comic_vine_issue_id: 344230
+  - name: "Before Watchmen: Ozymandias #2"
+    comic_vine_issue_id: 349633
+  - name: "Before Watchmen: Ozymandias #3"
+    comic_vine_issue_id: 358825
+  - name: "Before Watchmen: Ozymandias #4"
+    comic_vine_issue_id: 370284
+  - name: "Before Watchmen: Ozymandias #5"
+    comic_vine_issue_id: 382775
+  - name: "Before Watchmen: Ozymandias #6"
+    comic_vine_issue_id: 392312
+  - name: "Before Watchmen: Dollar Bill #1"
+    comic_vine_issue_id: 382776

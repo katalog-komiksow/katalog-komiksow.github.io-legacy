@@ -1,0 +1,34 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 7: Niewiniątka"
+image: chlopaki.07.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788394735593
+release_date: "2018-03-18"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4823312/chlopaki---tom-7-niewiniatka
+shops:
+  gildia: https://www.gildia.pl/komiksy/358522-chlopaki-7-niewiniatka
+reviews:
+  paradoks: https://paradoks.net.pl/read/35059-chlopaki-tom-7-niewiniatka-recenzja
+issues:
+  - name: "The Boys #39"
+    comic_vine_issue_id: 195371
+  - name: "The Boys #40"
+    comic_vine_issue_id: 198836
+  - name: "The Boys #41"
+    comic_vine_issue_id: 204518
+  - name: "The Boys #42"
+    comic_vine_issue_id: 212069
+  - name: "The Boys #43"
+    comic_vine_issue_id: 219517
+  - name: "The Boys #44"
+    comic_vine_issue_id: 223261
+  - name: "The Boys #45"
+    comic_vine_issue_id: 227689
+  - name: "The Boys #46"
+    comic_vine_issue_id: 232417
+  - name: "The Boys #47"
+    comic_vine_issue_id: 237145

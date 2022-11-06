@@ -1,0 +1,37 @@
+---
+collection: straznicy-poczatek
+name: Strażnicy - Początek. Tom 2. Komediant. Rorschach.
+image: straznicy-poczatek.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761730
+release_date: "2013-11-12"
+series:
+  - "Strażnicy - Początek"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/197154/straznicy---poczatek-komediant-rorschach
+shops:
+  egmont: https://egmont.pl/Straznicy-Poczatek.-Tom-2.,606584,p.html
+  gildia: https://www.gildia.pl/komiksy/228626-straznicy-poczatek-2-komediant-rorschach
+reviews:
+  paradoks: https://paradoks.net.pl/read/22572-straznicy-poczatek-tom-2-komediant-rorschach-recenzja
+issues:
+  - name: "Before Watchmen: Comedian #1"
+    comic_vine_issue_id: 341875
+  - name: "Before Watchmen: Comedian #2"
+    comic_vine_issue_id: 347307
+  - name: "Before Watchmen: Comedian #3"
+    comic_vine_issue_id: 356723
+  - name: "Before Watchmen: Comedian #4"
+    comic_vine_issue_id: 371160
+  - name: "Before Watchmen: Comedian #5"
+    comic_vine_issue_id: 386096
+  - name: "Before Watchmen: Comedian #6"
+    comic_vine_issue_id: 398959
+  - name: "Before Watchmen: Rorschach #1"
+    comic_vine_issue_id: 351053
+  - name: "Before Watchmen: Rorschach #2"
+    comic_vine_issue_id: 359935
+  - name: "Before Watchmen: Rorschach #3"
+    comic_vine_issue_id: 372351
+  - name: "Before Watchmen: Rorschach #4"
+    comic_vine_issue_id: 390775

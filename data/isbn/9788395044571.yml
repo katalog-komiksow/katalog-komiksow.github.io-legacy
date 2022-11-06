@@ -1,0 +1,40 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 9: Ostra jazda"
+image: chlopaki.09.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788395044571
+release_date: "2018-10-01"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4867931/chlopaki---tom-9-ostra-jazda
+shops:
+  gildia: https://www.gildia.pl/komiksy/376470-chlopaki-9-ostra-jazda
+reviews:
+  paradoks: https://paradoks.net.pl/read/36725-chlopaki-tom-9-ostra-jazda-recenzja
+issues:
+  - name: "The Boys #48"
+    comic_vine_issue_id: 240634
+  - name: "The Boys #49"
+    comic_vine_issue_id: 247212
+  - name: "The Boys #50"
+    comic_vine_issue_id: 258342
+  - name: "The Boys #51"
+    comic_vine_issue_id: 262643
+  - name: "The Boys #52"
+    comic_vine_issue_id: 264760
+  - name: "The Boys #53"
+    comic_vine_issue_id: 267602
+  - name: "The Boys #54"
+    comic_vine_issue_id: 269424
+  - name: "The Boys #55"
+    comic_vine_issue_id: 273005
+  - name: "The Boys #56"
+    comic_vine_issue_id: 277755
+  - name: "The Boys #57"
+    comic_vine_issue_id: 283800
+  - name: "The Boys #58"
+    comic_vine_issue_id: 291206
+  - name: "The Boys #59"
+    comic_vine_issue_id: 294340

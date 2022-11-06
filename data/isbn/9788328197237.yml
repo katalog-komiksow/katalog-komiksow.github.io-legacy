@@ -1,0 +1,27 @@
+---
+collection: marvel-komiks
+name: "Marvel Komiks. 2/2019 Spider-Man"
+image: marvel-komiks.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328197237
+release_date: "2019-07-19"
+series:
+  - "Marvel Komiks"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4899074/marvel-komiks-2-2019-spider-man
+shops:
+  egmont: https://egmont.pl/Marvel-Komiks.-2-2019,18685953,p.html
+  gildia: https://www.gildia.pl/komiksy/401521-marvel-komiks-2-2-2019
+reviews:
+  czytajkomiksy: https://czytajkomiksy.pl/marvel-komiks-2-2019-recenzja/
+issues:
+  - name: "Marvel Adventures Super Heroes #3"
+    comic_vine_issue_id: 139485
+  - name: "Marvel Adventures Spider-Man #3"
+    comic_vine_issue_id: 221150
+  - name: "Marvel Adventures Spider-Man #4"
+    comic_vine_issue_id: 227374
+  - name: "Marvel Adventures Spider-Man #5"
+    comic_vine_issue_id: 232053
+  - name: "Marvel Adventures Avengers #2"
+    comic_vine_issue_id: 111402

@@ -1,0 +1,59 @@
+---
+collection: marvel-limited
+name: Przedwieczni
+image: marvel-limited.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328158665
+release_date: "2020-09-23"
+series:
+  - "Marvel Limited"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4940738/przedwieczni
+shops:
+  egmont: https://egmont.pl/Przedwieczni,33115145,p.html
+  gildia: https://www.gildia.pl/komiksy/435103-przedwieczni-kirby
+reviews:
+  filmozercy: https://filmozercy.com/wpis/przedwieczni-gdy-bogowie-krocza-po-ziemi-jack-kirby-prezentacja-komiksu-o-eternals
+  naekranie: https://naekranie.pl/recenzje/przedwieczni-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/40352-jack-kirby-przedwieczni-gdy-bogowie-krocza-po-ziemi-zapowiedz
+issues:
+  - name: "The Eternals (1976) #1"
+    comic_vine_issue_id: 16505
+  - name: "The Eternals (1976) #2"
+    comic_vine_issue_id: 16593
+  - name: "The Eternals (1976) #3"
+    comic_vine_issue_id: 16681
+  - name: "The Eternals (1976) #4"
+    comic_vine_issue_id: 16772
+  - name: "The Eternals (1976) #5"
+    comic_vine_issue_id: 16870
+  - name: "The Eternals (1976) #6"
+    comic_vine_issue_id: 16953
+  - name: "The Eternals (1976) #7"
+    comic_vine_issue_id: 17101
+  - name: "The Eternals (1976) #8"
+    comic_vine_issue_id: 17181
+  - name: "The Eternals (1976) #9"
+    comic_vine_issue_id: 17268
+  - name: "The Eternals (1976) #10"
+    comic_vine_issue_id: 17344
+  - name: "The Eternals (1976) #11"
+    comic_vine_issue_id: 17431
+  - name: "The Eternals (1976) #12"
+    comic_vine_issue_id: 17499
+  - name: "The Eternals (1976) #13"
+    comic_vine_issue_id: 17598
+  - name: "The Eternals (1976) #14"
+    comic_vine_issue_id: 17678
+  - name: "The Eternals (1976) #15"
+    comic_vine_issue_id: 17776
+  - name: "The Eternals (1976) #16"
+    comic_vine_issue_id: 17868
+  - name: "The Eternals (1976) #17"
+    comic_vine_issue_id: 17961
+  - name: "The Eternals (1976) #18"
+    comic_vine_issue_id: 18039
+  - name: "The Eternals (1976) #19"
+    comic_vine_issue_id: 18164
+  - name: "The Eternals Annual (1977) #1"
+    comic_vine_issue_id: 217182

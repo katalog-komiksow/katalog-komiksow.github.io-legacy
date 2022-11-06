@@ -1,0 +1,25 @@
+---
+collection: marvel-limited
+name: Havok i Wolverine. Stopiony
+image: marvel-limited.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328160446
+release_date: "2021-05-19"
+series:
+  - "Marvel Limited"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4971738/havok-i-wolverine-stopiony
+shops:
+  egmont: https://egmont.pl/Havok-i-Wolverine.-Stopiony,52261918,p.html
+  gildia: https://www.gildia.pl/komiksy/479864-havok-i-wolverine-stopiony
+reviews:
+  movies_room: https://moviesroom.pl/recenzje/recenzje-komiksow/havok-i-wolverine-stopiony-recenzja-komiksu/
+issues:
+  - name: "Havok & Wolverine: Meltdown #1"
+    comic_vine_issue_id: 29050
+  - name: "Havok & Wolverine: Meltdown #2"
+    comic_vine_issue_id: 29062
+  - name: "Havok & Wolverine: Meltdown #3"
+    comic_vine_issue_id: 30644
+  - name: "Havok & Wolverine: Meltdown #4"
+    comic_vine_issue_id: 30684

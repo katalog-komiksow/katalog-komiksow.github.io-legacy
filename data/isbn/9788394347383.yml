@@ -1,0 +1,32 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 3: Balsam dla duszy"
+image: chlopaki.03.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788394347383
+release_date: "2017-03-17"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4454561/chlopaki---tom-3-balsam-dla-duszy
+shops:
+  gildia: https://www.gildia.pl/komiksy/327450-chlopaki-3-balsam-dla-duszy
+reviews:
+  paradoks: https://paradoks.net.pl/read/32571-chlopaki-tom-3-balsam-dla-duszy-recenzja
+issues:
+  - name: "The Boys #15"
+    comic_vine_issue_id: 122499
+  - name: "The Boys #16"
+    comic_vine_issue_id: 124724
+  - name: "The Boys #17"
+    comic_vine_issue_id: 126712
+  - name: "The Boys #18"
+    comic_vine_issue_id: 130022
+  - name: "The Boys #19"
+    comic_vine_issue_id: 131384
+  - name: "The Boys #20"
+    comic_vine_issue_id: 132223
+  - name: "The Boys #21"
+    comic_vine_issue_id: 135086
+  - name: "The Boys #22"
+    comic_vine_issue_id: 137325

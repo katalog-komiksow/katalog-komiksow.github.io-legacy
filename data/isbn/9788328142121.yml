@@ -1,0 +1,40 @@
+---
+collection: invincible
+name: "Invincible. Tom 3"
+image: invincible.03.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328142121
+release_date: "2019-03-13"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4877406/invincible-3
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-3,15539218,p.html
+  gildia: https://www.gildia.pl/komiksy/388406-invincible-niezwyciezony-wyd-zbiorcze-tom-3
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-3-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/37656-invincible-tom-3-recenzja
+issues:
+  - name: "Invincible #25"
+    comic_vine_issue_id: 129080
+  - name: "Invincible #26"
+    comic_vine_issue_id: 129228
+  - name: "Invincible #27"
+    comic_vine_issue_id: 130599
+  - name: "Invincible #28"
+    comic_vine_issue_id: 130600
+  - name: "Invincible #29"
+    comic_vine_issue_id: 130601
+  - name: "Invincible #30"
+    comic_vine_issue_id: 130602
+  - name: "Invincible #31"
+    comic_vine_issue_id: 130605
+  - name: "Invincible #32"
+    comic_vine_issue_id: 130606
+  - name: "Invincible #33"
+    comic_vine_issue_id: 130607
+  - name: "Invincible #34"
+    comic_vine_issue_id: 130609
+  - name: "Invincible #35"
+    comic_vine_issue_id: 125141

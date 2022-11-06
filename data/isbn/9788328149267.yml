@@ -1,0 +1,42 @@
+---
+collection: invincible
+name: "Invincible. Tom 12"
+image: invincible.12.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328149267
+release_date: "2021-10-13"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4980315/invincible-12
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-12,57959434,p.html
+  gildia: https://www.gildia.pl/komiksy/494773-invincible-niezwyciezony-wyd-zbiorcze-tom-12
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-12-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/42483-invincible-tom-12-recenzja
+issues:
+  - name: "Invincible #133"
+    comic_vine_issue_id: 581583
+  - name: "Invincible #134"
+    comic_vine_issue_id: 587441
+  - name: "Invincible #135"
+    comic_vine_issue_id: 592635
+  - name: "Invincible #136"
+    comic_vine_issue_id: 595722
+  - name: "Invincible #137"
+    comic_vine_issue_id: 603166
+  - name: "Invincible #138"
+    comic_vine_issue_id: 609324
+  - name: "Invincible #139"
+    comic_vine_issue_id: 615004
+  - name: "Invincible #140"
+    comic_vine_issue_id: 622919
+  - name: "Invincible #141"
+    comic_vine_issue_id: 630592
+  - name: "Invincible #142"
+    comic_vine_issue_id: 638638
+  - name: "Invincible #143"
+    comic_vine_issue_id: 647984
+  - name: "Invincible #144"
+    comic_vine_issue_id: 660042

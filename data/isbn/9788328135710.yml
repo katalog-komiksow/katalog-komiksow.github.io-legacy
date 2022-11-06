@@ -1,0 +1,40 @@
+---
+collection: invincible
+name: "Invincible. Tom 2"
+image: invincible.02.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328135710
+release_date: "2018-12-05"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4872228/invincible-2
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-2,13002755,p.html
+  gildia: https://www.gildia.pl/komiksy/378487-invincible-niezwyciezony-wyd-zbiorcze-tom-2
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-2-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/36712-invincible-tom-2-recenzja
+issues:
+  - name: "Invincible #14"
+    comic_vine_issue_id: 125184
+  - name: "Invincible #15"
+    comic_vine_issue_id: 125187
+  - name: "Invincible #16"
+    comic_vine_issue_id: 125240
+  - name: "Invincible #17"
+    comic_vine_issue_id: 125241
+  - name: "Invincible #18"
+    comic_vine_issue_id: 128555
+  - name: "Invincible #19"
+    comic_vine_issue_id: 125951
+  - name: "Invincible #20"
+    comic_vine_issue_id: 128610
+  - name: "Invincible #21"
+    comic_vine_issue_id: 128945
+  - name: "Invincible #22"
+    comic_vine_issue_id: 129012
+  - name: "Invincible #23"
+    comic_vine_issue_id: 129013
+  - name: "Invincible #24"
+    comic_vine_issue_id: 129014

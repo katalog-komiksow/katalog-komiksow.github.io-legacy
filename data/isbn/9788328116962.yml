@@ -1,0 +1,27 @@
+---
+collection: superman-batman
+name: Superman/Batman. Władza absolutna. Tom 3.
+image: superman-batman.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328116962
+release_date: "2016-07-20"
+series:
+  - "Superman/Batman"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/307215/superman-batman-wladza-absolutna
+shops:
+  egmont: https://egmont.pl/Superman-Batman.-Wladza-absolutna.-Tom-3.,606975,p.html
+  gildia: https://www.gildia.pl/komiksy/294549-superman-batman-tom-3-wladza-absolutna
+reviews:
+  paradoks: https://paradoks.net.pl/read/29965-supermanbatman-tom-3-wladza-absolutna-recenzja
+issues:
+  - name: "Superman/Batman #14"
+    comic_vine_issue_id: 100960
+  - name: "Superman/Batman #15"
+    comic_vine_issue_id: 100961
+  - name: "Superman/Batman #16"
+    comic_vine_issue_id: 100962
+  - name: "Superman/Batman #17"
+    comic_vine_issue_id: 100963
+  - name: "Superman/Batman #18"
+    comic_vine_issue_id: 100964

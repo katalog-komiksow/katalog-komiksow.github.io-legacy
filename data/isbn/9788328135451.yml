@@ -1,0 +1,44 @@
+---
+collection: invincible
+name: "Invincible. Tom 1"
+image: invincible.01.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328135451
+release_date: "2018-09-19"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4859770/invincible-1
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-1,11079740,p.html
+  gildia: https://www.gildia.pl/komiksy/371386-invincible-niezwyciezony-wyd-zbiorcze-tom-1
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-1-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/36173-invincible-tom-1-recenzja
+issues:
+  - name: "Invincible #1"
+    comic_vine_issue_id: 105347
+  - name: "Invincible #2"
+    comic_vine_issue_id: 105532
+  - name: "Invincible #3"
+    comic_vine_issue_id: 105533
+  - name: "Invincible #4"
+    comic_vine_issue_id: 105534
+  - name: "Invincible #5"
+    comic_vine_issue_id: 105535
+  - name: "Invincible #6"
+    comic_vine_issue_id: 105536
+  - name: "Invincible #7"
+    comic_vine_issue_id: 105537
+  - name: "Invincible #8"
+    comic_vine_issue_id: 105538
+  - name: "Invincible #9"
+    comic_vine_issue_id: 105539
+  - name: "Invincible #10"
+    comic_vine_issue_id: 105540
+  - name: "Invincible #11"
+    comic_vine_issue_id: 125143
+  - name: "Invincible #12"
+    comic_vine_issue_id: 125148
+  - name: "Invincible #13"
+    comic_vine_issue_id: 125183

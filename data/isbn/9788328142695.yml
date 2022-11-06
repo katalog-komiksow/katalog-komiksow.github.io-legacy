@@ -1,0 +1,51 @@
+---
+collection: doom-patrol
+name: "Doom Patrol Tom 1"
+image: doom-patrol.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328142695
+release_date: "2019-06-19"
+series:
+  - "Doom Patrol"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4883809/doom-patrol-tom-1
+shops:
+  egmont: https://egmont.pl/Doom-Patrol-Tom-1,17096712,p.html
+  gildia: https://www.gildia.pl/komiksy/395367-doom-patrol-1
+reviews:
+  filmozercy: https://filmozercy.com/wpis/doom-patrol-tom-1-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/doom-patrol-tom-1
+  paradoks: https://paradoks.net.pl/read/38312-doom-patrol-tom-1-recenzja
+issues:
+  - name: "Doom Patrol #19"
+    comic_vine_issue_id: 30852
+  - name: "Doom Patrol #20"
+    comic_vine_issue_id: 30963
+  - name: "Doom Patrol #21"
+    comic_vine_issue_id: 31058
+  - name: "Doom Patrol #22"
+    comic_vine_issue_id: 31173
+  - name: "Doom Patrol #23"
+    comic_vine_issue_id: 31281
+  - name: "Doom Patrol #24"
+    comic_vine_issue_id: 31391
+  - name: "Doom Patrol #25"
+    comic_vine_issue_id: 31495
+  - name: "Doom Patrol #26"
+    comic_vine_issue_id: 31604
+  - name: "Doom Patrol #27"
+    comic_vine_issue_id: 31825
+  - name: "Doom Patrol #28"
+    comic_vine_issue_id: 31958
+  - name: "Doom Patrol #29"
+    comic_vine_issue_id: 32285
+  - name: "Doom Patrol #30"
+    comic_vine_issue_id: 32482
+  - name: "Doom Patrol #31"
+    comic_vine_issue_id: 32590
+  - name: "Doom Patrol #32"
+    comic_vine_issue_id: 32690
+  - name: "Doom Patrol #33"
+    comic_vine_issue_id: 32793
+  - name: "Doom Patrol #34"
+    comic_vine_issue_id: 32921

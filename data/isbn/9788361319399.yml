@@ -1,0 +1,40 @@
+---
+collection: kick-ass
+name: Kick-Ass 2 & Hit-Girl
+image: kick-ass.2.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319399
+release_date: "2013-12-01"
+series:
+  - "Kick-Ass"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/233975/kick-ass-2-amp-hit-girl
+shops:
+  gildia: https://www.gildia.pl/komiksy/234097-kick-ass-2-hit-girl
+reviews:
+  paradoks: https://paradoks.net.pl/read/22877-kick-ass-2-hit-girl-recenzja
+issues:
+  - name: "Hit-Girl #1"
+    comic_vine_issue_id: 342876
+  - name: "Hit-Girl #2"
+    comic_vine_issue_id: 347238
+  - name: "Hit-Girl #3"
+    comic_vine_issue_id: 358957
+  - name: "Hit-Girl #4"
+    comic_vine_issue_id: 364159
+  - name: "Hit-Girl #5"
+    comic_vine_issue_id: 384957
+  - name: "Kick-Ass #1"
+    comic_vine_issue_id: 239039
+  - name: "Kick-Ass #2"
+    comic_vine_issue_id: 267158
+  - name: "Kick-Ass #3"
+    comic_vine_issue_id: 288774
+  - name: "Kick-Ass #4"
+    comic_vine_issue_id: 293624
+  - name: "Kick-Ass #5"
+    comic_vine_issue_id: 303425
+  - name: "Kick-Ass #6"
+    comic_vine_issue_id: 308952
+  - name: "Kick-Ass #7"
+    comic_vine_issue_id: 321730

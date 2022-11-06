@@ -1,0 +1,33 @@
+---
+collection: kick-ass
+name: Kick-Ass 3
+image: kick-ass.3.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319498
+release_date: "2014-12-10"
+series:
+  - "Kick-Ass"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/245456/kick-ass-3
+shops:
+  gildia: https://www.gildia.pl/komiksy/261761-kick-ass-3
+reviews:
+  naekranie: https://naekranie.pl/recenzje/kick-ass-3-efektowny-final-trylogii-recenzja
+  paradoks: https://paradoks.net.pl/read/25711-kick-ass-3-recenzja
+issues:
+  - name: "Kick-Ass #1"
+    comic_vine_issue_id: 408997
+  - name: "Kick-Ass #2"
+    comic_vine_issue_id: 420643
+  - name: "Kick-Ass #3"
+    comic_vine_issue_id: 425030
+  - name: "Kick-Ass #4"
+    comic_vine_issue_id: 431534
+  - name: "Kick-Ass #5"
+    comic_vine_issue_id: 435058
+  - name: "Kick-Ass #6"
+    comic_vine_issue_id: 445178
+  - name: "Kick-Ass #7"
+    comic_vine_issue_id: 450076
+  - name: "Kick-Ass #8"
+    comic_vine_issue_id: 461727

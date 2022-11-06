@@ -1,0 +1,38 @@
+#---
+collection: ptaki-nocy
+name: "Ptaki Nocy. Wielkie łowy"
+image: ptaki-nocy.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328196162
+release_date: "2021-09-29"
+series:
+  - "Ptaki Nocy"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4987180/ptaki-nocy---wielkie-lowy
+shops:
+  egmont: https://egmont.pl/Ptaki-Nocy.-Wielkie-lowy,56947724,p.html
+  gildia: https://www.gildia.pl/komiksy/491875-ptaki-nocy-wielkie-lowy
+reviews:
+  filmozerxy: https://filmozercy.com/wpis/ptaki-nocy-tom-2-wielkie-lowy-recenzja-komiksu-w-gotham-rzadza-kobiety
+  paradoks: https://paradoks.net.pl/read/42557-ptaki-nocy-wielkie-lowy-recenzja
+issues:
+  - name: "Birds of Prey #76"
+    comic_vine_issue_id: 97340
+  - name: "Birds of Prey #77"
+    comic_vine_issue_id: 97775
+  - name: "Birds of Prey #78"
+    comic_vine_issue_id: 99605
+  - name: "Birds of Prey #79"
+    comic_vine_issue_id: 99749
+  - name: "Birds of Prey #80"
+    comic_vine_issue_id: 100915
+  - name: "Birds of Prey #81"
+    comic_vine_issue_id: 100916
+  - name: "Birds of Prey #82"
+    comic_vine_issue_id: 113369
+  - name: "Birds of Prey #83"
+    comic_vine_issue_id: 113370
+  - name: "Birds of Prey #84"
+    comic_vine_issue_id: 113520
+  - name: "Birds of Prey #85"
+    comic_vine_issue_id: 113521

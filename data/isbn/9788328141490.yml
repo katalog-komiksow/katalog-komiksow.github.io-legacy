@@ -1,0 +1,37 @@
+---
+collection: batman-metal
+name: Batman Metal. Mroczni Rycerze. Tom 2
+image: batman-metal.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328141490
+release_date: "2019-05-23"
+series:
+  - "Batman Metal"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4881009/batman---metal-mroczni-rycerze
+shops:
+  egmont: https://egmont.pl/Batman-Metal.-Metal-Mroczni-Rycerze.-Tom-2,16488453,p.html
+  gildia: https://www.gildia.pl/komiksy/390149-batman-metal-1-mroczne-dni
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-metal-tom-2-mroczni-rycerze-prezentacja-komiksu
+  naekranie: https://naekranie.pl/recenzje/batman-metal-mroczne-dni-i-mroczni-rycerze-tom-1-i-2-recenzja-komiksow
+  paradoks: https://paradoks.net.pl/read/38001-batman-metal-tom-2-mroczni-rycerze-recenzja
+issues:
+  - name: "Batman: The Red Death #1"
+    comic_vine_issue_id: 622873
+  - name: "Batman: The Murder Machine #1"
+    comic_vine_issue_id: 625175
+  - name: "Batman: The Dawnbreaker #1"
+    comic_vine_issue_id: 626248
+  - name: "Batman: The Drowned #1"
+    comic_vine_issue_id: 630486
+  - name: "Dark Nights: Metal #3"
+    comic_vine_issue_id: 628545
+  - name: "Batman: The Merciless #1"
+    comic_vine_issue_id: 632457
+  - name: "Batman: The Devastator #1"
+    comic_vine_issue_id: 634505
+  - name: "Dark Nights: The Batman Who Laughs #1"
+    comic_vine_issue_id: 638566
+  - name: "Batman: Lost #1"
+    comic_vine_issue_id: 636338

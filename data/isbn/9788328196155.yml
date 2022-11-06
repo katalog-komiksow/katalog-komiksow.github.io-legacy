@@ -1,0 +1,42 @@
+---
+collection: ptaki-nocy
+name: "Ptaki nocy Tajemnice i morderstwa"
+image: ptaki-nocy.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328196155
+release_date: "2020-02-12"
+series:
+  - "Ptaki Nocy"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4915910/ptaki-nocy---tajemnice-i-morderstwa
+shops:
+  egmont: https://egmont.pl/Ptaki-nocy-Tajemnice-i-morderstwa,23886865,p.html
+  gildia: https://www.gildia.pl/komiksy/419920-ptaki-nocy-tajemnice-i-morderstwa
+reviews:
+  naekranie: https://naekranie.pl/recenzje/ptaki-nocy-tajemnice-i-morderstwa-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/39633-ptaki-nocy-tajemnice-i-morderstwa-recenzja
+issues:
+  - name: "Birds of Prey #56"
+    comic_vine_issue_id: 112981
+  - name: "Birds of Prey #57"
+    comic_vine_issue_id: 112982
+  - name: "Birds of Prey #58"
+    comic_vine_issue_id: 112983
+  - name: "Birds of Prey #59"
+    comic_vine_issue_id: 113096
+  - name: "Birds of Prey #60"
+    comic_vine_issue_id: 113341
+  - name: "Birds of Prey #61"
+    comic_vine_issue_id: 113342
+  - name: "Birds of Prey #62"
+    comic_vine_issue_id: 113345
+  - name: "Birds of Prey #63"
+    comic_vine_issue_id: 113343
+  - name: "Birds of Prey #64"
+    comic_vine_issue_id: 113344
+  - name: "Birds of Prey #65"
+    comic_vine_issue_id: 113346
+  - name: "Birds of Prey #66"
+    comic_vine_issue_id: 113347
+  - name: "Birds of Prey #67"
+    comic_vine_issue_id: 113348

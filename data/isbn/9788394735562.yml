@@ -1,0 +1,32 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 6: Instynkt przetrwania"
+image: chlopaki.06.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788394735562
+release_date: "2017-12-03"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4815420/chlopaki---tom-6-instynkt-przetrwania
+shops:
+  gildia: https://www.gildia.pl/komiksy/350550-chlopaki-6-instynkt-przetrwania
+reviews:
+  paradoks: https://paradoks.net.pl/read/34505-chlopaki-tom-6-instynkt-przetrwania-recenzja
+issues:
+  - name: "The Boys #31"
+    comic_vine_issue_id: 159299
+  - name: "The Boys #32"
+    comic_vine_issue_id: 162553
+  - name: "The Boys #33"
+    comic_vine_issue_id: 166216
+  - name: "The Boys #34"
+    comic_vine_issue_id: 169330
+  - name: "The Boys #35"
+    comic_vine_issue_id: 174961
+  - name: "The Boys #36"
+    comic_vine_issue_id: 181269
+  - name: "The Boys #37"
+    comic_vine_issue_id: 185990
+  - name: "The Boys #38"
+    comic_vine_issue_id: 191333

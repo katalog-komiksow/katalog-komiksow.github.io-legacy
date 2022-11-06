@@ -1,0 +1,46 @@
+---
+collection: invincible
+name: "Invincible. Tom 7"
+image: invincible.07.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328198517
+release_date: "2020-03-25"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4912412/invincible-7
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-7,24431643,p.html
+  gildia: https://www.gildia.pl/komiksy/420902-invincible-niezwyciezony-wyd-zbiorcze-tom-7
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-7-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/39901-invincible-tom-7-recenzja
+issues:
+  - name: "Invincible #71"
+    comic_vine_issue_id: 211115
+  - name: "Invincible #72"
+    comic_vine_issue_id: 217479
+  - name: "Invincible #73"
+    comic_vine_issue_id: 222076
+  - name: "Invincible #74"
+    comic_vine_issue_id: 231788
+  - name: "Invincible #75"
+    comic_vine_issue_id: 241001
+  - name: "Invincible #76"
+    comic_vine_issue_id: 250786
+  - name: "Invincible #77"
+    comic_vine_issue_id: 260308
+  - name: "Invincible #78"
+    comic_vine_issue_id: 266629
+  - name: "Invincible #79"
+    comic_vine_issue_id: 268788
+  - name: "Invincible #80"
+    comic_vine_issue_id: 273273
+  - name: "Invincible #81"
+    comic_vine_issue_id: 281928
+  - name: "Invincible #82"
+    comic_vine_issue_id: 290678
+  - name: "Invincible #83"
+    comic_vine_issue_id: 294297
+  - name: "Invincible #84"
+    comic_vine_issue_id: 301056

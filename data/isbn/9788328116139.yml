@@ -1,0 +1,30 @@
+---
+collection: superman-batman
+name: Superman/Batman. Wrogowie publiczni. Tom 1.
+image: superman-batman.1.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328116139
+release_date: "2016-01-27"
+series:
+  - "Superman/Batman"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/289499/superman-batman-wrogowie-publiczni
+shops:
+  egmont: https://egmont.pl/Superman-Batman.-Wrogowie-publiczni.-Tom-1.,606337,p.html
+  gildia: https://www.gildia.pl/komiksy/290164-superman-batman-tom-1-wrogowie-publiczni
+reviews:
+  naekranie: https://naekranie.pl/recenzje/supermanbatman-wrogowie-publiczni-recenzja
+  paradoks: https://paradoks.net.pl/read/28467-supermanbatman-tom-1-wrogowie-publiczni-recenzja
+issues:
+  - name: "Superman/Batman #1"
+    comic_vine_issue_id: 93952
+  - name: "Superman/Batman #2"
+    comic_vine_issue_id: 93953
+  - name: "Superman/Batman #3"
+    comic_vine_issue_id: 93954
+  - name: "Superman/Batman #4"
+    comic_vine_issue_id: 93955
+  - name: "Superman/Batman #5"
+    comic_vine_issue_id: 93956
+  - name: "Superman/Batman #6"
+    comic_vine_issue_id: 93957

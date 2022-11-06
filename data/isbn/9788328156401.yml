@@ -1,0 +1,27 @@
+---
+collection: dc-limited
+name: Liga Sprawiedliwości. Najwięksi superbohaterowie na świecie
+image: dc-limited.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328156401
+release_date: "2022-11-23"
+series:
+  - "DC Limited"
+links: []
+shops:
+  egmont: https://egmont.pl/Liga-Sprawiedliwosci.-Najwieksi-superbohaterowie-na-swiecie,69146627,p.html
+  gildia: https://www.gildia.pl/komiksy/537079-liga-sprawiedliwosci-najwieksi-superbohaterowie-na-swiecie
+reviews: []
+issues:
+  - name: "Superman: Peace on Earth #1"
+    comic_vine_issue_id: 130710
+  - name: "Batman: War on Crime #1"
+    comic_vine_issue_id: 117721
+  - name: "Shazam! The Power of Hope #1"
+    comic_vine_issue_id: 216784
+  - name: "Wonder Woman: Spirit of Truth #1"
+    comic_vine_issue_id: 216785
+  - name: "JLA: Secret Origins #1"
+    comic_vine_issue_id: 216862
+  - name: "JLA: Liberty and Justice #1"
+    comic_vine_issue_id: 199200

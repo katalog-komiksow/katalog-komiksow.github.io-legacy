@@ -1,0 +1,29 @@
+---
+collection: spider-man-kultowe-komiksy
+name: Całkiem nowy dzień
+image: spider-man.1.jpeg
+image_source: "https://paradoks.net.pl"
+isbn: 9788328223844
+release_date: "2019-04-11"
+series:
+  - "Spider-Man Kultowe Komiksy"
+links: []
+shops: []
+reviews:
+  filmozercy: https://filmozercy.com/wpis/spider-man-kultowe-komiksy-tom-1-calkiem-nowy-dzien-prezentacja-komiksu
+  paradoks: https://paradoks.net.pl/read/37548-kolekcja-spider-man-kultowe-komiksy
+issues:
+  - name: "Amazing Spider-Man Vol.1 #546"
+    comic_vine_issue_id: 121086
+  - name: "Amazing Spider-Man Vol.1 #547"
+    comic_vine_issue_id: 121612
+  - name: "Amazing Spider-Man Vol.1 #548"
+    comic_vine_issue_id: 121883
+  - name: "Amazing Spider-Man Vol.1 #549"
+    comic_vine_issue_id: 122408
+  - name: "Amazing Spider-Man Vol.1 #550"
+    comic_vine_issue_id: 122778
+  - name: "Amazing Spider-Man Vol.1 #551"
+    comic_vine_issue_id: 123372
+  - name: "Free Comic Book Day 2007: Amazing Spider-Man #1"
+    comic_vine_issue_id: 121176

@@ -1,0 +1,43 @@
+---
+collection: injustice
+name: Injustice. Bogowie pośród nas. Rok drugi. Tom 2
+image: injustice.2.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328154957
+release_date: "2022-04-13"
+series:
+  - "Injustice"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5016801/injustice-bogowie-posrod-nas---2---rok-drugi
+shops:
+  egmont: https://www.gildia.pl/komiksy/515642-injustice-bogowie-posrod-nas-2-rok-drugi
+  gildia: https://www.gildia.pl/komiksy/515642-injustice-bogowie-posrod-nas-2-rok-drugi
+reviews:
+  naekranie: https://naekranie.pl/recenzje/injustice-bogowie-posrod-nas-rok-drugi-tom-2-recenzja-egmont
+issues:
+  - name: "Injustice: Gods Among Us Year Two #1"
+    comic_vine_issue_id: 442136
+  - name: "Injustice: Gods Among Us Year Two #2"
+    comic_vine_issue_id: 445281
+  - name: "Injustice: Gods Among Us Year Two #3"
+    comic_vine_issue_id: 448923
+  - name: "Injustice: Gods Among Us Year Two #4"
+    comic_vine_issue_id: 451728
+  - name: "Injustice: Gods Among Us Year Two #5"
+    comic_vine_issue_id: 454087
+  - name: "Injustice: Gods Among Us Year Two #6"
+    comic_vine_issue_id: 457599
+  - name: "Injustice: Gods Among Us Year Two #7"
+    comic_vine_issue_id: 459123
+  - name: "Injustice: Gods Among Us Year Two #8"
+    comic_vine_issue_id: 460266
+  - name: "Injustice: Gods Among Us Year Two #9"
+    comic_vine_issue_id: 462207
+  - name: "Injustice: Gods Among Us Year Two #10"
+    comic_vine_issue_id: 463430
+  - name: "Injustice: Gods Among Us Year Two #11"
+    comic_vine_issue_id: 466021
+  - name: "Injustice: Gods Among Us Year Two #12"
+    comic_vine_issue_id: 466469
+  - name: "Injustice: Gods Among Us Year Two Annual #1"
+    comic_vine_issue_id: 466988

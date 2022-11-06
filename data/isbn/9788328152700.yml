@@ -1,0 +1,90 @@
+---
+collection: marvel-limited
+name: Doktor Strange
+image: marvel-limited.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328152700
+release_date: "2021-10-27"
+series:
+  - "Marvel Limited"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4989774/doktor-strange
+shops:
+  egmont: https://egmont.pl/Doktor-Strange,57959428,p.html
+  gildia: https://www.gildia.pl/komiksy/494869-doktor-strange-duze-wydanie
+reviews:
+  naekranie: https://naekranie.pl/recenzje/doktor-strange-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/43688-marvel-limited-doktor-strange-recenzja
+issues:
+  - name: "Strange Tales #110"
+    comic_vine_issue_id: 110835
+  - name: "Strange Tales #111"
+    comic_vine_issue_id: 110808
+  - name: "Strange Tales #114"
+    comic_vine_issue_id: 110871
+  - name: "Strange Tales #115"
+    comic_vine_issue_id: 110872
+  - name: "Strange Tales #116"
+    comic_vine_issue_id: 110873
+  - name: "Strange Tales #117"
+    comic_vine_issue_id: 110874
+  - name: "Strange Tales #118"
+    comic_vine_issue_id: 110883
+  - name: "Strange Tales #119"
+    comic_vine_issue_id: 110948
+  - name: "Strange Tales #120"
+    comic_vine_issue_id: 110949
+  - name: "Strange Tales #121"
+    comic_vine_issue_id: 110950
+  - name: "Strange Tales #122"
+    comic_vine_issue_id: 110993
+  - name: "Strange Tales #123"
+    comic_vine_issue_id: 110994
+  - name: "Strange Tales #124"
+    comic_vine_issue_id: 110995
+  - name: "Strange Tales #125"
+    comic_vine_issue_id: 110996
+  - name: "Strange Tales #126"
+    comic_vine_issue_id: 110997
+  - name: "Strange Tales #127"
+    comic_vine_issue_id: 110998
+  - name: "Strange Tales #128"
+    comic_vine_issue_id: 111040
+  - name: "Strange Tales #129"
+    comic_vine_issue_id: 111041
+  - name: "Strange Tales #130"
+    comic_vine_issue_id: 111042
+  - name: "Strange Tales #131"
+    comic_vine_issue_id: 111043
+  - name: "Strange Tales #132"
+    comic_vine_issue_id: 111064
+  - name: "Strange Tales #133"
+    comic_vine_issue_id: 111065
+  - name: "Strange Tales #134"
+    comic_vine_issue_id: 111067
+  - name: "Strange Tales #135"
+    comic_vine_issue_id: 111069
+  - name: "Strange Tales #136"
+    comic_vine_issue_id: 111070
+  - name: "Strange Tales #137"
+    comic_vine_issue_id: 111079
+  - name: "Strange Tales #138"
+    comic_vine_issue_id: 111080
+  - name: "Strange Tales #139"
+    comic_vine_issue_id: 111081
+  - name: "Strange Tales #140"
+    comic_vine_issue_id: 111082
+  - name: "Strange Tales #141"
+    comic_vine_issue_id: 111083
+  - name: "Strange Tales #142"
+    comic_vine_issue_id: 111096
+  - name: "Strange Tales #143"
+    comic_vine_issue_id: 111097
+  - name: "Strange Tales #144"
+    comic_vine_issue_id: 111098
+  - name: "Strange Tales #145"
+    comic_vine_issue_id: 111105
+  - name: "Strange Tales #146"
+    comic_vine_issue_id: 111106
+  - name: "The Amazing Spider-Man Annual #2"
+    comic_vine_issue_id: 7502

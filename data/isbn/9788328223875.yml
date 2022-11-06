@@ -1,0 +1,25 @@
+---
+collection: spider-man-kultowe-komiksy
+name: Zdziczenie
+image: spider-man.4.jpeg
+image_source: "https://tezeusz.pl"
+isbn: 9788328223875
+release_date: "2019-05-22"
+series:
+  - "Spider-Man Kultowe Komiksy"
+links: []
+shops:
+  tezeusz: https://tezeusz.pl/spider-man-zdziczenie-zbiorowa-praca-4415485
+reviews:
+  8azyliszkoweroznosci: http://8azyliszkoweroznosci.blogspot.com/2019/05/ostatni-tom-testu-to-okres-tuz-przed.html
+issues:
+  - name: "Sensational Spider-Man #23"
+    comic_vine_issue_id: 106729
+  - name: "Sensational Spider-Man #24"
+    comic_vine_issue_id: 106696
+  - name: "Sensational Spider-Man #25"
+    comic_vine_issue_id: 106728
+  - name: "Sensational Spider-Man #26"
+    comic_vine_issue_id: 108531
+  - name: "Sensational Spider-Man #27"
+    comic_vine_issue_id: 109582

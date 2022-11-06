@@ -1,0 +1,26 @@
+---
+collection: marvel-komiks
+name: "Marvel Komiks. 5/2019 Avengers"
+image: marvel-komiks.5.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328197299
+release_date: "2019-12-19"
+series:
+  - "Marvel Komiks"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4909804/marvel-komiks-5-2019-hulk-thor
+shops:
+  egmont: https://egmont.pl/Marvel-Komiks.-5-2019,21443591,p.html
+  gildia: https://www.gildia.pl/komiksy/413081-marvel-komiks-5-5-2019
+reviews: []
+issues:
+  - name: "Marvel Adventures Super Heroes #11"
+    comic_vine_issue_id: 157944
+  - name: "Marvel Adventures Spider-Man #10"
+    comic_vine_issue_id: 259827
+  - name: "Marvel Adventures Spider-Man #11"
+    comic_vine_issue_id: 265634
+  - name: "Marvel Adventures Avengers #5"
+    comic_vine_issue_id: 111404
+  - name: "Marvel Adventures Hulk #2"
+    comic_vine_issue_id: 113687

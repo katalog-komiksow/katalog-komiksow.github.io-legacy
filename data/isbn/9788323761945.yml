@@ -1,0 +1,37 @@
+---
+collection: straznicy-poczatek
+name: Strażnicy - Początek. Tom 3. Nocny Puchacz. Dr Manhattan.
+image: straznicy-poczatek.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761945
+release_date: "2014-02-10"
+series:
+  - "Strażnicy - Początek"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/207238/straznicy---poczatek-nocny-puchacz-dr-manhattan
+shops:
+  egmont: https://egmont.pl/Straznicy-Poczatek.-Tom-3.,607116,p.html
+  gildia: https://www.gildia.pl/komiksy/236646-straznicy-poczatek-3-nocny-puchacz-dr-manhattan
+reviews:
+  paradoks: https://paradoks.net.pl/read/23278-straznicy-poczatek-tom-3-nocny-puchacz-dr-manhattan-recenzja
+issues:
+  - name: "Before Watchmen: Nite Owl #1"
+    comic_vine_issue_id: 342955
+  - name: "Before Watchmen: Nite Owl #2"
+    comic_vine_issue_id: 348045
+  - name: "Before Watchmen: Nite Owl #3"
+    comic_vine_issue_id: 357635
+  - name: "Before Watchmen: Nite Owl #4"
+    comic_vine_issue_id: 374665
+  - name: "Before Watchmen: Dr. Manhattan #1"
+    comic_vine_issue_id: 352465
+  - name: "Before Watchmen: Dr. Manhattan #2"
+    comic_vine_issue_id: 360951
+  - name: "Before Watchmen: Dr. Manhattan #3"
+    comic_vine_issue_id: 372350
+  - name: "Before Watchmen: Dr. Manhattan #4"
+    comic_vine_issue_id: 388676
+  - name: "Before Watchmen: Moloch #1"
+    comic_vine_issue_id: 365743
+  - name: "Before Watchmen: Moloch #2"
+    comic_vine_issue_id: 373273

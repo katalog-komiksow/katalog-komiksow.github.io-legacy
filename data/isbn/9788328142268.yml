@@ -1,0 +1,42 @@
+---
+collection: invincible
+name: "Invincible. Tom 6"
+image: invincible.06.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328142268
+release_date: "2019-12-04"
+series:
+  - "Invincible"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4886021/invincible-6
+shops:
+  egmont: https://egmont.pl/Invincible.-Tom-6,21443586,p.html
+  gildia: https://www.gildia.pl/komiksy/413074-invincible-niezwyciezony-wyd-zbiorcze-tom-6
+reviews:
+  naekranie: https://naekranie.pl/recenzje/invincible-tom-6-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/39283-invincible-tom-6-recenzja
+issues:
+  - name: "Invincible #60"
+    comic_vine_issue_id: 153703
+  - name: "Invincible #61"
+    comic_vine_issue_id: 155799
+  - name: "Invincible #62"
+    comic_vine_issue_id: 157824
+  - name: "Invincible #63"
+    comic_vine_issue_id: 160437
+  - name: "Invincible #64"
+    comic_vine_issue_id: 164880
+  - name: "Invincible #65"
+    comic_vine_issue_id: 167415
+  - name: "Invincible #66"
+    comic_vine_issue_id: 172353
+  - name: "Invincible #67"
+    comic_vine_issue_id: 177659
+  - name: "Invincible #68"
+    comic_vine_issue_id: 183787
+  - name: "Invincible #69"
+    comic_vine_issue_id: 189593
+  - name: "Invincible #70"
+    comic_vine_issue_id: 198005
+  - name: "Invincible Returns #1"
+    comic_vine_issue_id: 204909

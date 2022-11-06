@@ -1,0 +1,32 @@
+---
+collection: chlopaki
+name: "ChłoPAKI. Droga Becky"
+image: chlopaki.13.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788396252333
+release_date: "2022-01-25"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4996018/chlopaki-droga-becky
+shops:
+  gildia: https://www.gildia.pl/komiksy/507442-chlopaki-droga-becky
+reviews:
+  esensja: https://esensja.pl/komiks/recenzje/tekst.html?id=31995
+issues:
+  - name: "The Boys: Dear Becky #1"
+    comic_vine_issue_id: 766280
+  - name: "The Boys: Dear Becky #2"
+    comic_vine_issue_id: 772465
+  - name: "The Boys: Dear Becky #3"
+    comic_vine_issue_id: 784806
+  - name: "The Boys: Dear Becky #4"
+    comic_vine_issue_id: 796264
+  - name: "The Boys: Dear Becky #5"
+    comic_vine_issue_id: 804827
+  - name: "The Boys: Dear Becky #6"
+    comic_vine_issue_id: 816093
+  - name: "The Boys: Dear Becky #7"
+    comic_vine_issue_id: 820126
+  - name: "The Boys: Dear Becky #8"
+    comic_vine_issue_id: 823293

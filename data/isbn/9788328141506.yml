@@ -1,0 +1,36 @@
+---
+collection: batman-metal
+name: Batman Metal. Mroczny wszechświat. Tom 3
+image: batman-metal.3.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328141506
+release_date: "2019-07-17"
+series:
+  - "Batman Metal"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4887282/batman---metal-mroczny-wszechswiat
+shops:
+  egmont: https://egmont.pl/Batman-Metal.-Mroczny-wszechswiat.-Tom-3,17700874,p.html
+  gildia: https://www.gildia.pl/komiksy/398808-batman-metal-3-mroczny-wczechswiat
+reviews:
+  naekranie: https://naekranie.pl/recenzje/batman-metal-mroczny-wszechswiat-tom-3-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/38703-batman-metal-tom-3-mroczny-wszechswiat-recenzja
+issues:
+  - name: "Dark Nights: Metal #4"
+    comic_vine_issue_id: 647910
+  - name: "Dark Nights: Metal #5"
+    comic_vine_issue_id: 656677
+  - name: "Dark Nights: Metal #6"
+    comic_vine_issue_id: 664258
+  - name: "The Flash #33"
+    comic_vine_issue_id: 632461
+  - name: "Justice League #32"
+    comic_vine_issue_id: 634517
+  - name: "Justice League #33"
+    comic_vine_issue_id: 638576
+  - name: "Hal Jordan and The Green Lantern Corps #32"
+    comic_vine_issue_id: 636345
+  - name: "Hawkman: Found #1"
+    comic_vine_issue_id: 649706
+  - name: "Dark Knights Rising: The Wild Hunt #1"
+    comic_vine_issue_id: 659977

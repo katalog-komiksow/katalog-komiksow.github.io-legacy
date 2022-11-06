@@ -1,0 +1,19 @@
+---
+collection: dc-odrodzenie-komiks
+name: 'Superbohaterzy nr 01/2017 "Uniwersum DC: Odrodzenie"'
+image: dc-odrodzenie-komiks.01.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 2544-2376
+release_date: "2017-01-01"
+series:
+  - "DC Odrodzenie"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4852880/superbohaterzy-nr-01-2017-quot-uniwersum-dc-odrodzenie-quot
+shops: []
+reviews:
+  filmozercy: https://filmozercy.com/wpis/uniwersum-dc-odrodzenie-superbohaterzy-nr-01-2017-prezentacja-komiksu
+issues:
+  - name: "Justice League – Rebirth #1"
+    comic_vine_issue_id: 538492
+  - name: "Batman – Rebirth #1"
+    comic_vine_issue_id: 533007

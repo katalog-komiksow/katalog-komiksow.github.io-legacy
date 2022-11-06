@@ -1,0 +1,28 @@
+---
+collection: kick-ass
+name: Kick-Ass. Nowa
+image: kick-ass.4.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938992
+release_date: "2020-05-20"
+series:
+  - "Kick-Ass"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4928026/kick-ass-nowa
+shops:
+  gildia: https://www.gildia.pl/komiksy/429770-kick-ass-nowa-tom-1
+reviews:
+  paradoks: https://paradoks.net.pl/read/41028-kick-ass-nowa-recenzja
+issues:
+  - name: "Kick-Ass #1"
+    comic_vine_issue_id: 660043
+  - name: "Kick-Ass #2"
+    comic_vine_issue_id: 663611
+  - name: "Kick-Ass #3"
+    comic_vine_issue_id: 666837
+  - name: "Kick-Ass #4"
+    comic_vine_issue_id: 670144
+  - name: "Kick-Ass #5"
+    comic_vine_issue_id: 672850
+  - name: "Kick-Ass #6"
+    comic_vine_issue_id: 677342

@@ -1,0 +1,28 @@
+---
+collection: chlopaki
+name: "ChłoPAKI - Tom 5: Herospazm"
+image: chlopaki.05.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788394735517
+release_date: "2017-09-08"
+series:
+  - "ChłoPAKI"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4807598/chlopaki---tom-5-herospazm
+shops:
+  gildia: https://www.gildia.pl/komiksy/344011-chlopaki-5-herospazm
+reviews:
+  paradoks: https://paradoks.net.pl/read/33659-chlopaki-tom-5-herospazm-recenzja
+issues:
+  - name: "The Boys: Herogasm #1"
+    comic_vine_issue_id: 157819
+  - name: "The Boys: Herogasm #2"
+    comic_vine_issue_id: 160418
+  - name: "The Boys: Herogasm #3"
+    comic_vine_issue_id: 164918
+  - name: "The Boys: Herogasm #4"
+    comic_vine_issue_id: 168367
+  - name: "The Boys: Herogasm #5"
+    comic_vine_issue_id: 173428
+  - name: "The Boys: Herogasm #6"
+    comic_vine_issue_id: 181268
