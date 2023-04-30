@@ -1,12 +1,12 @@
 <% collection = data.collections.find { |collection| collection.slug == collection_slug } %>
 <% book = data.collection[collection_slug].find { |book| book.isbn == book_isbn } %>
-<% book_isbn = data.isbn[book.isbn] %>
+<% book_isbn = data.isbn[collection_slug]["#{book_number.to_s.rjust(3, "0")}.#{book.isbn}"] %>
 
 <section>
   <div class="container px-4 px-lg-5 my-5">
     <div class="row gx-4 gx-lg-5 align-items-center">
       <div class="col-md-6">
-        <%= image_tag "#{config[:book_cover_base_url]}/#{collection_slug}/#{data.isbn[book.isbn].image}", class: "card-img-top mb-5 mb-md-0" %>
+        <%= image_tag "#{config[:book_cover_base_url]}/#{collection_slug}/#{book_isbn.image}", class: "card-img-top mb-5 mb-md-0" %>
         <br>
         Źródło okładki: <%= book_isbn.image_source %>
       </div>

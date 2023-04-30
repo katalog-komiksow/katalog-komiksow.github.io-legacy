@@ -29,6 +29,8 @@ page "/*.txt", layout: false
 
 proxy("/kolekcje.html", "/collections.html", ignore: true)
 
+released_books = []
+
 YAML.load_file("data/collections.yml").each do |collection|
   next unless File.exists?("data/collection/#{collection["slug"]}.yml")
 
@@ -41,7 +43,7 @@ YAML.load_file("data/collections.yml").each do |collection|
     ignore: true
   )
 
-  YAML.load_file("data/collection/#{collection["slug"]}.yml").each do |book|
+  YAML.load_file("data/collection/#{collection["slug"]}.yml").each_with_index do |book, index|
     next unless book["isbn"]
 
     proxy(
@@ -49,18 +51,21 @@ YAML.load_file("data/collections.yml").each do |collection|
       "/book.html",
       locals: {
         collection_slug: collection["slug"],
-        book_isbn: book["isbn"]
+        book_isbn: book["isbn"],
+        book_number: index + 1
       },
       ignore: true
     )
+
+    if File.exist?("data/isbn/#{collection["slug"]}/#{(index + 1).to_s.rjust(3, "0")}.#{book["isbn"]}.yml")
+      released_books << YAML.load_file("data/isbn/#{collection["slug"]}/#{(index + 1).to_s.rjust(3, "0")}.#{book["isbn"]}.yml")
+    end
   end
 end
 
 book_page_size = 12
 set :book_page_size, book_page_size
-released_books = Dir.glob("data/isbn/*.yml")
-                    .map { |path| YAML.load_file(path) }
-                    .select { |book| Date.parse(book["release_date"]) <= Date.today }
+released_books = released_books.select { |book| Date.parse(book["release_date"]) <= Date.today }
 book_pages = (1..(released_books.size)).to_a.each_slice(book_page_size).to_a.size
 book_pages = book_pages > 0 ? book_pages : 1
 set :last_book_page, book_pages
@@ -101,9 +106,12 @@ helpers do
       next unless data.collection[slug]
 
       data.collection[slug].each_with_index do |book, index|
-        next if Date.parse(data.isbn[book.isbn].release_date) > Date.today
+        next unless data.isbn[slug]
 
-        book.release_date = data.isbn[book.isbn].release_date
+        isbn_data = data.isbn[slug] && data.isbn[slug]["#{(index + 1).to_s.rjust(3, "0")}.#{book.isbn}"]
+        next if Date.parse(isbn_data.release_date) > Date.today
+
+        book.release_date = isbn_data.release_date
         book.collection_slug = slug
         book.collection_name = collection_dict[slug][:name]
         book.publisher = collection_dict[slug][:publisher]

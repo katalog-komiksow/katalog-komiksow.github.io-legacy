@@ -2,30 +2,32 @@
   <thead>
     <tr>
       <th scope="col">#</th>
+      <th scope="col">Data</th>
       <th scope="col">Okładka</th>
       <th scope="col">Tytuł</th>
     </tr>
   </thead>
   <tbody>
     <% data.collection[collection_slug].each_with_index do |book, index| %>
+      <% isbn_data = data.isbn[collection_slug] && data.isbn[collection_slug]["#{(index + 1).to_s.rjust(3, "0")}.#{book.isbn}"] %>
       <tr>
         <th scope="row">#<%= index + 1 %></th>
         <th scope="row">
           <% if book.release_date %>
             <%= book.release_date %>
-          <% elsif book.isbn && data.isbn[book.isbn] %>
-            <%= data.isbn[book.isbn].release_date %>
+          <% elsif book.isbn && isbn_data %>
+            <%= isbn_data.release_date %>
           <% end %>
         </th>
         <td>
           <% if book.image %>
             <%= image_tag("#{config[:book_cover_base_url]}/#{collection_slug}/#{book.image}", width: "100") %>
-          <% elsif book.isbn && data.isbn[book.isbn] %>
-            <%= image_tag("#{config[:book_cover_base_url]}/#{collection_slug}/#{data.isbn[book.isbn].image}", width: "100") %>
+          <% elsif book.isbn && isbn_data %>
+            <%= image_tag("#{config[:book_cover_base_url]}/#{collection_slug}/#{isbn_data.image}", width: "100") %>
           <% end %>
         </td>
         <td>
-          <% if book.isbn && book.isbn != "" && data.isbn[book.isbn] %>
+          <% if book.isbn && book.isbn != "" && isbn_data %>
             <%= link_to book.name, "/ksiazka/#{book.isbn}.html", relative: true %>
           <% else %>
             <%= book.name %>
