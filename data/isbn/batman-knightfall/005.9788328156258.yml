@@ -1,0 +1,54 @@
+---
+collection: batman-knightfall
+name: "Batman Knightfall: Nowy początek. Tom 5"
+image: batman-knightfall.5.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328156258
+release_date: "2023-04-26"
+series:
+  - "Batman Knightfall"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5058470/batman-knightfall-nowy-poczatek-tom-5
+shops:
+  egmont: https://egmont.pl/Batman-Knightfall-Nowy-poczatek.-Tom-5,72313859,p.html
+  gildia: https://www.gildia.pl/komiksy/552771-batman-knightfall-tom-5-nowy-poczatek
+reviews: []
+issues:
+  - name: "Batman #512"
+    comic_vine_issue_id: 39887
+  - name: "Batman #513"
+    comic_vine_issue_id: 40020
+  - name: "Batman #514"
+    comic_vine_issue_id: 40261
+  - name: "Batman #515"
+    comic_vine_issue_id: 40406
+  - name: "Batman: Shadow of The Bat #32"
+    comic_vine_issue_id: 39990
+  - name: "Batman: Shadow of The Bat #33"
+    comic_vine_issue_id: 40129
+  - name: "Batman: Shadow of The Bat #34"
+    comic_vine_issue_id: 40371
+  - name: "Batman: Shadow of The Bat #35"
+    comic_vine_issue_id: 40505
+  - name: "Detective Comics #679"
+    comic_vine_issue_id: 113132
+  - name: "Detective Comics #680"
+    comic_vine_issue_id: 113133
+  - name: "Detective Comics #681"
+    comic_vine_issue_id: 113143
+  - name: "Detective Comics #682"
+    comic_vine_issue_id: 113144
+  - name: "Robin #0"
+    comic_vine_issue_id: 39755
+  - name: "Robin #11"
+    comic_vine_issue_id: 39902
+  - name: "Robin #12"
+    comic_vine_issue_id: 40036
+  - name: "Robin #13"
+    comic_vine_issue_id: 40277
+  - name: "Robin #14"
+    comic_vine_issue_id: 40423
+  - name: "Nightwing: Alfred’s return #1"
+    comic_vine_issue_id: 194016
+  - name: "Batman: The Vengeance of Bane #2"
+    comic_vine_issue_id: 173539
