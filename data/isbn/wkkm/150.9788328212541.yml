@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Avengers: Kres Dziejów"
+image: wkkm.150.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212541
+release_date: "2018-08-22"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4887072/avengers-kres-dziejow
+shops:
+  gildia: https://www.gildia.pl/komiksy/369894-wielka-kolekcja-komiksow-marvela-150-avengers-kres-dziejow
+reviews: []
+issues:
+  - name: "Avengers (vol. 4) #31"
+    comic_vine_issue_id: 360932
+  - name: "Avengers (vol. 4) #32"
+    comic_vine_issue_id: 363151
+  - name: "Avengers (vol. 4) #33"
+    comic_vine_issue_id: 366194
+  - name: "Avengers (vol. 4) #34"
+    comic_vine_issue_id: 369093
+  - name: "New Avengers (vol. 2) #31"
+    comic_vine_issue_id: 362201
+  - name: "New Avengers (vol. 2) #32"
+    comic_vine_issue_id: 366197
+  - name: "New Avengers (vol. 2) #33"
+    comic_vine_issue_id: 367811
+  - name: "New Avengers (vol. 2) #34"
+    comic_vine_issue_id: 370564

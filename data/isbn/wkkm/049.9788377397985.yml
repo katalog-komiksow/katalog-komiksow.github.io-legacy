@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: Przedwieczni
+image: wkkm.049.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397985
+release_date: "2014-10-08"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/236305/przedwieczni
+shops:
+  gildia: https://www.gildia.pl/komiksy/253933-wielka-kolekcja-komiksow-marvela-49-przedwieczni
+reviews: []
+issues:
+  - name: "Eternals (vol. 3) #1"
+    comic_vine_issue_id: 108351
+  - name: "Eternals (vol. 3) #2"
+    comic_vine_issue_id: 108352
+  - name: "Eternals (vol. 3) #3"
+    comic_vine_issue_id: 107386
+  - name: "Eternals (vol. 3) #4"
+    comic_vine_issue_id: 108353
+  - name: "Eternals (vol. 3) #5"
+    comic_vine_issue_id: 108354
+  - name: "Eternals (vol. 3) #6"
+    comic_vine_issue_id: 106617
+  - name: "Eternals (vol. 3) #7"
+    comic_vine_issue_id: 106730

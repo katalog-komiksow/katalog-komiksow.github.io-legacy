@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: Tajna Inwazja
+image: wkkm.055.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493044
+release_date: "2014-12-31"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/238888/tajna-inwazja
+shops:
+  gildia: https://www.gildia.pl/komiksy/259811-wielka-kolekcja-komiksow-marvela-55-tajna-inwazja
+reviews: []
+issues:
+  - name: "Secret Invasion #1"
+    comic_vine_issue_id: 126370
+  - name: "Secret Invasion #2"
+    comic_vine_issue_id: 129598
+  - name: "Secret Invasion #3"
+    comic_vine_issue_id: 131297
+  - name: "Secret Invasion #4"
+    comic_vine_issue_id: 132926
+  - name: "Secret Invasion #5"
+    comic_vine_issue_id: 135430
+  - name: "Secret Invasion #6"
+    comic_vine_issue_id: 138234
+  - name: "Secret Invasion #7"
+    comic_vine_issue_id: 140851
+  - name: "Secret Invasion #8"
+    comic_vine_issue_id: 144233

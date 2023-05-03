@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Sam strach, część 2
+image: wkkm.096.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203372
+release_date: "2016-07-27"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3707230/sam-strach-czesc-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/309876-wielka-kolekcja-komiksow-marvela-96-sam-strach-cz-2
+reviews: []
+issues:
+  - name: "Fear Itself #4"
+    comic_vine_issue_id: 277536
+  - name: "Fear Itself #5"
+    comic_vine_issue_id: 285335
+  - name: "Fear Itself #6"
+    comic_vine_issue_id: 292590
+  - name: "Fear Itself #7"
+    comic_vine_issue_id: 297217
+  - name: "Fear Itself 7.1: Captain America"
+    comic_vine_issue_id: 301059

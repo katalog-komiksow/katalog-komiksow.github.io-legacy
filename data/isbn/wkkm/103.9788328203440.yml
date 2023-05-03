@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: "Silver Surfer: Początki"
+image: wkkm.103.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203440
+release_date: "2016-11-02"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4032449/silver-surfer-poczatki
+shops:
+  gildia: https://www.gildia.pl/komiksy/316100-wielka-kolekcja-komiksow-marvela-103-silver-surfer-poczatki
+reviews: []
+issues:
+  - name: "Silver Surfer (vol. 1) #1"
+    comic_vine_issue_id: 109883
+  - name: "Silver Surfer (vol. 1) #2"
+    comic_vine_issue_id: 109884
+  - name: "Silver Surfer (vol. 1) #3"
+    comic_vine_issue_id: 144300
+  - name: "Silver Surfer (vol. 1) #4"
+    comic_vine_issue_id: 10053
+  - name: "Silver Surfer (vol. 1) #5"
+    comic_vine_issue_id: 10160

@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "She-Hulk: Samotna Zielona Kobieta"
+image: wkkm.034.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397831
+release_date: "2014-03-12"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/217600/she-hulk-samotna-zielona-kobieta
+shops:
+  gildia: https://www.gildia.pl/komiksy/237312-wielka-kolekcja-komiksow-marvela-34-she-hulk-samotna-zielona-kobieta
+reviews: []
+issues:
+  - name: "She-Hulk (vol. 1) #1"
+    comic_vine_issue_id: 96783
+  - name: "She-Hulk (vol. 1) #2"
+    comic_vine_issue_id: 96784
+  - name: "She-Hulk (vol. 1) #3"
+    comic_vine_issue_id: 96785
+  - name: "She-Hulk (vol. 1) #4"
+    comic_vine_issue_id: 96786
+  - name: "She-Hulk (vol. 1) #5"
+    comic_vine_issue_id: 96787
+  - name: "She-Hulk (vol. 1) #6"
+    comic_vine_issue_id: 96788

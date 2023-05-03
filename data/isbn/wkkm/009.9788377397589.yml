@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: "Avengers: Upadek Avengers"
+image: wkkm.009.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397589
+release_date: "2013-03-27"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/173502/avengers-upadek-avengers
+shops:
+  gildia: https://www.gildia.pl/komiksy/214290-wielka-kolekcja-komiksow-marvela-9-avengers-upadek-avengers
+reviews: []
+issues:
+  - name: "Avengers (vol. 1) #500"
+    comic_vine_issue_id: 90338
+  - name: "Avengers (vol. 1) #501"
+    comic_vine_issue_id: 90339
+  - name: "Avengers (vol. 1) #502"
+    comic_vine_issue_id: 90340
+  - name: "Avengers (vol. 1) #503"
+    comic_vine_issue_id: 101195
+  - name: "Avengers Finale #1"
+    comic_vine_issue_id: 141419

@@ -1,0 +1,28 @@
+---
+collection: wkkm
+name: "Ultimate Comics Spider-Man: Kim jest Miles Morales?"
+image: wkkm.114.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203556
+release_date: "2017-04-05"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4533287/ultimate-comics-spider-man-kim-jest-miles-morales
+shops:
+  gildia: https://www.gildia.pl/komiksy/332153-wielka-kolekcja-komiksow-marvela-114-ultimate-comics-spider-man-kim-jest-miles-morales
+reviews: []
+issues:
+  - name: "Ultimate Fallout #4"
+    comic_vine_issue_id: 283008
+  - name: "Ultimate Comics Spider-Man (vol. 2) #1"
+    comic_vine_issue_id: 292620
+  - name: "Ultimate Comics Spider-Man (vol. 2) #2"
+    comic_vine_issue_id: 293532
+  - name: "Ultimate Comics Spider-Man (vol. 2) #3"
+    comic_vine_issue_id: 295070
+  - name: "Ultimate Comics Spider-Man (vol. 2) #4"
+    comic_vine_issue_id: 301728
+  - name: "Ultimate Comics Spider-Man (vol. 2) #5"
+    comic_vine_issue_id: 307687
+

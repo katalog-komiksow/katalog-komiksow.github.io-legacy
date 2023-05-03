@@ -1,0 +1,38 @@
+---
+collection: wkkm
+name: "Avengers: Krucjata dziecięca"
+image: wkkm.084.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203259
+release_date: "2016-02-10"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/296002/avengers-krucjata-dziecieca
+shops:
+  gildia: https://www.gildia.pl/komiksy/293909-wielka-kolekcja-komiksow-marvela-84-avengers-krucjata-dziecieca
+reviews: []
+issues:
+  - name: "Avengers: The Children’s Crusade #1"
+    comic_vine_issue_id: 223380
+  - name: "Avengers: The Children’s Crusade #2"
+    comic_vine_issue_id: 232535
+  - name: "Avengers: The Children’s Crusade #3"
+    comic_vine_issue_id: 242038
+  - name: "Avengers: The Children’s Crusade #4"
+    comic_vine_issue_id: 254667
+  - name: "Avengers: The Children’s Crusade #5"
+    comic_vine_issue_id: 267533
+  - name: "Avengers: The Children’s Crusade #6"
+    comic_vine_issue_id: 276706
+  - name: "Avengers: The Children’s Crusade #7"
+    comic_vine_issue_id: 293355
+  - name: "Avengers: The Children’s Crusade #8"
+    comic_vine_issue_id: 308624
+  - name: "Avengers: The Children’s Crusade #9"
+    comic_vine_issue_id: 319366
+  - name: "Avengers: The Children Crusade - Young Avengers #1"
+    comic_vine_issue_id: 266008
+  - name: "Uncanny X-Men (vol. 1) #526"
+    comic_vine_issue_id: 226786
+

@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Wolverine: Geneza"
+image: wkkm.036.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397855
+release_date: "2014-04-09"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/220734/wolverine-geneza
+shops:
+  gildia: https://www.gildia.pl/komiksy/242583-wielka-kolekcja-komiksow-marvela-36-wolverine-geneza
+reviews: []
+issues:
+  - name: "Origin #1"
+    comic_vine_issue_id: 110022
+  - name: "Origin #2"
+    comic_vine_issue_id: 110026
+  - name: "Origin #3"
+    comic_vine_issue_id: 110027
+  - name: "Origin #4"
+    comic_vine_issue_id: 110028
+  - name: "Origin #5"
+    comic_vine_issue_id: 110029
+  - name: "Origin #6"
+    comic_vine_issue_id: 110030

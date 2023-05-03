@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: Wojna Avengers z Defenders
+image: wkkm.112.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203532
+release_date: "2017-03-08"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4516335/wojna-avengers-z-defenders
+shops:
+  gildia: https://www.gildia.pl/komiksy/326230-wielka-kolekcja-komiksow-marvela-112-avengers-wojna-z-defenders
+reviews: []
+issues:
+  - name: "Avengers (vol. 1) #115"
+    comic_vine_issue_id: 13565
+  - name: "Avengers (vol. 1) #116"
+    comic_vine_issue_id: 13684
+  - name: "Avengers (vol. 1) #117"
+    comic_vine_issue_id: 13835
+  - name: "Avengers (vol. 1) #118"
+    comic_vine_issue_id: 13915
+  - name: "Defenders (vol. 1) #8"
+    comic_vine_issue_id: 13573
+  - name: "Defenders (vol. 1) #9"
+    comic_vine_issue_id: 13688
+  - name: "Defenders (vol. 1) #10"
+    comic_vine_issue_id: 13790
+  - name: "Defenders (vol. 1) #11"
+    comic_vine_issue_id: 13880

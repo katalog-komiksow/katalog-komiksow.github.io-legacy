@@ -1,0 +1,24 @@
+---
+collection: wkkm
+name: "Spider-Woman: Zmiana tempa"
+image: wkkm.156.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328219472
+release_date: "2018-11-14"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4871034/spider-woman-zmiana-tempa
+shops: []
+reviews: []
+issues:
+  - name: "Spider-Woman (vol. 6) #1"
+    comic_vine_issue_id: 506182
+  - name: "Spider-Woman (vol. 6) #2"
+    comic_vine_issue_id: 508899
+  - name: "Spider-Woman (vol. 6) #3"
+    comic_vine_issue_id: 512434
+  - name: "Spider-Woman (vol. 6) #4"
+    comic_vine_issue_id: 516090
+  - name: "Spider-Woman (vol. 6) #5"
+    comic_vine_issue_id: 520211

@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: "Thor: Ragnarok"
+image: wkkm.089.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203303
+release_date: "2016-04-20"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/303232/thor-ragnarok
+shops:
+  gildia: https://www.gildia.pl/komiksy/300709-wielka-kolekcja-komiksow-marvela-89-thor-ragnarok
+reviews: []
+issues:
+  - name: "The Mighty Thor (vol. 1) #153"
+    comic_vine_issue_id: 124581
+  - name: "The Mighty Thor (vol. 1) #154"
+    comic_vine_issue_id: 124582
+  - name: "The Mighty Thor (vol. 1) #155"
+    comic_vine_issue_id: 124583
+  - name: "The Mighty Thor (vol. 1) #156"
+    comic_vine_issue_id: 124584
+  - name: "The Mighty Thor (vol. 1) #157"
+    comic_vine_issue_id: 124585
+  - name: "The Mighty Thor (vol. 1) #158"
+    comic_vine_issue_id: 124586
+  - name: "The Mighty Thor (vol. 1) #159"
+    comic_vine_issue_id: 124587

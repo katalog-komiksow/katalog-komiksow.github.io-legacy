@@ -1,0 +1,33 @@
+---
+collection: wkkm
+name: "Iron Man: Demon w butelce"
+image: wkkm.029.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397787
+release_date: "2013-12-31"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/208073/iron-man-demon-w-butelce
+shops:
+  gildia: https://www.gildia.pl/komiksy/230885-wielka-kolekcja-komiksow-marvela-29-iron-man-demon-w-butelce
+reviews: []
+issues:
+  - name: "Iron Man #120"
+    comic_vine_issue_id: 19371
+  - name: "Iron Man #121"
+    comic_vine_issue_id: 19434
+  - name: "Iron Man #122"
+    comic_vine_issue_id: 19509
+  - name: "Iron Man #123"
+    comic_vine_issue_id: 19579
+  - name: "Iron Man #124"
+    comic_vine_issue_id: 19643
+  - name: "Iron Man #125"
+    comic_vine_issue_id: 19708
+  - name: "Iron Man #126"
+    comic_vine_issue_id: 19781
+  - name: "Iron Man #127"
+    comic_vine_issue_id: 19846
+  - name: "Iron Man #128"
+    comic_vine_issue_id: 19921

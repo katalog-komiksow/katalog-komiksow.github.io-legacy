@@ -1,0 +1,39 @@
+---
+collection: wkkm
+name: "Avengers: Saga o Korvacu"
+image: wkkm.090.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203310
+release_date: "2016-05-04"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/307232/avengers-saga-o-korvacu
+shops:
+  gildia: https://www.gildia.pl/komiksy/300710-wielka-kolekcja-komiksow-marvela-90-avengers-saga-o-korvaku
+reviews: []
+issues:
+  - name: "Thor Annual (vol. 1) #6"
+    comic_vine_issue_id: 17028
+  - name: "Avengers (vol. 1) #167"
+    comic_vine_issue_id: 18156
+  - name: "Avengers (vol. 1) #168"
+    comic_vine_issue_id: 18239
+  - name: "Avengers (vol. 1) #170"
+    comic_vine_issue_id: 18403
+  - name: "Avengers (vol. 1) #171"
+    comic_vine_issue_id: 18488
+  - name: "Avengers (vol. 1) #172"
+    comic_vine_issue_id: 18569
+  - name: "Avengers (vol. 1) #173"
+    comic_vine_issue_id: 18649
+  - name: "Avengers (vol. 1) #174"
+    comic_vine_issue_id: 18727
+  - name: "Avengers (vol. 1) #175"
+    comic_vine_issue_id: 18809
+  - name: "Avengers (vol. 1) #176"
+    comic_vine_issue_id: 18885
+  - name: "Avengers (vol. 1) #177"
+    comic_vine_issue_id: 18955
+  - name: "Avengers: The Korvac Saga"
+    comic_vine_issue_id: 156712

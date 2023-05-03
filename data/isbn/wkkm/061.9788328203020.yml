@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Avengers: Na Zawsze, Część 1"
+image: wkkm.061.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203020
+release_date: "2015-03-25"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/252923/avengers-na-zawsze-czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/266328-wielka-kolekcja-komiksow-marvela-61-avengers-na-zawsze-czesc-1
+reviews: []
+issues:
+  - name: "Avengers: Forever #1"
+    comic_vine_issue_id: 96135
+  - name: "Avengers: Forever #2"
+    comic_vine_issue_id: 96136
+  - name: "Avengers: Forever #3"
+    comic_vine_issue_id: 96137
+  - name: "Avengers: Forever #4"
+    comic_vine_issue_id: 96138
+  - name: "Avengers: Forever #5"
+    comic_vine_issue_id: 96139
+  - name: "Avengers: Forever #6"
+    comic_vine_issue_id: 96140

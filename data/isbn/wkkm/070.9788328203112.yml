@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Avengers: Narodziny Ultrona"
+image: wkkm.070.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203112
+release_date: "2015-07-29"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/264431/avengers-narodziny-ultrona
+shops:
+  gildia: https://www.gildia.pl/komiksy/277265-wielka-kolekcja-komiksow-marvela-70-avengers-narodziny-ultrona
+reviews: []
+issues:
+  - name: "Avengers (vol. 1) #54"
+    comic_vine_issue_id: 106382
+  - name: "Avengers (vol. 1) #55"
+    comic_vine_issue_id: 113988
+  - name: "Avengers (vol. 1) #56"
+    comic_vine_issue_id: 113990
+  - name: "Avengers (vol. 1) #57"
+    comic_vine_issue_id: 113991
+  - name: "Avengers (vol. 1) #58"
+    comic_vine_issue_id: 113994
+  - name: "Avengers (vol. 1) #59"
+    comic_vine_issue_id: 113995
+  - name: "Avengers (vol. 1) #60"
+    comic_vine_issue_id: 9987
+  - name: "Avengers Annual (vol. 1) #2"
+    comic_vine_issue_id: 124563

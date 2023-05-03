@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "New Avengers: Wszystko umiera"
+image: wkkm.127.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212312
+release_date: "2017-10-04"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4887067/new-avengers-wszystko-umiera
+shops:
+  gildia: https://www.gildia.pl/komiksy/343400-wielka-kolekcja-komiksow-marvela-127-new-avengers-wszystko-umiera
+reviews: []
+issues:
+  - name: "New Avengers (vol. 3) #1"
+    comic_vine_issue_id: 376665
+  - name: "New Avengers (vol. 3) #2"
+    comic_vine_issue_id: 380355
+  - name: "New Avengers (vol. 3) #3"
+    comic_vine_issue_id: 384960
+  - name: "New Avengers (vol. 3) #4"
+    comic_vine_issue_id: 394709
+  - name: "New Avengers (vol. 3) #5"
+    comic_vine_issue_id: 398990
+  - name: "New Avengers (vol. 3) #6"
+    comic_vine_issue_id: 406978

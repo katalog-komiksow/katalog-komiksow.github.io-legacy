@@ -1,0 +1,35 @@
+---
+collection: wkkm
+name: "Uncanny X-Men: Zmierzch Mutantów"
+image: wkkm.065.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203068
+release_date: "2015-05-20"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/252871/uncanny-x-men-zmierzch-mutantow
+shops:
+  gildia: https://www.gildia.pl/komiksy/270861-wielka-kolekcja-komiksow-marvela-65-x-men-zmierzch-mutantow
+reviews: []
+issues:
+  - name: "X-Men (vol. 1) #50"
+    comic_vine_issue_id: 114340
+  - name: "X-Men (vol. 1) #51"
+    comic_vine_issue_id: 114405
+  - name: "X-Men (vol. 1) #52"
+    comic_vine_issue_id: 10002
+  - name: "X-Men (vol. 1) #53"
+    comic_vine_issue_id: 10056
+  - name: "X-Men (vol. 1) #54"
+    comic_vine_issue_id: 10107
+  - name: "X-Men (vol. 1) #55"
+    comic_vine_issue_id: 10163
+  - name: "X-Men (vol. 1) #56"
+    comic_vine_issue_id: 10215
+  - name: "X-Men (vol. 1) #57"
+    comic_vine_issue_id: 10270
+  - name: "X-Men (vol. 1) #58"
+    comic_vine_issue_id: 10317
+  - name: "X-Men (vol. 1) #59"
+    comic_vine_issue_id: 10366

@@ -1,0 +1,30 @@
+---
+collection: wkkm
+name: "Daredevil: Odrodzony"
+image: wkkm.020.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397695
+release_date: "2013-08-28"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/193748/daredevil-odrodzony
+shops:
+  gildia: https://www.gildia.pl/komiksy/222736-wielka-kolekcja-komiksow-marvela-20-daredevil-odrodzony
+reviews:
+  paradoks: https://paradoks.net.pl/read/21796-daredevil-odrodzony-recenzja
+issues:
+  - name: "Daredevil (vol. 1) #227"
+    comic_vine_issue_id: 26500
+  - name: "Daredevil (vol. 1) #228"
+    comic_vine_issue_id: 26597
+  - name: "Daredevil (vol. 1) #229"
+    comic_vine_issue_id: 26695
+  - name: "Daredevil (vol. 1) #230"
+    comic_vine_issue_id: 26789
+  - name: "Daredevil (vol. 1) #231"
+    comic_vine_issue_id: 26919
+  - name: "Daredevil (vol. 1) #232"
+    comic_vine_issue_id: 26987
+  - name: "Daredevil (vol. 1) #233"
+    comic_vine_issue_id: 27079

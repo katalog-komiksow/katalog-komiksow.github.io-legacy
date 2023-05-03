@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Ultimate Spider-Man: Śmierć Spider-Mana"
+image: wkkm.082.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203235
+release_date: "2016-01-13"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/292963/ultimate-spider-man-smierc-spider-mana
+shops:
+  gildia: https://www.gildia.pl/komiksy/291525-wielka-kolekcja-komiksow-marvela-82-ultimate-spider-man-smierc-spider-mana
+reviews: []
+issues:
+  - name: "Ultimate Spider-Man #153"
+    comic_vine_issue_id: 261244
+  - name: "Ultimate Spider-Man #154"
+    comic_vine_issue_id: 263760
+  - name: "Ultimate Spider-Man #155"
+    comic_vine_issue_id: 265514
+  - name: "Ultimate Spider-Man #156"
+    comic_vine_issue_id: 266487
+  - name: "Ultimate Spider-Man #157"
+    comic_vine_issue_id: 268348
+  - name: "Ultimate Spider-Man #158"
+    comic_vine_issue_id: 270467
+  - name: "Ultimate Spider-Man #159"
+    comic_vine_issue_id: 273112
+  - name: "Ultimate Spider-Man #160"
+    comic_vine_issue_id: 275726

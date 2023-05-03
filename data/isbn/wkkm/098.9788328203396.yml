@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: "The Amazing Spider-Man: Śmierć Stacych"
+image: wkkm.098.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203396
+release_date: "2016-08-24"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3766255/the-amazing-spider-man-smierc-stacych
+shops:
+  gildia: https://www.gildia.pl/komiksy/313197-wielka-kolekcja-komiksow-marvela-98-the-amazing-spider-man-smierc-stacych
+reviews: []
+issues:
+  - name: "The Amazing Spider-Man (vol. 1) #88"
+    comic_vine_issue_id: 11001
+  - name: "The Amazing Spider-Man (vol. 1) #89"
+    comic_vine_issue_id: 11047
+  - name: "The Amazing Spider-Man (vol. 1) #90"
+    comic_vine_issue_id: 11095
+  - name: "The Amazing Spider-Man (vol. 1) #91"
+    comic_vine_issue_id: 11150
+  - name: "The Amazing Spider-Man (vol. 1) #92"
+    comic_vine_issue_id: 11214
+  - name: "The Amazing Spider-Man (vol. 1) #121"
+    comic_vine_issue_id: 13263
+  - name: "The Amazing Spider-Man (vol. 1) #122"
+    comic_vine_issue_id: 13377

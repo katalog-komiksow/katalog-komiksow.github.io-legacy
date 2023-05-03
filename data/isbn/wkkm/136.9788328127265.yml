@@ -1,0 +1,24 @@
+---
+collection: wkkm
+name: Śmierć Wolverine'a
+image: wkkm.136.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328127265
+release_date: "2018-02-07"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4823695/smierc-wolverine-a
+shops:
+  gildia: https://www.gildia.pl/komiksy/356093-wielka-kolekcja-komiksow-marvela-136-smierc-wolverine-a
+reviews:
+  esensja: https://esensja.pl/komiks/recenzje/tekst.html?id=26262
+issues:
+  - name: "Death of Wolverine #1"
+    comic_vine_issue_id: 463886
+  - name: "Death of Wolverine #2"
+    comic_vine_issue_id: 464978
+  - name: "Death of Wolverine #3"
+    comic_vine_issue_id: 467034
+  - name: "Death of Wolverine #4"
+    comic_vine_issue_id: 468075

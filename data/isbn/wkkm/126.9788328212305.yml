@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Nova: Geneza"
+image: wkkm.126.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212305
+release_date: "2017-09-20"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4807613/nova-geneza
+shops:
+  gildia: https://www.gildia.pl/komiksy/343355-wielka-kolekcja-komiksow-marvela-126-nova-poczatek
+reviews: []
+issues:
+  - name: "Nova (vol. 5) #1"
+    comic_vine_issue_id: 387242
+  - name: "Nova (vol. 5) #2"
+    comic_vine_issue_id: 394710
+  - name: "Nova (vol. 5) #3"
+    comic_vine_issue_id: 397548
+  - name: "Nova (vol. 5) #4"
+    comic_vine_issue_id: 402290
+  - name: "Nova (vol. 5) #5"
+    comic_vine_issue_id: 413663
+  - name: "Marvel NOW! Point One"
+    comic_vine_issue_id: 362257

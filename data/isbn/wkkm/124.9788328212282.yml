@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Silver Surfer: Nowy świt"
+image: wkkm.124.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212282
+release_date: "2017-08-23"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4805058/silver-surfer-nowy-swit
+shops:
+  gildia: https://www.gildia.pl/komiksy/343353-wielka-kolekcja-komiksow-marvela-124-silver-surfer-nowy-swit
+reviews: []
+issues:
+  - name: "Silver Surfer (vol. 7) #1"
+    comic_vine_issue_id: 448977
+  - name: "Silver Surfer (vol. 7) #2"
+    comic_vine_issue_id: 451772
+  - name: "Silver Surfer (vol. 7) #3"
+    comic_vine_issue_id: 456554
+  - name: "Silver Surfer (vol. 7) #4"
+    comic_vine_issue_id: 459682
+  - name: "Silver Surfer (vol. 7) #5"
+    comic_vine_issue_id: 463486
+  - name: "All-New Marvel NOW! Point One #1.NOW"
+    comic_vine_issue_id: 441403

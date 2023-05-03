@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Hulk: Niemy krzyk"
+image: wkkm.007.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397565
+release_date: "2013-02-27"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/170170/hulk-niemy-krzyk
+shops:
+  gildia: https://www.gildia.pl/komiksy/213341-wielka-kolekcja-komiksow-marvela-7-hulk-niemy-krzyk
+reviews: []
+issues:
+  - name: "The Incredible Hulk (vol. 1) #370"
+    comic_vine_issue_id: 32840
+  - name: "The Incredible Hulk (vol. 1) #371"
+    comic_vine_issue_id: 32965
+  - name: "The Incredible Hulk (vol. 1) #372"
+    comic_vine_issue_id: 33079
+  - name: "The Incredible Hulk (vol. 1) #373"
+    comic_vine_issue_id: 33195
+  - name: "The Incredible Hulk (vol. 1) #374"
+    comic_vine_issue_id: 33316
+  - name: "The Incredible Hulk (vol. 1) #375"
+    comic_vine_issue_id: 33427
+  - name: "The Incredible Hulk (vol. 1) #376"
+    comic_vine_issue_id: 33533
+  - name: "The Incredible Hulk (vol. 1) #377"
+    comic_vine_issue_id: 33777

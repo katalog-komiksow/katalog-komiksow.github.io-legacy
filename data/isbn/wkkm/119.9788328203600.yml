@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: "Marvel: Co by było, gdyby?"
+image: wkkm.119.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203600
+release_date: "2017-06-14"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4802069/marvel-co-by-bylo-gdyby
+shops:
+  gildia: https://www.gildia.pl/komiksy/339252-wielka-kolekcja-komiksow-marvela-119-marvel-co-by-bylo-gdyby
+reviews: []
+issues:
+  - name: "What If? (vol. 1) #1"
+    comic_vine_issue_id: 17208
+  - name: "What If? (vol. 1) #3"
+    comic_vine_issue_id: 17525
+  - name: "What If? (vol. 1) #18"
+    comic_vine_issue_id: 20005
+  - name: "What If? (vol. 1) #20"
+    comic_vine_issue_id: 20332
+  - name: "What If? (vol. 1) #23"
+    comic_vine_issue_id: 20750
+  - name: "What If? (vol. 1) #24"
+    comic_vine_issue_id: 20883
+  - name: "What If? (vol. 1) #34"
+    comic_vine_issue_id: 112838

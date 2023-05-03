@@ -1,0 +1,30 @@
+---
+collection: wkkm
+name: "Avengers: Operacja Galaktyczna Burza, część 2"
+image: wkkm.168.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328219595
+release_date: "2019-04-30"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4887126/avengers-operacja-galaktyczna-burza-czesc-2
+shops: []
+reviews: []
+issues:
+  - name: "Quasar #33"
+    comic_vine_issue_id: 35579
+  - name: "Quasar #34"
+    comic_vine_issue_id: 35682
+  - name: "Wonder Man #8"
+    comic_vine_issue_id: 136836
+  - name: "Avengers (vol. 1) #346"
+    comic_vine_issue_id: 35569
+  - name: "Iron Man (vol. 1) #279"
+    comic_vine_issue_id: 35576
+  - name: "The Mighty Thor (vol. 1) #446"
+    comic_vine_issue_id: 35582
+  - name: "Captain America (vol. 1) #400"
+    comic_vine_issue_id: 35672
+  - name: "Avengers: West Coast (vol. 2) #82"
+    comic_vine_issue_id: 114274

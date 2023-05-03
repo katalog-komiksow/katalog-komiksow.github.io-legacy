@@ -1,0 +1,33 @@
+---
+collection: wkkm
+name: "The Amazing Spider-Man: Narodziny Venoma"
+image: wkkm.005.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397541
+release_date: "2013-01-30"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/166798/the-amazing-spider-man-narodziny-venoma
+shops:
+  gildia: https://www.gildia.pl/komiksy/211561-wielka-kolekcja-komiksow-marvela-5-the-amazing-spider-man-narodziny-venoma
+reviews: []
+issues:
+  - name: "The Amazing Spider-Man (vol. 1) #252"
+    comic_vine_issue_id: 24297
+  - name: "The Amazing Spider-Man (vol. 1) #256"
+    comic_vine_issue_id: 24687
+  - name: "The Amazing Spider-Man (vol. 1) #257"
+    comic_vine_issue_id: 24777
+  - name: "The Amazing Spider-Man (vol. 1) #258"
+    comic_vine_issue_id: 24880
+  - name: "The Amazing Spider-Man (vol. 1) #300"
+    comic_vine_issue_id: 29584
+  - name: "Web of Spider-Man (vol. 1) #1"
+    comic_vine_issue_id: 25407
+  - name: "Fantastic Four (vol. 1) #274"
+    comic_vine_issue_id: 25162
+  - name: "The Amazing Spider-Man (vol. 1) #298"
+    comic_vine_issue_id: 29365
+  - name: "The Amazing Spider-Man (vol. 1) #299"
+    comic_vine_issue_id: 29476

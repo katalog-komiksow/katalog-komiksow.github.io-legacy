@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Avengers: Świat Avengers"
+image: wkkm.125.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212299
+release_date: "2017-09-06"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4887066/avengers-swiat-avengers
+shops:
+  gildia: https://www.gildia.pl/komiksy/343354-wielka-kolekcja-komiksow-marvela-125-avengers-swiat-avengers
+reviews: []
+issues:
+  - name: "Avengers (vol. 5) #1"
+    comic_vine_issue_id: 371103
+  - name: "Avengers (vol. 5) #2"
+    comic_vine_issue_id: 373217
+  - name: "Avengers (vol. 5) #3"
+    comic_vine_issue_id: 381411
+  - name: "Avengers (vol. 5) #4"
+    comic_vine_issue_id: 382803
+  - name: "Avengers (vol. 5) #5"
+    comic_vine_issue_id: 384953
+  - name: "Avengers (vol. 5) #6"
+    comic_vine_issue_id: 387252

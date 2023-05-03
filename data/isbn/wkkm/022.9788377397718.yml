@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Marvel Zombies
+image: wkkm.022.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397718
+release_date: "2013-09-25"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/196929/marvel-zombies
+shops:
+  gildia: https://www.gildia.pl/komiksy/225889-wielka-kolekcja-komiksow-marvela-22-marvel-zombies
+reviews: []
+issues:
+  - name: "Marvel Zombies (vol. 1) #1"
+    comic_vine_issue_id: 115533
+  - name: "Marvel Zombies (vol. 1) #2"
+    comic_vine_issue_id: 115536
+  - name: "Marvel Zombies (vol. 1) #3"
+    comic_vine_issue_id: 115537
+  - name: "Marvel Zombies (vol. 1) #4"
+    comic_vine_issue_id: 115538
+  - name: "Marvel Zombies (vol. 1) #5"
+    comic_vine_issue_id: 115539

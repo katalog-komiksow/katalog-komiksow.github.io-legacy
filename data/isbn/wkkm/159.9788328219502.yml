@@ -1,0 +1,26 @@
+---
+collection: wkkm
+name: "Karnak: Wszechobecna skaza"
+image: wkkm.159.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328219502
+release_date: "2018-12-24"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4875498/karnak-wszechobecna-skaza
+shops: []
+reviews: []
+issues:
+  - name: "Karnak #1"
+    comic_vine_issue_id: 503561
+  - name: "Karnak #2"
+    comic_vine_issue_id: 516958
+  - name: "Karnak #3"
+    comic_vine_issue_id: 526057
+  - name: "Karnak #4"
+    comic_vine_issue_id: 530731
+  - name: "Karnak #5"
+    comic_vine_issue_id: 550362
+  - name: "Karnak #6"
+    comic_vine_issue_id: 579315

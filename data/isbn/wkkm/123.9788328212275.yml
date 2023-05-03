@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: Warlock. Część 2
+image: wkkm.123.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212275
+release_date: "2017-08-09"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4805762/warlock-czesc-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/342940-wielka-kolekcja-komiksow-marvela-123-warlock-czesc-2
+reviews: []
+issues:
+  - name: "Warlock (vol. 1) #12"
+    comic_vine_issue_id: 16277
+  - name: "Warlock (vol. 1) #13"
+    comic_vine_issue_id: 16438
+  - name: "Warlock (vol. 1) #14"
+    comic_vine_issue_id: 16616
+  - name: "Warlock (vol. 1) #15"
+    comic_vine_issue_id: 16893
+  - name: "Marvel Team-Up (vol. 1) #55"
+    comic_vine_issue_id: 17274
+  - name: "Avengers Annual (vol. 1) #7"
+    comic_vine_issue_id: 17030
+  - name: "Marvel Two-In-One Annual #2"
+    comic_vine_issue_id: 17015

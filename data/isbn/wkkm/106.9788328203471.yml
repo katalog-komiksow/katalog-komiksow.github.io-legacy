@@ -1,0 +1,35 @@
+---
+collection: wkkm
+name: "Iron Man: Początek końca"
+image: wkkm.106.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203471
+release_date: "2016-12-14"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4245105/iron-man-poczatek-konca
+shops:
+  gildia: https://www.gildia.pl/komiksy/319722-wielka-kolekcja-komiksow-marvela-106-iron-man-poczatek-konca
+reviews: []
+issues:
+  - name: "Iron Man (vol. 1) #14"
+    comic_vine_issue_id: 10263
+  - name: "Iron Man (vol. 1) #15"
+    comic_vine_issue_id: 10310
+  - name: "Iron Man (vol. 1) #16"
+    comic_vine_issue_id: 10359
+  - name: "Iron Man (vol. 1) #17"
+    comic_vine_issue_id: 10408
+  - name: "Iron Man (vol. 1) #18"
+    comic_vine_issue_id: 10469
+  - name: "Iron Man (vol. 1) #19"
+    comic_vine_issue_id: 10515
+  - name: "Iron Man (vol. 1) #20"
+    comic_vine_issue_id: 10573
+  - name: "Iron Man (vol. 1) #21"
+    comic_vine_issue_id: 10623
+  - name: "Iron Man (vol. 1) #22"
+    comic_vine_issue_id: 10669
+  - name: "Iron Man (vol. 1) #23"
+    comic_vine_issue_id: 10714

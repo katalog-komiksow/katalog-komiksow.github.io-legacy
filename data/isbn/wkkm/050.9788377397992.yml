@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Czarna Pantera: Kim jest Czarna Pantera?"
+image: wkkm.050.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397992
+release_date: "2014-10-22"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/237601/czarna-pantera-kim-jest-czarna-pantera
+shops:
+  gildia: https://www.gildia.pl/komiksy/253934-wielka-kolekcja-komiksow-marvela-50-czarna-pantera-kim-jest-czarna-pantera
+reviews: []
+issues:
+  - name: "Black Panther (vol. 4) #1"
+    comic_vine_issue_id: 101456
+  - name: "Black Panther (vol. 4) #2"
+    comic_vine_issue_id: 101457
+  - name: "Black Panther (vol. 4) #3"
+    comic_vine_issue_id: 101458
+  - name: "Black Panther (vol. 4) #4"
+    comic_vine_issue_id: 126175
+  - name: "Black Panther (vol. 4) #5"
+    comic_vine_issue_id: 126176
+  - name: "Black Panther (vol. 4) #6"
+    comic_vine_issue_id: 126177

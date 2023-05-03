@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Deadpool. Wojna Wade'a Wilsona
+image: wkkm.086.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203273
+release_date: "2016-03-09"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/298983/deadpool-wojna-wade-a-wilsona
+shops:
+  gildia: https://www.gildia.pl/komiksy/296176-wielka-kolekcja-komiksow-marvela-86-deadpool-wojna-wade-a-wilsona
+reviews: []
+issues:
+  - name: "Deadpool: Wade Wilson’s War #1"
+    comic_vine_issue_id: 218555
+  - name: "Deadpool: Wade Wilson’s War #2"
+    comic_vine_issue_id: 221772
+  - name: "Deadpool: Wade Wilson’s War #3"
+    comic_vine_issue_id: 227850
+  - name: "Deadpool: Wade Wilson’s War #4"
+    comic_vine_issue_id: 232739
+  - name: "X-Men Origins Deadpool #1"
+    comic_vine_issue_id: 224758

@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: Warlock. Część 1
+image: wkkm.121.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212251
+release_date: "2017-07-12"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4805524/warlock-czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/339945-wielka-kolekcja-komiksow-marvela-121-warlock-czesc-1
+reviews: []
+issues:
+  - name: "Strange Tales (vol. 1) #178"
+    comic_vine_issue_id: 15076
+  - name: "Strange Tales (vol. 1) #179"
+    comic_vine_issue_id: 108987
+  - name: "Strange Tales (vol. 1) #180"
+    comic_vine_issue_id: 15291
+  - name: "Strange Tales (vol. 1) #181"
+    comic_vine_issue_id: 15500
+  - name: "Warlock (vol. 1) #9"
+    comic_vine_issue_id: 15708
+  - name: "Warlock (vol. 1) #10"
+    comic_vine_issue_id: 15886
+  - name: "Warlock (vol. 1) #11"
+    comic_vine_issue_id: 16099

@@ -1,0 +1,56 @@
+---
+collection: wkkm
+name: "Kapitan Brytania: Zakręcony świat"
+image: wkkm.128.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9781906965730
+release_date: "2017-10-18"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4807489/kapitan-brytania-zakrecony-swiat
+shops:
+  gildia: https://www.gildia.pl/komiksy/348851-wielka-kolekcja-komiksow-marvela-128-kapitan-brytania-zakrecony-swiat
+reviews:
+  esensja: https://esensja.pl/komiks/recenzje/tekst.html?id=25210
+issues:
+  - name: "Marvel Super-Heroes #387"
+    comic_vine_issue_id: 157574
+  - name: "Marvel Super-Heroes #388"
+    comic_vine_issue_id: 161386
+  - name: "The Daredevils #1"
+    comic_vine_issue_id: 138106
+  - name: "The Daredevils #2"
+    comic_vine_issue_id: 138114
+  - name: "The Daredevils #3"
+    comic_vine_issue_id: 138202
+  - name: "The Daredevils #4"
+    comic_vine_issue_id: 138211
+  - name: "The Daredevils #5"
+    comic_vine_issue_id: 138212
+  - name: "The Daredevils #6"
+    comic_vine_issue_id: 138213
+  - name: "The Daredevils #7"
+    comic_vine_issue_id: 138214
+  - name: "The Daredevils #8"
+    comic_vine_issue_id: 138215
+  - name: "The Daredevils #9"
+    comic_vine_issue_id: 138216
+  - name: "The Daredevils #10"
+    comic_vine_issue_id: 138217
+  - name: "The Daredevils #11"
+    comic_vine_issue_id: 138218
+  - name: "The Mighty World of Marvel vol. 2 #7"
+    comic_vine_issue_id: 23734
+  - name: "The Mighty World of Marvel vol. 2 #8"
+    comic_vine_issue_id: 23884
+  - name: "The Mighty World of Marvel vol. 2 #9"
+    comic_vine_issue_id: 242545
+  - name: "The Mighty World of Marvel vol. 2 #10"
+    comic_vine_issue_id: 140699
+  - name: "The Mighty World of Marvel vol. 2 #11"
+    comic_vine_issue_id: 140716
+  - name: "The Mighty World of Marvel vol. 2 #12"
+    comic_vine_issue_id: 24315
+  - name: "The Mighty World of Marvel vol. 2 #13"
+    comic_vine_issue_id: 24413

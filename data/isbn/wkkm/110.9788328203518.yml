@@ -1,0 +1,37 @@
+---
+collection: wkkm
+name: "Początki Marvela: Lata siedemdziesiąte"
+image: wkkm.110.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203518
+release_date: "2017-02-08"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4316885/poczatki-marvela-lata-siedemdziesiate
+shops:
+  gildia: https://www.gildia.pl/komiksy/326228-wielka-kolekcja-komiksow-marvela-110-poczatki-marvela-lata-siedemdziesiate
+reviews: []
+issues:
+  - name: "Marvel Premiere (vol. 1) #1"
+    comic_vine_issue_id: 12124
+  - name: "Marvel Premiere (vol. 1) #15"
+    comic_vine_issue_id: 47481
+  - name: "Marvel Premiere (vol. 1) #16"
+    comic_vine_issue_id: 14428
+  - name: "Hero for Hire (vol. 1) #1"
+    comic_vine_issue_id: 12266
+  - name: "Marvel Spotlight (vol. 1) #5"
+    comic_vine_issue_id: 12422
+  - name: "Marvel Spotlight (vol. 1) #32"
+    comic_vine_issue_id: 17194
+  - name: "The Incredible Hulk (vol. 1) #181"
+    comic_vine_issue_id: 14760
+  - name: "Nova (vol. 1) #1"
+    comic_vine_issue_id: 16694
+  - name: "Captain Britain (vol. 1) #1"
+    comic_vine_issue_id: 127488
+  - name: "Captain Britain (vol. 1) #2"
+    comic_vine_issue_id: 127489
+  - name: "The Savage She-Hulk (vol. 1) #1"
+    comic_vine_issue_id: 20177

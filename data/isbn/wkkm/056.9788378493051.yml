@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: "Doktor Strange: Przysięga"
+image: wkkm.056.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493051
+release_date: "2015-01-14"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/245842/doktor-strange-przysiega
+shops:
+  gildia: https://www.gildia.pl/komiksy/263500-wielka-kolekcja-komiksow-marvela-56-doktor-strange-przysiega
+reviews: []
+issues:
+  - name: "Doctor Strange: The Oath #1"
+    comic_vine_issue_id: 105989
+  - name: "Doctor Strange: The Oath #2"
+    comic_vine_issue_id: 105988
+  - name: "Doctor Strange: The Oath #3"
+    comic_vine_issue_id: 105990
+  - name: "Doctor Strange: The Oath #4"
+    comic_vine_issue_id: 106026
+  - name: "Doctor Strange: The Oath #5"
+    comic_vine_issue_id: 106721

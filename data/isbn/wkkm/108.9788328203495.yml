@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "The Amazing Spider-Man: Pajęcza wyspa, cz.1"
+image: wkkm.108.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203495
+release_date: "2017-01-11"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4317285/the-amazing-spider-man-pajecza-wyspa-cz-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/322864-wielka-kolekcja-komiksow-marvela-108-the-amazing-spider-man-pajecza-wyspa-czesc-1
+reviews: []
+issues:
+  - name: "Amazing Spider-Man (vol. 1) #666"
+    comic_vine_issue_id: 281822
+  - name: "Amazing Spider-Man (vol. 1) #667"
+    comic_vine_issue_id: 285544
+  - name: "Amazing Spider-Man (vol. 1) #668"
+    comic_vine_issue_id: 290665
+  - name: "Amazing Spider-Man (vol. 1) #669"
+    comic_vine_issue_id: 292609
+  - name: "Venom (vol. 2) #6"
+    comic_vine_issue_id: 286935
+  - name: "Spider-Island: Deadly Foes #1"
+    comic_vine_issue_id: 286181

@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Kapitan Ameryka: Nowy Porządek"
+image: wkkm.019.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397688
+release_date: "2013-08-14"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/192136/kapitan-ameryka-nowy-porzadek
+shops:
+  gildia: https://www.gildia.pl/komiksy/222735-wielka-kolekcja-komiksow-marvela-19-kapitan-ameryka-nowy-porzadek
+reviews: []
+issues:
+  - name: "Captain America (vol. 4) #1"
+    comic_vine_issue_id: 66250
+  - name: "Captain America (vol. 4) #2"
+    comic_vine_issue_id: 66251
+  - name: "Captain America (vol. 4) #3"
+    comic_vine_issue_id: 80544
+  - name: "Captain America (vol. 4) #4"
+    comic_vine_issue_id: 123467
+  - name: "Captain America (vol. 4) #5"
+    comic_vine_issue_id: 150470
+  - name: "Captain America (vol. 4) #6"
+    comic_vine_issue_id: 150471

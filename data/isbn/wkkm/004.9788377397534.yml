@@ -1,0 +1,23 @@
+---
+collection: wkkm
+name: Wolverine
+image: wkkm.004.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397534
+release_date: "2013-01-16"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/165444/wolverine
+shops:
+  gildia: https://www.gildia.pl/komiksy/211560-wielka-kolekcja-komiksow-marvela-4-wolverine
+reviews: []
+issues:
+  - name: "Wolverine (vol. 1) #1"
+    comic_vine_issue_id: 22463
+  - name: "Wolverine (vol. 1) #2"
+    comic_vine_issue_id: 22539
+  - name: "Wolverine (vol. 1) #3"
+    comic_vine_issue_id: 22613
+  - name: "Wolverine (vol. 1) #4"
+    comic_vine_issue_id: 22690

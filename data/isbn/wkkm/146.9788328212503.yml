@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: Naprzód, Avengers!
+image: wkkm.146.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212503
+release_date: "2018-06-27"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4857816/naprzod-avengers
+shops:
+  gildia: https://www.gildia.pl/komiksy/366432-wielka-kolekcja-komiksow-marvela-146-naprzod-avengers
+reviews: []
+issues:
+  - name: "Avengers Assemble (vol. 2) #1"
+    comic_vine_issue_id: 309981
+  - name: "Avengers Assemble (vol. 2) #2"
+    comic_vine_issue_id: 314187
+  - name: "Avengers Assemble (vol. 2) #3"
+    comic_vine_issue_id: 319574
+  - name: "Avengers Assemble (vol. 2) #4"
+    comic_vine_issue_id: 327555
+  - name: "Avengers Assemble (vol. 2) #5"
+    comic_vine_issue_id: 333798
+  - name: "Avengers Assemble (vol. 2) #6"
+    comic_vine_issue_id: 336947
+  - name: "Avengers Assemble (vol. 2) #7"
+    comic_vine_issue_id: 355050
+  - name: "Avengers Assemble (vol. 2) #8"
+    comic_vine_issue_id: 355049

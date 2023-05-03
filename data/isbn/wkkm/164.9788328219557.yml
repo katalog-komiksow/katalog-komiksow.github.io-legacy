@@ -1,0 +1,26 @@
+---
+collection: wkkm
+name: "Daredevil: Chinatown"
+image: wkkm.164.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328219557
+release_date: "2019-03-06"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4881783/daredevil-chinatown
+shops: []
+reviews: []
+issues:
+  - name: "All-New, All-Different Point One #1"
+    comic_vine_issue_id: 502107
+  - name: "Daredevil (vol. 5) #1"
+    comic_vine_issue_id: 507177
+  - name: "Daredevil (vol. 5) #2"
+    comic_vine_issue_id: 508887
+  - name: "Daredevil (vol. 5) #3"
+    comic_vine_issue_id: 512421
+  - name: "Daredevil (vol. 5) #4"
+    comic_vine_issue_id: 516950
+  - name: "Daredevil (vol. 5) #5"
+    comic_vine_issue_id: 522426

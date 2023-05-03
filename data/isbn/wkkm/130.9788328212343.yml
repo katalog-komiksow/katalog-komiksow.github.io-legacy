@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: "Uncanny X-Men: Czasy minionej przyszłości"
+image: wkkm.130.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212343
+release_date: "2017-11-15"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4813157/uncanny-x-men-czasy-minionej-przyszlosci
+shops:
+  gildia: https://www.gildia.pl/komiksy/348853-wielka-kolekcja-komiksow-marvela-130-x-men-czasy-minionej-przyszlosci
+reviews: []
+issues:
+  - name: "X-Men (vol. 1) #138"
+    comic_vine_issue_id: 20751
+  - name: "X-Men (vol. 1) #139"
+    comic_vine_issue_id: 20812
+  - name: "X-Men (vol. 1) #140"
+    comic_vine_issue_id: 20884
+  - name: "X-Men (vol. 1) #141"
+    comic_vine_issue_id: 20988
+  - name: "Uncanny X-Men (vol. 1) #142"
+    comic_vine_issue_id: 21057
+  - name: "Uncanny X-Men (vol. 1) #143"
+    comic_vine_issue_id: 21127
+  - name: "X-Men King-Size Annual (vol. 1) #4"
+    comic_vine_issue_id: 136137

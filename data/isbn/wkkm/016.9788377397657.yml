@@ -1,0 +1,23 @@
+---
+collection: wkkm
+name: "New X-Men: Z jak Zagłada"
+image: wkkm.016.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397657
+release_date: "2013-07-03"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/187864/new-x-men-z-jak-zaglada
+shops:
+  gildia: https://www.gildia.pl/komiksy/217617-wielka-kolekcja-komiksow-marvela-16-new-x-men-z-jak-zaglada
+reviews: []
+issues:
+  - name: "New X-Men (vol. 1) #114"
+    comic_vine_issue_id: 66992
+  - name: "New X-Men (vol. 1) #115"
+    comic_vine_issue_id: 66993
+  - name: "New X-Men (vol. 1) #116"
+    comic_vine_issue_id: 66994
+  - name: "New X-Men (vol. 1) #117"
+    comic_vine_issue_id: 66995

@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: "Thor: Gromowładna"
+image: wkkm.148.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212527
+release_date: "2018-07-25"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4845992/thor-gromowladna
+shops:
+  gildia: https://www.gildia.pl/komiksy/369892-wielka-kolekcja-komiksow-marvela-148-thor-gromowladna
+reviews: []
+issues:
+  - name: "Thor (vol. 4) #1"
+    comic_vine_issue_id: 466966
+  - name: "Thor (vol. 4) #2"
+    comic_vine_issue_id: 469844
+  - name: "Thor (vol. 4) #3"
+    comic_vine_issue_id: 472913
+  - name: "Thor (vol. 4) #4"
+    comic_vine_issue_id: 477856
+  - name: "Thor (vol. 4) #5"
+    comic_vine_issue_id: 479265

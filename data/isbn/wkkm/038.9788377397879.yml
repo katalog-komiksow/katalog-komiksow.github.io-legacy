@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: "Thor: Ostatni Wiking"
+image: wkkm.038.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397879
+release_date: "2014-05-07"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/223567/thor-ostatni-wiking
+shops:
+  gildia: https://www.gildia.pl/komiksy/242597-wielka-kolekcja-komiksow-marvela-38-thor-ostatni-wiking
+reviews: []
+issues:
+  - name: "The Mighty Thor (vol. 1) #337"
+    comic_vine_issue_id: 23647
+  - name: "The Mighty Thor (vol. 1) #338"
+    comic_vine_issue_id: 23742
+  - name: "The Mighty Thor (vol. 1) #339"
+    comic_vine_issue_id: 23893
+  - name: "The Mighty Thor (vol. 1) #340"
+    comic_vine_issue_id: 23993
+  - name: "The Mighty Thor (vol. 1) #341"
+    comic_vine_issue_id: 24111
+  - name: "The Mighty Thor (vol. 1) #342"
+    comic_vine_issue_id: 24215
+  - name: "The Mighty Thor (vol. 1) #343"
+    comic_vine_issue_id: 24321

@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Marvels
+image: wkkm.013.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397626
+release_date: "2013-05-22"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/180559/marvels
+shops:
+  gildia: https://www.gildia.pl/komiksy/217614-wielka-kolekcja-komiksow-marvela-13-marvels
+reviews: []
+issues:
+  - name: "Marvels #0"
+    comic_vine_issue_id: 39506
+  - name: "Marvels #1"
+    comic_vine_issue_id: 38505
+  - name: "Marvels #2"
+    comic_vine_issue_id: 38654
+  - name: "Marvels #3"
+    comic_vine_issue_id: 38799
+  - name: "Marvels #4"
+    comic_vine_issue_id: 38942

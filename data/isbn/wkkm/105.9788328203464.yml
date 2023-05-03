@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: Avengers kontra X-Men. Część 1
+image: wkkm.105.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203464
+release_date: "2016-11-30"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4098255/avengers-kontra-x-men-czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/319721-wielka-kolekcja-komiksow-marvela-105-avengers-kontra-x-men-czesc-1
+reviews: []
+issues:
+  - name: "Avengers vs. X-Men #0"
+    comic_vine_issue_id: 324839
+  - name: "Avengers vs. X-Men #1"
+    comic_vine_issue_id: 326860
+  - name: "Avengers vs. X-Men #2"
+    comic_vine_issue_id: 331952
+  - name: "Avengers vs. X-Men #3"
+    comic_vine_issue_id: 334169
+  - name: "Avengers vs. X-Men #4"
+    comic_vine_issue_id: 336045
+  - name: "AVX: VS #1"
+    comic_vine_issue_id: 333447
+  - name: "AVX: VS #2"
+    comic_vine_issue_id: 335954

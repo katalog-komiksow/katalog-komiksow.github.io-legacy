@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Superior Spider-Man: Mój Własny Najgorszy Wróg"
+image: wkkm.129.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212336
+release_date: "2017-10-31"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4853179/superior-spider-man-moj-wlasny-najgorszy-wrog
+shops:
+  gildia: https://www.gildia.pl/komiksy/348852-wielka-kolekcja-komiksow-marvela-129-superior-spider-man-moj-najgorszy-wrog
+reviews: []
+issues:
+  - name: "The Amazing Spider-Man (vol. 1) #698"
+    comic_vine_issue_id: 369103
+  - name: "The Amazing Spider-Man (vol. 1) #699"
+    comic_vine_issue_id: 371256
+  - name: "The Amazing Spider-Man (vol. 1) #700"
+    comic_vine_issue_id: 373805
+  - name: "Superior Spider-Man #1"
+    comic_vine_issue_id: 378868
+  - name: "Superior Spider-Man #2"
+    comic_vine_issue_id: 382809
+  - name: "Superior Spider-Man #3"
+    comic_vine_issue_id: 384964
+  - name: "Superior Spider-Man #4"
+    comic_vine_issue_id: 387262
+  - name: "Superior Spider-Man #5"
+    comic_vine_issue_id: 390453

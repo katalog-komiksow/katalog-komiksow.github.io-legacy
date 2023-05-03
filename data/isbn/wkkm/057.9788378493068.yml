@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: "Thunderbolts: Wiara w Potwory"
+image: wkkm.057.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493068
+release_date: "2015-01-28"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/247093/thunderbolts-wiara-w-potwory
+shops:
+  gildia: https://www.gildia.pl/komiksy/263804-wielka-kolekcja-komiksow-marvela-57-thunderbolts-wiara-w-potwory
+reviews: []
+issues:
+  - name: "Thunderbolts (vol. 1) #110"
+    comic_vine_issue_id: 106203
+  - name: "Thunderbolts (vol. 1) #111"
+    comic_vine_issue_id: 106481
+  - name: "Thunderbolts (vol. 1) #112"
+    comic_vine_issue_id: 106910
+  - name: "Thunderbolts (vol. 1) #113"
+    comic_vine_issue_id: 108363
+  - name: "Thunderbolts (vol. 1) #114"
+    comic_vine_issue_id: 109265
+  - name: "Thunderbolts (vol. 1) #115"
+    comic_vine_issue_id: 111038
+  - name: "Civil War: Choosing Sides"
+    comic_vine_issue_id: 107009

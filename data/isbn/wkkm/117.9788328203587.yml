@@ -1,0 +1,28 @@
+---
+collection: wkkm
+name: "The Amazing Spider-Man: Pajęcza wyspa, cz.2"
+image: wkkm.117.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203587
+release_date: "2017-05-17"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4719198/the-amazing-spider-man-pajecza-wyspa-cz-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/335932-wielka-kolekcja-komiksow-marvela-117-the-amazing-spider-man-pajecza-wyspa-czesc-2
+reviews: []
+issues:
+  - name: "The Amazing Spider-Man (vol. 1) #670"
+    comic_vine_issue_id: 293619
+  - name: "The Amazing Spider-Man (vol. 1) #671"
+    comic_vine_issue_id: 294956
+  - name: "The Amazing Spider-Man (vol. 1) #672"
+    comic_vine_issue_id: 299744
+  - name: "The Amazing Spider-Man (vol. 1) #673"
+    comic_vine_issue_id: 301042
+  - name: "Venom (vol. 2) #7"
+    comic_vine_issue_id: 293634
+  - name: "Venom (vol. 2) #8"
+    comic_vine_issue_id: 299750
+

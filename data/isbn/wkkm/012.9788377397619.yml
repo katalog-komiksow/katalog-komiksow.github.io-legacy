@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Avengers: Impas"
+image: wkkm.012.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397619
+release_date: "2013-05-08"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/178484/avengers-impas
+shops:
+  gildia: https://www.gildia.pl/komiksy/217613-wielka-kolekcja-komiksow-marvela-12-avengers-impas
+reviews: []
+issues:
+  - name: "Avengers (vol. 3) #61"
+    comic_vine_issue_id: 113974
+  - name: "Avengers (vol. 3) #62"
+    comic_vine_issue_id: 114408
+  - name: "Avengers (vol. 3) #63"
+    comic_vine_issue_id: 114409
+  - name: "Avengers (vol. 3) #76"
+    comic_vine_issue_id: 114480
+  - name: "Thor (vol. 2) #58"
+    comic_vine_issue_id: 99304
+  - name: "Iron Man (vol. 3) #64"
+    comic_vine_issue_id: 118530

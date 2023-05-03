@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Astonishing Thor
+image: wkkm.053.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493020
+release_date: "2014-12-03"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/241222/astonishing-thor
+shops:
+  gildia: https://www.gildia.pl/komiksy/259809-wielka-kolekcja-komiksow-marvela-53-astonishing-thor
+reviews: []
+issues:
+  - name: "Astonishing Thor #1"
+    comic_vine_issue_id: 246538
+  - name: "Astonishing Thor #2"
+    comic_vine_issue_id: 259245
+  - name: "Astonishing Thor #3"
+    comic_vine_issue_id: 264756
+  - name: "Astonishing Thor #4"
+    comic_vine_issue_id: 269573
+  - name: "Astonishing Thor #5"
+    comic_vine_issue_id: 277878

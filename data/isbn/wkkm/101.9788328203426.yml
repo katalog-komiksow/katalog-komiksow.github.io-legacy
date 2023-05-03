@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "X-Men: W cieniu Saurona"
+image: wkkm.101.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203426
+release_date: "2016-10-05"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3903531/x-men-w-cieniu-saurona
+shops:
+  gildia: https://www.gildia.pl/komiksy/316098-wielka-kolekcja-komiksow-marvela-101-x-men-w-cieniu-saurona
+reviews: []
+issues:
+  - name: "X-Men (vol. 1) #60"
+    comic_vine_issue_id: 10417
+  - name: "X-Men (vol. 1) #61"
+    comic_vine_issue_id: 10475
+  - name: "X-Men (vol. 1) #62"
+    comic_vine_issue_id: 10526
+  - name: "X-Men (vol. 1) #63"
+    comic_vine_issue_id: 10580
+  - name: "X-Men (vol. 1) #64"
+    comic_vine_issue_id: 10635
+  - name: "X-Men (vol. 1) #65"
+    comic_vine_issue_id: 10676
+  - name: "X-Men (vol. 1) #66"
+    comic_vine_issue_id: 10724
+  - name: "Amazing Adventures (vol. 2) #11"
+    comic_vine_issue_id: 12046

@@ -1,0 +1,37 @@
+---
+collection: wkkm
+name: "Doktor Strange: Odrębna rzeczywistość"
+image: wkkm.137.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328212411
+release_date: "2018-02-21"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4823696/doktor-strange-odrebna-rzeczywistosc
+shops:
+  gildia: https://www.gildia.pl/komiksy/356272-wielka-kolekcja-komiksow-marvela-137-doktor-strange-odrebna-rzeczywistosc
+reviews: []
+issues:
+  - name: "Marvel Premiere #9"
+    comic_vine_issue_id: 13393
+  - name: "Marvel Premiere #10"
+    comic_vine_issue_id: 13585
+  - name: "Marvel Premiere #11"
+    comic_vine_issue_id: 13701
+  - name: "Marvel Premiere #12"
+    comic_vine_issue_id: 13801
+  - name: "Marvel Premiere #13"
+    comic_vine_issue_id: 13995
+  - name: "Marvel Premiere #14"
+    comic_vine_issue_id: 14131
+  - name: "Doctor Strange (vol. 2) #1"
+    comic_vine_issue_id: 14334
+  - name: "Doctor Strange (vol. 2) #2"
+    comic_vine_issue_id: 14486
+  - name: "Doctor Strange (vol. 2) #3"
+    comic_vine_issue_id: 14576
+  - name: "Doctor Strange (vol. 2) #4"
+    comic_vine_issue_id: 14660
+  - name: "Doctor Strange (vol. 2) #5"
+    comic_vine_issue_id: 14834

@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Fantastyczna Czwórka: Koniec"
+image: wkkm.052.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493013
+release_date: "2014-11-19"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/240092/fantastyczna-czworka-koniec
+shops:
+  gildia: https://www.gildia.pl/komiksy/253936-wielka-kolekcja-komiksow-marvela-52-fantastyczna-czworka-koniec
+reviews: []
+issues:
+  - name: "Fantastic Four: The End #1"
+    comic_vine_issue_id: 106460
+  - name: "Fantastic Four: The End #2"
+    comic_vine_issue_id: 118525
+  - name: "Fantastic Four: The End #3"
+    comic_vine_issue_id: 118526
+  - name: "Fantastic Four: The End #4"
+    comic_vine_issue_id: 118527
+  - name: "Fantastic Four: The End #5"
+    comic_vine_issue_id: 118529
+  - name: "Fantastic Four: The End #6"
+    comic_vine_issue_id: 118528

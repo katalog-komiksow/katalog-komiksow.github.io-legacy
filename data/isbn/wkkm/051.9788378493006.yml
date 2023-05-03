@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Wielka Wojna Hulka
+image: wkkm.051.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493006
+release_date: "2014-11-05"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://www.gildia.pl/komiksy/253935-wielka-kolekcja-komiksow-marvela-51-wielka-wojna-hulka
+shops:
+  gildia: https://www.gildia.pl/komiksy/253935-wielka-kolekcja-komiksow-marvela-51-wielka-wojna-hulka
+reviews: []
+issues:
+  - name: "World War Hulk #1"
+    comic_vine_issue_id: 110435
+  - name: "World War Hulk #2"
+    comic_vine_issue_id: 111670
+  - name: "World War Hulk #3"
+    comic_vine_issue_id: 112280
+  - name: "World War Hulk #4"
+    comic_vine_issue_id: 114624
+  - name: "World War Hulk #5"
+    comic_vine_issue_id: 117746

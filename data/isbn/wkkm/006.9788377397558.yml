@@ -1,0 +1,33 @@
+---
+collection: wkkm
+name: "Uncanny X-Men: Mroczna Phoenix"
+image: wkkm.006.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397558
+release_date: "2013-02-13"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/168481/uncanny-x-men-mroczna-phoenix
+shops:
+  gildia: https://www.gildia.pl/komiksy/211971-wielka-kolekcja-komiksow-marvela-6-mroczna-phoenix
+reviews: []
+issues:
+  - name: "X-Men (vol. 1) #129"
+    comic_vine_issue_id: 20114
+  - name: "X-Men (vol. 1) #130"
+    comic_vine_issue_id: 20186
+  - name: "X-Men (vol. 1) #131"
+    comic_vine_issue_id: 20258
+  - name: "X-Men (vol. 1) #132"
+    comic_vine_issue_id: 20333
+  - name: "X-Men (vol. 1) #133"
+    comic_vine_issue_id: 20403
+  - name: "X-Men (vol. 1) #134"
+    comic_vine_issue_id: 20477
+  - name: "X-Men (vol. 1) #135"
+    comic_vine_issue_id: 20546
+  - name: "X-Men (vol. 1) #136"
+    comic_vine_issue_id: 20613
+  - name: "X-Men (vol. 1) #137"
+    comic_vine_issue_id: 20681

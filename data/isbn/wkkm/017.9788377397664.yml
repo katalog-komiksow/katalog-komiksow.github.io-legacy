@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Tajna Wojna
+image: wkkm.017.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397664
+release_date: "2013-07-17"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/188875/tajna-wojna
+shops:
+  gildia: https://www.gildia.pl/komiksy/217618-wielka-kolekcja-komiksow-marvela-17-tajna-wojna
+reviews: []
+issues:
+  - name: "Secret War #1"
+    comic_vine_issue_id: 106863
+  - name: "Secret War #2"
+    comic_vine_issue_id: 106864
+  - name: "Secret War #3"
+    comic_vine_issue_id: 106865
+  - name: "Secret War #4"
+    comic_vine_issue_id: 106866
+  - name: "Secret War #5"
+    comic_vine_issue_id: 106867

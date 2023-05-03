@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Iron Fist: Poszukiwanie Colleen Wing"
+image: wkkm.100.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203419
+release_date: "2016-09-21"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3867482/iron-fist-poszukiwanie-colleen-wing
+shops:
+  gildia: https://www.gildia.pl/komiksy/313199-wielka-kolekcja-komiksow-marvela-100-iron-fist-w-poszukiwaniu-colleen-wing
+reviews: []
+issues:
+  - name: "Marvel Premiere (vol. 1) #25"
+    comic_vine_issue_id: 15691
+  - name: "Iron Fist (vol. 1) #1"
+    comic_vine_issue_id: 15784
+  - name: "Iron Fist (vol. 1) #2"
+    comic_vine_issue_id: 15867
+  - name: "Iron Fist (vol. 1) #3"
+    comic_vine_issue_id: 16082
+  - name: "Iron Fist (vol. 1) #4"
+    comic_vine_issue_id: 16258
+  - name: "Iron Fist (vol. 1) #5"
+    comic_vine_issue_id: 16419
+  - name: "Iron Fist (vol. 1) #6"
+    comic_vine_issue_id: 16598
+  - name: "Iron Fist (vol. 1) #7"
+    comic_vine_issue_id: 16685

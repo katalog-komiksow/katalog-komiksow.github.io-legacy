@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Kraina cieni
+image: wkkm.069.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203105
+release_date: "2015-07-15"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/262926/kraina-cieni
+shops:
+  gildia: https://www.gildia.pl/komiksy/277264-wielka-kolekcja-komiksow-marvela-69-kraina-cieni
+reviews: []
+issues:
+  - name: "Shadowland #1"
+    comic_vine_issue_id: 223400
+  - name: "Shadowland #2"
+    comic_vine_issue_id: 227712
+  - name: "Shadowland #3"
+    comic_vine_issue_id: 232570
+  - name: "Shadowland #4"
+    comic_vine_issue_id: 238178
+  - name: "Shadowland #5"
+    comic_vine_issue_id: 247321

@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Sam strach. Cześć 1
+image: wkkm.088.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203297
+release_date: "2016-04-06"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/301860/sam-strach-czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/296178-wielka-kolekcja-komiksow-marvela-88-sam-strach-cz-1
+reviews: []
+issues:
+  - name: "Fear Itself Prologue: Book Of The Skull"
+    comic_vine_issue_id: 265959
+  - name: "Fear Itself #1"
+    comic_vine_issue_id: 267534
+  - name: "Fear Itself #2"
+    comic_vine_issue_id: 269476
+  - name: "Fear Itself #3"
+    comic_vine_issue_id: 272330
+  - name: "Fear Itself: The Worthy One-Shot"
+    comic_vine_issue_id: 281836

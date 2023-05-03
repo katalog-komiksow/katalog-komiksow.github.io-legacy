@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "New Avengers: Ucieczka"
+image: wkkm.032.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397817
+release_date: "2014-02-12"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/213997/new-avengers-ucieczka
+shops:
+  gildia: https://www.gildia.pl/komiksy/237310-wielka-kolekcja-komiksow-marvela-32-new-avengers-ucieczka
+reviews: []
+issues:
+  - name: "New Avengers (vol. 1) #1"
+    comic_vine_issue_id: 101407
+  - name: "New Avengers (vol. 1) #2"
+    comic_vine_issue_id: 101408
+  - name: "New Avengers (vol. 1) #3"
+    comic_vine_issue_id: 101409
+  - name: "New Avengers (vol. 1) #4"
+    comic_vine_issue_id: 108304
+  - name: "New Avengers (vol. 1) #5"
+    comic_vine_issue_id: 108305
+  - name: "New Avengers (vol. 1) #6"
+    comic_vine_issue_id: 108306

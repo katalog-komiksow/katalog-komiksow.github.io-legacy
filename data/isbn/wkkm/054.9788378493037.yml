@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Wolverine: Staruszek Logan"
+image: wkkm.054.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493037
+release_date: "2014-12-17"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/238877/wolverine-staruszek-logan
+shops:
+  gildia: https://www.gildia.pl/komiksy/259810-wielka-kolekcja-komiksow-marvela-54-wolverine-staruszek-logan
+reviews: []
+issues:
+  - name: "Wolverine (vol. 3) #66"
+    comic_vine_issue_id: 131540
+  - name: "Wolverine (vol. 3) #67"
+    comic_vine_issue_id: 134636
+  - name: "Wolverine (vol. 3) #68"
+    comic_vine_issue_id: 136528
+  - name: "Wolverine (vol. 3) #69"
+    comic_vine_issue_id: 141985
+  - name: "Wolverine (vol. 3) #70"
+    comic_vine_issue_id: 149318
+  - name: "Wolverine (vol. 3) #71"
+    comic_vine_issue_id: 153678
+  - name: "Wolverine (vol. 3) #72"
+    comic_vine_issue_id: 158597
+  - name: "Wolverine: Giant-Size Old Man Logan"
+    comic_vine_issue_id: 172385

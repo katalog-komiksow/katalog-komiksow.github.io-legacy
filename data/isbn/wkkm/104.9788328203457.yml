@@ -1,0 +1,32 @@
+---
+collection: wkkm
+name: "Defenders: Dzień Defenders"
+image: wkkm.104.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203457
+release_date: "2016-11-16"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4207872/defenders-dzien-defenders
+shops:
+  gildia: https://www.gildia.pl/komiksy/319720-wielka-kolekcja-komiksow-marvela-104-defenders-dzien-defenders
+reviews: []
+issues:
+  - name: "Marvel Feature (vol. 1) #1"
+    comic_vine_issue_id: 11846
+  - name: "Marvel Feature (vol. 1) #2"
+    comic_vine_issue_id: 12057
+  - name: "Marvel Feature (vol. 1) #3"
+    comic_vine_issue_id: 12269
+  - name: "Defenders (vol. 1) #1"
+    comic_vine_issue_id: 12416
+  - name: "Defenders (vol. 1) #2"
+    comic_vine_issue_id: 12570
+  - name: "Defenders (vol. 1) #3"
+    comic_vine_issue_id: 12735
+  - name: "Defenders (vol. 1) #4"
+    comic_vine_issue_id: 12921
+  - name: "Defenders (vol. 1) #5"
+    comic_vine_issue_id: 13104
+

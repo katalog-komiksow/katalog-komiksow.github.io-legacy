@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "The Amazing Spider-Man: Ostatnie łowy Kravena"
+image: wkkm.010.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397596
+release_date: "2013-04-10"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/175080/the-amazing-spider-man-ostatnie-lowy-kravena
+shops:
+  gildia: https://www.gildia.pl/komiksy/215728-wielka-kolekcja-komiksow-marvela-10-spider-man-ostatnie-lowy-kravena
+reviews: []
+issues:
+  - name: "Web of Spider-Man (vol. 1) #31"
+    comic_vine_issue_id: 28701
+  - name: "Web of Spider-Man (vol. 1) #32"
+    comic_vine_issue_id: 28819
+  - name: "The Amazing Spider-Man (vol. 1) #293"
+    comic_vine_issue_id: 28682
+  - name: "The Amazing Spider-Man (vol. 1) #294"
+    comic_vine_issue_id: 28795
+  - name: "Peter Parker, The Spectacular Spider-Man #131"
+    comic_vine_issue_id: 28691
+  - name: "Peter Parker, The Spectacular Spider-Man #132"
+    comic_vine_issue_id: 28805

@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Fantastyczna Czwórka: Odkrywcy"
+image: wkkm.154.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328219458
+release_date: "2018-10-17"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: ''
+shops:
+  gildia: ''
+reviews: []
+issues:
+  - name: "Fantastic Four (vol. 4) #1"
+    comic_vine_issue_id: 367696
+  - name: "Fantastic Four (vol. 4) #2"
+    comic_vine_issue_id: 372287
+  - name: "Fantastic Four (vol. 4) #3"
+    comic_vine_issue_id: 378891
+  - name: "Fantastic Four (vol. 4) #4"
+    comic_vine_issue_id: 386135
+  - name: "Fantastic Four (vol. 4) #5"
+    comic_vine_issue_id: 392354
+  - name: "Fantastic Four (vol. 4) #6"
+    comic_vine_issue_id: 396426
+  - name: "Fantastic Four (vol. 4) #7"
+    comic_vine_issue_id: 398983
+  - name: "Fantastic Four (vol. 4) #8"
+    comic_vine_issue_id: 404696

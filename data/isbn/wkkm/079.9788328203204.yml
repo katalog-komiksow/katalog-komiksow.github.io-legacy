@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: "Secret Avengers: Misja na Marsa"
+image: wkkm.079.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203204
+release_date: "2015-12-02"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/288561/secret-avengers-misja-na-marsa
+shops:
+  gildia: https://www.gildia.pl/komiksy/288002-wielka-kolekcja-komiksow-marvela-79-tajni-avengers-misja-na-marsa
+reviews: []
+issues:
+  - name: "Secret Avengers (vol. 1) #1"
+    comic_vine_issue_id: 216182
+  - name: "Secret Avengers (vol. 1) #2"
+    comic_vine_issue_id: 221791
+  - name: "Secret Avengers (vol. 1) #3"
+    comic_vine_issue_id: 226878
+  - name: "Secret Avengers (vol. 1) #4"
+    comic_vine_issue_id: 230303
+  - name: "Secret Avengers (vol. 1) #5"
+    comic_vine_issue_id: 235393

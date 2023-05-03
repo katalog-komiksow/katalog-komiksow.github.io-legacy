@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Ultimates: Superludzie. Część 1"
+image: wkkm.024.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397732
+release_date: "2013-10-23"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/199523/ultimates-superludzie-czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/1364-ultimates-1-superludzie
+reviews: []
+issues:
+  - name: "The Ultimates #1"
+    comic_vine_issue_id: 107330
+  - name: "The Ultimates #2"
+    comic_vine_issue_id: 107785
+  - name: "The Ultimates #3"
+    comic_vine_issue_id: 120038
+  - name: "The Ultimates #4"
+    comic_vine_issue_id: 120039
+  - name: "The Ultimates #5"
+    comic_vine_issue_id: 120040
+  - name: "The Ultimates #6"
+    comic_vine_issue_id: 120091

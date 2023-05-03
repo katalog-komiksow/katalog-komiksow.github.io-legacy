@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Venom
+image: wkkm.064.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203051
+release_date: "2015-05-06"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/256895/venom
+shops:
+  gildia: https://www.gildia.pl/komiksy/270860-wielka-kolekcja-komiksow-marvela-64-venom
+reviews: []
+issues:
+  - name: "Venom (vol. 2) #1"
+    comic_vine_issue_id: 265510
+  - name: "Venom (vol. 2) #2"
+    comic_vine_issue_id: 269063
+  - name: "Venom (vol. 2) #3"
+    comic_vine_issue_id: 271611
+  - name: "Venom (vol. 2) #4"
+    comic_vine_issue_id: 276657
+  - name: "Venom (vol. 2) #5"
+    comic_vine_issue_id: 281845

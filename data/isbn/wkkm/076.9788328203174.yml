@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: X-Men. Rozłam
+image: wkkm.076.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203174
+release_date: "2015-10-21"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/268716/x-men-rozlam
+shops:
+  gildia: https://www.gildia.pl/komiksy/280655-wielka-kolekcja-komiksow-marvela-76-x-men-rozlam
+reviews: []
+issues:
+  - name: "X-Men: Schism #1"
+    comic_vine_issue_id: 278744
+  - name: "X-Men: Schism #2"
+    comic_vine_issue_id: 281713
+  - name: "X-Men: Schism #3"
+    comic_vine_issue_id: 286947
+  - name: "X-Men: Schism #4"
+    comic_vine_issue_id: 293380
+  - name: "X-Men: Schism #5"
+    comic_vine_issue_id: 294049
+  - name: "Generation Hope #10"
+    comic_vine_issue_id: 286948
+  - name: "Generation Hope #11"
+    comic_vine_issue_id: 293389
+  - name: "X-Men: Regenesis #1"
+    comic_vine_issue_id: 294888

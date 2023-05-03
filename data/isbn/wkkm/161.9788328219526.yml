@@ -1,0 +1,26 @@
+---
+collection: wkkm
+name: "Punisher: W drodze"
+image: wkkm.161.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328219526
+release_date: "2019-01-23"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4877945/punisher-w-drodze
+shops: []
+reviews: []
+issues:
+  - name: "Punisher (vol. 11) #1"
+    comic_vine_issue_id: 528516
+  - name: "Punisher (vol. 11) #2"
+    comic_vine_issue_id: 533034
+  - name: "Punisher (vol. 11) #3"
+    comic_vine_issue_id: 538515
+  - name: "Punisher (vol. 11) #4"
+    comic_vine_issue_id: 542627
+  - name: "Punisher (vol. 11) #5"
+    comic_vine_issue_id: 550369
+  - name: "Punisher (vol. 11) #6"
+    comic_vine_issue_id: 553019

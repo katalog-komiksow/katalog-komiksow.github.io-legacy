@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: Avengers kontra X-Men. Część 2
+image: wkkm.111.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203525
+release_date: "2017-02-22"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4388458/avengers-kontra-x-men-czesc-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/326229-wielka-kolekcja-komiksow-marvela-111-avengers-kontra-x-men-czesc-2
+reviews: []
+issues:
+  - name: "Avengers vs. X-Men #5"
+    comic_vine_issue_id: 338525
+  - name: "Avengers vs. X-Men #6"
+    comic_vine_issue_id: 341749
+  - name: "Avengers vs. X-Men #7"
+    comic_vine_issue_id: 344114
+  - name: "Avengers vs. X-Men #8"
+    comic_vine_issue_id: 346240
+  - name: "AVX: VS #3"
+    comic_vine_issue_id: 340399
+  - name: "AVX: VS #4"
+    comic_vine_issue_id: 345445

@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Pierwsi Avengers
+image: wkkm.074.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203150
+release_date: "2015-09-23"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/270008/pierwsi-avengers
+shops:
+  gildia: https://www.gildia.pl/komiksy/280653-wielka-kolekcja-komiksow-marvela-74-pierwsi-avengers
+reviews: []
+issues:
+  - name: "Avengers: Prime #1"
+    comic_vine_issue_id: 217323
+  - name: "Avengers: Prime #2"
+    comic_vine_issue_id: 227872
+  - name: "Avengers: Prime #3"
+    comic_vine_issue_id: 236711
+  - name: "Avengers: Prime #4"
+    comic_vine_issue_id: 242900
+  - name: "Avengers: Prime #5"
+    comic_vine_issue_id: 254666

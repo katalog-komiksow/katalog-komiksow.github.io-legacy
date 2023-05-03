@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Thor: Odrodzenie"
+image: wkkm.008.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397572
+release_date: "2013-03-13"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/171783/thor-odrodzenie
+shops:
+  gildia: https://www.gildia.pl/komiksy/214289-wielka-kolekcja-komiksow-marvela-8-thor-odrodzenie
+reviews: []
+issues:
+  - name: "Thor (vol. 3) #1"
+    comic_vine_issue_id: 111243
+  - name: "Thor (vol. 3) #2"
+    comic_vine_issue_id: 112281
+  - name: "Thor (vol. 3) #3"
+    comic_vine_issue_id: 114396
+  - name: "Thor (vol. 3) #4"
+    comic_vine_issue_id: 117826
+  - name: "Thor (vol. 3) #5"
+    comic_vine_issue_id: 120612
+  - name: "Thor (vol. 3) #6"
+    comic_vine_issue_id: 124023

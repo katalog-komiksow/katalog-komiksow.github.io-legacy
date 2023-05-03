@@ -1,0 +1,341 @@
+---
+- name: "The Amazing Spider-Man: Powrót do domu"
+  isbn: 9788377392003
+- name: "Astonishing X-Men: Obdarowani"
+  isbn: 9788377392010
+- name: "Iron Man: Extremis"
+  isbn: 9788377392027
+- name: "Wolverine"
+  isbn: 9788377397534
+- name: "The Amazing Spider-Man: Narodziny Venoma"
+  isbn: 9788377397541
+- name: "Uncanny X-Men: Mroczna Phoenix"
+  isbn: 9788377397558
+- name: "Hulk: Niemy krzyk"
+  isbn: 9788377397565
+- name: "Thor: Odrodzenie"
+  isbn: 9788377397572
+- name: "Avengers: Upadek Avengers"
+  isbn: 9788377397589
+- name: "The Amazing Spider-Man: Ostatnie łowy Kravena"
+  isbn: 9788377397596
+- name: "Kapitan Ameryka: Zimowy Żołnierz część 1"
+  isbn: 9788377397602
+- name: "Avengers: Impas"
+  isbn: 9788377397619
+- name: "Marvels"
+  isbn: 9788377397626
+- name: "Kapitan Ameryka: Zimowy Żołnierz część 2"
+  isbn: 9788377397633
+- name: "Punisher: Witaj ponownie, Frank część 1"
+  isbn: 9788377391990
+- name: "New X-Men: Z jak Zagłada"
+  isbn: 9788377397657
+- name: "Tajna Wojna"
+  isbn: 9788377397664
+- name: "Iron Man: Pięć Koszmarów"
+  isbn: 9788377397671
+- name: "Kapitan Ameryka: Nowy Porządek"
+  isbn: 9788377397688
+- name: "Daredevil: Odrodzony"
+  isbn: 9788377397695
+- name: "New X-Men: Imperialni"
+  isbn: 9788377397701
+- name: "Marvel Zombies"
+  isbn: 9788377397718
+- name: "Hulk: Planeta Hulka, cz. 1"
+  isbn: 9788377397725
+- name: "Ultimates: Superludzie. Część 1"
+  isbn: 9788377397732
+- name: "Ultimate Spider-Man: Moc i Odpowiedzialność"
+  isbn: 9788377397749
+- name: "Superbohaterowie Marvela: Tajne Wojny, cz. 1"
+  isbn: 9788377397756
+- name: "Thor: W Poszukiwaniu Bogów"
+  isbn: 9788377397763
+- name: "Astonishing X-Men: Niebezpieczni"
+  isbn: 9788377397770
+- name: "Iron Man: Demon w butelce"
+  isbn: 9788377397787
+- name: "Hulk: Planeta Hulka, cz. 2"
+  isbn: 9788377397794
+- name: "Kapitan Ameryka: Wybraniec"
+  isbn: 9788377397800
+- name: "New Avengers: Ucieczka"
+  isbn: 9788377397817
+- name: "Spider-Man: Niebieski"
+  isbn: 9788377397824
+- name: "She-Hulk: Samotna Zielona Kobieta"
+  isbn: 9788377397831
+- name: "Ród M"
+  isbn: 9788377397848
+- name: "Wolverine: Geneza"
+  isbn: 9788377397855
+- name: "Fantastyczna Czwórka: Niepojęte"
+  isbn: 9788377397862
+- name: "Thor: Ostatni Wiking"
+  isbn: 9788377397879
+- name: "Wojna Domowa"
+  isbn: 9788377397886
+- name: "Superbohaterowie Marvela: Tajne Wojny cz. 2"
+  isbn: 9788377397893
+- name: "Fantastyczna Czwórka: Uzasadniona interwencja"
+  isbn: 9788377397909
+- name: "Poległy Syn: Śmierć Kapitana Ameryki"
+  isbn: 9788377397916
+- name: "Punisher: Witaj ponownie, Frank część 2"
+  isbn: 9788377397923
+- name: "Ultimates: Superludzie. Część 2"
+  isbn: 9788377397930
+- name: "Wolverine: Broń X"
+  isbn: 9788377397947
+- name: "1602"
+  isbn: 9788377397954
+- name: "Daredevil: Diabeł Stróż"
+  isbn: 9788377397961
+- name: "The Amazing Spider-Man: Wyznania"
+  isbn: 9788377397978
+- name: "Przedwieczni"
+  isbn: 9788377397985
+- name: "Czarna Pantera: Kim jest Czarna Pantera?"
+  isbn: 9788377397992
+- name: "Wielka Wojna Hulka"
+  isbn: 9788378493006
+- name: "Fantastyczna Czwórka: Koniec"
+  isbn: 9788378493013
+- name: "Astonishing Thor"
+  isbn: 9788378493020
+- name: "Wolverine: Staruszek Logan"
+  isbn: 9788378493037
+- name: "Tajna Inwazja"
+  isbn: 9788378493044
+- name: "Doktor Strange: Przysięga"
+  isbn: 9788378493051
+- name: "Thunderbolts: Wiara w Potwory"
+  isbn: 9788378493068
+- name: "Ghost Rider: Droga ku Potępieniu"
+  isbn: 9788378493075
+- name: "Syn M"
+  isbn: 9788378493082
+- name: "Oblężenie"
+  isbn: 9788378493099
+- name: "Avengers: Na Zawsze, Część 1"
+  isbn: 9788328203020
+- name: "Marvel Knights Spider-Man: Śmiertelna Trwoga. Część 1"
+  isbn: 9788328203037
+- name: "Uncanny X-Men: Druga Geneza"
+  isbn: 9788328203044
+- name: "Venom"
+  isbn: 9788328203051
+- name: "Uncanny X-Men: Zmierzch Mutantów"
+  isbn: 9788328203068
+- name: "Avengers: Na Zawsze, Część 2"
+  isbn: 9788328203075
+- name: "Marvel Knights Spider-Man: Jadowity. Część 2"
+  isbn: 9788328203082
+- name: "Początki Marvela: Lata sześćdziesiąte"
+  isbn: 9788328203099
+- name: "Kraina cieni"
+  isbn: 9788328203105
+- name: "Avengers: Narodziny Ultrona"
+  isbn: 9788328203112
+- name: "Kapitan Ameryka i Falcon: Tajne Imperium"
+  isbn: 9788328203129
+- name: "Doktor Strange: Bezimienna kraina poza czasem"
+  isbn: 9788328203136
+- name: "Fantastyczna Czwórka. Nadejście Galactusa"
+  isbn: 9788328203143
+- name: "Pierwsi Avengers"
+  isbn: 9788328203150
+- name: "Iron Man: Upadek i wzlot"
+  isbn: 9788328203167
+- name: "X-Men. Rozłam"
+  isbn: 9788328203174
+- name: "Życie i śmierć Kapitana Marvela część 1"
+  isbn: 9788328203181
+- name: "The Incredible Hulk: Potwór na wolności"
+  isbn: 9788328203198
+- name: "Secret Avengers: Misja na Marsa"
+  isbn: 9788328203204
+- name: "Nick Fury: Agent S.H.I.E.L.D. część 1"
+  isbn: 9788328203211
+- name: "Życie i śmierć Kapitana Marvela. Część 2"
+  isbn: 9788328203228
+- name: "Ultimate Spider-Man: Śmierć Spider-Mana"
+  isbn: 9788328203235
+- name: "Thor. Opowieści z Asgardu"
+  isbn: 9788328203242
+- name: "Avengers: Krucjata dziecięca"
+  isbn: 9788328203259
+- name: "Daredevil. Naznaczony śmiercią"
+  isbn: 9788328203266
+- name: "Deadpool. Wojna Wade'a Wilsona"
+  isbn: 9788328203273
+- name: "The Amazing Spider-Man: Nigdy więcej Spider-Mana!"
+  isbn: 9788328203280
+- name: "Sam strach. Cześć 1"
+  isbn: 9788328203297
+- name: "Thor: Ragnarok"
+  isbn: 9788328203303
+- name: "Avengers: Saga o Korvacu"
+  isbn: 9788328203310
+- name: "Imperatyw Thanosa"
+  isbn: 9788328203327
+- name: "Spider-Man: Marvel Team-Up"
+  isbn: 9788328203334
+- name: "Hulk: W Sercu Atomu"
+  isbn: 9788328203341
+- name: "Hulk: Spalona ziemia."
+  isbn: 9788328203358
+- name: "Nick Fury, Agent S.H.I.E.L.D. część 2"
+  isbn: 9788328203365
+- name: "Sam strach, część 2"
+  isbn: 9788328203372
+- name: "Fantastyczna Czwórka: Sądny dzień"
+  isbn: 9788328203389
+- name: "The Amazing Spider-Man: Śmierć Stacych"
+  isbn: 9788328203396
+- name: "Daredevil: Wściekłość i Wrzask."
+  isbn: 9788328203402
+- name: "Iron Fist: Poszukiwanie Colleen Wing"
+  isbn: 9788328203419
+- name: "X-Men: W cieniu Saurona"
+  isbn: 9788328203426
+- name: "Bitewne blizny"
+  isbn: 9788328203433
+- name: "Silver Surfer: Początki"
+  isbn: 9788328203440
+- name: "Defenders: Dzień Defenders"
+  isbn: 9788328203457
+- name: "Avengers kontra X-Men. Część 1"
+  isbn: 9788328203464
+- name: "Iron Man: Początek końca"
+  isbn: 9788328203471
+- name: "Avengers: Wojna Kree ze Skrullami"
+  isbn: 9788328203488
+- name: "The Amazing Spider-Man: Pajęcza wyspa, cz.1"
+  isbn: 9788328203495
+- name: "Inhumans"
+  isbn: 9788328203501
+- name: "Początki Marvela: Lata siedemdziesiąte"
+  isbn: 9788328203518
+- name: "Avengers kontra X-Men. Część 2"
+  isbn: 9788328203525
+- name: "Wojna Avengers z Defenders"
+  isbn: 9788328203532
+- name: "Deathlok: Początki"
+  isbn: 9788328203549
+- name: "Ultimate Comics Spider-Man: Kim jest Miles Morales?"
+  isbn: 9788328203556
+- name: "Marvel Horror"
+  isbn: 9788328203563
+- name: "Czarna Pantera: Gniew Pantery"
+  isbn: 9788328203570
+- name: "The Amazing Spider-Man: Pajęcza wyspa, cz.2"
+  isbn: 9788328203587
+- name: "Kapitan Ameryka i Falcon: Bomba obłędu"
+  isbn: 9788328203594
+- name: "Marvel: Co by było, gdyby?"
+  isbn: 9788328203600
+- name: "Avengers kontra X-men. Część 3"
+  isbn: 9788328203617
+- name: "Warlock. Część 1"
+  isbn: 9788328212251
+- name: "All-New Ghost Rider: Maszyny Zemsty"
+  isbn: 9788328212268
+- name: "Warlock. Część 2"
+  isbn: 9788328212275
+- name: "Silver Surfer: Nowy świt"
+  isbn: 9788328212282
+- name: "Avengers: Świat Avengers"
+  isbn: 9788328212299
+- name: "Nova: Geneza"
+  isbn: 9788328212305
+- name: "New Avengers: Wszystko umiera"
+  isbn: 9788328212312
+- name: "Kapitan Brytania: Zakręcony świat"
+  isbn: 9781906965730
+- name: "Superior Spider-Man: Mój Własny Najgorszy Wróg"
+  isbn: 9788328212336
+- name: "Uncanny X-Men: Czasy minionej przyszłości"
+  isbn: 9788328212343
+- name: "Nieskończoność. Część 1"
+  isbn: 9788328212350
+- name: "Kapitan Ameryka: Uwięziony w wymiarze Z"
+  isbn: 9788328212367
+- name: "Nieskończoność. Część 2"
+  isbn: 9788328212374
+- name: "Hulk: Rozdarty"
+  isbn: 9788328212381
+- name: "Young Avengers: Styl > Treść"
+  isbn: 9788328212398
+- name: "Śmierć Wolverine'a"
+  isbn: 9788328127265
+- name: "Doktor Strange: Odrębna rzeczywistość"
+  isbn: 9788328212411
+- name: "Grzech pierworodny. Część 1"
+  isbn: 9788328212428
+- name: "Wolverine i X-men: Nowy Początek"
+  isbn: 9788328212435
+- name: "Punisher: Krąg Krwi"
+  isbn: 9788328212442
+- name: "Szop Rocket: W pogoni za własnym ogonem"
+  isbn: 9788328212459
+- name: "Thor Gromowładny: Bogobójca"
+  isbn: 9788328212466
+- name: "Deadpool i goście. Część 1"
+  isbn: 9788328212473
+- name: "Spider-Gwen: Ścigana?"
+  isbn: 9788328212480
+- name: "Defenders: Niszczyciel Światów"
+  isbn: 9788328212497
+- name: "Naprzód, Avengers!"
+  isbn: 9788328212503
+- name: "Deadpool i goście. Część 2"
+  isbn: 9788328212510
+- name: "Thor: Gromowładna"
+  isbn: 9788328212527
+- name: "Grzech Pierworodny. Część 2"
+  isbn: 9788328212534
+- name: "Avengers: Kres Dziejów"
+  isbn: 9788328212541
+- name: "Strażnicy Galaktyki: Kosmiczni Avengers"
+  isbn: 9788328219427
+- name: "Kaczor Howard"
+  isbn: 9788328219434
+- name: "Anihilatorzy"
+  isbn: 9788328219441
+- name: "Fantastyczna Czwórka: Odkrywcy"
+  isbn: 9788328219458
+- name: "Avengers na Arenie: Zabij albo zgiń"
+  isbn: 9788328219465
+- name: "Spider-Woman: Zmiana tempa"
+  isbn: 9788328219472
+- name: "Ultimates: Omniwersalni"
+  isbn: 9788328219489
+- name: "Czarna Pantera: Naród pod naszymi stopami"
+  isbn: 9788328219496
+- name: "Karnak: Wszechobecna skaza"
+  isbn: 9788328219502
+- name: "Niezwyciężona Squirrel Girl: Co mi zrobisz, jak mnie złapiesz?"
+  isbn: 9788328219519
+- name: "Punisher: W drodze"
+  isbn: 9788328219526
+- name: "A-Force: Hipercza"
+  isbn: 9788328219533
+- name: "Moon Girl i Diabelski Dinozaur: Epokowa przyjaźń"
+  isbn: 9788328219540
+- name: "Daredevil: Chinatown"
+  isbn: 9788328219557
+- name: "Patsy Walker, czyli Hellcat: Z kociakami zawsze łatwiej"
+  isbn: 9788328219564
+- name: "Avengers: Operacja Galaktyczna Burza, część 1"
+  isbn: 9788328219571
+- name: "Kapitan Ameryka, Steve Rogers: Hail Hydra"
+  isbn: 9788328219588
+- name: "Avengers: Operacja Galaktyczna Burza, część 2"
+  isbn: 9788328219595
+- name: "Deadpool kontra Gambit"
+  isbn: 9788328219601
+- name: "Avengers: Operacja Galaktyczna Burza, część 3"
+  isbn: 9788328219618

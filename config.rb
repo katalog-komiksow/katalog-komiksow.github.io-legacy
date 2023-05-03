@@ -107,6 +107,7 @@ helpers do
 
       data.collection[slug].each_with_index do |book, index|
         next unless data.isbn[slug]
+        next unless data.isbn[slug]["#{(index + 1).to_s.rjust(3, "0")}.#{book.isbn}"]
 
         isbn_data = data.isbn[slug] && data.isbn[slug]["#{(index + 1).to_s.rjust(3, "0")}.#{book.isbn}"]
         next if Date.parse(isbn_data.release_date) > Date.today
@@ -126,7 +127,7 @@ helpers do
 
   def comic_vine_issue(id)
     file_path = "../comic_vine/issues/#{id}.json"
- 
+
     if File.exists?(file_path)
       YAML.load_file(file_path)
     else
@@ -136,7 +137,7 @@ helpers do
 
   def comic_vine_volume(id)
     file_path = "../comic_vine/volumes/#{id}.json"
- 
+
     if File.exists?(file_path)
       YAML.load_file(file_path)
     else

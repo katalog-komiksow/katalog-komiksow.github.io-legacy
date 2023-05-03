@@ -1,0 +1,25 @@
+---
+collection: wkkm
+name: Oblężenie
+image: wkkm.060.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493099
+release_date: "2015-03-11"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/251692/oblezenie
+shops:
+  gildia: https://www.gildia.pl/komiksy/266327-wielka-kolekcja-komiksow-marvela-60-oblezenie
+reviews: []
+issues:
+  - name: "Siege #1"
+    comic_vine_issue_id: 191146
+  - name: "Siege #2"
+    comic_vine_issue_id: 195362
+  - name: "Siege #3"
+    comic_vine_issue_id: 200744
+  - name: "Siege #4"
+    comic_vine_issue_id: 213449
+  - name: "Siege: The Cabal"
+    comic_vine_issue_id: 185621

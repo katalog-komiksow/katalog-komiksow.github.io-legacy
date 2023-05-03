@@ -1,0 +1,35 @@
+---
+collection: wkkm
+name: Marvel Horror
+image: wkkm.115.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203563
+release_date: "2017-04-19"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4673328/marvel-horror
+shops:
+  gildia: https://www.gildia.pl/komiksy/332154-wielka-kolekcja-komiksow-marvela-115-marvel-horror
+reviews: []
+issues:
+  - name: "Ghost Rider (vol. 1) #1"
+    comic_vine_issue_id: 13577
+  - name: "Ghost Rider (vol. 1) #2"
+    comic_vine_issue_id: 13694
+  - name: "Marvel Spotlight (vol. 1) #12"
+    comic_vine_issue_id: 13703
+  - name: "The Amazing Spider-Man (vol. 1) #101"
+    comic_vine_issue_id: 11717
+  - name: "Savage Tales (vol. 1) #1"
+    comic_vine_issue_id: 11437
+  - name: "Marvel Spotlight (vol. 1) #2"
+    comic_vine_issue_id: 11995
+  - name: "Tomb of Dracula (vol. 1) #1"
+    comic_vine_issue_id: 12130
+  - name: "The Monster of Frankenstein #1"
+    comic_vine_issue_id: 110620
+  - name: "Supernatural Thrillers #5"
+    comic_vine_issue_id: 13495
+  - name: "Strange Tales (vol. 1) #169"
+    comic_vine_issue_id: 13598

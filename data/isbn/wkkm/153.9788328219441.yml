@@ -1,0 +1,24 @@
+---
+collection: wkkm
+name: Anihilatorzy
+image: wkkm.153.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328219441
+release_date: "2018-10-03"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4887075/anihilatorzy
+shops:
+  gildia: https://www.gildia.pl/komiksy/378148-wielka-kolekcja-komiksow-marvela-153-anihilatorzy
+reviews: []
+issues:
+  - name: "Annihilators #1"
+    comic_vine_issue_id: 264670
+  - name: "Annihilators #2"
+    comic_vine_issue_id: 267532
+  - name: "Annihilators #3"
+    comic_vine_issue_id: 269375
+  - name: "Annihilators #4"
+    comic_vine_issue_id: 273094
+

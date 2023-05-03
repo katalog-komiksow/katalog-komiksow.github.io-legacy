@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: Syn M
+image: wkkm.059.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788378493082
+release_date: "2015-02-25"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/249891/syn-m
+shops:
+  gildia: https://www.gildia.pl/komiksy/266326-wielka-kolekcja-komiksow-marvela-59-syn-m
+reviews: []
+issues:
+  - name: "Son of M #1"
+    comic_vine_issue_id: 106360
+  - name: "Son of M #2"
+    comic_vine_issue_id: 106370
+  - name: "Son of M #3"
+    comic_vine_issue_id: 106405
+  - name: "Son of M #4"
+    comic_vine_issue_id: 106406
+  - name: "Son of M #5"
+    comic_vine_issue_id: 106422
+  - name: "Son of M #6"
+    comic_vine_issue_id: 106423

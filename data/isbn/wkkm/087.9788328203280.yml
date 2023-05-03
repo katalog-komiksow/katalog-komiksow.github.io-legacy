@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: "The Amazing Spider-Man: Nigdy więcej Spider-Mana!"
+image: wkkm.087.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203280
+release_date: "2016-03-23"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/300401/the-amazing-spider-man-nigdy-wiecej-spider-mana
+shops:
+  gildia: https://www.gildia.pl/komiksy/296177-wielka-kolekcja-komiksow-marvela-87-amazing-spider-man-nigdy-wiecej-spider-mana
+reviews: []
+issues:
+  - name: "The Amazing Spider-Man (vol. 1) #44"
+    comic_vine_issue_id: 9087
+  - name: "The Amazing Spider-Man (vol. 1) #45"
+    comic_vine_issue_id: 9150
+  - name: "The Amazing Spider-Man (vol. 1) #46"
+    comic_vine_issue_id: 9223
+  - name: "The Amazing Spider-Man (vol. 1) #47"
+    comic_vine_issue_id: 9290
+  - name: "The Amazing Spider-Man (vol. 1) #48"
+    comic_vine_issue_id: 9353
+  - name: "The Amazing Spider-Man (vol. 1) #49"
+    comic_vine_issue_id: 9423
+  - name: "The Amazing Spider-Man (vol. 1) #50"
+    comic_vine_issue_id: 9483

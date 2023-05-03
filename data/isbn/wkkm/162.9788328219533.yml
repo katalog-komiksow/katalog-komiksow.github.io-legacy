@@ -1,0 +1,28 @@
+---
+collection: wkkm
+name: "A-Force: Hipercza"
+image: wkkm.162.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328219533
+release_date: "2019-02-06"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4878586/a-force-hiperczas
+shops: []
+reviews: []
+issues:
+  - name: "A-Force (vol. 2) #1"
+    comic_vine_issue_id: 510488
+  - name: "A-Force (vol. 2) #2"
+    comic_vine_issue_id: 513637
+  - name: "A-Force (vol. 2) #3"
+    comic_vine_issue_id: 517822
+  - name: "A-Force (vol. 2) #4"
+    comic_vine_issue_id: 525014
+  - name: "A-Force (vol. 2) #5"
+    comic_vine_issue_id: 528496
+  - name: "A-Force (vol. 2) #6"
+    comic_vine_issue_id: 533023
+  - name: "A-Force (vol. 2) #7"
+    comic_vine_issue_id: 540064

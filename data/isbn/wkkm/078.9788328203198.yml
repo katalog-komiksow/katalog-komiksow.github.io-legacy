@@ -1,0 +1,33 @@
+---
+collection: wkkm
+name: "The Incredible Hulk: Potwór na wolności"
+image: wkkm.078.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203198
+release_date: "2015-11-18"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/287836/the-incredible-hulk-potwor-na-wolnosci
+shops:
+  gildia: https://www.gildia.pl/komiksy/288001-wielka-kolekcja-komiksow-marvela-78-hulk-potwor-na-wolnosci
+reviews: []
+issues:
+  - name: "Tales To Astonish (vol. 1) #101"
+    comic_vine_issue_id: 108670
+  - name: "The Incredible Hulk (vol. 1) #102"
+    comic_vine_issue_id: 111601
+  - name: "The Incredible Hulk (vol. 1) #103"
+    comic_vine_issue_id: 111602
+  - name: "The Incredible Hulk (vol. 1) #104"
+    comic_vine_issue_id: 111603
+  - name: "The Incredible Hulk (vol. 1) #105"
+    comic_vine_issue_id: 111620
+  - name: "The Incredible Hulk (vol. 1) #106"
+    comic_vine_issue_id: 111619
+  - name: "The Incredible Hulk (vol. 1) #107"
+    comic_vine_issue_id: 111618
+  - name: "The Incredible Hulk (vol. 1) #108"
+    comic_vine_issue_id: 111614
+  - name: "The Incredible Hulk Annual #1"
+    comic_vine_issue_id: 138328

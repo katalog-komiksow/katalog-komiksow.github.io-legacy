@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Daredevil: Diabeł Stróż"
+image: wkkm.047.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397961
+release_date: "2014-09-10"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/233838/daredevil-diabel-stroz
+shops:
+  gildia: https://www.gildia.pl/komiksy/253931-wielka-kolekcja-komiksow-marvela-47-daredevil-diabel-stroz
+reviews: []
+issues:
+  - name: "Daredevil (vol. 2) #1"
+    comic_vine_issue_id: 45424
+  - name: "Daredevil (vol. 2) #2"
+    comic_vine_issue_id: 45544
+  - name: "Daredevil (vol. 2) #3"
+    comic_vine_issue_id: 45634
+  - name: "Daredevil (vol. 2) #4"
+    comic_vine_issue_id: 45653
+  - name: "Daredevil (vol. 2) #5"
+    comic_vine_issue_id: 45725
+  - name: "Daredevil (vol. 2) #6"
+    comic_vine_issue_id: 66255
+  - name: "Daredevil (vol. 2) #7"
+    comic_vine_issue_id: 66256
+  - name: "Daredevil (vol. 2) #8"
+    comic_vine_issue_id: 66257

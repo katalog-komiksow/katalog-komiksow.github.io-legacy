@@ -1,0 +1,31 @@
+---
+collection: wkkm
+name: "Ultimate Spider-Man: Moc i Odpowiedzialność"
+image: wkkm.025.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397749
+release_date: "2013-11-06"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/201375/ultimate-spider-man-moc-i-odpowiedzialnosc
+shops:
+  gildia: https://www.gildia.pl/komiksy/227479-wielka-kolekcja-komiksow-marvela-25-ultimate-spider-man
+reviews:
+  naekranie: https://naekranie.pl/recenzje/ultimate-spider-man-moc-i-odpowiedzialnosc
+  paradoks: https://paradoks.net.pl/read/22532-ultimate-spider-man-moc-i-odpowiedzialnosc-vs-amazing-fantasy-15-recenzja
+issues:
+  - name: "Ultimate Spider-Man #1"
+    comic_vine_issue_id: 51619
+  - name: "Ultimate Spider-Man #2"
+    comic_vine_issue_id: 51620
+  - name: "Ultimate Spider-Man #3"
+    comic_vine_issue_id: 51621
+  - name: "Ultimate Spider-Man #4"
+    comic_vine_issue_id: 51622
+  - name: "Ultimate Spider-Man #5"
+    comic_vine_issue_id: 51623
+  - name: "Ultimate Spider-Man #6"
+    comic_vine_issue_id: 51624
+  - name: "Ultimate Spider-Man #7"
+    comic_vine_issue_id: 51625

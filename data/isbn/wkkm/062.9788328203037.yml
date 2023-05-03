@@ -1,0 +1,24 @@
+---
+collection: wkkm
+name: "Marvel Knights Spider-Man: Śmiertelna Trwoga. Część 1"
+image: wkkm.062.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328203037
+release_date: "2015-04-08"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/254414/marvel-knights-spider-man-smiertelna-trwoga-czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/270858-wielka-kolekcja-komiksow-marvela-62-marvel-knights-spider-man-smiertelna-trwoga
+reviews:
+  paradoks: https://nakanapie.pl/ksiazka/marvel-knights-spider-man-smiertelna-trwoga-czesc-1
+issues:
+  - name: "Marvel Knights: Spider-Man (vol. 1) #1"
+    comic_vine_issue_id: 96921
+  - name: "Marvel Knights: Spider-Man (vol. 1) #2"
+    comic_vine_issue_id: 96922
+  - name: "Marvel Knights: Spider-Man (vol. 1) #3"
+    comic_vine_issue_id: 96923
+  - name: "Marvel Knights: Spider-Man (vol. 1) #4"
+    comic_vine_issue_id: 96924

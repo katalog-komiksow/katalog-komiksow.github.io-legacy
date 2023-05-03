@@ -1,0 +1,29 @@
+---
+collection: wkkm
+name: "Iron Man: Pięć Koszmarów"
+image: wkkm.018.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397671
+release_date: "2013-07-31"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/190229/iron-man-piec-koszmarow
+shops:
+  gildia: https://www.gildia.pl/komiksy/222734-wielka-kolekcja-komiksow-marvela-18-iron-man-piec-koszmarow
+reviews: []
+issues:
+  - name: "Iron Man (vol. 2) #1"
+    comic_vine_issue_id: 129659
+  - name: "Iron Man (vol. 2) #2"
+    comic_vine_issue_id: 131346
+  - name: "Iron Man (vol. 2) #3"
+    comic_vine_issue_id: 133043
+  - name: "Iron Man (vol. 2) #4"
+    comic_vine_issue_id: 135072
+  - name: "Iron Man (vol. 2) #5"
+    comic_vine_issue_id: 137180
+  - name: "Iron Man (vol. 2) #6"
+    comic_vine_issue_id: 139969
+  - name: "Iron Man (vol. 2) #7"
+    comic_vine_issue_id: 141556

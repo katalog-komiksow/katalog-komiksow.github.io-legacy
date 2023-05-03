@@ -1,0 +1,27 @@
+---
+collection: wkkm
+name: "Spider-Man: Niebieski"
+image: wkkm.033.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377397824
+release_date: "2014-02-26"
+series:
+  - Wielka Kolekcja Komiksów Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/215802/spider-man-niebieski
+shops:
+  gildia: https://www.gildia.pl/komiksy/237311-wielka-kolekcja-komiksow-marvela-33-spider-man-niebieski
+reviews: []
+issues:
+  - name: "Spider-Man: Blue #1"
+    comic_vine_issue_id: 114345
+  - name: "Spider-Man: Blue #2"
+    comic_vine_issue_id: 114347
+  - name: "Spider-Man: Blue #3"
+    comic_vine_issue_id: 77957
+  - name: "Spider-Man: Blue #4"
+    comic_vine_issue_id: 77958
+  - name: "Spider-Man: Blue #5"
+    comic_vine_issue_id: 77959
+  - name: "Spider-Man: Blue #6"
+    comic_vine_issue_id: 77960
