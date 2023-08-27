@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Harley Quinn. Tom 2: Zamotana"
+image: nowe-dc-comics.47.webp
+image_source: "https://egmont.pl"
+isbn: 9788328118171
+release_date: "2016-10-05"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4886744/harley-quinn-zamotana-tom-2
+shops:
+  egmont: https://egmont.pl/Harley-Quinn.-Zamotana.-Tom-2.,606437,p.html
+  gildia: https://www.gildia.pl/komiksy/312918-harley-quinn-2-zamotana
+reviews:
+  paradoks: https://paradoks.net.pl/read/30791-harley-quinn-tom-2-zamotana-recenzja
+issues:
+  - name: "Harley Quinn (vol. 2) #9"
+    comic_vine_issue_id: 462206
+  - name: "Harley Quinn (vol. 2) #10"
+    comic_vine_issue_id: 463429
+  - name: "Harley Quinn (vol. 2) #11"
+    comic_vine_issue_id: 468413
+  - name: "Harley Quinn (vol. 2) #12"
+    comic_vine_issue_id: 470372
+  - name: "Harley Quinn (vol. 2) #13"
+    comic_vine_issue_id: 474565
+  - name: "Harley Quinn: Futures End #1"
+    comic_vine_issue_id: 466276
+  - name: "Harley Quinn Invades Comic-Con International San Diego #1"
+    comic_vine_issue_id: 459630
+  - name: "Secret Origins (vol. 3) #4"
+    comic_vine_issue_id: 460269

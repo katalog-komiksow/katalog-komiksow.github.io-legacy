@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Liga Sprawiedliwości. Tom 4: Trójka"
+image: nowe-dc-comics.29.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328110304
+release_date: "2015-11-04"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/271908/liga-sprawiedliwosci-trojka
+shops:
+  egmont: https://egmont.pl/Liga-Sprawiedliwosci.-Trojka.-Tom-4.,608680,p.html
+  gildia: https://www.gildia.pl/komiksy/283569-liga-sprawiedliwosci-4-trojka
+reviews:
+  paradoks: https://paradoks.net.pl/read/28012-liga-sprawiedliwosci-tom-4-trojka-recenzja
+issues:
+  - name: "Justice League (vol. 2) #22"
+    comic_vine_issue_id: 416903
+  - name: "Justice League (vol. 2) #23"
+    comic_vine_issue_id: 423616
+  - name: "Justice League of America (vol. 3) #6"
+    comic_vine_issue_id: 417790
+  - name: "Justice League of America (vol. 3) #7"
+    comic_vine_issue_id: 421655
+  - name: "Justice League Dark #22"
+    comic_vine_issue_id: 418769
+  - name: "Justice League Dark #23"
+    comic_vine_issue_id: 422431

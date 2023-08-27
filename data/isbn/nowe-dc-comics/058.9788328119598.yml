@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Harley Quinn. Tom 4: Do broni!"
+image: nowe-dc-comics.58.webp
+image_source: "https://egmont.pl"
+isbn: 9788328119598
+release_date: "2017-05-10"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4619633/harley-quinn-do-broni
+shops:
+  egmont: https://egmont.pl/Harley-Quinn.-Do-broni.-Tom-4,608828,p.html
+  gildia: https://www.gildia.pl/komiksy/332459-harley-quinn-4-do-broni
+reviews:
+  paradoks: https://paradoks.net.pl/read/32707-harley-quinn-tom-4-do-broni-recenzja
+issues:
+  - name: "Harley Quinn (vol. 2) #17"
+    comic_vine_issue_id: 491475
+  - name: "Harley Quinn (vol. 2) #18"
+    comic_vine_issue_id: 495249
+  - name: "Harley Quinn (vol. 2) #19"
+    comic_vine_issue_id: 498366
+  - name: "Harley Quinn (vol. 2) #20"
+    comic_vine_issue_id: 500272
+  - name: "Harley Quinn (vol. 2) #21"
+    comic_vine_issue_id: 502837
+  - name: "Harley Quinn Road Trip Special #1"
+    comic_vine_issue_id: 499725

@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Batman. Tom 5: Rok zerowy - Mroczne miasto"
+image: nowe-dc-comics.20.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328110137
+release_date: "2015-03-14"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/252133/batman-rok-zerowy---mroczne-miasto
+shops:
+  egmont: https://egmont.pl/Batman-Rok-zerowy.-Mroczne-miasto.-Tom-5.,606976,p.html
+  gildia: https://www.gildia.pl/komiksy/263912-batman-5-rok-zerowy-mroczne-miasto
+reviews:
+  paradoks: https://www.gildia.pl/komiksy/263912-batman-5-rok-zerowy-mroczne-miasto
+issues:
+  - name: "Batman (vol. 2) #25"
+    comic_vine_issue_id: 433107
+  - name: "Batman (vol. 2) #26"
+    comic_vine_issue_id: 436145
+  - name: "Batman (vol. 2) #27"
+    comic_vine_issue_id: 442869
+  - name: "Batman (vol. 2) #29"
+    comic_vine_issue_id: 447467
+  - name: "Batman (vol. 2) #30"
+    comic_vine_issue_id: 450507
+  - name: "Batman (vol. 2) #31"
+    comic_vine_issue_id: 454042
+  - name: "Batman (vol. 2) #32"
+    comic_vine_issue_id: 457575
+  - name: "Batman (vol. 2) #33"
+    comic_vine_issue_id: 460259

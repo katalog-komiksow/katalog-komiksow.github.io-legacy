@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Suicide Squad: Oddział Samobójców. Tom 1: Nadzorować i karać"
+image: nowe-dc-comics.42.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116931
+release_date: "2016-06-15"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/303768/suicide-squad-oddzial-samobojcow-nadzorowac-i-karac
+shops:
+  egmont: https://egmont.pl/Suicide-Squad-Oddzial-Samobojcow-Tom-1-Nadzorowac-i-karac,17771524,p.html
+  gildia: https://www.gildia.pl/komiksy/303448-suicide-squad-oddzial-samobojcow-1-nadzorowac-i-karac
+reviews:
+  paradoks: https://paradoks.net.pl/read/29716-suicide-squad-oddzial-samobojcow-tom-1-nadzorowac-i-karac-recenzja
+issues:
+  - name: "Suicide Squad #20"
+    comic_vine_issue_id: 401173
+  - name: "Suicide Squad #21"
+    comic_vine_issue_id: 410271
+  - name: "Suicide Squad #22"
+    comic_vine_issue_id: 416907
+  - name: "Suicide Squad #23"
+    comic_vine_issue_id: 421656
+  - name: "Detective Comics #23.2"
+    comic_vine_issue_id: 424984
+  - name: "Justice League of America #7.1"
+    comic_vine_issue_id: 424499

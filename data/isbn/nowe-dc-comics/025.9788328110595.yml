@@ -1,0 +1,41 @@
+---
+collection: nowe-dc-comics
+name: "Shazam"
+image: nowe-dc-comics.25.webp
+image_source: "https://egmont.pl"
+isbn: 9788328110595
+release_date: "2015-08-12"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/266697/shazam
+shops:
+  egmont: https://egmont.pl/Shazam,607150,p.html
+  gildia: https://www.gildia.pl/komiksy/277269-shazam
+reviews:
+  paradoks: https://paradoks.net.pl/read/27341-shazam-recenzja
+issues:
+  - name: "Justice League (vol. 2) #0"
+    comic_vine_issue_id: 357626
+  - name: "Justice League (vol. 2) #7"
+    comic_vine_issue_id: 322744
+  - name: "Justice League (vol. 2) #8"
+    comic_vine_issue_id: 331846
+  - name: "Justice League (vol. 2) #9"
+    comic_vine_issue_id: 335900
+  - name: "Justice League (vol. 2) #10"
+    comic_vine_issue_id: 342859
+  - name: "Justice League (vol. 2) #11"
+    comic_vine_issue_id: 346228
+  - name: "Justice League (vol. 2) #14"
+    comic_vine_issue_id: 369027
+  - name: "Justice League (vol. 2) #15"
+    comic_vine_issue_id: 374663
+  - name: "Justice League (vol. 2) #16"
+    comic_vine_issue_id: 381380
+  - name: "Justice League (vol. 2) #18"
+    comic_vine_issue_id: 394651
+  - name: "Justice League (vol. 2) #19"
+    comic_vine_issue_id: 397492
+  - name: "Justice League (vol. 2) #20"
+    comic_vine_issue_id: 404659

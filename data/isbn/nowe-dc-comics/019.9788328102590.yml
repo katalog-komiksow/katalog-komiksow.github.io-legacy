@@ -1,0 +1,37 @@
+---
+collection: nowe-dc-comics
+name: "Szpon. Tom 2: Upadek sów"
+image: nowe-dc-comics.19.webp
+image_source: "https://egmont.pl"
+isbn: 9788328102590
+release_date: "2015-02-18"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/249221/szpon-upadek-sow
+shops:
+  egmont: https://egmont.pl/Szpon.-Upadek-Sow.-Tom-2.,608513,p.html
+  gildia: https://www.gildia.pl/komiksy/262561-szpon-2-upadek-sow
+reviews:
+  paradoks: https://paradoks.net.pl/read/26394-szpon-tom-2-upadek-sow-recenzja
+issues:
+  - name: "Talon #8"
+    comic_vine_issue_id: 404657
+  - name: "Talon #9"
+    comic_vine_issue_id: 413611
+  - name: "Talon #10"
+    comic_vine_issue_id: 418772
+  - name: "Talon #11"
+    comic_vine_issue_id: 423619
+  - name: "Talon #12"
+    comic_vine_issue_id: 430711
+  - name: "Talon #13"
+    comic_vine_issue_id: 434992
+  - name: "Talon #14"
+    comic_vine_issue_id: 440197
+  - name: "Talon #15"
+    comic_vine_issue_id: 443941
+  - name: "Talon #16"
+    comic_vine_issue_id: 446435
+  - name: "Talon #17"
+    comic_vine_issue_id: 448919

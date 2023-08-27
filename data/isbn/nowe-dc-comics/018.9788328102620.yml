@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "All Star Western. Tom 2: Wojna Lordów i Sów"
+image: nowe-dc-comics.18.webp
+image_source: "https://egmont.pl"
+isbn: 9788328102620
+release_date: "2015-01-26"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/247058/all-star-western-wojna-lordow-i-sow
+shops:
+  egmont: https://egmont.pl/All-Star-Western.-Wojna-Lordow-i-Sow.-Tom-2.,607152,p.html
+  gildia: https://www.gildia.pl/komiksy/261508-all-star-western-2-wojna-lordow-i-sow
+reviews:
+  paradoks: https://paradoks.net.pl/read/25908-all-star-western-tom-2-wojna-lordow-i-sow-recenzja
+issues:
+  - name: "All-Star Western (vol. 3) #7"
+    comic_vine_issue_id: 324817
+  - name: "All-Star Western (vol. 3) #8"
+    comic_vine_issue_id: 333472
+  - name: "All-Star Western (vol. 3) #9"
+    comic_vine_issue_id: 336574
+  - name: "All-Star Western (vol. 3) #10"
+    comic_vine_issue_id: 342864
+  - name: "All-Star Western (vol. 3) #11"
+    comic_vine_issue_id: 347169
+  - name: "All-Star Western (vol. 3) #12"
+    comic_vine_issue_id: 352466

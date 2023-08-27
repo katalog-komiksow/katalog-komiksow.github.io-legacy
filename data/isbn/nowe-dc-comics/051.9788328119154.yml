@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Detective Comics. Tom 6: Ikar"
+image: nowe-dc-comics.51.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328119154
+release_date: "2017-01-25"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4254469/batman---detective-comics-ikar
+shops:
+  egmont: https://egmont.pl/Batman-Detective-Comics.-Ikar.-Tom-6.,606678,p.html
+  gildia: https://www.gildia.pl/komiksy/319369-batman-detective-comics-vol-6-ikar
+reviews:
+  paradoks: https://paradoks.net.pl/read/31609-batman-detective-comics-tom-6-ikar-recenzja
+issues:
+  - name: "Detective Comics (vol. 2) #30"
+    comic_vine_issue_id: 449540
+  - name: "Detective Comics (vol. 2) #31"
+    comic_vine_issue_id: 452259
+  - name: "Detective Comics (vol. 2) #32"
+    comic_vine_issue_id: 455974
+  - name: "Detective Comics (vol. 2) #33"
+    comic_vine_issue_id: 459118
+  - name: "Detective Comics (vol. 2) #34"
+    comic_vine_issue_id: 461685
+  - name: "Detective Comics Annual (vol. 2) #3"
+    comic_vine_issue_id: 461063

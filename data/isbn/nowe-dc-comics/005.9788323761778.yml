@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Batman. Tom 2: Miasto sów"
+image: nowe-dc-comics.05.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761778
+release_date: "2013-10-07"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/197153/batman-miasto-sow
+shops:
+  egmont: https://egmont.pl/Batman.-Miasto-Sow.-Tom-2.,607165,p.html
+  gildia: https://www.gildia.pl/komiksy/227067-batman-2-miasto-sow
+reviews:
+  paradoks: https://paradoks.net.pl/read/22556-batman-tom-2-miasto-sow-recenzja
+issues:
+  - name: "Batman (vol. 2) #8"
+    comic_vine_issue_id: 331842
+  - name: "Batman (vol. 2) #9"
+    comic_vine_issue_id: 335017
+  - name: "Batman (vol. 2) #10"
+    comic_vine_issue_id: 340148
+  - name: "Batman (vol. 2) #11"
+    comic_vine_issue_id: 345345
+  - name: "Batman (vol. 2) #12"
+    comic_vine_issue_id: 349621
+  - name: "Batman Annual (vol. 2) #1"
+    comic_vine_issue_id: 337480

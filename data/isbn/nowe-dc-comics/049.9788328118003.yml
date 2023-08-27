@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Flash. Tom 3: Inwazja goryli"
+image: nowe-dc-comics.49.webp
+image_source: "https://egmont.pl"
+isbn: 9788328118003
+release_date: "2016-11-09"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3891332/flash-inwazja-goryli
+shops:
+  egmont: https://egmont.pl/Flash.-Imwazja-goryli.-Tom-3.,606767,p.html
+  gildia: https://www.gildia.pl/komiksy/316796-flash-3-inwazja-goryli
+reviews:
+  paradoks: https://paradoks.net.pl/read/31035-flash-tom-3-inwazja-goryli-recenzja
+issues:
+  - name: "The Flash (vol. 4) #13"
+    comic_vine_issue_id: 363061
+  - name: "The Flash (vol. 4) #14"
+    comic_vine_issue_id: 370276
+  - name: "The Flash (vol. 4) #15"
+    comic_vine_issue_id: 376603
+  - name: "The Flash (vol. 4) #16"
+    comic_vine_issue_id: 382923
+  - name: "The Flash (vol. 4) #17"
+    comic_vine_issue_id: 388528
+  - name: "The Flash (vol. 4) #18"
+    comic_vine_issue_id: 395308
+  - name: "The Flash (vol. 4) #19"
+    comic_vine_issue_id: 398950

@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Harley Quinn. Tom 3: Cmok, cmok, bang, dziab!"
+image: nowe-dc-comics.55.webp
+image_source: "https://egmont.pl"
+isbn: 9788328119581
+release_date: "2017-03-15"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4455046/harley-quinn-cmok-cmok-bang-dziab
+shops:
+  egmont: https://egmont.pl/Harley-Quinn-Cmok-cmok-bang-dziab-Tom-3,606530,p.html
+  gildia: https://www.gildia.pl/komiksy/324994-harley-quinn-3-cmok-cmok-bang-dziab
+reviews:
+  paradoks: https://paradoks.net.pl/read/32196-harley-quinn-tom-3-cmok-cmok-bang-dziab-recenzja
+issues:
+  - name: "Harley Quinn (vol. 2) #14"
+    comic_vine_issue_id: 477798
+  - name: "Harley Quinn (vol. 2) #15"
+    comic_vine_issue_id: 481570
+  - name: "Harley Quinn (vol. 2) #16"
+    comic_vine_issue_id: 484845
+  - name: "Harley Quinn Annual (vol. 1) #1"
+    comic_vine_issue_id: 468863
+  - name: "Harley Quinn Holiday Special #1"
+    comic_vine_issue_id: 472839
+  - name: "Valentine's Day Special #1"
+    comic_vine_issue_id: 479204

@@ -1,0 +1,27 @@
+---
+collection: nowe-dc-comics
+name: "Batman. Tom 9: Bloom"
+image: nowe-dc-comics.61.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328119956
+release_date: "2017-06-07"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4731088/batman-bloom
+shops:
+  egmont: https://egmont.pl/Batman-Bloom.-Tom-9,1404940,p.html
+  gildia: https://www.gildia.pl/komiksy/335686-batman-9-bloom
+reviews:
+  paradoks: https://paradoks.net.pl/read/32781-batman-tom-9-bloom-recenzja
+issues:
+  - name: "Batman (vol. 2) #46"
+    comic_vine_issue_id: 505486
+  - name: "Batman (vol. 2) #47"
+    comic_vine_issue_id: 507733
+  - name: "Batman (vol. 2) #48"
+    comic_vine_issue_id: 511482
+  - name: "Batman (vol. 2) #49"
+    comic_vine_issue_id: 514392
+  - name: "Batman (vol. 2) #50"
+    comic_vine_issue_id: 521301

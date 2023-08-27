@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Superman. Tom 3: U kresu dni"
+image: nowe-dc-comics.10.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328102293
+release_date: "2014-05-06"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/227935/superman-u-kresu-dni
+shops:
+  egmont: https://egmont.pl/Superman.-U-kresu-dni.-Tom-3.,608745,p.html
+  gildia: https://www.gildia.pl/komiksy/242156-superman-action-comics-vol-3-u-kresu-dni
+reviews:
+  paradoks: https://paradoks.net.pl/read/23893-superman-tom-3-u-kresu-dni-recenzja
+issues:
+  - name: "Action Comics (vol. 2) #13"
+    comic_vine_issue_id: 359833
+  - name: "Action Comics (vol. 2) #14"
+    comic_vine_issue_id: 365737
+  - name: "Action Comics (vol. 2) #15"
+    comic_vine_issue_id: 371151
+  - name: "Action Comics (vol. 2) #16"
+    comic_vine_issue_id: 378854
+  - name: "Action Comics (vol. 2) #17"
+    comic_vine_issue_id: 387214
+  - name: "Action Comics (vol. 2) #18"
+    comic_vine_issue_id: 394656

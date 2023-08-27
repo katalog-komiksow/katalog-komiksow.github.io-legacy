@@ -1,0 +1,27 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Detective Comics. Tom 5: Gothtopia"
+image: nowe-dc-comics.34.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328116115
+release_date: "2016-01-27"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/289503/batman---detective-comics-gothtopia
+shops:
+  egmont: https://egmont.pl/Batman-Detective-Comics.-Gothtopia.-Tom-5.,606366,p.html
+  gildia: https://www.gildia.pl/komiksy/290162-batman-detective-comics-vol-5-gothtopia
+reviews:
+  paradoks: https://paradoks.net.pl/read/28538-batman-detective-comics-tom-5-gothtopia-recenzja
+issues:
+  - name: "Detective Comics (vol. 2) #25"
+    comic_vine_issue_id: 432290
+  - name: "Detective Comics (vol. 2) #26"
+    comic_vine_issue_id: 435540
+  - name: "Detective Comics (vol. 2) #27"
+    comic_vine_issue_id: 441368
+  - name: "Detective Comics (vol. 2) #28"
+    comic_vine_issue_id: 444470
+  - name: "Detective Comics (vol. 2) #29"
+    comic_vine_issue_id: 446946

@@ -1,0 +1,37 @@
+---
+collection: nowe-dc-comics
+name: "Liga Sprawiedliwości. Tom 6: Liga Niesprawiedliwości"
+image: nowe-dc-comics.43.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116955
+release_date: "2016-07-13"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/307214/liga-sprawiedliwosci-liga-niesprawiedliwosci
+shops:
+  egmont: https://egmont.pl/Liga-Sprawiedliwosci.-Liga-Niesprawiedliwosci.-Tom-6.,606589,p.html
+  gildia: https://www.gildia.pl/komiksy/306218-liga-sprawiedliwosci-6-liga-niesprawiedliwosci
+reviews:
+  paradoks: https://paradoks.net.pl/read/29905-liga-sprawiedliwosci-tom-6-liga-niesprawiedliwosci-recenzja
+issues:
+  - name: "Justice League (vol. 2) #30"
+    comic_vine_issue_id: 453364
+  - name: "Justice League (vol. 2) #31"
+    comic_vine_issue_id: 457580
+  - name: "Justice League (vol. 2) #32"
+    comic_vine_issue_id: 461065
+  - name: "Justice League (vol. 2) #33"
+    comic_vine_issue_id: 463947
+  - name: "Justice League (vol. 2) #34"
+    comic_vine_issue_id: 466990
+  - name: "Justice League (vol. 2) #35"
+    comic_vine_issue_id: 468023
+  - name: "Justice League (vol. 2) #36"
+    comic_vine_issue_id: 470373
+  - name: "Justice League (vol. 2) #37"
+    comic_vine_issue_id: 473591
+  - name: "Justice League (vol. 2) #38"
+    comic_vine_issue_id: 476746
+  - name: "Justice League (vol. 2) #39"
+    comic_vine_issue_id: 479934

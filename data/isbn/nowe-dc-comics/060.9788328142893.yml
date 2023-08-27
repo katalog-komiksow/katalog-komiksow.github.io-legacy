@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Detective Comics. Tom 7: Anarky"
+image: nowe-dc-comics.60.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328142893
+release_date: "2017-05-10"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4643443/batman-detective-comics-anarky
+shops:
+  egmont: https://egmont.pl/Batman-Detective-Comics.-Anarky.-Tom-7,606348,p.html
+  gildia: https://www.gildia.pl/komiksy/332461-batman-detective-comics-vol-7-anarky
+reviews:
+  paradoks: https://paradoks.net.pl/read/32604-batman-detective-comics-tom-7-anarky-recenzja
+issues:
+  - name: "Detective Comics (vol. 2) #35"
+    comic_vine_issue_id: 466981
+  - name: "Detective Comics (vol. 2) #36"
+    comic_vine_issue_id: 469426
+  - name: "Detective Comics (vol. 2) #37"
+    comic_vine_issue_id: 471914
+  - name: "Detective Comics (vol. 2) #38"
+    comic_vine_issue_id: 475410
+  - name: "Detective Comics (vol. 2) #39"
+    comic_vine_issue_id: 478564
+  - name: "Detective Comics (vol. 2) #40"
+    comic_vine_issue_id: 481563
+  - name: "Detective Comics: Endgame #1"
+    comic_vine_issue_id: 482115
+  - name: "Detective Comics: Futures End #1"
+    comic_vine_issue_id: 463941

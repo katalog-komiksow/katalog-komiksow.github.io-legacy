@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Detective Comics. Tom 2: Techniki zastraszania"
+image: nowe-dc-comics.06.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761860
+release_date: "2013-12-02"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/197175/batman---detective-comics-techniki-zastraszania
+shops:
+  egmont: https://egmont.pl/Batman-Detective-Comics.-Techniki-zastraszania.-Tom-2.,606969,p.html
+  gildia: https://www.gildia.pl/komiksy/229423-batman-detective-comics-vol-2-techniki-zastraszania
+reviews:
+  paradoks: https://paradoks.net.pl/read/22690-batman-detective-comics-tom-2-techniki-zastraszania-recenzja
+issues:
+  - name: "Detective Comics (vol. 2) #8"
+    comic_vine_issue_id: 326823
+  - name: "Detective Comics (vol. 2) #9"
+    comic_vine_issue_id: 334192
+  - name: "Detective Comics (vol. 2) #10"
+    comic_vine_issue_id: 338468
+  - name: "Detective Comics (vol. 2) #11"
+    comic_vine_issue_id: 344036
+  - name: "Detective Comics (vol. 2) #12"
+    comic_vine_issue_id: 348037
+  - name: "Detective Comics (vol. 2) #0"
+    comic_vine_issue_id: 355784
+  - name: "Detective Comics Annual (vol. 2) #1"
+    comic_vine_issue_id: 354033

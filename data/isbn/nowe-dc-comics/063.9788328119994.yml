@@ -1,0 +1,45 @@
+---
+collection: nowe-dc-comics
+name: "Wieczni Batman i Robin. Tom 2"
+image: nowe-dc-comics.63.webp
+image_source: "https://egmont.pl"
+isbn: 9788328119994
+release_date: "2017-07-05"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4789257/wieczni-batman-i-robin-tom-2
+shops:
+  egmont: https://egmont.pl/Wieczni-Batman-i-Robin.-Tom-2,1633285,p.html
+  gildia: https://www.gildia.pl/komiksy/338980-wieczni-batman-i-robin-2
+reviews:
+  paradoks: https://paradoks.net.pl/read/33108-wieczni-batman-i-robin-tom-2-recenzja
+issues:
+  - name: "Batman & Robin Eternal #13"
+    comic_vine_issue_id: 509676
+  - name: "Batman & Robin Eternal #14"
+    comic_vine_issue_id: 510471
+  - name: "Batman & Robin Eternal #15"
+    comic_vine_issue_id: 510908
+  - name: "Batman & Robin Eternal #16"
+    comic_vine_issue_id: 511484
+  - name: "Batman & Robin Eternal #17"
+    comic_vine_issue_id: 512389
+  - name: "Batman & Robin Eternal #18"
+    comic_vine_issue_id: 513618
+  - name: "Batman & Robin Eternal #19"
+    comic_vine_issue_id: 514394
+  - name: "Batman & Robin Eternal #20"
+    comic_vine_issue_id: 516050
+  - name: "Batman & Robin Eternal #21"
+    comic_vine_issue_id: 516916
+  - name: "Batman & Robin Eternal #22"
+    comic_vine_issue_id: 517806
+  - name: "Batman & Robin Eternal #23"
+    comic_vine_issue_id: 518823
+  - name: "Batman & Robin Eternal #24"
+    comic_vine_issue_id: 520167
+  - name: "Batman & Robin Eternal #25"
+    comic_vine_issue_id: 521302
+  - name: "Batman & Robin Eternal #26"
+    comic_vine_issue_id: 522410

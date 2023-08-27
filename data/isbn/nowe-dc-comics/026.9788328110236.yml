@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Amerykańska Liga Sprawiedliwości. Tom 1: Najbardziej niebezpieczni"
+image: nowe-dc-comics.26.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328110236
+release_date: "2015-09-09"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/268651/amerykanska-liga-sprawiedliwosci-najbardziej-niebezpieczni
+shops:
+  egmont: https://egmont.pl/Amerykanska-Liga-Sprawiedliwosci.-Najbardziej-niebezpieczni.-Tom-1.,607194,p.html
+  gildia: https://www.gildia.pl/komiksy/279340-amerykanska-liga-sprawiedliwosci-1-najbardziej-niebezpieczni
+reviews:
+  paradoks: https://paradoks.net.pl/read/27476-amerykanska-liga-sprawiedliwosci-tom-1-najbardziej-niebezpieczni-recenzja
+issues:
+  - name: "Justice League of America (vol. 3) #1"
+    comic_vine_issue_id: 387206
+  - name: "Justice League of America (vol. 3) #2"
+    comic_vine_issue_id: 394650
+  - name: "Justice League of America (vol. 3) #3"
+    comic_vine_issue_id: 401172
+  - name: "Justice League of America (vol. 3) #4"
+    comic_vine_issue_id: 406948
+  - name: "Justice League of America (vol. 3) #5"
+    comic_vine_issue_id: 413616
+  - name: "Justice League (vol. 2) #18"
+    comic_vine_issue_id: 394651
+  - name: "Justice League (vol. 2) #19"
+    comic_vine_issue_id: 397492
+  - name: "Justice League (vol. 2) #20"
+    comic_vine_issue_id: 404659

@@ -1,0 +1,35 @@
+---
+collection: nowe-dc-comics
+name: "Harley Quinn. Tom 1: Miejska gorączka"
+image: nowe-dc-comics.39.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116580
+release_date: "2016-05-17"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/297334/harley-quinn-miejska-goraczka
+shops:
+  egmont: https://egmont.pl/Harley-Quinn.-Miejska-goraczka.-Tom-1.,606951,p.html
+  gildia: https://www.gildia.pl/komiksy/297391-harley-quinn-1-miejska-goraczka
+reviews:
+  paradoks: https://paradoks.net.pl/read/29585-harley-quinn-tom-1-miejska-goraczka-recenzja
+issues:
+  - name: "Harley Quinn (vol. 2) #0"
+    comic_vine_issue_id: 433771
+  - name: "Harley Quinn (vol. 2) #1"
+    comic_vine_issue_id: 437416
+  - name: "Harley Quinn (vol. 2) #2"
+    comic_vine_issue_id: 442872
+  - name: "Harley Quinn (vol. 2) #3"
+    comic_vine_issue_id: 445765
+  - name: "Harley Quinn (vol. 2) #4"
+    comic_vine_issue_id: 447952
+  - name: "Harley Quinn (vol. 2) #5"
+    comic_vine_issue_id: 450513
+  - name: "Harley Quinn (vol. 2) #6"
+    comic_vine_issue_id: 453362
+  - name: "Harley Quinn (vol. 2) #7"
+    comic_vine_issue_id: 456501
+  - name: "Harley Quinn (vol. 2) #8"
+    comic_vine_issue_id: 461064

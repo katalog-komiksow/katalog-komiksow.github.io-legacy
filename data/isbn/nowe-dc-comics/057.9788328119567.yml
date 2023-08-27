@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Flash. Tom 4: Cofnąć czas"
+image: nowe-dc-comics.57.webp
+image_source: "https://egmont.pl"
+isbn: 9788328119567
+release_date: "2017-04-05"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4492911/flash-cofnac-czas
+shops:
+  egmont: https://egmont.pl/Flash.-Cofnac-czas.-Tom-4,606647,p.html
+  gildia: https://www.gildia.pl/komiksy/324995-flash-4-cofnac-czas
+reviews:
+  paradoks: https://paradoks.net.pl/read/32221-flash-tom-4-cofnac-czas-recenzja
+issues:
+  - name: "The Flash (vol. 4) #20"
+    comic_vine_issue_id: 404672
+  - name: "The Flash (vol. 4) #21"
+    comic_vine_issue_id: 413620
+  - name: "The Flash (vol. 4) #22"
+    comic_vine_issue_id: 418786
+  - name: "The Flash (vol. 4) #23"
+    comic_vine_issue_id: 423623
+  - name: "The Flash (vol. 4) #23.2"
+    comic_vine_issue_id: 424990
+  - name: "The Flash (vol. 4) #24"
+    comic_vine_issue_id: 430716
+  - name: "The Flash (vol. 4) #25"
+    comic_vine_issue_id: 434993

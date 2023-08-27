@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Wonder Woman. Tom 5: Ciało"
+image: nowe-dc-comics.40.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116825
+release_date: "2016-05-17"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/300348/wonder-woman-cialo
+shops:
+  egmont: https://egmont.pl/Wonder-Woman.-Cialo.-Tom-5.,606707,p.html
+  gildia: https://www.gildia.pl/komiksy/300125-wonder-woman-5-cialo
+reviews:
+  paradoks: https://paradoks.net.pl/read/29458-wonder-woman-tom-5-cialo-recenzja
+issues:
+  - name: "Wonder Woman (vol. 4) #23.2"
+    comic_vine_issue_id: 426816
+  - name: "Wonder Woman (vol. 4) #24"
+    comic_vine_issue_id: 428828
+  - name: "Wonder Woman (vol. 4) #25"
+    comic_vine_issue_id: 433799
+  - name: "Wonder Woman (vol. 4) #26"
+    comic_vine_issue_id: 437422
+  - name: "Wonder Woman (vol. 4) #27"
+    comic_vine_issue_id: 442877
+  - name: "Wonder Woman (vol. 4) #28"
+    comic_vine_issue_id: 445769
+  - name: "Wonder Woman (vol. 4) #29"
+    comic_vine_issue_id: 447958

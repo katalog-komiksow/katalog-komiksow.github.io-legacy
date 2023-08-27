@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Mroczny Rycerz. Tom 2: Spirala przemocy"
+image: nowe-dc-comics.24.webp
+image_source: "https://egmont.pl"
+isbn: 9788328110465
+release_date: "2015-07-06"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/262169/batman---mroczny-rycerz-spirala-przemocy
+shops:
+  egmont: https://egmont.pl/Batman-Mroczny-Rycerz.-Spirala-przemocy.-Tom-2.,606894,p.html
+  gildia: https://www.gildia.pl/komiksy/275827-batman-mroczny-rycerz-tom-2-spirala-przemocy
+reviews:
+  paradoks: https://paradoks.net.pl/read/26967-batman-mroczny-rycerz-tom-2-spirala-przemocy-recenzja
+issues:
+  - name: "Batman: The Dark Knight (vol. 2) #0"
+    comic_vine_issue_id: 358819
+  - name: "Batman: The Dark Knight (vol. 2) #10"
+    comic_vine_issue_id: 342857
+  - name: "Batman: The Dark Knight (vol. 2) #11"
+    comic_vine_issue_id: 347338
+  - name: "Batman: The Dark Knight (vol. 2) #12"
+    comic_vine_issue_id: 352467
+  - name: "Batman: The Dark Knight (vol. 2) #13"
+    comic_vine_issue_id: 363056
+  - name: "Batman: The Dark Knight (vol. 2) #14"
+    comic_vine_issue_id: 370458
+  - name: "Batman: The Dark Knight (vol. 2) #15"
+    comic_vine_issue_id: 376597

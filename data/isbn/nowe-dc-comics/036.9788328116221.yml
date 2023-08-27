@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Wieczne zło: Wojna w Arkham"
+image: nowe-dc-comics.36.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116221
+release_date: "2016-02-17"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/290266/wieczne-zlo-wojna-w-arkham
+shops:
+  egmont: https://egmont.pl/Wieczne-zlo,608867,p.html
+  gildia: https://www.gildia.pl/komiksy/292452-wieczne-zlo-2-wojna-w-arkham
+reviews:
+  paradoks: https://paradoks.net.pl/read/28667-wieczne-zlo-wojna-w-arkham-recenzja
+issues:
+  - name: "Forever Evil: Arkham War #1"
+    comic_vine_issue_id: 428251
+  - name: "Forever Evil: Arkham War #2"
+    comic_vine_issue_id: 433111
+  - name: "Forever Evil: Arkham War #3"
+    comic_vine_issue_id: 436148
+  - name: "Forever Evil: Arkham War #4"
+    comic_vine_issue_id: 441369
+  - name: "Forever Evil: Arkham War #5"
+    comic_vine_issue_id: 444471
+  - name: "Forever Evil: Arkham War #6"
+    comic_vine_issue_id: 446949
+  - name: "Batman #23.4"
+    comic_vine_issue_id: 426805
+  - name: "Forever Evil Aftermath: Batman Vs. Bane #1"
+    comic_vine_issue_id: 451724

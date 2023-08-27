@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Wieczne zło"
+image: nowe-dc-comics.30.webp
+image_source: "https://egmont.pl"
+isbn: 9788328110540
+release_date: "2015-11-18"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/271911/wieczne-zlo
+shops:
+  egmont: https://egmont.pl/Wieczne-zlo,606430,p.html
+  gildia: https://www.gildia.pl/komiksy/283572-wieczne-zlo-1
+reviews:
+  paradoks: https://paradoks.net.pl/read/28111-wieczne-zlo-recenzja
+issues:
+  - name: "Forever Evil #1"
+    comic_vine_issue_id: 424491
+  - name: "Forever Evil #2"
+    comic_vine_issue_id: 427649
+  - name: "Forever Evil #3"
+    comic_vine_issue_id: 432289
+  - name: "Forever Evil #4"
+    comic_vine_issue_id: 438356
+  - name: "Forever Evil #5"
+    comic_vine_issue_id: 444469
+  - name: "Forever Evil #6"
+    comic_vine_issue_id: 446948
+  - name: "Forever Evil #7"
+    comic_vine_issue_id: 453359

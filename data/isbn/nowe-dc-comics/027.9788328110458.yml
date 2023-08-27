@@ -1,0 +1,27 @@
+---
+collection: nowe-dc-comics
+name: "All Star Western. Tom 3: Czarny diament"
+image: nowe-dc-comics.27.webp
+image_source: "https://egmont.pl"
+isbn: 9788328110458
+release_date: "2015-09-09"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/268952/all-star-western-czarny-diament
+shops:
+  egmont: https://egmont.pl/All-Star-Western.-Czarny-diament.-Tom-3.,608384,p.html
+  gildia: https://www.gildia.pl/komiksy/279339-all-star-western-3-czarny-diament
+reviews:
+  paradoks: https://paradoks.net.pl/read/27611-all-star-western-tom-3-czarny-diament-recenzja
+issues:
+  - name: "All-Star Western (vol. 3) #0"
+    comic_vine_issue_id: 358824
+  - name: "All-Star Western (vol. 3) #13"
+    comic_vine_issue_id: 363062
+  - name: "All-Star Western (vol. 3) #14"
+    comic_vine_issue_id: 370278
+  - name: "All-Star Western (vol. 3) #15"
+    comic_vine_issue_id: 376608
+  - name: "All-Star Western (vol. 3) #16"
+    comic_vine_issue_id: 382772

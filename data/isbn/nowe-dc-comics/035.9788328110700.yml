@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Liga Sprawiedliwości. Tom 5: Wieczni bohaterowie"
+image: nowe-dc-comics.35.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328110700
+release_date: "2016-02-17"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/290264/liga-sprawiedliwosci-wieczni-bohaterowie
+shops:
+  egmont: https://egmont.pl/Liga-Sprawiedliwosci.-Wieczni-bohaterowie.-Tom-5.,606585,p.html
+  gildia: https://www.gildia.pl/komiksy/292451-liga-sprawiedliwosci-5-wieczni-bohaterowie
+reviews:
+  paradoks: https://paradoks.net.pl/read/28640-liga-sprawiedliwosci-tom-5-wieczni-bohaterowie-recenzja
+issues:
+  - name: "Justice League (vol. 2) #24"
+    comic_vine_issue_id: 430713
+  - name: "Justice League (vol. 2) #25"
+    comic_vine_issue_id: 436149
+  - name: "Justice League (vol. 2) #26"
+    comic_vine_issue_id: 438357
+  - name: "Justice League (vol. 2) #27"
+    comic_vine_issue_id: 442875
+  - name: "Justice League (vol. 2) #28"
+    comic_vine_issue_id: 445768
+  - name: "Justice League (vol. 2) #29"
+    comic_vine_issue_id: 450514
+  - name: "Justice League of America (vol. 3) #7.4"
+    comic_vine_issue_id: 426814

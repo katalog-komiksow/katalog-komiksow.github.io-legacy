@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Liga Sprawiedliwości. Tom 3: Tron Atlantydy"
+image: nowe-dc-comics.12.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328102415
+release_date: "2014-07-07"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/229044/liga-sprawiedliwosci-tron-atlantydy
+shops:
+  egmont: https://egmont.pl/Liga-Sprawiedliwosci.-Tron-Atlantydy.-Tom-3.,606561,p.html
+  gildia: https://www.gildia.pl/komiksy/245689-liga-sprawiedliwosci-3-tron-atlantydy
+reviews:
+  paradoks: https://paradoks.net.pl/read/24271-liga-sprawiedliwosci-tom-3-tron-atlantydy-recenzja
+issues:
+  - name: "Justice League (vol. 2) #13"
+    comic_vine_issue_id: 362284
+  - name: "Justice League (vol. 2) #14"
+    comic_vine_issue_id: 369027
+  - name: "Justice League (vol. 2) #15"
+    comic_vine_issue_id: 374663
+  - name: "Justice League (vol. 2) #16"
+    comic_vine_issue_id: 381380
+  - name: "Justice League (vol. 2) #17"
+    comic_vine_issue_id: 387208
+  - name: "Aquaman (vol. 7) #15"
+    comic_vine_issue_id: 374664
+  - name: "Aquaman (vol. 7) #16"
+    comic_vine_issue_id: 382768

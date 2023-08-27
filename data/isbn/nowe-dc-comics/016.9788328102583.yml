@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Szpon. Tom 1: Utrapienie sów"
+image: nowe-dc-comics.16.webp
+image_source: "https://egmont.pl"
+isbn: 9788328102583
+release_date: "2014-11-03"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/240703/szpon-utrapienie-sow
+shops:
+  egmont: https://egmont.pl/Szpon.-Utrapienie-Sow.-Tom-1.,606306,p.html
+  gildia: https://www.gildia.pl/komiksy/245694-szpon-1-utrapienie-sow
+reviews:
+  paradoks: https://paradoks.net.pl/read/25417-szpon-tom-1-utrapienie-sow-recenzja
+issues:
+  - name: "Talon #0"
+    comic_vine_issue_id: 358817
+  - name: "Talon #1"
+    comic_vine_issue_id: 363055
+  - name: "Talon #2"
+    comic_vine_issue_id: 370271
+  - name: "Talon #3"
+    comic_vine_issue_id: 376598
+  - name: "Talon #4"
+    comic_vine_issue_id: 382763
+  - name: "Talon #5"
+    comic_vine_issue_id: 388522
+  - name: "Talon #6"
+    comic_vine_issue_id: 395317
+  - name: "Talon #7"
+    comic_vine_issue_id: 398946

@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Liga Sprawiedliwości. Tom 2: Podróż złoczyńcy"
+image: nowe-dc-comics.08.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761969
+release_date: "2014-04-10"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/218240/liga-sprawiedliwosci-podroz-zloczyncy
+shops:
+  egmont: https://egmont.pl/Liga-Sprawiedliwosci.-Podroz-zloczyncy.-Tom-2.,606431,p.html
+  gildia: https://www.gildia.pl/komiksy/238877-liga-sprawiedliwosci-2-podroz-zloczyncy
+reviews:
+  paradoks: https://paradoks.net.pl/read/23510-liga-sprawiedliwosci-tom-2-podroz-zloczyncy-recenzja
+issues:
+  - name: "Justice League (vol. 2) #7"
+    comic_vine_issue_id: 322744
+  - name: "Justice League (vol. 2) #8"
+    comic_vine_issue_id: 331846
+  - name: "Justice League (vol. 2) #9"
+    comic_vine_issue_id: 335900
+  - name: "Justice League (vol. 2) #10"
+    comic_vine_issue_id: 342859
+  - name: "Justice League (vol. 2) #11"
+    comic_vine_issue_id: 346228
+  - name: "Justice League (vol. 2) #12"
+    comic_vine_issue_id: 354038
+  - name: "Justice League (vol. 2) #0"
+    comic_vine_issue_id: 357626

@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Detective Comics. Tom 4: Gniew"
+image: nowe-dc-comics.22.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328110212
+release_date: "2015-05-09"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/257284/batman---detective-comics-gniew
+shops:
+  egmont: https://egmont.pl/Batman-Detective-Comics-Gniew.-Tom-4.,606391,p.html
+  gildia: https://www.gildia.pl/komiksy/267378-batman-detective-comics-vol-4-gniew
+reviews:
+  paradoks: https://paradoks.net.pl/read/26869-batman-detective-comics-tom-4-gniew-recenzja
+issues:
+  - name: "Detective Comics (vol. 2) #19"
+    comic_vine_issue_id: 395672
+  - name: "Detective Comics (vol. 2) #20"
+    comic_vine_issue_id: 400111
+  - name: "Detective Comics (vol. 2) #21"
+    comic_vine_issue_id: 408947
+  - name: "Detective Comics (vol. 2) #22"
+    comic_vine_issue_id: 415203
+  - name: "Detective Comics (vol. 2) #23"
+    comic_vine_issue_id: 420602
+  - name: "Detective Comics (vol. 2) #24"
+    comic_vine_issue_id: 427650
+  - name: "Detective Comics Annual (vol. 2) #2"
+    comic_vine_issue_id: 419955

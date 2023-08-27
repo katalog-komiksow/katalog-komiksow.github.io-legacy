@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Superman. Tom 2: Kuloodporny"
+image: nowe-dc-comics.07.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761914
+release_date: "2014-03-10"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/218244/superman-kuloodporny
+shops:
+  egmont: https://egmont.pl/Superman.-Kuloodporny.-Tom-2.,608488,p.html
+  gildia: https://www.gildia.pl/komiksy/238876-superman-action-comics-vol-2-kuloodporny
+reviews:
+  paradoks: https://paradoks.net.pl/read/23467
+issues:
+  - name: "Action Comics (vol. 2) #9"
+    comic_vine_issue_id: 334200
+  - name: "Action Comics (vol. 2) #10"
+    comic_vine_issue_id: 338476
+  - name: "Action Comics (vol. 2) #11"
+    comic_vine_issue_id: 344033
+  - name: "Action Comics (vol. 2) #12"
+    comic_vine_issue_id: 348139
+  - name: "Action Comics (vol. 2) #0"
+    comic_vine_issue_id: 355780
+  - name: "Action Comics Annual (vol. 2) #1"
+    comic_vine_issue_id: 364095

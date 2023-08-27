@@ -1,0 +1,35 @@
+---
+collection: nowe-dc-comics
+name: "Superman: Wyzwolony"
+image: nowe-dc-comics.32.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116061
+release_date: "2015-12-04"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/273774/superman-wyzwolony
+shops:
+  egmont: https://egmont.pl/Superman-wyzwolony,606295,p.html
+  gildia: https://www.gildia.pl/komiksy/288302-superman-wyzwolony
+reviews:
+  paradoks: https://paradoks.net.pl/read/28286-superman-wyzwolony-recenzja
+issues:
+  - name: "Superman Unchained #1"
+    comic_vine_issue_id: 410268
+  - name: "Superman Unchained #2"
+    comic_vine_issue_id: 416906
+  - name: "Superman Unchained #3"
+    comic_vine_issue_id: 422435
+  - name: "Superman Unchained #4"
+    comic_vine_issue_id: 432297
+  - name: "Superman Unchained #5"
+    comic_vine_issue_id: 440201
+  - name: "Superman Unchained #6"
+    comic_vine_issue_id: 447956
+  - name: "Superman Unchained #7"
+    comic_vine_issue_id: 458569
+  - name: "Superman Unchained #8"
+    comic_vine_issue_id: 464944
+  - name: "Superman Unchained #9"
+    comic_vine_issue_id: 469436

@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Detective Comics. Tom 3: Imperium Pingwina"
+image: nowe-dc-comics.11.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328102330
+release_date: "2014-06-10"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/226229/batman---detective-comics-imperium-pingwina
+shops:
+  egmont: https://egmont.pl/Batman-Detective-Comics.-Imperium-Pingwina.-Tom-3.,606507,p.html
+  gildia: https://www.gildia.pl/komiksy/245204-batman-detective-comics-vol-3-imperium-pingwina
+reviews:
+  paradoks: https://paradoks.net.pl/read/24493-batman-detective-comics-tom-3-imperium-pingwina-recenzja
+issues:
+  - name: "Detective Comics (vol. 2) #13"
+    comic_vine_issue_id: 359829
+  - name: "Detective Comics (vol. 2) #14"
+    comic_vine_issue_id: 365732
+  - name: "Detective Comics (vol. 2) #15"
+    comic_vine_issue_id: 371149
+  - name: "Detective Comics (vol. 2) #16"
+    comic_vine_issue_id: 378851
+  - name: "Detective Comics (vol. 2) #17"
+    comic_vine_issue_id: 384916
+  - name: "Detective Comics (vol. 2) #18"
+    comic_vine_issue_id: 390398

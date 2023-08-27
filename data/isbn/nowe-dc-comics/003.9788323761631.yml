@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Action Comics. Tom 1: Action Comics i Ludzie ze Stali"
+image: nowe-dc-comics.03.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761631
+release_date: "2013-06-10"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/182213/Action Comics-Action Comics-i-ludzie-ze-stali
+shops:
+  egmont: https://egmont.pl/Action Comics.-Action Comics-i-Ludzie-ze-stali.-Tom-1.,606575,p.html
+  gildia: https://www.gildia.pl/komiksy/203477-Action Comics-action-comics-vol-1-Action Comics-i-ludzie-ze-stali
+reviews:
+  paradoks: https://paradoks.net.pl/read/21505-Action Comics-i-ludzie-ze-stali-recenzja
+issues:
+  - name: "Action Comics (vol. 2) #1"
+    comic_vine_issue_id: 291123
+  - name: "Action Comics (vol. 2) #2"
+    comic_vine_issue_id: 294054
+  - name: "Action Comics (vol. 2) #3"
+    comic_vine_issue_id: 300967
+  - name: "Action Comics (vol. 2) #4"
+    comic_vine_issue_id: 305587
+  - name: "Action Comics (vol. 2) #5"
+    comic_vine_issue_id: 309328
+  - name: "Action Comics (vol. 2) #6"
+    comic_vine_issue_id: 313619
+  - name: "Action Comics (vol. 2) #7"
+    comic_vine_issue_id: 319313
+  - name: "Action Comics (vol. 2) #8"
+    comic_vine_issue_id: 326821

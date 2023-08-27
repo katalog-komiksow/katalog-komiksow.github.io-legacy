@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Wonder Woman. Tom 3: Żelazo"
+image: nowe-dc-comics.23.webp
+image_source: "https://egmont.pl"
+isbn: 9788328110397
+release_date: "2015-06-17"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/260536/wonder-woman-zelazo
+shops:
+  egmont: https://egmont.pl/Wonder-Woman.-Zelazo.-Tom-3.,606451,p.html
+  gildia: https://www.gildia.pl/komiksy/268724-wonder-woman-3-zelazo
+reviews:
+  paradoks: https://paradoks.net.pl/read/27036-wonder-woman-tom-3-zelazo-recenzja
+issues:
+  - name: "Wonder Woman (vol. 4) #0"
+    comic_vine_issue_id: 357629
+  - name: "Wonder Woman (vol. 4) #13"
+    comic_vine_issue_id: 362162
+  - name: "Wonder Woman (vol. 4) #14"
+    comic_vine_issue_id: 369033
+  - name: "Wonder Woman (vol. 4) #15"
+    comic_vine_issue_id: 373263
+  - name: "Wonder Woman (vol. 4) #16"
+    comic_vine_issue_id: 381384
+  - name: "Wonder Woman (vol. 4) #17"
+    comic_vine_issue_id: 387219
+  - name: "Wonder Woman (vol. 4) #18"
+    comic_vine_issue_id: 394655

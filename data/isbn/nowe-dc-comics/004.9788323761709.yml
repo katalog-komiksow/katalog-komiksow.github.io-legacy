@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Liga Sprawiedliwości. Tom 1: Początek"
+image: nowe-dc-comics.04.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761709
+release_date: "2013-08-05"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/192298/liga-sprawiedliwosci-poczatek
+shops:
+  egmont: https://egmont.pl/Liga-Sprawiedliwosci.-Poczatek.-Tom-1.,607009,p.html
+  gildia: https://www.gildia.pl/komiksy/221637-liga-sprawiedliwosci-1-poczatek
+reviews:
+  paradoks: https://paradoks.net.pl/read/21929-liga-sprawiedliwosci-tom-1-poczatek-recenzja
+issues:
+  - name: "Justice League (vol. 2) #1"
+    comic_vine_issue_id: 290431
+  - name: "Justice League (vol. 2) #2"
+    comic_vine_issue_id: 297218
+  - name: "Justice League (vol. 2) #3"
+    comic_vine_issue_id: 302633
+  - name: "Justice League (vol. 2) #4"
+    comic_vine_issue_id: 307444
+  - name: "Justice League (vol. 2) #5"
+    comic_vine_issue_id: 312635
+  - name: "Justice League (vol. 2) #6"
+    comic_vine_issue_id: 317756

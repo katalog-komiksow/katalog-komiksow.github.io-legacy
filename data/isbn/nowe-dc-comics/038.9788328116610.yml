@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Flash. Tom 1: Cała naprzód"
+image: nowe-dc-comics.38.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116610
+release_date: "2016-04-13"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/297335/flash-cala-naprzod
+shops:
+  egmont: https://egmont.pl/Flash.-Cala-naprzod.-Tom-1.,607119,p.html
+  gildia: https://www.gildia.pl/komiksy/297390-flash-1-cala-naprzod
+reviews:
+  paradoks: https://paradoks.net.pl/read/29024-flash-tom-1-cala-naprzod-recenzja
+issues:
+  - name: "The Flash (vol. 4) #1"
+    comic_vine_issue_id: 293585
+  - name: "The Flash (vol. 4) #2"
+    comic_vine_issue_id: 299480
+  - name: "The Flash (vol. 4) #3"
+    comic_vine_issue_id: 303291
+  - name: "The Flash (vol. 4) #4"
+    comic_vine_issue_id: 308402
+  - name: "The Flash (vol. 4) #5"
+    comic_vine_issue_id: 312711
+  - name: "The Flash (vol. 4) #6"
+    comic_vine_issue_id: 316562
+  - name: "The Flash (vol. 4) #7"
+    comic_vine_issue_id: 324811
+  - name: "The Flash (vol. 4) #8"
+    comic_vine_issue_id: 333363

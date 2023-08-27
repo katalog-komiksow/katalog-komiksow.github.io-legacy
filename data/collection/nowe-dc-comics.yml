@@ -1,0 +1,135 @@
+---
+- name: "Batman. Tom 1: Trybunał sów"
+  isbn: 9788323761440
+- name: "Batman - Detective Comics. Tom 1: Oblicza śmierci"
+  isbn: 9788323761563
+- name: "Superman. Tom 1: Superman i Ludzie ze Stali"
+  isbn: 9788323761631
+- name: "Liga Sprawiedliwości. Tom 1: Początek"
+  isbn: 9788323761709
+- name: "Batman. Tom 2: Miasto sów"
+  isbn: 9788323761778
+- name: "Batman - Detective Comics. Tom 2: Techniki zastraszania"
+  isbn: 9788323761860
+- name: "Superman. Tom 2: Kuloodporny"
+  isbn: 9788323761914
+- name: "Liga Sprawiedliwości. Tom 2: Podróż złoczyńcy"
+  isbn: 9788323761969
+- name: "Batman. Tom 3: Śmierć rodziny"
+  isbn: 9788328102262
+- name: "Superman. Tom 3: U kresu dni"
+  isbn: 9788328102293
+- name: "Batman - Detective Comics. Tom 3: Imperium Pingwina"
+  isbn: 9788328102330
+- name: "Liga Sprawiedliwości. Tom 3: Tron Atlantydy"
+  isbn: 9788328102415
+- name: "Wonder Woman. Tom 1: Krew"
+  isbn: 9788328102408
+- name: "Batman. Tom 4: Rok zerowy – Tajemnicze miasto"
+  isbn: 9788328102606
+- name: "All Star Western. Tom 1: Spluwy w Gotham"
+  isbn: 9788328102613
+- name: "Szpon. Tom 1: Utrapienie sów"
+  isbn: 9788328102583
+- name: "Batman - Mroczny Rycerz. Tom 1: Nocna trwoga"
+  isbn: 9788328102552
+- name: "All Star Western. Tom 2: Wojna Lordów i Sów"
+  isbn: 9788328102620
+- name: "Szpon. Tom 2: Upadek sów"
+  isbn: 9788328102590
+- name: "Batman. Tom 5: Rok zerowy - Mroczne miasto"
+  isbn: 9788328110137
+- name: "Wonder Woman. Tom 2: Trzewia"
+  isbn: 9788328110199
+- name: "Batman - Detective Comics. Tom 4: Gniew"
+  isbn: 9788328110212
+- name: "Wonder Woman. Tom 3: Żelazo"
+  isbn: 9788328110397
+- name: "Batman - Mroczny Rycerz. Tom 2: Spirala przemocy"
+  isbn: 9788328110465
+- name: "Shazam"
+  isbn: 9788328110595
+- name: "Amerykańska Liga Sprawiedliwości. Tom 1: Najbardziej niebezpieczni"
+  isbn: 9788328110236
+- name: "All Star Western. Tom 3: Czarny diament"
+  isbn: 9788328110458
+- name: "Batman. Tom 6: Cmentarna szychta"
+  isbn: 9788328110717
+- name: "Liga Sprawiedliwości. Tom 4: Trójka"
+  isbn: 9788328110304
+- name: "Wieczne zło"
+  isbn: 9788328110540
+- name: "Batman - Mroczny Rycerz. Tom 3: Szalony"
+  isbn: 9788328116023
+- name: "Superman: Wyzwolony"
+  isbn: 9788328116061
+- name: "Wonder Woman. Tom 4: Wojna"
+  isbn: 9788328110601
+- name: "Batman - Detective Comics. Tom 5: Gothtopia"
+  isbn: 9788328116115
+- name: "Liga Sprawiedliwości. Tom 5: Wieczni bohaterowie"
+  isbn: 9788328110700
+- name: "Wieczne zło: Wojna w Arkham"
+  isbn: 9788328116221
+- name: "Wieczny Batman. Tom 1"
+  isbn: 9788328116290
+- name: "Flash. Tom 1: Cała naprzód"
+  isbn: 9788328116610
+- name: "Harley Quinn. Tom 1: Miejska gorączka"
+  isbn: 9788328116580
+- name: "Wonder Woman. Tom 5: Ciało"
+  isbn: 9788328116825
+- name: "Wieczny Batman. Tom 2"
+  isbn: 9788328116818
+- name: "Suicide Squad: Oddział Samobójców. Tom 1: Nadzorować i karać"
+  isbn: 9788328116931
+- name: "Liga Sprawiedliwości. Tom 6: Liga Niesprawiedliwości"
+  isbn: 9788328116955
+- name: "Flash. Tom 2: Rebelia łotrów"
+  isbn: 9788328116993
+- name: "Batman - Mroczny Rycerz. Tom 4: Glina"
+  isbn: 9788328118096
+- name: "Wieczny Batman. Tom 3"
+  isbn: 9788328118164
+- name: "Harley Quinn. Tom 2: Zamotana"
+  isbn: 9788328118171
+- name: "Wonder Woman. Tom 6: Kości"
+  isbn: 9788328118270
+- name: "Flash. Tom 3: Inwazja goryli"
+  isbn: 9788328118003
+- name: "Batman. Tom 7: Ostateczna rozgrywka"
+  isbn: 9788328118348
+- name: "Batman - Detective Comics. Tom 6: Ikar"
+  isbn: 9788328119154
+- name: "Liga Sprawiedliwości. Tom 7: Wojna Darkseida 1"
+  isbn: 9788328119192
+- name: "Suicide Squad: Oddział Samobójców. Tom 2: Zderzenie ze ścianą"
+  isbn: 9788328119208
+- name: "Batman. Tom 8: Waga superciężka"
+  isbn: 9788328119369
+- name: "Harley Quinn. Tom 3: Cmok, cmok, bang, dziab!"
+  isbn: 9788328119581
+- name: "Wieczni Batman i Robin. Tom 1"
+  isbn: 9788328119703
+- name: "Flash. Tom 4: Cofnąć czas"
+  isbn: 9788328119567
+- name: "Harley Quinn. Tom 4: Do broni!"
+  isbn: 9788328119598
+- name: "Wojna Robinów"
+  isbn: 9788328119925
+- name: "Batman - Detective Comics. Tom 7: Anarky"
+  isbn: 9788328142893
+- name: "Batman. Tom 9: Bloom"
+  isbn: 9788328119956
+- name: "Flash. Tom 5: Lekcje historii"
+  isbn: 9788328119574
+- name: "Wieczni Batman i Robin. Tom 2"
+  isbn: 9788328119994
+- name: "Liga Sprawiedliwości. Tom 8: Wojna Darkseida 2"
+  isbn: 9788328127005
+- name: "Harley Quinn. Tom 5: Joker nie śmieje się ostatni"
+  isbn: 9788328119604
+- name: "Batman. Tom 10: Epilog"
+  isbn: 9788328127036
+- name: "Harley Quinn. Tom 6: Cała w czerni, bieli i czerwieni"
+  isbn: 9788328127302

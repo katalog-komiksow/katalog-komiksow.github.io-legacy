@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Mroczny Rycerz. Tom 3: Szalony"
+image: nowe-dc-comics.31.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116023
+release_date: "2015-11-18"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/271916/batman---mroczny-rycerz-szalony
+shops:
+  egmont: https://egmont.pl/Batman-Mroczny-Rycerz.-Szalony.-Tom-3.,608497,p.html
+  gildia: https://www.gildia.pl/komiksy/283571-batman-mroczny-rycerz-tom-3-szalony
+reviews:
+  paradoks: https://paradoks.net.pl/read/28152-batman-mroczny-rycerz-tom-3-szalony-recenzja
+issues:
+  - name: "Batman: The Dark Knight (vol. 2) #16"
+    comic_vine_issue_id: 382764
+  - name: "Batman: The Dark Knight (vol. 2) #17"
+    comic_vine_issue_id: 388523
+  - name: "Batman: The Dark Knight (vol. 2) #18"
+    comic_vine_issue_id: 395264
+  - name: "Batman: The Dark Knight (vol. 2) #19"
+    comic_vine_issue_id: 398947
+  - name: "Batman: The Dark Knight (vol. 2) #20"
+    comic_vine_issue_id: 404660
+  - name: "Batman: The Dark Knight (vol. 2) #21"
+    comic_vine_issue_id: 413610

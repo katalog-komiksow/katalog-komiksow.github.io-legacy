@@ -1,0 +1,25 @@
+---
+collection: nowe-dc-comics
+name: "Batman. Tom 4: Rok zerowy – Tajemnicze miasto"
+image: nowe-dc-comics.14.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328102606
+release_date: "2014-09-08"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/233974/batman-rok-zerowy-tajemnicze-miasto
+shops:
+  egmont: https://egmont.pl/Batman.-Rok-zerowy-Tajemnicze-miasto.-Tom-4.,607174,p.html
+  gildia: https://www.gildia.pl/komiksy/245691-batman-4-rok-zerowy-tajemnicze-miasto
+reviews:
+  paradoks: https://paradoks.net.pl/read/24859-batman-tom-4-rok-zerowy-tajemnicze-miasto-recenzja
+issues:
+  - name: "Batman (vol. 2) #21"
+    comic_vine_issue_id: 410267
+  - name: "Batman (vol. 2) #22"
+    comic_vine_issue_id: 416902
+  - name: "Batman (vol. 2) #23"
+    comic_vine_issue_id: 421652
+  - name: "Batman (vol. 2) #24"
+    comic_vine_issue_id: 428250

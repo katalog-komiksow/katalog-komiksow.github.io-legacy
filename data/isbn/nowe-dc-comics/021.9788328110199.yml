@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Wonder Woman. Tom 2: Trzewia"
+image: nowe-dc-comics.21.webp
+image_source: "https://egmont.pl"
+isbn: 9788328110199
+release_date: "2015-04-08"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/256867/wonder-woman-trzewia
+shops:
+  egmont: https://egmont.pl/Wonder-Woman.-Trzewia.-Tom-2.,606250,p.html
+  gildia: https://www.gildia.pl/komiksy/265831-wonder-woman-2-trzewia
+reviews:
+  paradoks: https://paradoks.net.pl/read/26299-wonder-woman-tom-2-trzewia-recenzja
+issues:
+  - name: "Wonder Woman (vol. 4) #7"
+    comic_vine_issue_id: 322745
+  - name: "Wonder Woman (vol. 4) #8"
+    comic_vine_issue_id: 331847
+  - name: "Wonder Woman (vol. 4) #9"
+    comic_vine_issue_id: 335901
+  - name: "Wonder Woman (vol. 4) #10"
+    comic_vine_issue_id: 341643
+  - name: "Wonder Woman (vol. 4) #11"
+    comic_vine_issue_id: 346229
+  - name: "Wonder Woman (vol. 4) #12"
+    comic_vine_issue_id: 350911

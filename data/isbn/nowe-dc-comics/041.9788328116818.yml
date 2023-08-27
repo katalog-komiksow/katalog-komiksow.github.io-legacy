@@ -1,0 +1,43 @@
+---
+collection: nowe-dc-comics
+name: "Wieczny Batman. Tom 2"
+image: nowe-dc-comics.41.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116818
+release_date: "2016-06-15"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/303765/wieczny-batman-tom-2
+shops:
+  egmont: https://egmont.pl/Wieczny-Batman.-Tom-2.,607134,p.html
+  gildia: https://www.gildia.pl/komiksy/303447-batman-wieczny-batman-tom-2
+reviews:
+  paradoks: https://paradoks.net.pl/read/29766-wieczny-batman-tom-2-recenzja
+issues:
+  - name: "Batman Eternal #22"
+    comic_vine_issue_id: 463939
+  - name: "Batman Eternal #23"
+    comic_vine_issue_id: 464934
+  - name: "Batman Eternal #24"
+    comic_vine_issue_id: 465790
+  - name: "Batman Eternal #25"
+    comic_vine_issue_id: 466271
+  - name: "Batman Eternal #26"
+    comic_vine_issue_id: 466979
+  - name: "Batman Eternal #27"
+    comic_vine_issue_id: 467596
+  - name: "Batman Eternal #28"
+    comic_vine_issue_id: 468017
+  - name: "Batman Eternal #29"
+    comic_vine_issue_id: 468407
+  - name: "Batman Eternal #30"
+    comic_vine_issue_id: 468860
+  - name: "Batman Eternal #31"
+    comic_vine_issue_id: 469425
+  - name: "Batman Eternal #32"
+    comic_vine_issue_id: 469791
+  - name: "Batman Eternal #33"
+    comic_vine_issue_id: 470366
+  - name: "Batman Eternal #34"
+    comic_vine_issue_id: 471249

@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Batman. Tom 1: Trybunał sów"
+image: nowe-dc-comics.01.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761440
+release_date: "2013-03-04"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/171018/batman-trybunal-sow
+shops:
+  egmont: https://egmont.pl/Batman.-Trybunal-sow.-Tom-1.,606249,p.html
+  gildia: https://www.gildia.pl/komiksy/203122-batman-1-trybunal-sow
+reviews:
+  paradoks: https://paradoks.net.pl/read/20789-batman-tom-1-trybunal-sow-recenzja
+issues:
+  - name: "Batman (vol. 2) #1"
+    comic_vine_issue_id: 293259
+  - name: "Batman (vol. 2) #2"
+    comic_vine_issue_id: 297219
+  - name: "Batman (vol. 2) #3"
+    comic_vine_issue_id: 302527
+  - name: "Batman (vol. 2) #4"
+    comic_vine_issue_id: 307443
+  - name: "Batman (vol. 2) #5"
+    comic_vine_issue_id: 311661
+  - name: "Batman (vol. 2) #6"
+    comic_vine_issue_id: 315632
+  - name: "Batman (vol. 2) #7"
+    comic_vine_issue_id: 322739

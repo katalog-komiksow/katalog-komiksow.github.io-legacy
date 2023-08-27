@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Wonder Woman. Tom 1: Krew"
+image: nowe-dc-comics.13.webp
+image_source: "https://egmont.pl"
+isbn: 9788328102408
+release_date: "2014-08-04"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/230872/wonder-woman-krew
+shops:
+  egmont: https://egmont.pl/Wonder-Woman.-Krew.-Tom-1.,608767,p.html
+  gildia: https://www.gildia.pl/komiksy/245690-wonder-woman-1-krew
+reviews:
+  paradoks: https://paradoks.net.pl/read/24711-wonder-woman-tom-1-krew-recenzja
+issues:
+  - name: "Wonder Woman (vol. 4) #1"
+    comic_vine_issue_id: 293307
+  - name: "Wonder Woman (vol. 4) #2"
+    comic_vine_issue_id: 297224
+  - name: "Wonder Woman (vol. 4) #3"
+    comic_vine_issue_id: 302532
+  - name: "Wonder Woman (vol. 4) #4"
+    comic_vine_issue_id: 307441
+  - name: "Wonder Woman (vol. 4) #5"
+    comic_vine_issue_id: 311667
+  - name: "Wonder Woman (vol. 4) #6"
+    comic_vine_issue_id: 315713

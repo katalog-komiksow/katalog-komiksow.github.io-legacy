@@ -1,0 +1,27 @@
+---
+collection: nowe-dc-comics
+name: "Batman. Tom 8: Waga superciężka"
+image: nowe-dc-comics.54.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328119369
+release_date: "2017-03-15"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4335251/batman-waga-superciezka
+shops:
+  egmont: https://egmont.pl/Batman-Waga-superciezka.-Tom-8,606371,p.html
+  gildia: https://www.gildia.pl/komiksy/324997-batman-8-waga-superciezka
+reviews:
+  paradoks: https://paradoks.net.pl/read/32026-batman-tom-8-waga-superciezka-recenzja
+issues:
+  - name: "Batman (vol. 2) #41"
+    comic_vine_issue_id: 491468
+  - name: "Batman (vol. 2) #42"
+    comic_vine_issue_id: 494262
+  - name: "Batman (vol. 2) #43"
+    comic_vine_issue_id: 497361
+  - name: "Batman (vol. 2) #44"
+    comic_vine_issue_id: 499718
+  - name: "Batman (vol. 2) #45"
+    comic_vine_issue_id: 502824

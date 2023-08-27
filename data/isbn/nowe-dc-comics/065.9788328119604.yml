@@ -1,0 +1,27 @@
+---
+collection: nowe-dc-comics
+name: "Harley Quinn. Tom 5: Joker nie śmieje się ostatni"
+image: nowe-dc-comics.65.webp
+image_source: "https://egmont.pl"
+isbn: 9788328119604
+release_date: "2017-07-05"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4789896/harley-quinn-joker-nie-smieje-sie-ostatni
+shops:
+  egmont: https://egmont.pl/Harley-Quinn-Joker-nie-smieje-sie-ostatni.-Tom-5,1633292,p.html
+  gildia: https://www.gildia.pl/komiksy/338984-harley-quinn-5-joker-nie-smieje-sie-ostatni
+reviews:
+  paradoks: https://paradoks.net.pl/read/33105-harley-quinn-tom-5-joker-nie-smieje-sie-ostatni-recenzja
+issues:
+  - name: "Harley Quinn (vol. 2) #22"
+    comic_vine_issue_id: 506149
+  - name: "Harley Quinn (vol. 2) #23"
+    comic_vine_issue_id: 508405
+  - name: "Harley Quinn (vol. 2) #24"
+    comic_vine_issue_id: 511490
+  - name: "Harley Quinn (vol. 2) #25"
+    comic_vine_issue_id: 516058
+  - name: "Harley Quinn: Be Careful What You Wish For #1"
+    comic_vine_issue_id: 652601

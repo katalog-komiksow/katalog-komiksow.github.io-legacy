@@ -1,0 +1,33 @@
+---
+collection: nowe-dc-comics
+name: "Suicide Squad: Oddział Samobójców. Tom 2: Zderzenie ze ścianą"
+image: nowe-dc-comics.53.webp
+image_source: "https://egmont.pl"
+isbn: 9788328119208
+release_date: "2017-02-15"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4352696/suicide-squad-oddzial-samobojcow-zderzenie-ze-sciana
+shops:
+  egmont: https://egmont.pl/Suicide-Squad-Oddzial-Samobojcow.-Zderzenie-ze-sciana.-Tom-2,608863,p.html
+  gildia: https://www.gildia.pl/komiksy/322945-suicide-squad-oddzial-samobojcow-2-zderzenie-ze-sciana
+reviews:
+  paradoks: https://paradoks.net.pl/read/31839-suicide-squad-oddzial-samobojcow-tom-2-zderzenie-ze-sciana-recenzja
+issues:
+  - name: "Suicide Squad: Amanda Waller #1"
+    comic_vine_issue_id: 448917
+  - name: "Suicide Squad #24"
+    comic_vine_issue_id: 428256
+  - name: "Suicide Squad #25"
+    comic_vine_issue_id: 433113
+  - name: "Suicide Squad #26"
+    comic_vine_issue_id: 436152
+  - name: "Suicide Squad #27"
+    comic_vine_issue_id: 442113
+  - name: "Suicide Squad #28"
+    comic_vine_issue_id: 445145
+  - name: "Suicide Squad #29"
+    comic_vine_issue_id: 447954
+  - name: "Suicide Squad #30"
+    comic_vine_issue_id: 454051

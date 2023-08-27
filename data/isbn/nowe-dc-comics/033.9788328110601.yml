@@ -1,0 +1,27 @@
+---
+collection: nowe-dc-comics
+name: "Wonder Woman. Tom 4: Wojna"
+image: nowe-dc-comics.33.webp
+image_source: "https://egmont.pl"
+isbn: 9788328110601
+release_date: "2015-12-07"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/273775/wonder-woman-wojna
+shops:
+  egmont: https://egmont.pl/Wonder-Woman.-Wojna.-Tom-4.,606377,p.html
+  gildia: https://www.gildia.pl/komiksy/288301-wonder-woman-4-wojna
+reviews:
+  paradoks: https://paradoks.net.pl/read/28276-wonder-woman-tom-4-wojna-recenzja
+issues:
+  - name: "Wonder Woman (vol. 4) #19"
+    comic_vine_issue_id: 397498
+  - name: "Wonder Woman (vol. 4) #20"
+    comic_vine_issue_id: 402244
+  - name: "Wonder Woman (vol. 4) #21"
+    comic_vine_issue_id: 411790
+  - name: "Wonder Woman (vol. 4) #22"
+    comic_vine_issue_id: 417796
+  - name: "Wonder Woman (vol. 4) #23"
+    comic_vine_issue_id: 422437

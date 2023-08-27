@@ -1,0 +1,25 @@
+---
+collection: nowe-dc-comics
+name: "Batman. Tom 10: Epilog"
+image: nowe-dc-comics.66.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788328127036
+release_date: "2017-08-02"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4803687/batman-epilog
+shops:
+  egmont: https://egmont.pl/Batman-Epilog.-Tom-10,2382850,p.html
+  gildia: https://www.gildia.pl/komiksy/340472-batman-10-epilog
+reviews:
+  paradoks: https://paradoks.net.pl/read/33373-batman-tom-10-epilog-recenzja
+issues:
+  - name: "Batman (vol. 2) #51"
+    comic_vine_issue_id: 527103
+  - name: "Batman (vol. 2) #52"
+    comic_vine_issue_id: 529618
+  - name: "Batman Annual (vol. 2) #4"
+    comic_vine_issue_id: 501591
+  - name: "Batman: Futures End #1"
+    comic_vine_issue_id: 464935

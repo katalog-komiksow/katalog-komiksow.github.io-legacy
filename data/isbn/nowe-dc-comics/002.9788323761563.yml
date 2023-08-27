@@ -1,0 +1,31 @@
+---
+collection: nowe-dc-comics
+name: "Batman - Detective Comics. Tom 1: Oblicza śmierci"
+image: nowe-dc-comics.02.jpeg
+image_source: "https://egmont.pl"
+isbn: 9788323761563
+release_date: "2013-04-08"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/175029/batman---detective-comics-oblicza-smierci
+shops:
+  egmont: https://egmont.pl/Batman-Detective-Comics.-Oblicza-smierci.-Tom-1.,608858,p.html
+  gildia: https://www.gildia.pl/komiksy/203123-batman-detective-comics-vol-1-oblicza-smierci
+reviews:
+  paradoks: https://paradoks.net.pl/read/20921-batman-detective-comics-tom-1-oblicza-smierci-recenzja
+issues:
+  - name: "Detective Comics (vol. 2) #1"
+    comic_vine_issue_id: 291122
+  - name: "Detective Comics (vol. 2) #2"
+    comic_vine_issue_id: 294055
+  - name: "Detective Comics (vol. 2) #3"
+    comic_vine_issue_id: 300969
+  - name: "Detective Comics (vol. 2) #4"
+    comic_vine_issue_id: 305591
+  - name: "Detective Comics (vol. 2) #5"
+    comic_vine_issue_id: 309361
+  - name: "Detective Comics (vol. 2) #6"
+    comic_vine_issue_id: 313665
+  - name: "Detective Comics (vol. 2) #7"
+    comic_vine_issue_id: 318126

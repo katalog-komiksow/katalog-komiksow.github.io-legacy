@@ -1,0 +1,29 @@
+---
+collection: nowe-dc-comics
+name: "Flash. Tom 2: Rebelia łotrów"
+image: nowe-dc-comics.44.webp
+image_source: "https://egmont.pl"
+isbn: 9788328116993
+release_date: "2016-08-17"
+series:
+  - "Nowe DC Comics"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/311187/flash-rebelia-lotrow
+shops:
+  egmont: https://egmont.pl/Flash.-Rebelia-lotrow.-Tom-2.,608744,p.html
+  gildia: https://www.gildia.pl/komiksy/309571-flash-2-rebelia-lotrow
+reviews:
+  paradoks: https://paradoks.net.pl/read/30196-flash-tom-2-rebelia-lotrow-recenzja
+issues:
+  - name: "The Flash (vol. 4) #0"
+    comic_vine_issue_id: 358828
+  - name: "The Flash (vol. 4) #9"
+    comic_vine_issue_id: 336579
+  - name: "The Flash (vol. 4) #10"
+    comic_vine_issue_id: 342863
+  - name: "The Flash (vol. 4) #11"
+    comic_vine_issue_id: 347170
+  - name: "The Flash (vol. 4) #12"
+    comic_vine_issue_id: 352473
+  - name: "The Flash Annual (vol. 4) #1"
+    comic_vine_issue_id: 354037
