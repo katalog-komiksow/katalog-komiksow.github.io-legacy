@@ -32,7 +32,7 @@ proxy("/kolekcje.html", "/collections.html", ignore: true)
 released_books = []
 
 YAML.load_file("data/collections.yml").each do |collection|
-  next unless File.exists?("data/collection/#{collection["slug"]}.yml")
+  next unless File.exist?("data/collection/#{collection["slug"]}.yml")
 
   proxy(
     "/kolekcje/#{collection["slug"]}.html",
@@ -81,8 +81,8 @@ set :last_book_page, book_pages
   )
 end
 
-set :book_cover_base_url, "https://katalog-komiksow.github.io/book_covers/images/"
-set :issue_cover_base_url, "https://katalog-komiksow.github.io/issue_covers_thumb/images/"
+set :book_cover_base_url, "http://localhost:8880/images/"
+set :issue_cover_base_url, "http://localhost:8881/images/"
 
 # Helpers
 # Methods defined in the helpers block are available in templates
@@ -128,7 +128,7 @@ helpers do
   def comic_vine_issue(id)
     file_path = "../comic_vine/issues/#{id}.json"
 
-    if File.exists?(file_path)
+    if File.exist?(file_path)
       YAML.load_file(file_path)
     else
       {}
@@ -138,7 +138,7 @@ helpers do
   def comic_vine_volume(id)
     file_path = "../comic_vine/volumes/#{id}.json"
 
-    if File.exists?(file_path)
+    if File.exist?(file_path)
       YAML.load_file(file_path)
     else
       {}
@@ -156,4 +156,7 @@ end
 
 configure :build do
   set :images_dir, "katalog-static/images"
+
+  set :book_cover_base_url, "https://katalog-komiksow.github.io/book_covers/images/"
+  set :issue_cover_base_url, "https://katalog-komiksow.github.io/issue_covers_thumb/images/"
 end
