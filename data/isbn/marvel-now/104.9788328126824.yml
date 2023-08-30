@@ -1,0 +1,27 @@
+---
+collection: marvel-now
+name: 'Moon Knight. Tom 3: W noc'
+image: marvel-now.104.webp
+image_source: https://egmont.pl
+isbn: 9788328126824
+release_date: '2018-10-17'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4860012/moon-knight-w-noc
+shops:
+  egmont: https://egmont.pl/Moon-Knight.-W-noc.-Tom-3,11681800,p.html
+  gildia: https://www.gildia.pl/komiksy/375447-moon-knight-3-w-noc
+reviews:
+  paradoks: https://paradoks.net.pl/read/36417-moon-knight-tom-3-w-noc-recenzja
+issues:
+  - name: "Moon Knight (vol. 7) #13"
+    comic_vine_issue_id: 482690
+  - name: "Moon Knight (vol. 7) #14"
+    comic_vine_issue_id: 487207
+  - name: "Moon Knight (vol. 7) #15"
+    comic_vine_issue_id: 489322
+  - name: "Moon Knight (vol. 7) #16"
+    comic_vine_issue_id: 492220
+  - name: "Moon Knight (vol. 7) #17"
+    comic_vine_issue_id: 495275

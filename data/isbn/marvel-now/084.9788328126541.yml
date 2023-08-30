@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Deadpool. Tom 9: Wszystko, co dobre…'
+image: marvel-now.084.webp
+image_source: https://egmont.pl
+isbn: 9788328126541
+release_date: '2018-04-18'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4823305/deadpool-wszystko-co-dobre
+shops:
+  egmont: https://egmont.pl/Deadpool-Wszystko-co-dobre-Tom-9,7366681,p.html
+  gildia: https://www.gildia.pl/komiksy/359293-deadpool-9-wszystko-co-dobre
+reviews:
+  geeklife: https://www.geeklife.pl/2018/05/07/deadpool-tom-9-wszystko-co-dobre/
+  paradoks: https://paradoks.net.pl/read/35164-deadpool-tom-9-wszystko-co-dobre-recenzja
+issues:
+  - name: "Deadpool (vol. 5) #41"
+    comic_vine_issue_id: 477848
+  - name: "Deadpool (vol. 5) #42"
+    comic_vine_issue_id: 480671
+  - name: "Deadpool (vol. 5) #43"
+    comic_vine_issue_id: 482154
+  - name: "Deadpool (vol. 5) #44"
+    comic_vine_issue_id: 483347
+  - name: "Deadpool (vol. 5) #45"
+    comic_vine_issue_id: 485511

@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: 'Thor. Tom 1: Gromowładna'
+image: marvel-now.083.webp
+image_source: https://egmont.pl
+isbn: 9788328127968
+release_date: '2018-03-28'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/307212/thor-gromowladny-bogobojca
+shops:
+  egmont: https://egmont.pl/Thor-Gromowladny.-Bogobojca.-Tom-1.,606525,p.html
+  gildia: https://www.gildia.pl/komiksy/359028-thor-1-gromowladna
+reviews:
+  geeklife: https://www.geeklife.pl/2018/04/11/thor-gromowladna/
+  naekranie: https://naekranie.pl/recenzje/thor-01-gromowladna-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34951-thor-tom-1-gromowladna-recenzja
+issues:
+  - name: "Thor (vol. 4) #1"
+    comic_vine_issue_id: 466966
+  - name: "Thor (vol. 4) #2"
+    comic_vine_issue_id: 469844
+  - name: "Thor (vol. 4) #3"
+    comic_vine_issue_id: 472913
+  - name: "Thor (vol. 4) #4"
+    comic_vine_issue_id: 477856
+  - name: "Thor (vol. 4) #5"
+    comic_vine_issue_id: 479265

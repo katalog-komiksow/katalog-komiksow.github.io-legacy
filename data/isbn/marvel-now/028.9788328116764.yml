@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'The Superior Spider-Man 5: Zło konieczne'
+image: marvel-now.028.webp
+image_source: https://egmont.pl
+isbn: 9788328116764
+release_date: '2016-09-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3654540/the-superior-spider-man-zlo-konieczne
+shops:
+  egmont: https://egmont.pl/The-Superior-Spider-Man.-Zlo-konieczne.-Tom-5.,607142,p.html
+  gildia: https://www.gildia.pl/komiksy/311498-the-superior-spider-man-5-zlo-konieczne
+reviews:
+  naekranie: https://naekranie.pl/recenzje/superior-spider-man-05-zlo-konieczne-recenzja
+  paradoks: https://paradoks.net.pl/read/30647-superior-spider-man-tom-5-zlo-konieczne-recenzja
+issues:
+  - name: "The Superior Spider-Man #17"
+    comic_vine_issue_id: 424539
+  - name: "The Superior Spider-Man #18"
+    comic_vine_issue_id: 425940
+  - name: "The Superior Spider-Man #19"
+    comic_vine_issue_id: 428866
+  - name: "The Superior Spider-Man #20"
+    comic_vine_issue_id: 431444
+  - name: "The Superior Spider-Man #21"
+    comic_vine_issue_id: 433177

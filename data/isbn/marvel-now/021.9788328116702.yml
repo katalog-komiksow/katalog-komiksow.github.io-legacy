@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Deadpool. Tom 2: Łowca Dusz'
+image: marvel-now.021.webp
+image_source: https://egmont.pl
+isbn: 9788328116702
+release_date: '2016-06-29'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/303759/deadpool-lowca-dusz
+shops:
+  egmont: https://egmont.pl/Deadpool.-Lowca-dusz.-Tom-2.,607118,p.html
+  gildia: https://www.gildia.pl/komiksy/303451-deadpool-2-lowca-dusz
+reviews:
+  naekranie: https://naekranie.pl/recenzje/deadpool-02-lowca-dusz-recenzja-przedpremierowa
+  paradoks: https://paradoks.net.pl/read/29817-deadpool-tom-2-lowca-dusz-recenzja
+issues:
+  - name: "Deadpool (vol. 5) #7"
+    comic_vine_issue_id: 395701
+  - name: "Deadpool (vol. 5) #8"
+    comic_vine_issue_id: 398981
+  - name: "Deadpool (vol. 5) #9"
+    comic_vine_issue_id: 401205
+  - name: "Deadpool (vol. 5) #10"
+    comic_vine_issue_id: 404695
+  - name: "Deadpool (vol. 5) #11"
+    comic_vine_issue_id: 410319
+  - name: "Deadpool (vol. 5) #12"
+    comic_vine_issue_id: 413656

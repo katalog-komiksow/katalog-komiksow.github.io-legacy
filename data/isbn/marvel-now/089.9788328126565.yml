@@ -1,0 +1,32 @@
+---
+collection: marvel-now
+name: 'The Amazing Spider-Man. Tom 3: Spiderversum'
+image: marvel-now.089.webp
+image_source: https://egmont.pl
+isbn: 9788328126565
+release_date: '2018-05-23'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4844171/amazing-spider-man-spiderversum
+shops:
+  egmont: https://egmont.pl/Amazing-Spider-Man.-Spiderversum.-Tom-3,8149003,p.html
+  gildia: https://www.gildia.pl/komiksy/360225-amazing-spider-man-tom-3-spiderversum
+reviews:
+  geeklife: https://www.geeklife.pl/2018/06/01/amazing-spider-man-tom-3-spiderversum/
+  paradoks: https://paradoks.net.pl/read/35317-amazing-spider-man-tom-3-spiderversum-recenzja
+issues:
+  - name: "The Amazing Spider-Man (vol. 3) #9"
+    comic_vine_issue_id: 469487
+  - name: "The Amazing Spider-Man (vol. 3) #10"
+    comic_vine_issue_id: 470416
+  - name: "The Amazing Spider-Man (vol. 3) #11"
+    comic_vine_issue_id: 472897
+  - name: "The Amazing Spider-Man (vol. 3) #12"
+    comic_vine_issue_id: 475450
+  - name: "The Amazing Spider-Man (vol. 3) #13"
+    comic_vine_issue_id: 476779
+  - name: "The Amazing Spider-Man (vol. 3) #14"
+    comic_vine_issue_id: 479254
+  - name: "The Amazing Spider-Man (vol. 3) #15"
+    comic_vine_issue_id: 480668

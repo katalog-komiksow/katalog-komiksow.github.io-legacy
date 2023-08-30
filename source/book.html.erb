@@ -18,18 +18,21 @@
       <div class="col-md-4 my-2">
         <strong>Sklepy</strong>
         <% book_isbn.shops.each do |key, link| %>
+          <% next if link.to_s == "" %>
           <p><%= link_to key.titleize, link, target: "_blank" %></p>
         <% end %>
       </div>
       <div class="col-md-4 my-2">
         <strong>Recenzje</strong>
         <% book_isbn.reviews.each do |key, link| %>
+          <% next if link.to_s == "" %>
           <p><%= link_to key.titleize, link, target: "_blank" %></p>
         <% end %>
       </div>
       <div class="col-md-4 my-2">
         <strong>Linki</strong>
         <% book_isbn.links.each do |key, link| %>
+          <% next if link.to_s == "" %>
           <p><%= link_to key.titleize, link, target: "_blank" %></p>
         <% end %>
       </div>
@@ -66,10 +69,10 @@
                 <% if data.aggregates[cv_issue["id"]] %>
                   <% data.aggregates[cv_issue["id"]].each do |isbn| %>
                     <% unless book.isbn.to_i == isbn.to_i %>
-                      <% isbn_book = data.isbn[isbn] %>
+                      <% isbn_book = YAML.load_file(Dir.glob("data/isbn/**/*.#{isbn}.yml").first) %>
 
-                      <% link_to "/book/#{isbn}.html", relative: true do %>
-                        <%= image_tag "#{config[:book_cover_base_url]}/#{isbn_book.collection}/#{data.collection[isbn_book.collection].find { |b| b.isbn.to_i == isbn.to_i }.image}", height: "100" %>
+                      <% link_to "/ksiazka/#{isbn}.html", relative: true do %>
+                        <%= image_tag "#{config[:book_cover_base_url]}/#{isbn_book["collection"]}/#{data.isbn[isbn_book["collection"]].find { |_, b| b.isbn.to_i == isbn.to_i }.last.image}", height: "100" %>
                       <% end %>
                     <% end %>
                   <% end %>

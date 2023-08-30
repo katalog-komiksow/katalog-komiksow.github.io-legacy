@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Tajne Wojny: Oblężenie'
+image: marvel-now.110.webp
+image_source: https://egmont.pl
+isbn: 9788328126954
+release_date: '2018-12-05'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4872878/tajne-wojny-oblezenie
+shops:
+  egmont: https://egmont.pl/Tajne-wojny.-Oblezenie,13002763,p.html
+  gildia: https://www.gildia.pl/komiksy/378489-tajne-wojny-oblezenie
+reviews:
+  geeklife: https://www.geeklife.pl/2018/12/28/tajne-wojny-oblezenie-recenzja-komiksu/
+  naekranie: https://naekranie.pl/recenzje/tajne-wojny-oblezenie-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/36736-tajne-wojny-oblezenie-recenzja
+issues:
+  - name: "Siege (vol. 2) #1"
+    comic_vine_issue_id: 495278
+  - name: "Siege (vol. 2) #2"
+    comic_vine_issue_id: 496889
+  - name: "Siege (vol. 2) #3"
+    comic_vine_issue_id: 499754
+  - name: "Siege (vol. 2) #4"
+    comic_vine_issue_id: 502131
+  - name: "Uncanny X-Men (vol. 2) #9"
+    comic_vine_issue_id: 322747
+  - name: "Uncanny X-Men (vol. 2) #10"
+    comic_vine_issue_id: 329216

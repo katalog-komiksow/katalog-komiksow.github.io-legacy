@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Strażnicy Galaktyki. Tom 4: Strażnicy w rozsypce'
+image: marvel-now.064.webp
+image_source: https://egmont.pl
+isbn: 9788328127111
+release_date: '2017-09-20'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4805765/guardians-of-the-galaxy-straznicy-galaktyki-straznicy-w-rozsypce
+shops:
+  egmont: https://egmont.pl/Guardians-of-the-Galaxy-Straznicy-Galaktyki-Straznicy-w-rozsypce.-Tom-4,3265544,p.html
+  gildia: https://www.gildia.pl/komiksy/342298-guardians-of-the-galaxy-straznicy-galaktyki-4-straznicy-w-rozsypce
+reviews:
+  filmozercy: https://filmozercy.com/wpis/guardians-of-the-galaxy-tom-4-straznicy-w-rozsypce-prezentacja-komiksu
+  paradoks: https://paradoks.net.pl/read/33853-straznicy-galaktyki-tom-4-straznicy-w-rozsypce-recenzja
+issues:
+  - name: "Guardians of the Galaxy (vol. 3) #14"
+    comic_vine_issue_id: 451085
+  - name: "Guardians of the Galaxy (vol. 3) #15"
+    comic_vine_issue_id: 454100
+  - name: "Guardians of the Galaxy (vol. 3) #16"
+    comic_vine_issue_id: 457642
+  - name: "Guardians of the Galaxy (vol. 3) #17"
+    comic_vine_issue_id: 460965
+  - name: "Free Comic Book Day 2014: Guardians of the Galaxy #1"
+    comic_vine_issue_id: 452061

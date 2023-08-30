@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: Hawkeye kontra Deadpool
+image: marvel-now.103.webp
+image_source: https://egmont.pl
+isbn: 9788328126817
+release_date: '2018-10-17'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4864970/hawkeye-kontra-deadpool
+shops:
+  egmont: https://egmont.pl/Hawkeye-kontra-Deadpool,11681799,p.html
+  gildia: https://www.gildia.pl/komiksy/376067-hawkeye-kontra-deadpool
+reviews:
+  geeklife: https://www.geeklife.pl/2018/11/05/hawkeye-kontra-deadpool-recenzja-komiksu/
+  paradoks: https://paradoks.net.pl/read/36402-hawkeye-kontra-deadpool-recenzja
+issues:
+  - name: "Hawkeye vs. Deadpool #0"
+    comic_vine_issue_id: 463986
+  - name: "Hawkeye vs. Deadpool #1"
+    comic_vine_issue_id: 467651
+  - name: "Hawkeye vs. Deadpool #2"
+    comic_vine_issue_id: 469834
+  - name: "Hawkeye vs. Deadpool #3"
+    comic_vine_issue_id: 474628
+  - name: "Hawkeye vs. Deadpool #4"
+    comic_vine_issue_id: 475455

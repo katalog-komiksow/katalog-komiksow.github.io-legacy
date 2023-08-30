@@ -1,0 +1,32 @@
+---
+collection: marvel-now
+name: 'New Avengers 1: Wszystko umiera'
+image: marvel-now.004.webp
+image_source: https://egmont.pl
+isbn: 9788328110618
+release_date: '2015-08-26'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/267140/new-avengers-wszystko-umiera
+shops:
+  egmont: https://egmont.pl/New-Avengers.-Wszystko-umiera.-Tom-1.,608322,p.html
+  gildia: https://www.gildia.pl/komiksy/277272-new-avengers-1-wszystko-umiera
+reviews:
+  filmozercy: https://filmozercy.com/wpis/new-avengers-tom-3-inne-swiaty-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/03/13/new-avengers-tom-1-wszystko-umiera/
+  naekranie: https://naekranie.pl/recenzje/new-avengers-1-wszystko-umiera-jak-zniszczyc-swiat-recenzja
+  paradoks: https://paradoks.net.pl/read/27609-new-avengers-tom-1-wszystko-umiera-recenzja
+issues:
+  - name: "New Avengers (vol. 3) #1"
+    comic_vine_issue_id: 376665
+  - name: "New Avengers (vol. 3) #2"
+    comic_vine_issue_id: 380355
+  - name: "New Avengers (vol. 3) #3"
+    comic_vine_issue_id: 384960
+  - name: "New Avengers (vol. 3) #4"
+    comic_vine_issue_id: 394709
+  - name: "New Avengers (vol. 3) #5"
+    comic_vine_issue_id: 398990
+  - name: "New Avengers (vol. 3) #6"
+    comic_vine_issue_id: 406978

@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: 'The Amazing Spider-Man. Tom 2: Preludium do Spiderversum'
+image: marvel-now.074.webp
+image_source: https://egmont.pl
+isbn: 9788328127272
+release_date: '2017-12-07'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810367/amazing-spider-man-preludium-do-spiderversum
+shops:
+  egmont: https://egmont.pl/Amazing-Spider-Man.-Preludium-do-Spiderversum.-Tom-2,5061649,p.html
+  gildia: https://www.gildia.pl/komiksy/350064-amazing-spider-man-tom-2-preludium-do-spiderversum
+reviews:
+  geeklife: https://www.geeklife.pl/2018/01/01/amazing-spider-man-tom-2-preludium-do-spiderversum-recenzja/
+  naekranie: https://naekranie.pl/recenzje/amazing-spider-man-02-preludium-do-spiderversum-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34379-amazing-spider-man-tom-2-preludium-do-spiderversum-recenzja
+issues:
+  - name: "The Amazing Spider-Man (vol. 3) #7"
+    comic_vine_issue_id: 467646
+  - name: "The Amazing Spider-Man (vol. 3) #8"
+    comic_vine_issue_id: 468455
+  - name: "The Superior Spider-Man #32"
+    comic_vine_issue_id: 461740
+  - name: "The Superior Spider-Man #33"
+    comic_vine_issue_id: 465850
+  - name: "Free Comic Book Day 2014: Guardians of the Galaxy #1"
+    comic_vine_issue_id: 452061

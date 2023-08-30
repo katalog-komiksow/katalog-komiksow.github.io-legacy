@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'New Avengers. Tom 4: Doskonały świat'
+image: marvel-now.055.webp
+image_source: https://egmont.pl
+isbn: 9788328119420
+release_date: '2017-06-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4729172/new-avengers-doskonaly-swiat
+shops:
+  egmont: https://egmont.pl/New-Avengers.-Doskonaly-swiat.-Tom-4,1404933,p.html
+  gildia: https://www.gildia.pl/komiksy/335855-new-avengers-4-doskonaly-swiat
+reviews:
+  geeklife: https://www.geeklife.pl/2018/04/06/new-avengers-tom-4-doskonaly-swiat/
+  naekranie: https://naekranie.pl/recenzje/new-avengers-04-doskonaly-swiat-inkursja-trwa-i-tyle-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/32836-new-avengers-tom-4-doskonaly-swiat-recenzja
+issues:
+  - name: "New Avengers (vol. 3) #18"
+    comic_vine_issue_id: 452855
+  - name: "New Avengers (vol. 3) #19"
+    comic_vine_issue_id: 456026
+  - name: "New Avengers (vol. 3) #20"
+    comic_vine_issue_id: 457644
+  - name: "New Avengers (vol. 3) #21"
+    comic_vine_issue_id: 460969
+  - name: "New Avengers (vol. 3) #22"
+    comic_vine_issue_id: 461731
+  - name: "New Avengers (vol. 3) #23"
+    comic_vine_issue_id: 462896

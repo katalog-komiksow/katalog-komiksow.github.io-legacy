@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: 'Uncanny X-Men. Tom 1: Rewolucja'
+image: marvel-now.020.webp
+image_source: https://egmont.pl
+isbn: 9788328116658
+release_date: '2016-05-18'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/300344/uncanny-x-men-rewolucja
+shops:
+  egmont: https://egmont.pl/Uncanny-X-Men.-Rewolucja.-Tom-1.,608874,p.html
+  gildia: https://www.gildia.pl/komiksy/300141-uncanny-x-men-1-rewolucja
+reviews:
+  geeklife: https://www.geeklife.pl/2017/05/11/uncanny-x-men-tom-1-rewolucja-recenzja/
+  naekranie: https://naekranie.pl/recenzje/uncanny-x-men-1-rewolucja-recenzja
+  paradoks: https://paradoks.net.pl/read/29576-uncanny-x-men-tom-1-rewolucja-recenzja
+issues:
+  - name: "Uncanny X-Men (vol. 3) #1"
+    comic_vine_issue_id: 386141
+  - name: "Uncanny X-Men (vol. 3) #2"
+    comic_vine_issue_id: 388566
+  - name: "Uncanny X-Men (vol. 3) #3"
+    comic_vine_issue_id: 392362
+  - name: "Uncanny X-Men (vol. 3) #4"
+    comic_vine_issue_id: 396436
+  - name: "Uncanny X-Men (vol. 3) #5"
+    comic_vine_issue_id: 398994

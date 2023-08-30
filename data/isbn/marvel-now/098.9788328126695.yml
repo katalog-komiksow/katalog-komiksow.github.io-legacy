@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Thor. Tom 2: Kto dzierży młot?'
+image: marvel-now.098.webp
+image_source: https://egmont.pl
+isbn: 9788328126695
+release_date: '2018-08-22'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4859207/thor-kto-dzierzy-mlot
+shops:
+  egmont: https://egmont.pl/Thor.-Kto-dzierzy-mlot-Tom-2,10451987,p.html
+  gildia: https://www.gildia.pl/komiksy/368720-thor-2-kto-dzierzy-mlot
+reviews:
+  geeklife: https://www.geeklife.pl/2018/09/23/thor-gromowladna-tom-2-kto-dzierzy-mlot-recenzja-komiksu/
+  paradoks: https://paradoks.net.pl/read/35948-thor-tom-2-kto-dzierzy-mlot-recenzja
+issues:
+  - name: "Thor (vol. 4) #6"
+    comic_vine_issue_id: 482168
+  - name: "Thor (vol. 4) #7"
+    comic_vine_issue_id: 486155
+  - name: "Thor (vol. 4) #8"
+    comic_vine_issue_id: 488661
+  - name: "Thor Annual (vol 4) #1"
+    comic_vine_issue_id: 480684
+  - name: "What If? (vol. 1) #1"
+    comic_vine_issue_id: 17208
+  - name: "What If? (vol. 1) #10"
+    comic_vine_issue_id: 18756

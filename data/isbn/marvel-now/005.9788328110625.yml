@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Strażnicy Galaktyki. Tom 1: Kosmiczni Avengers'
+image: marvel-now.005.webp
+image_source: https://egmont.pl
+isbn: 9788328110625
+release_date: '2015-08-26'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/267567/guardians-of-the-galaxy-straznicy-galaktyki-kosmiczni-avengers
+shops:
+  egmont: https://egmont.pl/Guardians-of-the-Galaxy.-Straznicy-Galaktyki.-Kosmiczni-Avengers.-Tom-1.,608556,p.html
+  gildia: https://www.gildia.pl/komiksy/277273-guardians-of-the-galaxy-straznicy-galaktyki-1-kosmiczni-avengers
+reviews:
+  geeklife: https://www.geeklife.pl/2018/04/13/guardians-of-the-galaxy-tom-1-kosmiczni-avengers/
+  paradoks: https://paradoks.net.pl/read/27533-straznicy-galaktyki-tom-1-kosmiczni-avengers-recenzja
+issues:
+  - name: "Guardians of the Galaxy (vol. 3) #0.1"
+    comic_vine_issue_id: 388557
+  - name: "Guardians of the Galaxy (vol. 3) #1"
+    comic_vine_issue_id: 395250
+  - name: "Guardians of the Galaxy (vol. 3) #2"
+    comic_vine_issue_id: 398986
+  - name: "Guardians of the Galaxy (vol. 3) #3"
+    comic_vine_issue_id: 410320
+  - name: "Guardians of the Galaxy: Infinite Comic #1"
+    comic_vine_issue_id: 390971

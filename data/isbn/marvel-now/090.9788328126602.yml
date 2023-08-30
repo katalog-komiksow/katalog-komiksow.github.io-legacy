@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Moon Knight. Tom 2: Z Martwych Powstaną'
+image: marvel-now.090.webp
+image_source: https://egmont.pl
+isbn: 9788328126602
+release_date: '2018-06-20'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4847476/moon-knight-z-martwych-powstana
+shops:
+  egmont: https://egmont.pl/Moon-Knight.-Z-martwych-powstana.-Tom-2,9024537,p.html
+  gildia: https://www.gildia.pl/komiksy/363399-moon-knight-2-z-martwych-powstana-wyd-2022
+reviews:
+  filmozercy: https://filmozercy.com/wpis/moon-knight-tom-2-z-martwych-powstana-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/07/13/moon-knight-tom-2-z-martwych-powstana/
+  paradoks: https://paradoks.net.pl/read/35603-moon-knight-tom-2-z-martwych-powstana-recenzja
+issues:
+  - name: "Moon Knight (vol. 7) #7"
+    comic_vine_issue_id: 463989
+  - name: "Moon Knight (vol. 7) #8"
+    comic_vine_issue_id: 467040
+  - name: "Moon Knight (vol. 7) #9"
+    comic_vine_issue_id: 470432
+  - name: "Moon Knight (vol. 7) #10"
+    comic_vine_issue_id: 473652
+  - name: "Moon Knight (vol. 7) #11"
+    comic_vine_issue_id: 476790
+  - name: "Moon Knight (vol. 7) #12"
+    comic_vine_issue_id: 479977

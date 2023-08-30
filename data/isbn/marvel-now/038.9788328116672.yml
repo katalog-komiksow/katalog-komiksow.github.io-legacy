@@ -1,0 +1,40 @@
+---
+collection: marvel-now
+name: 'X-Men: Bitwa Atomu'
+image: marvel-now.038.webp
+image_source: https://egmont.pl
+isbn: 9788328116672
+release_date: '2016-12-07'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3953291/x-men-bitwa-atomu
+shops:
+  egmont: https://egmont.pl/X-Men-Bitwa-Atomu,608696,p.html
+  gildia: https://www.gildia.pl/komiksy/318200-x-men-bitwa-atomu
+reviews:
+  filmozercy: https://filmozercy.com/wpis/x-men-bitwa-atomu-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2017/01/13/x-men-wojna-atomu-recenzja/
+  naekranie: https://naekranie.pl/recenzje/x-men-bitwa-atomu-mutanci-laczcie-sie-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/31397-x-men-bitwa-atomu-recenzja
+issues:
+  - name: "X-Men: Battle of the Atom #1"
+    comic_vine_issue_id: 424543
+  - name: "X-Men: Battle of the Atom #2"
+    comic_vine_issue_id: 431449
+  - name: "All-New X-Men (vol. 1) #16"
+    comic_vine_issue_id: 424528
+  - name: "All-New X-Men (vol. 1) #17"
+    comic_vine_issue_id: 427682
+  - name: "X-Men (vol. 4) #5"
+    comic_vine_issue_id: 425036
+  - name: "X-Men (vol. 4) #6"
+    comic_vine_issue_id: 428304
+  - name: "Uncanny X-Men (vol. 3) #12"
+    comic_vine_issue_id: 425944
+  - name: "Uncanny X-Men (vol. 3) #13"
+    comic_vine_issue_id: 428867
+  - name: "Wolverine and the X-Men (vol. 1) #36"
+    comic_vine_issue_id: 426886
+  - name: "Wolverine and the X-Men (vol. 1) #37"
+    comic_vine_issue_id: 430768

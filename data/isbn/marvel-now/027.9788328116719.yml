@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Deadpool. Tom 3: Dobry, zły i brzydki'
+image: marvel-now.027.webp
+image_source: https://egmont.pl
+isbn: 9788328116719
+release_date: '2016-09-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/314783/deadpool-dobry-zly-i-brzydki
+shops:
+  egmont: https://egmont.pl/Deadpool.-Dobry-zly-i-brzydki.-Tom-3.,608582,p.html
+  gildia: https://www.gildia.pl/komiksy/311499-deadpool-3-dobry-zly-i-brzydki
+reviews:
+  naekranie: https://naekranie.pl/recenzje/deadpool-03-dobry-zly-i-brzydki-recenzja
+  paradoks: https://paradoks.net.pl/read/30700-deadpool-tom-3-dobry-zly-i-brzydki-recenzja
+issues:
+  - name: "Deadpool (vol. 5) #15"
+    comic_vine_issue_id: 423673
+  - name: "Deadpool (vol. 5) #16"
+    comic_vine_issue_id: 425025
+  - name: "Deadpool (vol. 5) #17"
+    comic_vine_issue_id: 426873
+  - name: "Deadpool (vol. 5) #18"
+    comic_vine_issue_id: 428295
+  - name: "Deadpool (vol. 5) #19"
+    comic_vine_issue_id: 433171

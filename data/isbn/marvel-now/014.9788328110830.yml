@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: 'Wolverine i X-Men. Tom 2: Szkoła przetrwania'
+image: marvel-now.014.webp
+image_source: https://egmont.pl
+isbn: 9788328110830
+release_date: '2016-02-17'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/290263/wolverine-i-x-men-szkola-przetrwania
+shops:
+  egmont: https://egmont.pl/Wolverine-and-the-X-Men.-Szkola-przetrwania.-Tom-2.,606310,p.html
+  gildia: https://www.gildia.pl/komiksy/288704-wolverine-i-x-men-2-szkola-przetrwania
+reviews:
+  geeklife: https://www.geeklife.pl/2018/03/20/wolverine-i-x-men-tom-2-szkola-przetrwania/
+  naekranie: https://naekranie.pl/recenzje/wolverine-i-x-meni-02-szkola-przetrwania-recenzja
+  paradoks: https://paradoks.net.pl/read/28629
+issues:
+  - name: "Wolverine and the X-Men (vol. 1) #25"
+    comic_vine_issue_id: 386142
+  - name: "Wolverine and the X-Men (vol. 1) #26"
+    comic_vine_issue_id: 392363
+  - name: "Wolverine and the X-Men (vol. 1) #27"
+    comic_vine_issue_id: 395260
+  - name: "Wolverine and the X-Men (vol. 1) #28"
+    comic_vine_issue_id: 398995
+  - name: "Wolverine and the X-Men (vol. 1) #29"
+    comic_vine_issue_id: 402293

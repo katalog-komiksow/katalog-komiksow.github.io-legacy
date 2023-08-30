@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Ms. Marvel. Tom 2: Pokolenie Czemu'
+image: marvel-now.054.webp
+image_source: https://egmont.pl
+isbn: 9788328119178
+release_date: '2017-06-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4733990/ms-marvel-pokolenie-czemu
+shops:
+  egmont: https://egmont.pl/Ms-Marvel.-Pokolenie-Czemu.-Tom-2,1404941,p.html
+  gildia: https://www.gildia.pl/komiksy/335856-ms-marvel-2-pokolenie-czemu
+reviews:
+  geeklife: https://www.geeklife.pl/2018/10/11/ms-marvel-tom-2-pokolenie-czemu-recenzja-komiksu/
+  naekranie: https://naekranie.pl/recenzje/ms-marvel-02-pokolenie-czemu-bohaterka-na-jaka-czekalismy-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/32901-ms-marvel-tom-2-pokolenie-czemu-recenzja
+issues:
+  - name: "Ms. Marvel (vol. 3) #6"
+    comic_vine_issue_id: 459674
+  - name: "Ms. Marvel (vol. 3) #7"
+    comic_vine_issue_id: 462895
+  - name: "Ms. Marvel (vol. 3) #8"
+    comic_vine_issue_id: 464986
+  - name: "Ms. Marvel (vol. 3) #9"
+    comic_vine_issue_id: 468083
+  - name: "Ms. Marvel (vol. 3) #10"
+    comic_vine_issue_id: 473653
+  - name: "Ms. Marvel (vol. 3) #11"
+    comic_vine_issue_id: 478611

@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: Tajne tajne wojny Deadpoola
+image: marvel-now.106.webp
+image_source: https://egmont.pl
+isbn: 9788328126893
+release_date: '2018-11-14'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4864977/tajne-tajne-wojny-deadpoola
+shops:
+  egmont: https://egmont.pl/Tajne-tajne-wojny-Deadpoola,12821510,p.html
+  gildia: https://www.gildia.pl/komiksy/377660-tajne-wojny-tajne-tajne-wojny-deadpoola
+reviews:
+  geeklife: https://www.geeklife.pl/2018/12/23/tajne-tajne-wojny-deadpoola-recenzja-komiksu/
+  naekranie: https://naekranie.pl/recenzje/tajne-wojny-tajne-tajne-wojny-deadpoola-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/36622-deadpool-tajne-wojny-deadpoola-recenzja
+issues:
+  - name: "Deadpool's Secret Secret Wars #1"
+    comic_vine_issue_id: 489316
+  - name: "Deadpool's Secret Secret Wars #2"
+    comic_vine_issue_id: 492216
+  - name: "Deadpool's Secret Secret Wars #3"
+    comic_vine_issue_id: 496388
+  - name: "Deadpool's Secret Secret Wars #4"
+    comic_vine_issue_id: 498385
+  - name: "Marvel Super Heroes Secret Wars #1"
+    comic_vine_issue_id: 57504

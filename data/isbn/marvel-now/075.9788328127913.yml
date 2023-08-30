@@ -1,0 +1,32 @@
+---
+collection: marvel-now
+name: 'Moon Knight. Tom 1: Z martwych'
+image: marvel-now.075.webp
+image_source: https://egmont.pl
+isbn: 9788328127913
+release_date: '2018-01-24'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4820779/moon-knight-z-martwych
+shops:
+  egmont: https://egmont.pl/Moon-Knight.-Z-martwych.-Tom-1,5695500,p.html
+  gildia: https://www.gildia.pl/komiksy/353937-moon-knight-1-z-martwych
+reviews:
+  filmozercy: https://filmozercy.com/wpis/moon-knight-tom-1-z-martwych-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/02/02/moon-knight-tom-1-z-martwych-recenzja/
+  naekranie: https://naekranie.pl/recenzje/moon-knight-01-z-martwych-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34515-moon-knight-tom-1-z-martwych-recenzja
+issues:
+  - name: "Moon Knight (vol. 7) #1"
+    comic_vine_issue_id: 446926
+  - name: "Moon Knight (vol. 7) #2"
+    comic_vine_issue_id: 449597
+  - name: "Moon Knight (vol. 7) #3"
+    comic_vine_issue_id: 452315
+  - name: "Moon Knight (vol. 7) #4"
+    comic_vine_issue_id: 455492
+  - name: "Moon Knight (vol. 7) #5"
+    comic_vine_issue_id: 458621
+  - name: "Moon Knight (vol. 7) #6"
+    comic_vine_issue_id: 461730

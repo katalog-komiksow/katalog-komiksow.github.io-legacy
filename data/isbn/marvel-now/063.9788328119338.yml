@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'All-New X-Men. Tom 5: Jeden z głowy'
+image: marvel-now.063.webp
+image_source: https://egmont.pl
+isbn: 9788328119338
+release_date: '2017-09-20'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4807047/all-new-x-men-jeden-z-glowy
+shops:
+  egmont: https://egmont.pl/All-New-X-Men-Jeden-z-glowy.-Tom-5,3265541,p.html
+  gildia: https://www.gildia.pl/komiksy/342297-all-new-x-men-5-jeden-z-glowy
+reviews:
+  filmozercy: https://filmozercy.com/wpis/all-new-x-men-tom-5-jeden-z-glowy-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/04/13/all-new-x-men-tom-5-jeden-z-glowy/
+  paradoks: https://paradoks.net.pl/read/33543-all-new-x-men-tom-5-jeden-z-glowy-recenzja
+issues:
+  - name: "All-New X-Men (vol. 1) #25"
+    comic_vine_issue_id: 450068
+  - name: "All-New X-Men (vol. 1) #26"
+    comic_vine_issue_id: 451763
+  - name: "All-New X-Men (vol. 1) #27"
+    comic_vine_issue_id: 452845
+  - name: "All-New X-Men (vol. 1) #28"
+    comic_vine_issue_id: 456017
+  - name: "All-New X-Men (vol. 1) #29"
+    comic_vine_issue_id: 459161
+  - name: "All-New X-Men (vol. 1) #30"
+    comic_vine_issue_id: 462241

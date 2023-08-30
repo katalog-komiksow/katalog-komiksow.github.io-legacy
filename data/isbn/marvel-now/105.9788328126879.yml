@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Tajne Wojny: Amazing Spider-Man: Odnowić śluby'
+image: marvel-now.105.webp
+image_source: https://egmont.pl
+isbn: 9788328126879
+release_date: '2018-11-14'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4864998/tajne-wojny-amazing-spider-man-odnowic-sluby
+shops:
+  egmont: https://egmont.pl/Tajne-wojny.-Amazing-Spider-Man.-Odnowic-sluby,12821508,p.html
+  gildia: https://www.gildia.pl/komiksy/377658-tajne-wojny-amazing-spider-man-odnowic-sluby
+reviews:
+  geeklife: https://www.geeklife.pl/2018/12/17/tajne-wojny-amazing-spider-man-odnowic-sluby-recenzja-komiksu/
+  paradoks: https://paradoks.net.pl/read/36507-amazing-spider-man-odnowic-sluby-recenzja
+issues:
+  - name: "The Amazing Spider-Man: Renew Your Vows (vol. 1) #1"
+    comic_vine_issue_id: 490876
+  - name: "The Amazing Spider-Man: Renew Your Vows (vol. 1) #2"
+    comic_vine_issue_id: 494316
+  - name: "The Amazing Spider-Man: Renew Your Vows (vol. 1) #3"
+    comic_vine_issue_id: 496873
+  - name: "The Amazing Spider-Man: Renew Your Vows (vol. 1) #4"
+    comic_vine_issue_id: 497935
+  - name: "The Amazing Spider-Man: Renew Your Vows (vol. 1) #5"
+    comic_vine_issue_id: 499739
+  - name: "Spider-Verse (vol. 1) #2"
+    comic_vine_issue_id: 475945

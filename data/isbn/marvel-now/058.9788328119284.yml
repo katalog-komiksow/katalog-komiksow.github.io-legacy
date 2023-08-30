@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Avengers. Tom 6: Wieczni Avengers'
+image: marvel-now.058.webp
+image_source: https://egmont.pl
+isbn: 9788328119284
+release_date: '2017-07-19'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4800084/avengers-wieczni-avengers
+shops:
+  egmont: https://egmont.pl/Avengers.-Wieczni-Avengers.-Tom-6,1633290,p.html
+  gildia: https://www.gildia.pl/komiksy/338991-avengers-6-wieczni-avengers
+reviews:
+  filmozercy: https://filmozercy.com/wpis/avengers-tom-6-wieczni-avengers-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/03/29/avengers-tom-6-wieczni-avengers/
+  paradoks: https://paradoks.net.pl/read/33113-avengers-tom-6-wieczni-avengers-recenzja
+issues:
+  - name: "Avengers (vol. 5) #29"
+    comic_vine_issue_id: 452846
+  - name: "Avengers (vol. 5) #30"
+    comic_vine_issue_id: 454094
+  - name: "Avengers (vol. 5) #31"
+    comic_vine_issue_id: 456544
+  - name: "Avengers (vol. 5) #32"
+    comic_vine_issue_id: 459164
+  - name: "Avengers (vol. 5) #33"
+    comic_vine_issue_id: 460962
+  - name: "Avengers (vol. 5) #34"
+    comic_vine_issue_id: 463478

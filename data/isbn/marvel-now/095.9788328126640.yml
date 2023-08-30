@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Strażnicy Galaktyki. Tom 6: Po drugiej stronie lustra'
+image: marvel-now.095.webp
+image_source: https://egmont.pl
+isbn: 9788328126640
+release_date: '2018-07-25'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4851867/guardians-of-the-galaxy-straznicy-galaktyki-po-drugiej-stronie-lustra
+shops:
+  egmont: https://egmont.pl/Guardians-of-the-Galaxy-Straznicy-Galaktyki-.-Po-drugiej-stronie-lustra.-Tom-6,9831431,p.html
+  gildia: https://www.gildia.pl/komiksy/367220-guardians-of-the-galaxy-straznicy-galaktyki-6-po-drugiej-stronie-lustra
+reviews:
+  geeklife: https://www.geeklife.pl/2018/08/20/guardians-of-the-galaxy-tom-6-po-drugiej-stronie-lustra/
+  paradoks: https://paradoks.net.pl/read/35828-straznicy-galaktyki-tom-6-po-drugiej-stronie-lustra-recenzja
+issues:
+  - name: "Guardians of the Galaxy (vol. 3) #24"
+    comic_vine_issue_id: 479260
+  - name: "Guardians of the Galaxy (vol. 3) #25"
+    comic_vine_issue_id: 483351
+  - name: "Guardians of the Galaxy (vol. 3) #26"
+    comic_vine_issue_id: 486722
+  - name: "Guardians of the Galaxy (vol. 3) #27"
+    comic_vine_issue_id: 489319
+  - name: "Guardians of the Galaxy Annual (vol. 2) #1"
+    comic_vine_issue_id: 472907

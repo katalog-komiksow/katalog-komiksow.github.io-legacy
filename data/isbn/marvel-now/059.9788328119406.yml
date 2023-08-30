@@ -1,0 +1,33 @@
+---
+collection: marvel-now
+name: 'Thunderbolts. Tom 5: Punisher kontra Thunderbolts'
+image: marvel-now.059.webp
+image_source: https://egmont.pl
+isbn: 9788328119406
+release_date: '2017-07-19'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4800087/thunderbolts-punisher-kontra-thunderbolts
+shops:
+  egmont: https://egmont.pl/Thunderbolts-Punisher-kontra-Thunderbolts.-Tom-5,1633296,p.html
+  gildia: https://www.gildia.pl/komiksy/338992-thunderbolts-5-punisher-kontra-thunderbolts
+reviews:
+  filmozercy: https://filmozercy.com/wpis/thunderbolts-tom-5-punisher-kontra-thunderbolts-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/thunderbolts-05-punisher-kontra-thunderbolts-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33056-thunderbolts-tom-5-punisher-kontra-thunderbolts-recenzja
+issues:
+  - name: "Thunderbolts (vol. 2) #27"
+    comic_vine_issue_id: 456556
+  - name: "Thunderbolts (vol. 2) #28"
+    comic_vine_issue_id: 459683
+  - name: "Thunderbolts (vol. 2) #29"
+    comic_vine_issue_id: 462258
+  - name: "Thunderbolts (vol. 2) #30"
+    comic_vine_issue_id: 463487
+  - name: "Thunderbolts (vol. 2) #31"
+    comic_vine_issue_id: 466337
+  - name: "Thunderbolts (vol. 2) #32"
+    comic_vine_issue_id: 468914
+  - name: "Thunderbolts Annual (vol. 2) #1"
+    comic_vine_issue_id: 437498

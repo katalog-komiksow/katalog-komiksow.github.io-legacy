@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Uncanny Avengers. Tom 3: Czas na Ragnarok'
+image: marvel-now.044.webp
+image_source: https://egmont.pl
+isbn: 9788328118744
+release_date: '2017-02-15'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4339734/uncanny-avengers-czas-na-ragnarok
+shops:
+  egmont: https://egmont.pl/Uncanny-Avengers.-Czas-na-Ragnarok.-Tom-3,606922,p.html
+  gildia: https://www.gildia.pl/komiksy/322943-uncanny-avengers-3-czas-na-ragnarok
+reviews:
+  geeklife: https://www.geeklife.pl/2018/02/08/uncanny-avengers-tom-3-czas-na-ragnarok-recenzja/
+  paradoks: https://paradoks.net.pl/read/31708-uncanny-avengers-tom-3-czas-na-ragnarok-recenzja
+issues:
+  - name: "Uncanny Avengers (vol. 1) #12"
+    comic_vine_issue_id: 426885
+  - name: "Uncanny Avengers (vol. 1) #13"
+    comic_vine_issue_id: 430766
+  - name: "Uncanny Avengers (vol. 1) #14"
+    comic_vine_issue_id: 435067
+  - name: "Uncanny Avengers (vol. 1) #15"
+    comic_vine_issue_id: 437499
+  - name: "Uncanny Avengers (vol. 1) #16"
+    comic_vine_issue_id: 443990
+  - name: "Uncanny Avengers (vol. 1) #17"
+    comic_vine_issue_id: 446492

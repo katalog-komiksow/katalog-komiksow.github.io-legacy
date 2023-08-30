@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Uncanny Avengers. Tom 1: Czerwony Cie'
+image: marvel-now.019.webp
+image_source: https://egmont.pl
+isbn: 9788328116689
+release_date: '2016-05-18'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/300345/uncanny-avengers-czerwony-cien
+shops:
+  egmont: https://egmont.pl/Uncanny-Avengers.-Czerwony-cien.-Tom-1.,606955,p.html
+  gildia: https://www.gildia.pl/komiksy/300140-uncanny-avengers-1-czerwony-cien
+reviews:
+  geeklife: https://www.geeklife.pl/2018/02/06/uncanny-avengers-tom-1-czerwony-ogien-recenzja/
+  naekranie: https://naekranie.pl/recenzje/uncanny-avengers-01-czerwony-cien-recenzja
+  paradoks: https://paradoks.net.pl/read/29633-uncanny-avengers-tom-1-czerwony-cien-recenzja
+  polter: https://polter.pl/komiks/Uncanny-Avengers-1-Czerwony-Cien-c28918
+issues:
+  - name: "Uncanny Avengers (vol. 1) #1"
+    comic_vine_issue_id: 360884
+  - name: "Uncanny Avengers (vol. 1) #2"
+    comic_vine_issue_id: 370249
+  - name: "Uncanny Avengers (vol. 1) #3"
+    comic_vine_issue_id: 381419
+  - name: "Uncanny Avengers (vol. 1) #4"
+    comic_vine_issue_id: 388564
+  - name: "Uncanny Avengers (vol. 1) #5"
+    comic_vine_issue_id: 395258

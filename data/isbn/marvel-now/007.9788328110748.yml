@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Wolverine i X-Men. Tom 1: Cyrk przybył do miasta'
+image: marvel-now.007.webp
+image_source: https://egmont.pl
+isbn: 9788328110748
+release_date: '2015-09-09'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/268705/wolverine-i-x-men-cyrk-przybyl-do-miasta
+shops:
+  egmont: https://egmont.pl/Wolverine-and-the-X-Men.-Cyrk-przybyl-do-miasta.-Tom-1.,608577,p.html
+  gildia: https://www.gildia.pl/komiksy/279344-wolverine-i-x-men-1-cyrk-przybyl-do-miasta
+reviews:
+  geeklife: https://www.geeklife.pl/2018/03/19/wolverine-i-x-men-tom-1-cyrk-przybyl-do-miasta/
+  naekranie: https://naekranie.pl/recenzje/wolverine-i-x-men-cyrk-przybyl-do-miasta-recenzja
+  paradoks: https://paradoks.net.pl/read/27487
+issues:
+  - name: "Wolverine and the X-Men (vol. 1) #19"
+    comic_vine_issue_id: 364133
+  - name: "Wolverine and the X-Men (vol. 1) #20"
+    comic_vine_issue_id: 367699
+  - name: "Wolverine and the X-Men (vol. 1) #21"
+    comic_vine_issue_id: 369058
+  - name: "Wolverine and the X-Men (vol. 1) #22"
+    comic_vine_issue_id: 373313
+  - name: "Wolverine and the X-Men (vol. 1) #23"
+    comic_vine_issue_id: 378900
+  - name: "Wolverine and the X-Men (vol. 1) #24"
+    comic_vine_issue_id: 381421

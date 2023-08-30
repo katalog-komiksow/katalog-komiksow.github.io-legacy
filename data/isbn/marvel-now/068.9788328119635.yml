@@ -1,0 +1,33 @@
+---
+collection: marvel-now
+name: 'Uncanny X-Men. Tom 4: Kontra SHIELD'
+image: marvel-now.068.webp
+image_source: https://egmont.pl
+isbn: 9788328119635
+release_date: '2017-10-25'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810571/uncanny-x-men-kontra-shield
+shops:
+  egmont: https://egmont.pl/Uncanny-X-Men-Uncanny-X-Men-kontra-SHIELD.-Tom-4,4017166,p.html
+  gildia: https://www.gildia.pl/komiksy/344710-uncanny-x-men-4-kontra-shield
+reviews:
+  geeklife: https://www.geeklife.pl/2018/04/23/uncanny-x-men-tom-4-x-men-kontra-shield/
+  naekranie: https://naekranie.pl/recenzje/uncanny-x-men-04-kontra-shield-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33901-uncanny-x-men-tom-4-uncanny-x-men-kontra-shield-recenzja
+issues:
+  - name: "Uncanny X-Men (vol. 3) #19"
+    comic_vine_issue_id: 448006
+  - name: "Uncanny X-Men (vol. 3) #20"
+    comic_vine_issue_id: 450557
+  - name: "Uncanny X-Men (vol. 3) #21"
+    comic_vine_issue_id: 453422
+  - name: "Uncanny X-Men (vol. 3) #22"
+    comic_vine_issue_id: 456558
+  - name: "Uncanny X-Men (vol. 3) #23"
+    comic_vine_issue_id: 459685
+  - name: "Uncanny X-Men (vol. 3) #24"
+    comic_vine_issue_id: 460974
+  - name: "Uncanny X-Men (vol. 3) #25"
+    comic_vine_issue_id: 463998

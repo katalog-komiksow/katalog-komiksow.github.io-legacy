@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: 'Uncanny Avengers. Tom 4: Pomścić Ziemię'
+image: marvel-now.053.webp
+image_source: https://egmont.pl
+isbn: 9788328119291
+release_date: '2017-05-24'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4674916/uncanny-avengers-pomscic-ziemie
+shops:
+  egmont: https://egmont.pl/Uncanny-Avengers.-Pomscic-Ziemie.-Tom-4,606380,p.html
+  gildia: https://www.gildia.pl/komiksy/332471-uncanny-avengers-4-pomscic-ziemie
+reviews:
+  geeklife: https://www.geeklife.pl/2018/02/08/uncanny-avengers-tom-4-pomscic-ziemie-recenzja/
+  naekranie: https://naekranie.pl/recenzje/uncanny-avengers-04-pomscic-ziemie-zaglada-to-nie-koniec-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/32552-uncanny-avengers-tom-4-pomscic-ziemie-recenzja
+issues:
+  - name: "Uncanny Avengers (vol. 1) #18.NOW"
+    comic_vine_issue_id: 448981
+  - name: "Uncanny Avengers (vol. 1) #19"
+    comic_vine_issue_id: 451093
+  - name: "Uncanny Avengers (vol. 1) #20"
+    comic_vine_issue_id: 454109
+  - name: "Uncanny Avengers (vol. 1) #21"
+    comic_vine_issue_id: 457652
+  - name: "Uncanny Avengers (vol. 1) #22"
+    comic_vine_issue_id: 460973

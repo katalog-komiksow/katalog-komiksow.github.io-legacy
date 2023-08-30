@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Thor Gromowładny. Tom 2: Boża Bomba'
+image: marvel-now.037.webp
+image_source: https://egmont.pl
+isbn: 9788328116740
+release_date: '2016-12-07'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3953299/thor-gromowladny-boza-bomba
+shops:
+  egmont: https://egmont.pl/Thor-Gromowladny.-Boza-bomba.-Tom-2.,607185,p.html
+  gildia: https://www.gildia.pl/komiksy/318201-thor-gromowladny-2-boza-bomba
+reviews:
+  filmozercy: https://filmozercy.com/wpis/thor-gromowladny-tom-2-boza-bomba-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/thor-gromowladny-2-boza-bomba-thorow-trzech-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/31208-thor-gromowladny-tom-2-boza-bomba-recenzja
+issues:
+  - name: "Thor: God of Thunder #6"
+    comic_vine_issue_id: 392358
+  - name: "Thor: God of Thunder #7"
+    comic_vine_issue_id: 396432
+  - name: "Thor: God of Thunder #8"
+    comic_vine_issue_id: 401210
+  - name: "Thor: God of Thunder #9"
+    comic_vine_issue_id: 410322
+  - name: "Thor: God of Thunder #10"
+    comic_vine_issue_id: 417845
+  - name: "Thor: God of Thunder #11"
+    comic_vine_issue_id: 421696

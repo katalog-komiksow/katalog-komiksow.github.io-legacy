@@ -1,0 +1,32 @@
+---
+collection: marvel-now
+name: 'Thor Gromowładny. Tom 3: Przeklęty'
+image: marvel-now.056.webp
+image_source: https://egmont.pl
+isbn: 9788328119437
+release_date: '2017-06-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4743263/thor-gromowladny-przeklety
+shops:
+  egmont: https://egmont.pl/Thor-Gromowladny.-Przeklety.-Tom-3,1404937,p.html
+  gildia: https://www.gildia.pl/komiksy/335857-thor-gromowladny-3-przeklety
+reviews:
+  naekranie: https://naekranie.pl/recenzje/thor-gromowladny-03-przeklety-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/32817-thor-gromowladny-tom-3-przeklety-recenzja
+issues:
+  - name: "Thor: God of Thunder #12"
+    comic_vine_issue_id: 423681
+  - name: "Thor: God of Thunder #13"
+    comic_vine_issue_id: 425941
+  - name: "Thor: God of Thunder #14"
+    comic_vine_issue_id: 428300
+  - name: "Thor: God of Thunder #15"
+    comic_vine_issue_id: 433178
+  - name: "Thor: God of Thunder #16"
+    comic_vine_issue_id: 437497
+  - name: "Thor: God of Thunder #17"
+    comic_vine_issue_id: 442176
+  - name: "Thor: God of Thunder #18"
+    comic_vine_issue_id: 443988

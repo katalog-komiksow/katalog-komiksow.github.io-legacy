@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Tajne Wojny: Thorowie'
+image: marvel-now.107.webp
+image_source: https://egmont.pl
+isbn: 9788328126886
+release_date: '2018-11-14'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4864996/tajne-wojny-thorowie
+shops:
+  egmont: https://egmont.pl/Tajne-wojny.-Thorowie,12821529,p.html
+  gildia: https://www.gildia.pl/komiksy/377659-tajne-wojny-thorowie
+reviews:
+  geeklife: https://www.geeklife.pl/2018/12/14/thorowie-recenzja/
+  naekranie: https://naekranie.pl/recenzje/tajne-wojny-thorowie-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/36538-tajne-wojny-thorowie-recenzja
+issues:
+  - name: "Thors #1"
+    comic_vine_issue_id: 492227
+  - name: "Thors #2"
+    comic_vine_issue_id: 496400
+  - name: "Thors #3"
+    comic_vine_issue_id: 499048
+  - name: "Thors #4"
+    comic_vine_issue_id: 505528
+  - name: "Thor (vol. 1) #364"
+    comic_vine_issue_id: 26518
+  - name: "Thor (vol. 1) #365"
+    comic_vine_issue_id: 26612

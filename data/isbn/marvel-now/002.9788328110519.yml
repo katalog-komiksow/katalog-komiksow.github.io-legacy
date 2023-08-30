@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'All-New X-Men. Tom 1: Wczorajsi X-Men'
+image: marvel-now.002.webp
+image_source: https://egmont.pl
+isbn: 9788328110519
+release_date: '2015-07-29'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/264356/all-new-x-men-wczorajsi-x-men
+shops:
+  egmont: https://egmont.pl/All-New-X-Men.-Wczorajsi-X-Men.-Tom-1.,607097,p.html
+  gildia: https://www.gildia.pl/komiksy/275828-all-new-x-men-1-wczorajsi-x-men
+reviews:
+  geeklife: https://www.geeklife.pl/2018/03/14/all-new-x-men-tom-1-wczorajsi-x-men/
+  paradoks: https://paradoks.net.pl/read/27327
+issues:
+  - name: "All-New X-Men (vol. 1) #1"
+    comic_vine_issue_id: 367691
+  - name: "All-New X-Men (vol. 1) #2"
+    comic_vine_issue_id: 370245
+  - name: "All-New X-Men (vol. 1) #3"
+    comic_vine_issue_id: 371105
+  - name: "All-New X-Men (vol. 1) #4"
+    comic_vine_issue_id: 373215
+  - name: "All-New X-Men (vol. 1) #5"
+    comic_vine_issue_id: 376661

@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Thor Gromowładny. Tom 1: Bogobójca'
+image: marvel-now.023.webp
+image_source: https://egmont.pl
+isbn: 9788328116733
+release_date: '2016-07-13'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/307212/thor-gromowladny-bogobojca
+shops:
+  egmont: https://egmont.pl/Thor-Gromowladny.-Bogobojca.-Tom-1.,606525,p.html
+  gildia: https://www.gildia.pl/komiksy/306260-thor-gromowladny-1-bogobojca
+reviews:
+  naekranie: https://naekranie.pl/recenzje/thor-gromowladny-01-bogobojca-na-odyna-recenzja
+  paradoks: https://paradoks.net.pl/read/29973-thor-gromowladny-tom-1-bogobojca-recenzja
+issues:
+  - name: "Thor: God of Thunder #1"
+    comic_vine_issue_id: 367695
+  - name: "Thor: God of Thunder #2"
+    comic_vine_issue_id: 370246
+  - name: "Thor: God of Thunder #3"
+    comic_vine_issue_id: 373307
+  - name: "Thor: God of Thunder #4"
+    comic_vine_issue_id: 378889
+  - name: "Thor: God of Thunder #5"
+    comic_vine_issue_id: 387263

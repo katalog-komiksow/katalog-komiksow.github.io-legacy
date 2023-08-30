@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Deadpool. Tom 8: AXIS'
+image: marvel-now.078.webp
+image_source: https://egmont.pl
+isbn: 9788328127944
+release_date: '2018-02-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4823303/deadpool-axis
+shops:
+  egmont: https://egmont.pl/Deadpool.-Axis.-Tom-8,6072347,p.html
+  gildia: https://www.gildia.pl/komiksy/356080-deadpool-8-axis
+reviews:
+  geeklife: https://www.geeklife.pl/2018/03/07/deadpool-tom-8-axis-recenzja/
+  naekranie: https://naekranie.pl/recenzje/deadpool-08-axis-i-deadpool-09-wszystko-co-dobre-recenzja-komiksow
+  paradoks: https://paradoks.net.pl/read/34657-deadpool-tom-8-axis-recenzja
+issues:
+  - name: "Deadpool (vol. 5) #35"
+    comic_vine_issue_id: 466325
+  - name: "Deadpool (vol. 5) #36"
+    comic_vine_issue_id: 468461
+  - name: "Deadpool (vol. 5) #37"
+    comic_vine_issue_id: 470424
+  - name: "Deadpool (vol. 5) #38"
+    comic_vine_issue_id: 471962
+  - name: "Deadpool (vol. 5) #39"
+    comic_vine_issue_id: 474626
+  - name: "Deadpool (vol. 5) #40"
+    comic_vine_issue_id: 475937

@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'The Superior Spider-Man. Tom 3: Kłopoty z głową'
+image: marvel-now.016.webp
+image_source: https://egmont.pl
+isbn: 9788328110793
+release_date: '2016-03-16'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/295712/the-superior-spider-man-klopoty-z-glowa
+shops:
+  egmont: https://egmont.pl/The-Superior-Spider-Man.-Klopoty-z-glowa.-Tom-3.,608494,p.html
+  gildia: https://www.gildia.pl/komiksy/295559-the-superior-spider-man-3-klopoty-z-glowa
+reviews:
+  naekranie: https://naekranie.pl/recenzje/superior-spider-man-3-klopoty-z-glowa-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/28788-superior-spider-man-tom-3-klopoty-z-glowa-recenzja
+issues:
+  - name: "The Superior Spider-Man #6"
+    comic_vine_issue_id: 394712
+  - name: "The Superior Spider-Man #7"
+    comic_vine_issue_id: 395704
+  - name: "The Superior Spider-Man #8"
+    comic_vine_issue_id: 397550
+  - name: "The Superior Spider-Man #9"
+    comic_vine_issue_id: 400152
+  - name: "The Superior Spider-Man #10"
+    comic_vine_issue_id: 404702

@@ -1,0 +1,32 @@
+---
+collection: marvel-now
+name: 'Deadpool 10: Deadpooliana wybrane'
+image: marvel-now.087.webp
+image_source: https://egmont.pl
+isbn: 9788328126732
+release_date: '2018-05-23'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4844170/deadpool-deadpooliana-wybrane
+shops:
+  egmont: https://egmont.pl/Deadpool.-Deadpooliana-wybrane.-Tom-10,8149012,p.html
+  gildia: https://www.gildia.pl/komiksy/360227-deadpool-10-deadpooliana-wybrane
+reviews:
+  geeklife: https://www.geeklife.pl/2018/05/28/deadpool-tom-10-deadpooliana-wybrane/
+  paradoks: https://paradoks.net.pl/read/35413-deadpool-tom-10-deadpooliana-wybrane-recenzja
+issues:
+  - name: "Deadpool Annual (vol. 3) #2"
+    comic_vine_issue_id: 453412
+  - name: "Deadpool Bi-Annual #1"
+    comic_vine_issue_id: 465841
+  - name: "Death of Wolverine: Deadpool & Captain America #1"
+    comic_vine_issue_id: 468903
+  - name: "Deadpool vs. Thanos #1"
+    comic_vine_issue_id: 499035
+  - name: "Deadpool vs. Thanos #2"
+    comic_vine_issue_id: 501019
+  - name: "Deadpool vs. Thanos #3"
+    comic_vine_issue_id: 502860
+  - name: "Deadpool vs. Thanos #4"
+    comic_vine_issue_id: 504336

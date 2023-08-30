@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Ms. Marvel. Tom 3: Zdruzgotana'
+image: marvel-now.072.webp
+image_source: https://egmont.pl
+isbn: 9788328127258
+release_date: '2017-12-07'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810364/ms-marvel-zdruzgotana
+shops:
+  egmont: https://egmont.pl/Ms-Marvel.-Zdruzgotana.-Tom-3,5061644,p.html
+  gildia: https://www.gildia.pl/komiksy/350165-ms-marvel-3-zdruzgotana
+reviews:
+  filmozercy: https://filmozercy.com/wpis/ms-marvel-tom-3-zdruzgotana-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/10/14/marvel-tom-3-zdruzgotana-recenzja-komiksu/
+  naekranie: https://naekranie.pl/recenzje/ms-marvel-03-zdruzgotana-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34209-ms-marvel-tom-3-zdruzgotana-recenzja
+issues:
+  - name: "Ms. Marvel (vol. 3) #12"
+    comic_vine_issue_id: 479978
+  - name: "Ms. Marvel (vol. 3) #13"
+    comic_vine_issue_id: 482159
+  - name: "Ms. Marvel (vol. 3) #14"
+    comic_vine_issue_id: 486151
+  - name: "Ms. Marvel (vol. 3) #15"
+    comic_vine_issue_id: 488653
+  - name: "S.H.I.E.L.D. (vol. 3) #2"
+    comic_vine_issue_id: 475943

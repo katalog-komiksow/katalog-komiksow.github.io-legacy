@@ -1,0 +1,24 @@
+---
+collection: marvel-now
+name: 'The Superior Spider-Man. Tom 1: Ostatnie życzenie'
+image: marvel-now.006.webp
+image_source: https://egmont.pl
+isbn: 9788328110731
+release_date: '2015-09-09'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/268704/the-superior-spider-man-ostatnie-zyczenie
+shops:
+  egmont: https://egmont.pl/The-Superior-Spider-Man.-Ostatnie-zyczenie.-Tom-1.,607076,p.html
+  gildia: https://www.gildia.pl/komiksy/279343-the-superior-spider-man-1-ostatnie-zyczenie
+reviews:
+  naekranie: https://naekranie.pl/recenzje/the-superior-spider-man-1-ostatnie-zyczenie-recenzja
+  paradoks: https://paradoks.net.pl/read/27466
+issues:
+  - name: "The Amazing Spider-Man (vol. 1) #698"
+    comic_vine_issue_id: 369103
+  - name: "The Amazing Spider-Man (vol. 1) #699"
+    comic_vine_issue_id: 371256
+  - name: "The Amazing Spider-Man (vol. 1) #700"
+    comic_vine_issue_id: 373805

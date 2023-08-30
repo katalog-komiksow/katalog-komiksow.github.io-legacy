@@ -1,0 +1,32 @@
+---
+collection: marvel-now
+name: 'Uncanny X-Men. Tom 2: Złamani'
+image: marvel-now.035.webp
+image_source: https://egmont.pl
+isbn: 9788328116665
+release_date: '2016-11-23'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3889783/uncanny-x-men-zlamani
+shops:
+  egmont: https://egmont.pl/Uncanny-X-Men.-Zlamani.-Tom-2.,606405,p.html
+  gildia: https://www.gildia.pl/komiksy/316802-uncanny-x-men-2-zlamani
+reviews:
+  filmozercy: https://filmozercy.com/wpis/uncanny-x-men-2-zlamani-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2017/05/15/uncanny-x-men-tom-2-zlamani-recenzja/
+  naekranie: https://naekranie.pl/recenzje/uncanny-x-men-02-zlamani-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/31087-uncanny-x-men-tom-2-zlamani-recenzja
+issues:
+  - name: "Uncanny X-Men (vol. 3) #6"
+    comic_vine_issue_id: 404705
+  - name: "Uncanny X-Men (vol. 3) #7"
+    comic_vine_issue_id: 413669
+  - name: "Uncanny X-Men (vol. 3) #8"
+    comic_vine_issue_id: 416917
+  - name: "Uncanny X-Men (vol. 3) #9"
+    comic_vine_issue_id: 419973
+  - name: "Uncanny X-Men (vol. 3) #10"
+    comic_vine_issue_id: 421699
+  - name: "Uncanny X-Men (vol. 3) #11"
+    comic_vine_issue_id: 423684

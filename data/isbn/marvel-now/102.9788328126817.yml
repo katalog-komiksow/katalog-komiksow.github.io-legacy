@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: "Avengers: Czas się kończy. Tom 4"
+image: marvel-now.102.webp
+image_source: https://egmont.pl
+isbn: 9788328126817
+release_date: '2018-10-17'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4864969/avengers-czas-sie-konczy-tom-4
+shops:
+  egmont: https://egmont.pl/Avengers-Czas-sie-konczy.-Tom-4,11681818,p.html
+  gildia: https://www.gildia.pl/komiksy/375442-avengers-czas-sie-konczy-tom-4
+reviews:
+  geeklife: https://www.geeklife.pl/2018/10/29/avengers-czas-sie-konczy-tom-4-recenzja-komiksu/
+  paradoks: https://paradoks.net.pl/read/36364-avengers-czas-sie-konczy-tom-4-recenzja
+issues:
+  - name: "Avengers (vol. 5) #43"
+    comic_vine_issue_id: 484889
+  - name: "Avengers (vol. 5) #44"
+    comic_vine_issue_id: 487201
+  - name: "New Avengers (vol. 3) #31"
+    comic_vine_issue_id: 482160
+  - name: "New Avengers (vol. 3) #32"
+    comic_vine_issue_id: 483355
+  - name: "New Avengers (vol. 3) #33"
+    comic_vine_issue_id: 487208

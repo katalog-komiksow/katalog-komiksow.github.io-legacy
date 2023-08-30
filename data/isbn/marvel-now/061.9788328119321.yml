@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Deadpool. Tom 7: Grzech pierworodny'
+image: marvel-now.061.webp
+image_source: https://egmont.pl
+isbn: 9788328119321
+release_date: '2017-08-17'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4803680/deadpool-grzech-pierworodny
+shops:
+  egmont: https://egmont.pl/Deadpool.-Grzech-pierworodny.-Tom-7,2382862,p.html
+  gildia: https://www.gildia.pl/komiksy/340504-deadpool-7-grzech-pierworodny
+reviews:
+  geeklife: https://www.geeklife.pl/2017/09/04/deadpool-tom-7-grzech-pierworodny-recenzja/
+  naekranie: https://naekranie.pl/recenzje/deadpool-07-grzech-pierworodny-coraz-mniej-do-smiechu-recenzja
+  paradoks: https://paradoks.net.pl/read/33281-deadpool-tom-7-grzech-pierworodny-recenzja
+issues:
+  - name: "Deadpool (vol. 5) #29"
+    comic_vine_issue_id: 454095
+  - name: "Deadpool (vol. 5) #30"
+    comic_vine_issue_id: 456022
+  - name: "Deadpool (vol. 5) #31"
+    comic_vine_issue_id: 459169
+  - name: "Deadpool (vol. 5) #32"
+    comic_vine_issue_id: 460311
+  - name: "Deadpool (vol. 5) #33"
+    comic_vine_issue_id: 462248
+  - name: "Deadpool (vol. 5) #34"
+    comic_vine_issue_id: 464977

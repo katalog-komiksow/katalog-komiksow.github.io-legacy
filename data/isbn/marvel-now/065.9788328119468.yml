@@ -1,0 +1,33 @@
+---
+collection: marvel-now
+name: 'Wolverine: Trzy miesiące do śmierci. Tom 1'
+image: marvel-now.065.webp
+image_source: https://egmont.pl
+isbn: 9788328119468
+release_date: '2017-09-20'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4803316/wolverine-trzy-miesiace-do-smierci-tom-1
+shops:
+  egmont: https://egmont.pl/Wolverine-Trzy-miesiace-do-smierci.-Tom-1,3265559,p.html
+  gildia: https://www.gildia.pl/komiksy/342299-wolverine-trzy-miesiace-do-smierci-tom-1
+reviews:
+  geeklife: https://www.geeklife.pl/2017/12/11/wolverine-trzy-miesiace-do-smierci-tom-1-recenzja/
+  naekranie: https://naekranie.pl/recenzje/wolverine-miesiace-smierci-01-chaos-brzydota-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33592-wolverine-trzy-miesiace-do-smierci-tom-1-recenzja
+issues:
+  - name: "Wolverine (vol. 6) #1"
+    comic_vine_issue_id: 444437
+  - name: "Wolverine (vol. 6) #2"
+    comic_vine_issue_id: 446493
+  - name: "Wolverine (vol. 6) #3"
+    comic_vine_issue_id: 447517
+  - name: "Wolverine (vol. 6) #4"
+    comic_vine_issue_id: 450560
+  - name: "Wolverine (vol. 6) #5"
+    comic_vine_issue_id: 451775
+  - name: "Wolverine (vol. 6) #6"
+    comic_vine_issue_id: 452859
+  - name: "Wolverine (vol. 6) #7"
+    comic_vine_issue_id: 454111

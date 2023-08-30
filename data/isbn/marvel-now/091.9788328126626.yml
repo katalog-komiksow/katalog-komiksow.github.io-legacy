@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Avengers: Czas się kończy. Tom 2'
+image: marvel-now.091.webp
+image_source: https://egmont.pl
+isbn: 9788328126626
+release_date: '2018-06-20'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4847480/avengers-czas-sie-konczy-tom-2
+shops:
+  egmont: https://egmont.pl/Avengers.-Czas-sie-konczy.-Tom-2,9024549,p.html
+  gildia: https://www.gildia.pl/komiksy/363402-avengers-czas-sie-konczy-tom-2
+reviews:
+  geeklife: https://www.geeklife.pl/2018/07/06/avengers-czas-sie-konczy-tom-2/
+  paradoks: https://paradoks.net.pl/read/35835-avengers-czas-sie-konczy-tom-2-recenzja
+issues:
+  - name: "Avengers (vol. 5) #38"
+    comic_vine_issue_id: 470417
+  - name: "Avengers (vol. 5) #39"
+    comic_vine_issue_id: 472900
+  - name: "New Avengers (vol. 3) #26"
+    comic_vine_issue_id: 470433
+  - name: "New Avengers (vol. 3) #27"
+    comic_vine_issue_id: 471318
+  - name: "New Avengers (vol. 3) #28"
+    comic_vine_issue_id: 474632

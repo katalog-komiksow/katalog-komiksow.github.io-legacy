@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Avengers. Tom 2: Ostatnie białe zdarzenie'
+image: marvel-now.009.webp
+image_source: https://egmont.pl
+isbn: 9788328110564
+release_date: '2015-11-18'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/271924/avengers-ostatnie-biale-zdarzenie
+shops:
+  egmont: https://egmont.pl/Avengers.-Ostatnie-biale-zdarzenie.-Tom-2.,608621,p.html
+  gildia: https://www.gildia.pl/komiksy/283576-avengers-2-ostatnie-biale-zdarzenie
+reviews:
+  geeklife: https://www.geeklife.pl/2018/03/21/avengers-tom-2-ostatnie-biale-zdarzenie/
+  paradoks: https://paradoks.net.pl/read/28151-avengers-tom-2-ostatnie-biale-zdarzenie-recenzja
+issues:
+  - name: "Avengers (vol. 5) #7"
+    comic_vine_issue_id: 390444
+  - name: "Avengers (vol. 5) #8"
+    comic_vine_issue_id: 394701
+  - name: "Avengers (vol. 5) #9"
+    comic_vine_issue_id: 396422
+  - name: "Avengers (vol. 5) #10"
+    comic_vine_issue_id: 398979
+  - name: "Avengers (vol. 5) #11"
+    comic_vine_issue_id: 401202

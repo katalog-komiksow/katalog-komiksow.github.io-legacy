@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'All-New X-Men. Tom 7: Utopianie'
+image: marvel-now.093.webp
+image_source: https://egmont.pl
+isbn: 9788328126671
+release_date: '2018-07-25'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4851868/all-new-x-men-utopianie
+shops:
+  egmont: https://egmont.pl/All-New-X-Men.-Utopianie.-Tom-7,9831440,p.html
+  gildia: https://www.gildia.pl/komiksy/367199-all-new-x-men-7-utopianie
+reviews:
+  geeklife: https://www.geeklife.pl/2018/08/03/all-new-x-men-tom-7-utopianie/
+  paradoks: https://paradoks.net.pl/read/35834-all-new-x-men-tom-7-utopianie-recenzja
+issues:
+  - name: "All-New X-Men (vol. 1) #37"
+    comic_vine_issue_id: 482149
+  - name: "All-New X-Men (vol. 1) #38"
+    comic_vine_issue_id: 480667
+  - name: "All-New X-Men (vol. 1) #39"
+    comic_vine_issue_id: 482678
+  - name: "All-New X-Men (vol. 1) #40"
+    comic_vine_issue_id: 486715
+  - name: "All-New X-Men (vol. 1) #41"
+    comic_vine_issue_id: 490874

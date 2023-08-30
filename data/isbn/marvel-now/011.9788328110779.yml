@@ -1,0 +1,26 @@
+---
+collection: marvel-now
+name: 'Strażnicy Galaktyki. Tom 2: Angela'
+image: marvel-now.011.webp
+image_source: https://egmont.pl
+isbn: 9788328110779
+release_date: '2016-01-27'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/289498/guardians-of-the-galaxy-straznicy-galaktyki-angela
+shops:
+  egmont: https://egmont.pl/Guardians-of-the-Galaxy.-Straznicy-Galaktyki.-Angela.-Tom-2.,608880,p.html
+  gildia: https://www.gildia.pl/komiksy/288706-guardians-of-the-galaxy-straznicy-galaktyki-2-angela
+reviews:
+  geeklife: https://www.geeklife.pl/2018/04/13/guardians-of-the-galaxy-tom-2-angela/
+  paradoks: https://paradoks.net.pl/read/28574-straznicy-galaktyki-tom-2-angela-recenzja
+issues:
+  - name: "Guardians of the Galaxy (vol. 3) #4"
+    comic_vine_issue_id: 413659
+  - name: "Guardians of the Galaxy (vol. 3) #5"
+    comic_vine_issue_id: 419969
+  - name: "Guardians of the Galaxy (vol. 3) #6"
+    comic_vine_issue_id: 426876
+  - name: "Guardians of the Galaxy (vol. 3) #7"
+    comic_vine_issue_id: 428859

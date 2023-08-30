@@ -1,0 +1,34 @@
+---
+collection: marvel-now
+name: 'Uncanny Avengers. Tom 2: Bliźnięta Apokalipsy'
+image: marvel-now.029.webp
+image_source: https://egmont.pl
+isbn: 9788328116696
+release_date: '2016-09-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3654530/uncanny-avengers-bliznieta-apokalipsy
+shops:
+  egmont: https://egmont.pl/Uncanny-Avengers.-Bliznieta-apokalipsy.-Tom-2.,607014,p.html
+  gildia: https://www.gildia.pl/komiksy/311497-uncanny-avengers-2-bliznieta-apokalipsy
+reviews:
+  filmozercy: https://filmozercy.com/wpis/uncanny-avengers-2-bliznieta-apokalipsy-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/02/07/uncanny-avengers-tom-2-bliznieta-apokalipsy/
+  naekranie: https://naekranie.pl/recenzje/uncanny-avengers-02-bliznieta-apokalipsy-dzieje-sie-az-za-duzo-recenzja
+  paradoks: https://paradoks.net.pl/read/30513-uncanny-avengers-tom-2-bliznieta-apokalipsy-recenzja
+issues:
+  - name: "Uncanny Avengers (vol. 1) #6"
+    comic_vine_issue_id: 396435
+  - name: "Uncanny Avengers (vol. 1) #7"
+    comic_vine_issue_id: 398993
+  - name: "Uncanny Avengers (vol. 1) #8"
+    comic_vine_issue_id: 401212
+  - name: "Uncanny Avengers (vol. 1) #8AU"
+    comic_vine_issue_id: 404704
+  - name: "Uncanny Avengers (vol. 1) #9"
+    comic_vine_issue_id: 411836
+  - name: "Uncanny Avengers (vol. 1) #10"
+    comic_vine_issue_id: 418825
+  - name: "Uncanny Avengers (vol. 1) #11"
+    comic_vine_issue_id: 423683

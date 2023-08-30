@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Deadpool. Tom 1: Martwi prezydenci'
+image: marvel-now.013.webp
+image_source: https://egmont.pl
+isbn: 9788328116252
+release_date: '2016-02-17'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/290269/deadpool-martwi-prezydenci
+shops:
+  egmont: https://egmont.pl/Deadpool.-Martwi-prezydenci.-Tom-1.,607063,p.html
+  gildia: https://www.gildia.pl/komiksy/292454-deadpool-1-martwi-prezydenci
+reviews:
+  naekranie: https://naekranie.pl/recenzje/deadpool-1-martwi-prezydenci-wreszcie-w-polsce-recenzja
+  paradoks: https://paradoks.net.pl/read/28800-deadpool-tom-1-martwi-prezydenci-recenzja
+issues:
+  - name: "Deadpool (vol. 5) #1"
+    comic_vine_issue_id: 365760
+  - name: "Deadpool (vol. 5) #2"
+    comic_vine_issue_id: 369057
+  - name: "Deadpool (vol. 5) #3"
+    comic_vine_issue_id: 371106
+  - name: "Deadpool (vol. 5) #4"
+    comic_vine_issue_id: 381412
+  - name: "Deadpool (vol. 5) #5"
+    comic_vine_issue_id: 387257
+  - name: "Deadpool (vol. 5) #6"
+    comic_vine_issue_id: 394707

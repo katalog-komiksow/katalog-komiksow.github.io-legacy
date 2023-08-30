@@ -1,0 +1,26 @@
+---
+collection: marvel-now
+name: 'The Amazing Spider-Man. Tom 4: Nocna Zmiana'
+image: marvel-now.099.webp
+image_source: https://egmont.pl
+isbn: 9788328126770
+release_date: '2018-09-19'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4860010/amazing-spider-man-nocna-zmiana
+shops:
+  egmont: https://egmont.pl/Amazing-Spider-Man.-Nocna-zmiana.-Tom-4,11079729,p.html
+  gildia: https://www.gildia.pl/komiksy/371388-amazing-spider-man-tom-4-nocna-zmiana
+reviews:
+  geeklife: https://www.geeklife.pl/2018/09/28/amazing-spider-man-tom-4-nocna-zmiana/
+  paradoks: https://paradoks.net.pl/read/36129-amazing-spider-man-tom-4-nocna-zmiana-recenzja
+issues:
+  - name: "The Amazing Spider-Man (vol. 3) #16"
+    comic_vine_issue_id: 482150
+  - name: "The Amazing Spider-Man (vol. 3) #17"
+    comic_vine_issue_id: 484888
+  - name: "The Amazing Spider-Man (vol. 3) #18"
+    comic_vine_issue_id: 487829
+  - name: "The Amazing Spider-Man Annual (vol. 2) #1"
+    comic_vine_issue_id: 472898

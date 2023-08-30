@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'AXIS: Carnage & Hobgoblin'
+image: marvel-now.080.webp
+image_source: https://egmont.pl
+isbn: 9788328127937
+release_date: '2018-02-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4824016/axis-carnage-i-hobgoblin
+shops:
+  egmont: https://egmont.pl/Axis.-Carnage-i-Hobgoblin,6072354,p.html
+  gildia: https://www.gildia.pl/komiksy/356072-axis-carnage-i-hobgoblin
+reviews:
+  geeklife: https://www.geeklife.pl/2018/03/02/axis-carnage-i-hobgoblin-recenzja/
+  naekranie: https://naekranie.pl/recenzje/axis-carnage-i-hobgoblin-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34636-axis-carnage-i-hobgoblin-recenzja
+issues:
+  - name: "AXIS: Carnage #1"
+    comic_vine_issue_id: 468901
+  - name: "AXIS: Carnage #2"
+    comic_vine_issue_id: 470420
+  - name: "AXIS: Carnage #3"
+    comic_vine_issue_id: 472903
+  - name: "AXIS: Hobgoblin #1"
+    comic_vine_issue_id: 468459
+  - name: "AXIS: Hobgoblin #2"
+    comic_vine_issue_id: 469827
+  - name: "AXIS: Hobgoblin #3"
+    comic_vine_issue_id: 473640

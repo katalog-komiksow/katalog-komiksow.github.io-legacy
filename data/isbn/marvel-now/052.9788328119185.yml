@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'The Superior Spider-Man. Tom 7: Lud Goblinów'
+image: marvel-now.052.webp
+image_source: https://egmont.pl
+isbn: 9788328119185
+release_date: '2017-05-24'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4464421/the-superior-spider-man-lud-goblinow
+shops:
+  egmont: https://egmont.pl/The-Superior-Spider-Man.-Lud-goblinow.-Tom-7,608278,p.html
+  gildia: https://www.gildia.pl/komiksy/332472-the-superior-spider-man-7-lud-goblinow
+reviews:
+  naekranie: https://naekranie.pl/recenzje/superior-spider-man-07-lud-goblinow-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/32740-superior-spider-man-tom-7-lud-goblinow-recenzja
+issues:
+  - name: "The Superior Spider-Man #27.NOW"
+    comic_vine_issue_id: 445184
+  - name: "The Superior Spider-Man #28"
+    comic_vine_issue_id: 446490
+  - name: "The Superior Spider-Man #29"
+    comic_vine_issue_id: 447516
+  - name: "The Superior Spider-Man #30"
+    comic_vine_issue_id: 448978
+  - name: "The Superior Spider-Man #31"
+    comic_vine_issue_id: 450554
+  - name: "The Superior Spider-Man Annual #2"
+    comic_vine_issue_id: 448003

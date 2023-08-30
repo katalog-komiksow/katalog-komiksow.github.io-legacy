@@ -1,0 +1,27 @@
+---
+collection: marvel-now
+name: Śmierć Wolverine'a
+image: marvel-now.073.webp
+image_source: https://egmont.pl
+isbn: 9788328127265
+release_date: '2017-12-07'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4812156/smierc-wolverine-a
+shops:
+  egmont: https://egmont.pl/Wolverine.-Smierc-Wolverine-a,5061654,p.html
+  gildia: https://www.gildia.pl/komiksy/350169-smierc-wolverine-a
+reviews:
+  filmozercy: https://filmozercy.com/wpis/smierc-wolverine-a-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/smierc-wolverinea-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34271-smierc-wolverinea-recenzja
+issues:
+  - name: "Death of Wolverine #1"
+    comic_vine_issue_id: 463886
+  - name: "Death of Wolverine #2"
+    comic_vine_issue_id: 464978
+  - name: "Death of Wolverine #3"
+    comic_vine_issue_id: 467034
+  - name: "Death of Wolverine #4"
+    comic_vine_issue_id: 468075

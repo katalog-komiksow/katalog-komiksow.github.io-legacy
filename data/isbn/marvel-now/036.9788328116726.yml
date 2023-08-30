@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Deadpool. Tom 4: Deadpool kontra SHIELD'
+image: marvel-now.036.webp
+image_source: https://egmont.pl
+isbn: 9788328116726
+release_date: '2016-12-07'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3862364/deadpool-deadpool-kontra-shield
+shops:
+  egmont: https://egmont.pl/Deadpool.-Deadpool-kontra-SHIELD.-Tom-4.,608401,p.html
+  gildia: https://www.gildia.pl/komiksy/318202-deadpool-4-deadpool-kontra-shield
+reviews:
+  filmozercy: https://filmozercy.com/wpis/deadpool-tom-4-deadpool-kontra-shield-prezentacja-komiksu
+  naekranie: https://naekranie.pl/recenzje/deadpool-04-deadpool-kontra-shield-zabawa-z-nutka-goryczy-recenzja
+issues:
+  - name: "Deadpool (vol. 5) #20"
+    comic_vine_issue_id: 435578
+  - name: "Deadpool (vol. 5) #21"
+    comic_vine_issue_id: 437488
+  - name: "Deadpool (vol. 5) #22"
+    comic_vine_issue_id: 441412
+  - name: "Deadpool (vol. 5) #23"
+    comic_vine_issue_id: 445177
+  - name: "Deadpool (vol. 5) #24"
+    comic_vine_issue_id: 446479
+  - name: "Deadpool (vol. 5) #25.NOW"
+    comic_vine_issue_id: 447508

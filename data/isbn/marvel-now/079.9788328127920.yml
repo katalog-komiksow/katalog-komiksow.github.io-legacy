@@ -1,0 +1,38 @@
+---
+collection: marvel-now
+name: 'Avengers & X-Men: AXIS'
+image: marvel-now.079.webp
+image_source: https://egmont.pl
+isbn: 9788328127920
+release_date: '2018-02-21'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4823536/avengers-i-x-men-axis
+shops:
+  egmont: https://egmont.pl/Avengers-i-X-Men-Axis,6072345,p.html
+  gildia: https://www.gildia.pl/komiksy/356082-avengers-i-x-men-axis
+reviews:
+  filmozercy: https://filmozercy.com/wpis/avengers-i-x-men-axis-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/02/27/avengers-i-x-men-axis-recenzja/
+  naekranie: https://naekranie.pl/recenzje/avengers-i-x-men-axis-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34622-avengers-i-x-men-axis-recenzja
+issues:
+  - name: "Avengers & X-Men: AXIS #1"
+    comic_vine_issue_id: 467648
+  - name: "Avengers & X-Men: AXIS #2"
+    comic_vine_issue_id: 468072
+  - name: "Avengers & X-Men: AXIS #3"
+    comic_vine_issue_id: 468458
+  - name: "Avengers & X-Men: AXIS #4"
+    comic_vine_issue_id: 469488
+  - name: "Avengers & X-Men: AXIS #5"
+    comic_vine_issue_id: 469826
+  - name: "Avengers & X-Men: AXIS #6"
+    comic_vine_issue_id: 470419
+  - name: "Avengers & X-Men: AXIS #7"
+    comic_vine_issue_id: 472901
+  - name: "Avengers & X-Men: AXIS #8"
+    comic_vine_issue_id: 473639
+  - name: "Avengers & X-Men: AXIS #9"
+    comic_vine_issue_id: 474621

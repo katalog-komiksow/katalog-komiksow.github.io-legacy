@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: Nieskończoność
+image: marvel-now.032.webp
+image_source: https://egmont.pl
+isbn: 9788328116771
+release_date: '2016-10-05'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3729104/nieskonczonosc
+shops:
+  egmont: https://egmont.pl/Nieskonczonosc,608648,p.html
+  gildia: https://www.gildia.pl/komiksy/312888-nieskonczonosc
+reviews:
+  filmozercy: https://filmozercy.com/wpis/nieskonczonosc-recenzja-komiksu-i-kolejnosc-czytania
+  geeklife: https://www.geeklife.pl/2018/03/29/nieskonczonosc/
+  paradoks: https://paradoks.net.pl/read/30873-nieskonczonosc-recenzja
+issues:
+  - name: "Infinity #1"
+    comic_vine_issue_id: 421691
+  - name: "Infinity #2"
+    comic_vine_issue_id: 424535
+  - name: "Infinity #3"
+    comic_vine_issue_id: 425933
+  - name: "Infinity #4"
+    comic_vine_issue_id: 428297
+  - name: "Infinity #5"
+    comic_vine_issue_id: 431441
+  - name: "Infinity #6"
+    comic_vine_issue_id: 435055

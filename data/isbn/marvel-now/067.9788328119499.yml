@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Hawkeye. Tom 2: Drobne trafienia'
+image: marvel-now.067.webp
+image_source: https://egmont.pl
+isbn: 9788328119499
+release_date: '2017-10-25'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4811416/hawkeye-lekkie-trafienia
+shops:
+  egmont: https://egmont.pl/Hawkeye.-Lekkie-trafienia.-Tom-2,4017156,p.html
+  gildia: https://www.gildia.pl/komiksy/344707-hawkeye-2-lekkie-trafienia
+reviews:
+  filmozercy: https://filmozercy.com/wpis/hawkeye-tom-2-lekkie-trafienia-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/hawkeye-02-lekkie-trafienia-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33939-hawkeye-tom-2-lekkie-trafienia-recenzja
+issues:
+  - name: "Hawkeye (vol. 4) #6"
+    comic_vine_issue_id: 373216
+  - name: "Hawkeye (vol. 4) #7"
+    comic_vine_issue_id: 382805
+  - name: "Hawkeye (vol. 4) #8"
+    comic_vine_issue_id: 388558
+  - name: "Hawkeye (vol. 4) #9"
+    comic_vine_issue_id: 396428
+  - name: "Hawkeye (vol. 4) #10"
+    comic_vine_issue_id: 400146
+  - name: "Hawkeye (vol. 4) #11"
+    comic_vine_issue_id: 413660

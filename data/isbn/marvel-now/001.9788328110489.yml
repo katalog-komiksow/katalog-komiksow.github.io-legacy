@@ -1,0 +1,18 @@
+---
+collection: marvel-now
+name: 'Avengers: Wojna bez końca'
+image: marvel-now.001.jpeg
+image_source: https://gildia.pl
+isbn: 9788328110489
+release_date: '2015-05-13'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/257374/avengers-wojna-bez-konca
+shops:
+  gildia: https://www.gildia.pl/komiksy/275193-avengers-wojna-bez-konca
+reviews:
+  paradoks: https://paradoks.net.pl/read/26543-avengers-wojna-bez-konca-recenzja
+issues:
+  - name: "Avengers: Endless Wartime #1"
+    comic_vine_issue_id: 427867

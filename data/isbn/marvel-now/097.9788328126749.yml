@@ -1,0 +1,34 @@
+---
+collection: marvel-now
+name: 'Hawkeye. Tom 4: Rio Bravo'
+image: marvel-now.097.webp
+image_source: https://egmont.pl
+isbn: 9788328126749
+release_date: '2018-08-22'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4854906/hawkeye-rio-bravo
+shops:
+  egmont: https://egmont.pl/Hawkeye.-Rio-Bravo.-Tom-4,10451990,p.html
+  gildia: https://www.gildia.pl/komiksy/368719-hawkeye-4-rio-bravo
+reviews:
+  filmozercy: https://filmozercy.com/wpis/hawkeye-tom-4-rio-bravo-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/09/14/hawkeye-tom-4-rio-bravo/
+  paradoks: https://paradoks.net.pl/read/35971-hawkeye-tom-4-rio-bravo-recenzja
+issues:
+  - name: "Hawkeye (vol. 4) #12"
+    comic_vine_issue_id: 416943
+  - name: "Hawkeye (vol. 4) #13"
+    comic_vine_issue_id: 428860
+  - name: "Hawkeye (vol. 4) #15"
+    comic_vine_issue_id: 446483
+  - name: "Hawkeye (vol. 4) #17"
+    comic_vine_issue_id: 447510
+  - name: "Hawkeye (vol. 4) #19"
+    comic_vine_issue_id: 460966
+  - name: "Hawkeye (vol. 4) #21"
+    comic_vine_issue_id: 478608
+  - name: "Hawkeye (vol. 4) #22"
+    comic_vine_issue_id: 495272
+

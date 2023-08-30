@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'All-New X-Men. Tom 3: Zagubieni'
+image: marvel-now.015.webp
+image_source: https://egmont.pl
+isbn: 9788328110786
+release_date: '2016-03-16'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/295713/all-new-x-men-zagubieni
+shops:
+  egmont: https://egmont.pl/All-New-X-Men.-Zagubieni.-Tom-3.,606218,p.html
+  gildia: https://www.gildia.pl/komiksy/295560-all-new-x-men-3-zagubieni
+reviews:
+  geeklife: https://www.geeklife.pl/2018/03/16/all-new-x-men-tom-3-zagubieni/
+  paradoks: https://paradoks.net.pl/read/28777-all-new-x-men-tom-3-zagubieni-recenzja
+issues:
+  - name: "All-New X-Men (vol. 1) #11"
+    comic_vine_issue_id: 400145
+  - name: "All-New X-Men (vol. 1) #12"
+    comic_vine_issue_id: 408989
+  - name: "All-New X-Men (vol. 1) #13"
+    comic_vine_issue_id: 413652
+  - name: "All-New X-Men (vol. 1) #14"
+    comic_vine_issue_id: 417830
+  - name: "All-New X-Men (vol. 1) #15"
+    comic_vine_issue_id: 420633

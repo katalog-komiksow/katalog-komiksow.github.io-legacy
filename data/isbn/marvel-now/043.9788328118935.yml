@@ -1,0 +1,33 @@
+---
+collection: marvel-now
+name: 'Deadpool. Tom 5: Wyzwanie Draculi'
+image: marvel-now.043.webp
+image_source: https://egmont.pl
+isbn: 9788328118935
+release_date: '2017-02-15'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4197174/deadpool-wyzwanie-drakuli
+shops:
+  egmont: https://egmont.pl/Deadpool.-Wyzwanie-Draculi.-Tom-5,606450,p.html
+  gildia: https://www.gildia.pl/komiksy/322942-deadpool-5-wyzwanie-draculi
+reviews:
+  geeklife: https://www.geeklife.pl/2017/03/07/deadpool-tom-5-wyzwanie-draculi-recenzja/
+  naekranie: https://naekranie.pl/recenzje/deadpool-05-wyzwanie-draculi-milosc-nie-wybiera-recenzja
+  paradoks: https://paradoks.net.pl/read/31891-deadpool-tom-5-wyzwanie-draculi-recenzja
+issues:
+  - name: "Deadpool: Dracula's Gauntlet #1"
+    comic_vine_issue_id: 459170
+  - name: "Deadpool: Dracula's Gauntlet #2"
+    comic_vine_issue_id: 459671
+  - name: "Deadpool: Dracula's Gauntlet #3"
+    comic_vine_issue_id: 460312
+  - name: "Deadpool: Dracula's Gauntlet #4"
+    comic_vine_issue_id: 461723
+  - name: "Deadpool: Dracula's Gauntlet #5"
+    comic_vine_issue_id: 461724
+  - name: "Deadpool: Dracula's Gauntlet #6"
+    comic_vine_issue_id: 462249
+  - name: "Deadpool: Dracula's Gauntlet #7"
+    comic_vine_issue_id: 462889

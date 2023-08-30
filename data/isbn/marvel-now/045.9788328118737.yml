@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Avengers 5: Dostosuj się lub zgiń'
+image: marvel-now.045.webp
+image_source: https://egmont.pl
+isbn: 9788328118737
+release_date: '2017-03-15'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4449715/avengers-dostosuj-sie-lub-zgin
+shops:
+  egmont: https://egmont.pl/Avengers.-Dostosuj-sie-lub-zgin.-Tom-5,606626,p.html
+  gildia: https://www.gildia.pl/komiksy/324999-avengers-5-dostosuj-sie-lub-zgin
+reviews:
+  filmozercy: https://filmozercy.com/wpis/avengers-tom-5-dostosuj-sie-lub-zgin-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/03/29/avengers-tom-5-dostosuj-sie-lub-zgin/
+  naekranie: https://naekranie.pl/recenzje/avengers-05-dostosuj-sie-lub-zgin-kolejny-odcinek-serialu-recenzja
+  paradoks: https://paradoks.net.pl/read/32149-avengers-tom-5-dostosuj-sie-lub-zgin-recenzja
+issues:
+  - name: "Avengers (vol. 5) #24"
+    comic_vine_issue_id: 438378
+  - name: "Avengers (vol. 5) #25"
+    comic_vine_issue_id: 442913
+  - name: "Avengers (vol. 5) #26"
+    comic_vine_issue_id: 445176
+  - name: "Avengers (vol. 5) #27"
+    comic_vine_issue_id: 448962
+  - name: "Avengers (vol. 5) #28"
+    comic_vine_issue_id: 451765

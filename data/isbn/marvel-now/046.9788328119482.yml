@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Hawkeye. Tom 1: Moje życie to walka'
+image: marvel-now.046.webp
+image_source: https://egmont.pl
+isbn: 9788328119482
+release_date: '2017-03-15'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4310497/hawkeye-moje-zycie-to-walka
+shops:
+  egmont: https://egmont.pl/Hawkeye.-Moje-zycie-to-walka.-Tom-1,606359,p.html
+  gildia: https://www.gildia.pl/komiksy/325002-hawkeye-1-moje-zycie-to-walka
+reviews:
+  filmozercy: https://filmozercy.com/wpis/hawkeye-tom-1-moje-zycie-to-walka-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/hawkeye-01-moje-zycie-to-walka-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/32062-hawkeye-tom-1-moje-zycie-to-walka-recenzja
+issues:
+  - name: "Hawkeye (vol. 4) #1"
+    comic_vine_issue_id: 348048
+  - name: "Hawkeye (vol. 4) #2"
+    comic_vine_issue_id: 355860
+  - name: "Hawkeye (vol. 4) #3"
+    comic_vine_issue_id: 362170
+  - name: "Hawkeye (vol. 4) #4"
+    comic_vine_issue_id: 369055
+  - name: "Hawkeye (vol. 4) #5"
+    comic_vine_issue_id: 371237
+  - name: "Young Avengers Presents #6"
+    comic_vine_issue_id: 132614

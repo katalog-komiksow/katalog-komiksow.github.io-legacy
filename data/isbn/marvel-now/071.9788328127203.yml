@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Wolverine: Trzy miesiące do śmierci. Tom 2'
+image: marvel-now.071.webp
+image_source: https://egmont.pl
+isbn: 9788328127203
+release_date: '2017-11-22'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4809297/wolverine-trzy-miesiace-do-smierci-tom-2
+shops:
+  egmont: https://egmont.pl/Wolverine-Trzy-miesiace-do-smierci.-Tom-2,4361235,p.html
+  gildia: https://www.gildia.pl/komiksy/348608-wolverine-trzy-miesiace-do-smierci-tom-2
+reviews:
+  geeklife: https://www.geeklife.pl/2017/12/16/wolverine-trzy-miesiace-do-smierci-tom-2-recenzja/
+  naekranie: https://naekranie.pl/recenzje/wolverine-trzy-miesiace-do-smierci-02-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34051-wolverine-trzy-miesiace-do-smierci-tom-2-recenzja
+issues:
+  - name: "Wolverine (vol. 6) #8"
+    comic_vine_issue_id: 456034
+  - name: "Wolverine (vol. 6) #9"
+    comic_vine_issue_id: 457653
+  - name: "Wolverine (vol. 6) #10"
+    comic_vine_issue_id: 459180
+  - name: "Wolverine (vol. 6) #11"
+    comic_vine_issue_id: 462261
+  - name: "Wolverine (vol. 6) #12"
+    comic_vine_issue_id: 463490
+  - name: "Wolverine Annual (vol. 4) #1"
+    comic_vine_issue_id: 462904

@@ -1,0 +1,39 @@
+---
+collection: marvel-now
+name: Tajne Wojny
+image: marvel-now.108.webp
+image_source: https://egmont.pl
+isbn: 9788328126848
+release_date: '2018-11-14'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4864975/tajne-wojny
+shops:
+  egmont: https://egmont.pl/Tajne-wojny,12821522,p.html
+  gildia: https://www.gildia.pl/komiksy/377657-tajne-wojny
+reviews:
+  filmozercy: https://filmozercy.com/wpis/tajne-wojny-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/tajne-wojny-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/36527-tajne-wojny-recenzja
+issues:
+  - name: "Secret Wars #1"
+    comic_vine_issue_id: 499373
+  - name: "Secret Wars #2"
+    comic_vine_issue_id: 499374
+  - name: "Secret Wars #3"
+    comic_vine_issue_id: 503445
+  - name: "Secret Wars #4"
+    comic_vine_issue_id: 503446
+  - name: "Secret Wars #5"
+    comic_vine_issue_id: 507462
+  - name: "Secret Wars #6"
+    comic_vine_issue_id: 507463
+  - name: "Secret Wars #7"
+    comic_vine_issue_id: 538262
+  - name: "Secret Wars #8"
+    comic_vine_issue_id: 538264
+  - name: "Secret Wars #9"
+    comic_vine_issue_id: 538265
+  - name: "Free Comic Book Day 2015: Secret Wars #1"
+    comic_vine_issue_id: 487501

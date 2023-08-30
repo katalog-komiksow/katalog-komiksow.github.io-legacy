@@ -1,0 +1,33 @@
+---
+collection: marvel-now
+name: 'Thunderbolts. Tom 3: Nieskończoność'
+image: marvel-now.034.webp
+image_source: https://egmont.pl
+isbn: 9788328116641
+release_date: '2016-11-23'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3889753/thunderbolts-nieskonczonosc
+shops:
+  egmont: https://egmont.pl/Thunderbolts.-Nieskonczonosc.-Tom-3.,606768,p.html
+  gildia: https://www.gildia.pl/komiksy/316801-thunderbolts-3-nieskonczonosc
+reviews:
+  filmozercy: https://filmozercy.com/wpis/thunderbolts-tom-3-nieskonczonosc-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/thunderbolts-03-nieskonczonosc-najazd-kosmicznych-agresorow-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/31160-thunderbolts-tom-3-nieskonczonosc-recenzja
+issues:
+  - name: "Thunderbolts (vol. 2) #13"
+    comic_vine_issue_id: 417846
+  - name: "Thunderbolts (vol. 2) #14"
+    comic_vine_issue_id: 422502
+  - name: "Thunderbolts (vol. 2) #15"
+    comic_vine_issue_id: 425942
+  - name: "Thunderbolts (vol. 2) #16"
+    comic_vine_issue_id: 427696
+  - name: "Thunderbolts (vol. 2) #17"
+    comic_vine_issue_id: 430764
+  - name: "Thunderbolts (vol. 2) #18"
+    comic_vine_issue_id: 433851
+  - name: "Thunderbolts (vol. 2) #19"
+    comic_vine_issue_id: 436207

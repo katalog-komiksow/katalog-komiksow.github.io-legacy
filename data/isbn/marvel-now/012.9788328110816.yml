@@ -1,0 +1,41 @@
+---
+collection: marvel-now
+name: Era Ultrona
+image: marvel-now.012.webp
+image_source: https://egmont.pl
+isbn: 9788328110816
+release_date: '2016-01-27'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/289497/era-ultrona
+shops:
+  egmont: https://egmont.pl/Era-Ultrona,606940,p.html
+  gildia: https://www.gildia.pl/komiksy/288707-era-ultrona
+reviews:
+  geeklife: https://www.geeklife.pl/2018/06/29/era-ultrona/
+  naekranie: https://naekranie.pl/recenzje/era-ultrona-i-wszyscy-zgineli-recenzja
+  paradoks: https://paradoks.net.pl/read/28459-era-ultrona-recenzja
+issues:
+  - name: "Age of Ultron #1"
+    comic_vine_issue_id: 390442
+  - name: "Age of Ultron #2"
+    comic_vine_issue_id: 392349
+  - name: "Age of Ultron #3"
+    comic_vine_issue_id: 395244
+  - name: "Age of Ultron #4"
+    comic_vine_issue_id: 395699
+  - name: "Age of Ultron #5"
+    comic_vine_issue_id: 396420
+  - name: "Age of Ultron #6"
+    comic_vine_issue_id: 397539
+  - name: "Age of Ultron #7"
+    comic_vine_issue_id: 400144
+  - name: "Age of Ultron #8"
+    comic_vine_issue_id: 402283
+  - name: "Age of Ultron #9"
+    comic_vine_issue_id: 408988
+  - name: "Age of Ultron #10"
+    comic_vine_issue_id: 411824
+  - name: "Avengers (vol. 4) #12.1"
+    comic_vine_issue_id: 268982

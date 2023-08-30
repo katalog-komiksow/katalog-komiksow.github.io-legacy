@@ -1,0 +1,221 @@
+---
+- name: "Avengers: Wojna bez końca"
+  isbn: 9788328110489
+- name: "All-New X-Men. Tom 1: Wczorajsi X-Men"
+  isbn: 9788328110519
+- name: "Avengers. Tom 1: Świat Avengers"
+  isbn: 9788328110526
+- name: "New Avengers 1: Wszystko umiera"
+  isbn: 9788328110618
+- name: "Strażnicy Galaktyki. Tom 1: Kosmiczni Avengers"
+  isbn: 9788328110625
+- name: "The Superior Spider-Man. Tom 1: Ostatnie życzenie"
+  isbn: 9788328110731
+- name: "Wolverine i X-Men. Tom 1: Cyrk przybył do miasta"
+  isbn: 9788328110748
+- name: "All-New X-Men. Tom 2: Tu zostajemy"
+  isbn: 9788328110571
+- name: "Avengers. Tom 2: Ostatnie białe zdarzenie"
+  isbn: 9788328110564
+- name: "The Superior Spider-Man. Tom 2: Mój własny najgorszy wróg"
+  isbn: 9788328110755
+- name: "Strażnicy Galaktyki. Tom 2: Angela"
+  isbn: 9788328110779
+- name: "Era Ultrona"
+  isbn: 9788328110816
+- name: "Deadpool. Tom 1: Martwi prezydenci"
+  isbn: 9788328116252
+- name: "Wolverine i X-Men. Tom 2: Szkoła przetrwania"
+  isbn: 9788328110830
+- name: "All-New X-Men. Tom 3: Zagubieni"
+  isbn: 9788328110786
+- name: "The Superior Spider-Man. Tom 3: Kłopoty z głową"
+  isbn: 9788328110793
+- name: "Avengers. Tom 3: Preludium Nieskończoności"
+  isbn: 9788328110762
+- name: "Thunderbolts. Tom 1: Bez pardonu"
+  isbn: 9788328116627
+- name: "Uncanny Avengers. Tom 1: Czerwony Cie"
+  isbn: 9788328116689
+- name: "Uncanny X-Men. Tom 1: Rewolucja"
+  isbn: 9788328116658
+- name: "Deadpool. Tom 2: Łowca Dusz"
+  isbn: 9788328116702
+- name: "The Superior Spider-Man. Tom 4: Nie ma ucieczki"
+  isbn: 9788328110809
+- name: "Thor Gromowładny. Tom 1: Bogobójca"
+  isbn: 9788328116733
+- name: "Wolverine i X-Men. Tom 3: Saga Hellfire"
+  isbn: 9788328110847
+- name: "Thanos powstaje"
+  isbn: 9788328116757
+- name: "Thunderbolts. Tom 2: Czerwony Postrach"
+  isbn: 9788328116634
+- name: "Deadpool. Tom 3: Dobry, zły i brzydki"
+  isbn: 9788328116719
+- name: "The Superior Spider-Man 5: Zło konieczne"
+  isbn: 9788328116764
+- name: "Uncanny Avengers. Tom 2: Bliźnięta Apokalipsy"
+  isbn: 9788328116696
+- name: "Avengers. Tom 4: Nieskończoność"
+  isbn: 9788328116788
+- name: "New Avengers. Tom 2: Nieskończoność"
+  isbn: 9788328116795
+- name: "Nieskończoność"
+  isbn: 9788328116771
+- name: "Strażnicy Galaktyki. Tom 3: Nieskończoność"
+  isbn: 9788328116801
+- name: "Thunderbolts. Tom 3: Nieskończoność"
+  isbn: 9788328116641
+- name: "Uncanny X-Men. Tom 2: Złamani"
+  isbn: 9788328116665
+- name: "Deadpool. Tom 4: Deadpool kontra SHIELD"
+  isbn: 9788328116726
+- name: "Thor Gromowładny. Tom 2: Boża Bomba"
+  isbn: 9788328116740
+- name: "X-Men: Bitwa Atomu"
+  isbn: 9788328116672
+- name: "Ms. Marvel. Tom 1: Niezwykła"
+  isbn: 9788328118928
+- name: "Wolverine i X-Men. Tom 4: Starzy kumple, nowi wrogowie"
+  isbn: 9788328118966
+- name: "The Superior Spider-Man. Tom 6: Superior Venom"
+  isbn: 9788328118959
+- name: "All-New X-Men 4: Tak inni"
+  isbn: 9788328118911
+- name: "Deadpool. Tom 5: Wyzwanie Draculi"
+  isbn: 9788328118935
+- name: "Uncanny Avengers. Tom 3: Czas na Ragnarok"
+  isbn: 9788328118744
+- name: "Avengers 5: Dostosuj się lub zgiń"
+  isbn: 9788328118737
+- name: "Hawkeye. Tom 1: Moje życie to walka"
+  isbn: 9788328119482
+- name: "Thunderbolts. Tom 4: Bez litości"
+  isbn: 9788328119390
+- name: "Strażnicy Galaktyki/All-New X-Men: Proces Jean Grey"
+  isbn: 9788328119451
+- name: "New Avengers. Tom 3: Inne światy"
+  isbn: 9788328118720
+- name: "Uncanny X-Men. Tom 3: Dobry, zły, Inhuman"
+  isbn: 9788328119413
+- name: "Deadpool. Tom 6: Deadpool się żeni"
+  isbn: 9788328119314
+- name: "The Superior Spider-Man. Tom 7: Lud Goblinów"
+  isbn: 9788328119185
+- name: "Uncanny Avengers. Tom 4: Pomścić Ziemię"
+  isbn: 9788328119291
+- name: "Ms. Marvel. Tom 2: Pokolenie Czemu"
+  isbn: 9788328119178
+- name: "New Avengers. Tom 4: Doskonały świat"
+  isbn: 9788328119420
+- name: "Thor Gromowładny. Tom 3: Przeklęty"
+  isbn: 9788328119437
+- name: "The Amazing Spider-Man. Tom 1: Szczęście Parkera"
+  isbn: 9788328119475
+- name: "Avengers. Tom 6: Wieczni Avengers"
+  isbn: 9788328119284
+- name: "Thunderbolts. Tom 5: Punisher kontra Thunderbolts"
+  isbn: 9788328119406
+- name: "Grzech pierworodny"
+  isbn: 9788328127081
+- name: "Deadpool. Tom 7: Grzech pierworodny"
+  isbn: 9788328119321
+- name: "Thor Gromowładny. Tom 4: Ostatnie dni Midgardu"
+  isbn: 9788328119444
+- name: "All-New X-Men. Tom 5: Jeden z głowy"
+  isbn: 9788328119338
+- name: "Strażnicy Galaktyki. Tom 4: Strażnicy w rozsypce"
+  isbn: 9788328127111
+- name: "Wolverine: Trzy miesiące do śmierci. Tom 1"
+  isbn: 9788328119468
+- name: "Grzech Pierworodny: Thor i Loki - Dziesiąty Świat"
+  isbn: 9788328127142
+- name: "Hawkeye. Tom 2: Drobne trafienia"
+  isbn: 9788328119499
+- name: "Uncanny X-Men. Tom 4: Kontra SHIELD"
+  isbn: 9788328119635
+- name: "Grzech Pierworodny: Hulk kontra Iron Man"
+  isbn: 9788328127210
+- name: "Strażnicy Galaktyki. Tom 5: Grzech Pierworodny"
+  isbn: 9788328127227
+- name: "Wolverine: Trzy miesiące do śmierci. Tom 2"
+  isbn: 9788328127203
+- name: "Ms. Marvel. Tom 3: Zdruzgotana"
+  isbn: 9788328127258
+- name: "Śmierć Wolverine'a"
+  isbn: 9788328127265
+- name: "The Amazing Spider-Man. Tom 2: Preludium do Spiderversum"
+  isbn: 9788328127272
+- name: "Moon Knight. Tom 1: Z martwych"
+  isbn: 9788328127913
+- name: "Spider-Man 2099. Tom 1: Nie z tego czasu"
+  isbn: 9788328127890
+- name: "Uncanny Avengers. Tom 5: Preludium do AXIS"
+  isbn: 9788328119307
+- name: "Deadpool. Tom 8: AXIS"
+  isbn: 9788328127944
+- name: "Avengers & X-Men: AXIS"
+  isbn: 9788328127920
+- name: "AXIS: Carnage & Hobgoblin"
+  isbn: 9788328127937
+- name: "All-New X-Men. Tom 6: Przygoda w Świecie Ultimate"
+  isbn: 9788328127951
+- name: "Avengers: Czas się kończy. Tom 1"
+  isbn: 9788328127586
+- name: "Thor. Tom 1: Gromowładna"
+  isbn: 9788328127968
+- name: "Deadpool. Tom 9: Wszystko, co dobre…"
+  isbn: 9788328126541
+- name: "Hawkeye. Tom 3: L.A. Woman"
+  isbn: 9788328127906
+- name: "Uncanny X-Men. Tom 5: Mutant Omega"
+  isbn: 9788328126558
+- name: "Deadpool 10: Deadpooliana wybrane"
+  isbn: 9788328126732
+- name: "Spider-Man 2099. Tom 2: Spiderversum"
+  isbn: 9788328126572
+- name: "The Amazing Spider-Man. Tom 3: Spiderversum"
+  isbn: 9788328126565
+- name: "Moon Knight. Tom 2: Z Martwych Powstaną"
+  isbn: 9788328126602
+- name: "Avengers: Czas się kończy. Tom 2"
+  isbn: 9788328126626
+- name: "Uncanny Avengers. Tom 6: Kontrewolucjoniści"
+  isbn: 9788328126589
+- name: "All-New X-Men. Tom 7: Utopianie"
+  isbn: 9788328126671
+- name: "Ant-Man: Druga szansa"
+  isbn: 9788328126619
+- name: "Strażnicy Galaktyki. Tom 6: Po drugiej stronie lustra"
+  isbn: 9788328126640
+- name: "Avengers: Czas się kończy. Tom 3"
+  isbn: 9788328126756
+- name: "Hawkeye. Tom 4: Rio Bravo"
+  isbn: 9788328126749
+- name: "Thor. Tom 2: Kto dzierży młot?"
+  isbn: 9788328126695
+- name: "The Amazing Spider-Man. Tom 4: Nocna Zmiana"
+  isbn: 9788328126770
+- name: "Ms. Marvel. Tom 4: Dni ostatnie"
+  isbn: 9788328126664
+- name: "Uncanny X-Men. Tom 6: Historie Małe"
+  isbn: 9788328126787
+- name: "Avengers: Czas się kończy. Tom 4"
+  isbn: 9788328126817
+- name: "Hawkeye kontra Deadpool"
+  isbn: 9788328126800
+- name: "Moon Knight. Tom 3: W noc"
+  isbn: 9788328126824
+- name: "Tajne Wojny: Amazing Spider-Man: Odnowić śluby"
+  isbn: 9788328126879
+- name: "Tajne tajne wojny Deadpoola"
+  isbn: 9788328126893
+- name: "Tajne Wojny: Thorowie"
+  isbn: 9788328126886
+- name: "Tajne Wojny"
+  isbn: 9788328126848
+- name: "Tajne Wojny: Wojna Domowa"
+  isbn: 9788328126916
+- name: "Tajne Wojny: Oblężenie"
+  isbn: 9788328126954

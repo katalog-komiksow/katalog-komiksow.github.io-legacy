@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Uncanny X-Men. Tom 5: Mutant Omega'
+image: marvel-now.086.webp
+image_source: https://egmont.pl
+isbn: 9788328126558
+release_date: '2018-04-18'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4848325/uncanny-x-men-mutant-omega
+shops:
+  egmont: https://egmont.pl/Uncanny-X-Men.-Mutant-omega.-Tom-5,7366660,p.html
+  gildia: https://www.gildia.pl/komiksy/359295-uncanny-x-men-5-mutant-omega
+reviews:
+  geeklife: https://www.geeklife.pl/2018/05/02/uncanny-x-men-tom-5-mutant-omega/
+  paradoks: https://paradoks.net.pl/read/35104-uncanny-x-men-tom-5-mutant-omega-recenzja
+issues:
+  - name: "Uncanny X-Men (vol. 3) #26"
+    comic_vine_issue_id: 465853
+  - name: "Uncanny X-Men (vol. 3) #27"
+    comic_vine_issue_id: 468091
+  - name: "Uncanny X-Men (vol. 3) #28"
+    comic_vine_issue_id: 470436
+  - name: "Uncanny X-Men (vol. 3) #29"
+    comic_vine_issue_id: 474637
+  - name: "Uncanny X-Men (vol. 3) #30"
+    comic_vine_issue_id: 477858
+  - name: "Uncanny X-Men (vol. 3) #31"
+    comic_vine_issue_id: 479985

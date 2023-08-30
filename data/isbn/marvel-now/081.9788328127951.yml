@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'All-New X-Men. Tom 6: Przygoda w Świecie Ultimate'
+image: marvel-now.081.webp
+image_source: https://egmont.pl
+isbn: 9788328127951
+release_date: '2018-03-28'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4820370/all-new-x-men-przygoda-w-swiecie-ultimate
+shops:
+  egmont: https://egmont.pl/All-New-X-Men.-Przygoda-w-swiecie-Ultimate.-Tom-6,6668301,p.html
+  gildia: https://www.gildia.pl/komiksy/356759-all-new-x-men-6-przygoda-w-swiecie-ultimate
+reviews:
+  geeklife: https://www.geeklife.pl/2018/04/16/all-new-x-men-tom-6-przygoda-w-swiecie-ultimate/
+  paradoks: https://paradoks.net.pl/read/34896-all-new-x-men-tom-6-przygoda-w-swiecie-ultimate-recenzja
+issues:
+  - name: "All-New X-Men (vol. 1) #31"
+    comic_vine_issue_id: 463476
+  - name: "All-New X-Men (vol. 1) #32"
+    comic_vine_issue_id: 465836
+  - name: "All-New X-Men (vol. 1) #33"
+    comic_vine_issue_id: 468900
+  - name: "All-New X-Men (vol. 1) #34"
+    comic_vine_issue_id: 473638
+  - name: "All-New X-Men (vol. 1) #35"
+    comic_vine_issue_id: 476778
+  - name: "All-New X-Men (vol. 1) #36"
+    comic_vine_issue_id: 479253

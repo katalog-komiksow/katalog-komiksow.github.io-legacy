@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'The Superior Spider-Man. Tom 4: Nie ma ucieczki'
+image: marvel-now.022.webp
+image_source: https://egmont.pl
+isbn: 9788328110809
+release_date: '2016-06-29'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/303755/the-superior-spider-man-nie-ma-ucieczki
+shops:
+  egmont: https://egmont.pl/The-Superior-Spider-Man.-Nie-ma-ucieczki.-Tom-4.,608330,p.html
+  gildia: https://www.gildia.pl/komiksy/303450-the-superior-spider-man-4-nie-ma-ucieczki
+reviews:
+  naekranie: https://naekranie.pl/recenzje/superior-spider-man-4-nie-ma-ucieczki-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/29744-superior-spider-man-tom-4-nie-ma-ucieczki-recenzja
+issues:
+  - name: "The Superior Spider-Man #11"
+    comic_vine_issue_id: 408999
+  - name: "The Superior Spider-Man #12"
+    comic_vine_issue_id: 411832
+  - name: "The Superior Spider-Man #13"
+    comic_vine_issue_id: 416946
+  - name: "The Superior Spider-Man #14"
+    comic_vine_issue_id: 418823
+  - name: "The Superior Spider-Man #15"
+    comic_vine_issue_id: 420647
+  - name: "The Superior Spider-Man #16"
+    comic_vine_issue_id: 422501

@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: 'Strażnicy Galaktyki. Tom 3: Nieskończoność'
+image: marvel-now.033.webp
+image_source: https://egmont.pl
+isbn: 9788328116801
+release_date: '2016-11-23'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3889825/guardians-of-the-galaxy-straznicy-galaktyki-nieskonczonosc
+shops:
+  egmont: https://egmont.pl/Guardians-of-the-Galaxy.-Straznicy-Galaktyki.-Nieskonczonosc.-Tom-3.,608470,p.html
+  gildia: https://www.gildia.pl/komiksy/316800-guardians-of-the-galaxy-straznicy-galaktyki-3-nieskonczonosc
+reviews:
+  filmozercy: https://filmozercy.com/wpis/straznicy-galaktyki-tom-3-nieskonczonosc-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/guardians-of-the-galaxy-straznicy-galaktyki-03-nieskonczonosc-kosmiczne-epizody-recenzja
+  paradoks: https://paradoks.net.pl/read/31145-straznicy-galaktyki-tom-3-nieskonczonosc-recenzja
+issues:
+  - name: "Guardians of the Galaxy (vol. 3) #8"
+    comic_vine_issue_id: 431440
+  - name: "Guardians of the Galaxy (vol. 3) #9"
+    comic_vine_issue_id: 435580
+  - name: "Guardians of the Galaxy (vol. 3) #10"
+    comic_vine_issue_id: 440249
+  - name: "Guardians Team-Up #4"
+    comic_vine_issue_id: 484897
+  - name: "Rocket Raccoon #5"
+    comic_vine_issue_id: 469496

@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'Grzech Pierworodny: Hulk kontra Iron Man'
+image: marvel-now.069.webp
+image_source: https://egmont.pl
+isbn: 9788328127210
+release_date: '2017-11-22'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4814773/grzech-pierworodny-hulk-kontra-iron-man
+shops:
+  egmont: https://egmont.pl/Original-Sin-Grzech-pierworodny-Hulk-kontra-Iron-Man,4361231,p.html
+  gildia: https://www.gildia.pl/komiksy/348610-original-sin-grzech-pierworodny-hulk-kontra-iron-man
+reviews:
+  filmozercy: https://filmozercy.com/wpis/grzech-pierworodny-hulk-kontra-iron-man-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2017/12/01/hulk-kontra-iron-man-recenzja/
+  naekranie: https://naekranie.pl/recenzje/grzech-pierworodny-hulk-kontra-iron-man-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34078-original-sin-grzech-pierworodny-hulk-kontra-iron-man-recenzja
+issues:
+  - name: "Original Sin #3.1"
+    comic_vine_issue_id: 457647
+  - name: "Original Sin #3.2"
+    comic_vine_issue_id: 459676
+  - name: "Original Sin #3.3"
+    comic_vine_issue_id: 460970
+  - name: "Original Sin #3.4"
+    comic_vine_issue_id: 461733

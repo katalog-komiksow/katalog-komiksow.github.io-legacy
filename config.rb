@@ -65,7 +65,7 @@ end
 
 book_page_size = 12
 set :book_page_size, book_page_size
-released_books = released_books.select { |book| Date.parse(book["release_date"]) <= Date.today }
+released_books = released_books.select { |book| book["release_date"] != "" && Date.parse(book["release_date"]) <= Date.today }
 book_pages = (1..(released_books.size)).to_a.each_slice(book_page_size).to_a.size
 book_pages = book_pages > 0 ? book_pages : 1
 set :last_book_page, book_pages
@@ -110,6 +110,7 @@ helpers do
         next unless data.isbn[slug]["#{(index + 1).to_s.rjust(3, "0")}.#{book.isbn}"]
 
         isbn_data = data.isbn[slug] && data.isbn[slug]["#{(index + 1).to_s.rjust(3, "0")}.#{book.isbn}"]
+        next if isbn_data.release_date == ""
         next if Date.parse(isbn_data.release_date) > Date.today
 
         book.release_date = isbn_data.release_date
@@ -122,7 +123,7 @@ helpers do
       end
     end
 
-    books.sort_by { |book| Date.parse(book.release_date, book.number) }.reverse
+    books.sort_by { |book| [Date.parse(book.release_date), book.collection, book.name, book.number] }.reverse
   end
 
   def comic_vine_issue(id)

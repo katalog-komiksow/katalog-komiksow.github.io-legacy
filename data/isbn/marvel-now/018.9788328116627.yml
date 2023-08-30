@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Thunderbolts. Tom 1: Bez pardonu'
+image: marvel-now.018.webp
+image_source: https://egmont.pl
+isbn: 9788328116627
+release_date: '2016-04-13'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/297341/thunderbolts-bez-pardonu
+shops:
+  egmont: https://egmont.pl/Thunderbolts.-Bez-pardonu.-Tom-1.,608519,p.html
+  gildia: https://www.gildia.pl/komiksy/297393-thunderbolts-1-bez-pardonu
+reviews:
+  naekranie: https://naekranie.pl/recenzje/thunderbolts-tom-1-bez-pardonu-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/29229-thunderbolts-tom-1-bez-pardonu-recenzja
+  polter: https://polter.pl/komiks/Thunderbolts-1-Bez-Pardonu-c29081
+issues:
+  - name: "Thunderbolts (vol. 2) #1"
+    comic_vine_issue_id: 371104
+  - name: "Thunderbolts (vol. 2) #2"
+    comic_vine_issue_id: 373308
+  - name: "Thunderbolts (vol. 2) #3"
+    comic_vine_issue_id: 378887
+  - name: "Thunderbolts (vol. 2) #4"
+    comic_vine_issue_id: 384965
+  - name: "Thunderbolts (vol. 2) #5"
+    comic_vine_issue_id: 388562
+  - name: "Thunderbolts (vol. 2) #6"
+    comic_vine_issue_id: 392359

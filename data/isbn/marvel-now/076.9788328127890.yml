@@ -1,0 +1,30 @@
+---
+collection: marvel-now
+name: 'Spider-Man 2099. Tom 1: Nie z tego czasu'
+image: marvel-now.076.webp
+image_source: https://egmont.pl
+isbn: 9788328127890
+release_date: '2018-01-24'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4821107/spider-man-2099-nie-z-tego-czasu
+shops:
+  egmont: https://egmont.pl/Spider-Man-2099.-Nie-z-tego-czasu.-Tom-1,5695497,p.html
+  gildia: https://www.gildia.pl/komiksy/353912-spider-man-2099-1-nie-z-tego-czasu
+reviews:
+  filmozercy: https://filmozercy.com/wpis/spider-man-2099-nie-z-tego-czasu-recenzja-komiksu
+  geeklife: https://www.geeklife.pl/2018/02/05/spider-man-2099-tom-1-nie-z-tego-czasu-recenzja/
+  naekranie: https://naekranie.pl/recenzje/spider-man-2099-01-nie-z-tego-czasu-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34537-spider-man-2099-tom-1-nie-z-tego-czasu-recenzja
+issues:
+  - name: "Spider-Man 2099 (vol. 2) #1"
+    comic_vine_issue_id: 459176
+  - name: "Spider-Man 2099 (vol. 2) #2"
+    comic_vine_issue_id: 462257
+  - name: "Spider-Man 2099 (vol. 2) #3"
+    comic_vine_issue_id: 463996
+  - name: "Spider-Man 2099 (vol. 2) #4"
+    comic_vine_issue_id: 467042
+  - name: "Spider-Man 2099 (vol. 2) #5"
+    comic_vine_issue_id: 468087

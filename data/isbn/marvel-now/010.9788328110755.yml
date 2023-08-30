@@ -1,0 +1,28 @@
+---
+collection: marvel-now
+name: 'The Superior Spider-Man. Tom 2: Mój własny najgorszy wróg'
+image: marvel-now.010.webp
+image_source: https://egmont.pl
+isbn: 9788328110755
+release_date: '2015-12-09'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/273773/the-superior-spider-man-moj-wlasny-najgorszy-wrog
+shops:
+  egmont: https://egmont.pl/The-Superior-Spider-Man.-Moj-wlasny-najgorszy-wrog.-Tom-2.,606270,p.html
+  gildia: https://www.gildia.pl/komiksy/288304-the-superior-spider-man-2-moj-wlasny-najgorszy-wrog
+reviews:
+  naekranie: https://naekranie.pl/recenzje/the-superior-spider-man-tom-2-moj-wlasny-najgorszy-wrog-recenzja
+  paradoks: https://paradoks.net.pl/read/28221-superior-spider-man-tom-2-moj-wlasny-najgorszy-wrog-recenzja
+issues:
+  - name: "The Superior Spider-Man #1"
+    comic_vine_issue_id: 378868
+  - name: "The Superior Spider-Man #2"
+    comic_vine_issue_id: 382809
+  - name: "The Superior Spider-Man #3"
+    comic_vine_issue_id: 384964
+  - name: "The Superior Spider-Man #4"
+    comic_vine_issue_id: 387262
+  - name: "The Superior Spider-Man #5"
+    comic_vine_issue_id: 390453

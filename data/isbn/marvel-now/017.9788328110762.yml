@@ -1,0 +1,31 @@
+---
+collection: marvel-now
+name: 'Avengers. Tom 3: Preludium Nieskończoności'
+image: marvel-now.017.webp
+image_source: https://egmont.pl
+isbn: 9788328110762
+release_date: '2016-04-13'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/297343/avengers-preludium-nieskonczonosci
+shops:
+  egmont: https://egmont.pl/Avengers.-Preludium-nieskonczonosci.-Tom-3.,608292,p.html
+  gildia: https://www.gildia.pl/komiksy/297394-avengers-3-preludium-nieskonczonosci
+reviews:
+  geeklife: https://www.geeklife.pl/2018/03/22/avengers-tom-3-preludium-nieskonczonosci/
+  naekranie: https://naekranie.pl/recenzje/avengers-03-preludium-nieskonczonosci-recenzja
+  paradoks: https://paradoks.net.pl/read/29107-avengers-tom-3-preludium-nieskonczonosci-recenzja
+issues:
+  - name: "Avengers (vol. 5) #12"
+    comic_vine_issue_id: 404693
+  - name: "Avengers (vol. 5) #13"
+    comic_vine_issue_id: 408990
+  - name: "Avengers (vol. 5) #14"
+    comic_vine_issue_id: 411825
+  - name: "Avengers (vol. 5) #15"
+    comic_vine_issue_id: 415233
+  - name: "Avengers (vol. 5) #16"
+    comic_vine_issue_id: 417831
+  - name: "Avengers (vol. 5) #17"
+    comic_vine_issue_id: 420634

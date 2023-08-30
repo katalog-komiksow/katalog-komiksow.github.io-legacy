@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: 'Grzech Pierworodny: Thor i Loki - Dziesiąty Świat'
+image: marvel-now.066.webp
+image_source: https://egmont.pl
+isbn: 9788328127142
+release_date: '2017-10-25'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810898/grzech-pierworodny-thor-i-loki---dziesiaty-swiat
+shops:
+  egmont: https://egmont.pl/Original-Sin-Grzech-pierworodny-Thor-i-Loki-Dziesiaty-swiat,4017159,p.html
+  gildia: https://www.gildia.pl/komiksy/344721-original-sin-grzech-pierworodny-thor-i-loki-dziesiaty-swiat
+reviews:
+  geeklife: https://www.geeklife.pl/2017/11/17/grzech-pierworodny-thor-i-loki-dziesiaty-swiat-recenzja/
+  naekranie: https://naekranie.pl/recenzje/grzech-pierworodny-02-thor-loki-dziesiaty-swiat-tajemnice-odyna-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33870-original-sin-grzech-pierworodny-thor-i-loki-dziesiaty-swiat-recenzja
+issues:
+  - name: "Original Sin #5.1"
+    comic_vine_issue_id: 459174
+  - name: "Original Sin #5.2"
+    comic_vine_issue_id: 460315
+  - name: "Original Sin #5.3"
+    comic_vine_issue_id: 461734
+  - name: "Original Sin #5.4"
+    comic_vine_issue_id: 463484
+  - name: "Original Sin #5.5"
+    comic_vine_issue_id: 465848

@@ -1,0 +1,29 @@
+---
+collection: marvel-now
+name: 'Ant-Man: Druga szansa'
+image: marvel-now.094.webp
+image_source: https://egmont.pl
+isbn: 9788328126619
+release_date: '2018-07-25'
+series:
+- Marvel NOW!
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4851870/ant-man-druga-szansa
+shops:
+  egmont: https://egmont.pl/Ant-Man-Druga-szansa,9831432,p.html
+  gildia: https://www.gildia.pl/komiksy/367222-ant-man-1-druga-szansa
+reviews:
+  geeklife: https://www.geeklife.pl/2018/08/06/ant-man-druga-szansa/
+  naekranie: https://naekranie.pl/recenzje/ant-man-druga-szansa-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/35660-ant-man-druga-szansa-recenzja
+issues:
+  - name: "Ant-Man (vol. 1) #1"
+    comic_vine_issue_id: 475387
+  - name: "Ant-Man (vol. 1) #2"
+    comic_vine_issue_id: 478605
+  - name: "Ant-Man (vol. 1) #3"
+    comic_vine_issue_id: 482152
+  - name: "Ant-Man (vol. 1) #4"
+    comic_vine_issue_id: 485504
+  - name: "Ant-Man (vol. 1) #5"
+    comic_vine_issue_id: 487830
