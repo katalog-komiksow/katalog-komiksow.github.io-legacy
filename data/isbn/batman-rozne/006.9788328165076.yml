@@ -1,0 +1,60 @@
+---
+collection: batman-rozne
+name: Batman Epidemia
+image: batman.6.webp
+image_source: "https://egmont.pl"
+isbn: 9788328165076
+release_date: "2023-07-26"
+series:
+  - "Batman"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5078050/batman-epidemia
+shops:
+  egmont: https://egmont.pl/Batman-Epidemia,73694225,p.html
+  gildia: https://www.gildia.pl/komiksy/564500-batman-epidemia
+reviews: []
+issues:
+  - name: "Azrael #13"
+    comic_vine_issue_id: 42057
+  - name: "Azrael #14"
+    comic_vine_issue_id: 118240
+  - name: "Batman: Shadow Of The Bat #48"
+    comic_vine_issue_id: 42232
+  - name: "Detective Comics #695"
+    comic_vine_issue_id: 108469
+  - name: "Robin #27"
+    comic_vine_issue_id: 42245
+  - name: "Azrael #15"
+    comic_vine_issue_id: 108467
+  - name: "Catwoman #31"
+    comic_vine_issue_id: 42249
+  - name: "Batman #529"
+    comic_vine_issue_id: 42265
+  - name: "Batman: Shadow Of The Bat #49"
+    comic_vine_issue_id: 42336
+  - name: "Detective Comics #696"
+    comic_vine_issue_id: 108470
+  - name: "Batman Chronicles #4"
+    comic_vine_issue_id: 75530
+  - name: "Catwoman #32"
+    comic_vine_issue_id: 42334
+  - name: "Azrael #16"
+    comic_vine_issue_id: 108468
+  - name: "Robin #28"
+    comic_vine_issue_id: 42276
+  - name: "Robin #29"
+    comic_vine_issue_id: 42380
+  - name: "Robin #30"
+    comic_vine_issue_id: 42474
+  - name: "Batman #530"
+    comic_vine_issue_id: 42368
+  - name: "Batman #531"
+    comic_vine_issue_id: 42458
+  - name: "Batman #532"
+    comic_vine_issue_id: 42568
+  - name: "Batman: Shadow Of The Bat #50"
+    comic_vine_issue_id: 42425
+  - name: "Batman: Shadow Of The Bat #51"
+    comic_vine_issue_id: 42527
+  - name: "Batman: Shadow Of The Bat #52"
+    comic_vine_issue_id: 42631
