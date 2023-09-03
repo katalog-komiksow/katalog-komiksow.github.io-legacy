@@ -1,0 +1,24 @@
+---
+collection: dc-delux
+name: 'Batman: Rok pierwszy'
+image: dc-delux.010.webp
+image_source: https://egmont.pl
+isbn: 9788328116047
+release_date: '2015-12-04'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/273777/batman-rok-pierwszy
+shops:
+  egmont: https://egmont.pl/Batman.-Rok-pierwszy.,608479,p.html
+reviews:
+  paradoks: https://paradoks.net.pl/read/28338-batman-rok-pierwszy-recenzja
+issues:
+  - name: "Batman #404"
+    comic_vine_issue_id: 27733
+  - name: "Batman #405"
+    comic_vine_issue_id: 27842
+  - name: "Batman #406"
+    comic_vine_issue_id: 27951
+  - name: "Batman #407"
+    comic_vine_issue_id: 28066

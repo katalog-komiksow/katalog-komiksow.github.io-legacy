@@ -1,0 +1,41 @@
+---
+collection: dc-delux
+name: Kryzys na Nieskończonych Ziemiach
+image: dc-delux.012.webp
+image_source: https://egmont.pl
+isbn: 9788328116603
+release_date: '2016-04-13'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/297340/kryzys-na-nieskonczonych-ziemiach
+shops:
+  egmont: https://egmont.pl/Kryzys-na-Nieskonczonych-Ziemiach,608635,p.html
+  gildia: https://www.gildia.pl/komiksy/297389-kryzys-na-nieskonczonych-ziemiach
+reviews:
+  paradoks: https://paradoks.net.pl/read/28944-kryzys-na-nieskonczonych-ziemiach-recenzja
+issues:
+  - name: "Infinite Earths #1"
+    comic_vine_issue_id: 25335
+  - name: "Infinite Earths #2"
+    comic_vine_issue_id: 25441
+  - name: "Infinite Earths #3"
+    comic_vine_issue_id: 25532
+  - name: "Infinite Earths #4"
+    comic_vine_issue_id: 25638
+  - name: "Infinite Earths #5"
+    comic_vine_issue_id: 25734
+  - name: "Infinite Earths #6"
+    comic_vine_issue_id: 25834
+  - name: "Infinite Earths #7"
+    comic_vine_issue_id: 25926
+  - name: "Infinite Earths #8"
+    comic_vine_issue_id: 26031
+  - name: "Infinite Earths #9"
+    comic_vine_issue_id: 26138
+  - name: "Infinite Earths #10"
+    comic_vine_issue_id: 26347
+  - name: "Infinite Earths #11"
+    comic_vine_issue_id: 26452
+  - name: "Infinite Earths #12"
+    comic_vine_issue_id: 26556

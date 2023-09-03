@@ -1,0 +1,67 @@
+---
+collection: dc-delux
+name: Najjaśniejszy dzień
+image: dc-delux.048.webp
+image_source: https://egmont.pl
+isbn: 9788328156319
+release_date: '2022-08-24'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5033034/najjasniejszy-dzien
+shops:
+  egmont: https://egmont.pl/Najjasniejszy-dzien,66890765,p.html
+  gildia: https://www.gildia.pl/komiksy/528235-najjasniejszy-dzien
+reviews:
+  naekranie: https://naekranie.pl/recenzje/najjasniejszy-dzien-recenzja-egmont-komiks
+issues:
+  - name: "Brightest Day #0"
+    comic_vine_issue_id: 206568
+  - name: "Brightest Day #1"
+    comic_vine_issue_id: 211998
+  - name: "Brightest Day #2"
+    comic_vine_issue_id: 214598
+  - name: "Brightest Day #3"
+    comic_vine_issue_id: 217098
+  - name: "Brightest Day #4"
+    comic_vine_issue_id: 219509
+  - name: "Brightest Day #5"
+    comic_vine_issue_id: 223276
+  - name: "Brightest Day #6"
+    comic_vine_issue_id: 225800
+  - name: "Brightest Day #7"
+    comic_vine_issue_id: 227714
+  - name: "Brightest Day #8"
+    comic_vine_issue_id: 230135
+  - name: "Brightest Day #9"
+    comic_vine_issue_id: 232414
+  - name: "Brightest Day #10"
+    comic_vine_issue_id: 234621
+  - name: "Brightest Day #11"
+    comic_vine_issue_id: 237039
+  - name: "Brightest Day #12"
+    comic_vine_issue_id: 239026
+  - name: "Brightest Day #13"
+    comic_vine_issue_id: 240636
+  - name: "Brightest Day #14"
+    comic_vine_issue_id: 244620
+  - name: "Brightest Day #15"
+    comic_vine_issue_id: 247373
+  - name: "Brightest Day #16"
+    comic_vine_issue_id: 249178
+  - name: "Brightest Day #17"
+    comic_vine_issue_id: 254580
+  - name: "Brightest Day #18"
+    comic_vine_issue_id: 258314
+  - name: "Brightest Day #19"
+    comic_vine_issue_id: 259836
+  - name: "Brightest Day #20"
+    comic_vine_issue_id: 262594
+  - name: "Brightest Day #21"
+    comic_vine_issue_id: 264585
+  - name: "Brightest Day #22"
+    comic_vine_issue_id: 265989
+  - name: "Brightest Day #23"
+    comic_vine_issue_id: 267554
+  - name: "Brightest Day #24"
+    comic_vine_issue_id: 268974

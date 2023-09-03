@@ -1,0 +1,57 @@
+---
+collection: dc-delux
+name: Aquaman - Antologia
+image: dc-delux.027.webp
+image_source: https://egmont.pl
+isbn: 9788328135192
+release_date: '2018-12-05'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4877942/aquaman-antologia-opowiesc-o-krolu-atlantydy
+shops:
+  egmont: https://egmont.pl/Aquaman,13002764,p.html
+  gildia: https://www.gildia.pl/komiksy/378482-aquaman-antologia
+reviews:
+  paradoks: https://paradoks.net.pl/read/36838-aquaman-antologia-recenzja
+issues:
+  - name: "More Fun Comics #73"
+    comic_vine_issue_id: 116392
+  - name: "Adventure Comics (vol. 1) #174"
+    comic_vine_issue_id: 128050
+  - name: "Adventure Comics (vol. 1) #260"
+    comic_vine_issue_id: 141733
+  - name: "Adventure Comics (vol. 1) #269"
+    comic_vine_issue_id: 124378
+  - name: "Adventure Comics (vol. 1) #444"
+    comic_vine_issue_id: 124861
+  - name: "Adventure Comics (vol. 1) #452"
+    comic_vine_issue_id: 124377
+  - name: "Adventure Comics (vol. 1) #475"
+    comic_vine_issue_id: 119355
+  - name: "Aquaman (vol. 1) #18"
+    comic_vine_issue_id: 7393
+  - name: "Aquaman (vol. 1) #57"
+    comic_vine_issue_id: 137567
+  - name: "Aquaman (vol. 1) #63"
+    comic_vine_issue_id: 137565
+  - name: "Justice League of America Annual #2"
+    comic_vine_issue_id: 140262
+  - name: "Aquaman (vol. 5) #2"
+    comic_vine_issue_id: 39681
+  - name: "Aquaman (vol. 5) #34"
+    comic_vine_issue_id: 43908
+  - name: "Aquaman (vol. 6) #17"
+    comic_vine_issue_id: 98288
+  - name: "Aquaman (vol. 6) #18"
+    comic_vine_issue_id: 98289
+  - name: "Aquaman (vol. 7) #0"
+    comic_vine_issue_id: 358821
+  - name: "Aquaman (vol. 7) #1"
+    comic_vine_issue_id: 293586
+  - name: "Aquaman (vol. 7) #18"
+    comic_vine_issue_id: 395272
+  - name: "Aquaman (vol. 7) #24"
+    comic_vine_issue_id: 430712
+  - name: "Aquaman: Rebirth #1"
+    comic_vine_issue_id: 534254

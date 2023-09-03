@@ -1,0 +1,37 @@
+---
+collection: dc-delux
+name: 'Green Lantern: Najczarniejsza Noc'
+image: dc-delux.033.webp
+image_source: https://egmont.pl
+isbn: 9788328142992
+release_date: '2019-11-20'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4907040/green-lantern-najczarniejsza-noc
+shops:
+  egmont: https://egmont.pl/Green-Lantern-Najczarniejsza-noc,21252116,p.html
+  gildia: https://www.gildia.pl/komiksy/410048-green-lantern-najczarniejsza-noc
+reviews:
+  filmozercy: https://filmozercy.com/wpis/green-lantern-najczarniejsza-noc-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/green-lantern-najczarniejsza-noc-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/39266-green-lantern-najczarniejsza-noc-recenzja
+issues:
+  - name: "Blackest Night #0"
+    comic_vine_issue_id: 155833
+  - name: "Blackest Night #1"
+    comic_vine_issue_id: 164032
+  - name: "Blackest Night #2"
+    comic_vine_issue_id: 166823
+  - name: "Blackest Night #3"
+    comic_vine_issue_id: 171404
+  - name: "Blackest Night #4"
+    comic_vine_issue_id: 179009
+  - name: "Blackest Night #5"
+    comic_vine_issue_id: 184885
+  - name: "Blackest Night #6"
+    comic_vine_issue_id: 189810
+  - name: "Blackest Night #7"
+    comic_vine_issue_id: 198282
+  - name: "Blackest Night #8"
+    comic_vine_issue_id: 202607

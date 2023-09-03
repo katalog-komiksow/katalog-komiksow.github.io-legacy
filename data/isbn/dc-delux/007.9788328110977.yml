@@ -1,0 +1,21 @@
+---
+collection: dc-delux
+name: 'Batman: Narodziny demona'
+image: dc-delux.007.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328110977
+release_date: '2015-10-05'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/271096/batman-narodziny-demona
+shops:
+  egmont: https://egmont.pl/Batman.-Narodziny-Demona.,608370,p.html
+reviews: []
+issues:
+  - name: "Batman: Son of the Demon #1"
+    comic_vine_issue_id: 154206
+  - name: "Batman: Bride of the Demon #1"
+    comic_vine_issue_id: 230554
+  - name: "Batman: Birth of the Demon #1"
+    comic_vine_issue_id: 230752

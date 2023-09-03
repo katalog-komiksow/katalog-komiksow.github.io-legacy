@@ -1,0 +1,25 @@
+---
+collection: dc-delux
+name: JSA. Złota Era
+image: dc-delux.052.webp
+image_source: https://egmont.pl
+isbn: 9788328161870
+release_date: '2023-08-23'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5083083/jsa-zlota-era
+shops:
+  egmont: https://egmont.pl/JSA.-Zlota-Era,74350615,p.html
+  gildia: https://www.gildia.pl/komiksy/565807-jsa-zlota-era
+reviews:
+  geeklife: https://www.geeklife.pl/2023/08/31/jsa-zlota-era-james-robinson-recenzja-komiksu-dc-deluxe/
+issues:
+  - name: "The Golden Age #1"
+    comic_vine_issue_id: 38321
+  - name: "The Golden Age #2"
+    comic_vine_issue_id: 38334
+  - name: "The Golden Age #3"
+    comic_vine_issue_id: 38337
+  - name: "The Golden Age #4"
+    comic_vine_issue_id: 40140

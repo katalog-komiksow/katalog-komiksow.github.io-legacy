@@ -1,0 +1,38 @@
+---
+collection: dc-delux
+name: 'JLA: Wieża Babel'
+image: dc-delux.051.webp
+image_source: https://egmont.pl
+isbn: 9788328161863
+release_date: '2023-06-28'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5077291/jla-wieza-babel
+shops:
+  egmont: https://egmont.pl/JLA-Wieza-Babel,73039913,p.html
+reviews:
+  filmozercy: https://filmozercy.com/wpis/jla-wieza-babel-recenzja-komiksu-przezorny-zawsze-ubezpieczony
+issues:
+  - name: "JLA #18"
+    comic_vine_issue_id: 44976
+  - name: "JLA #19"
+    comic_vine_issue_id: 45062
+  - name: "JLA #20"
+    comic_vine_issue_id: 45142
+  - name: "JLA #21"
+    comic_vine_issue_id: 45230
+  - name: "JLA #32"
+    comic_vine_issue_id: 45979
+  - name: "JLA #33"
+    comic_vine_issue_id: 46021
+  - name: "JLA #43"
+    comic_vine_issue_id: 46384
+  - name: "JLA #44"
+    comic_vine_issue_id: 46399
+  - name: "JLA #45"
+    comic_vine_issue_id: 46417
+  - name: "JLA #46"
+    comic_vine_issue_id: 83095
+  - name: "JLA: Secret Files and Origins #3"
+    comic_vine_issue_id: 78350

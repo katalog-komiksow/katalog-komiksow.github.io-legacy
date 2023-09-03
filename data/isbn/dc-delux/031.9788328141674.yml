@@ -1,0 +1,47 @@
+---
+collection: dc-delux
+name: Planetary. Tom 2
+image: dc-delux.031.webp
+image_source: https://egmont.pl
+isbn: 9788328141674
+release_date: '2019-10-02'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4901674/planetary-tom-2
+shops:
+  egmont: https://egmont.pl/Planetary.-Tom-2,19343374,p.html
+  gildia: https://www.gildia.pl/komiksy/403729-planetary-2-wydanie-zbiorcze
+reviews:
+  naekranie: https://naekranie.pl/recenzje/planetary-tom-2-recenzja-komiksu
+issues:
+  - name: "Planetary #15"
+    comic_vine_issue_id: 54542
+  - name: "Planetary #16"
+    comic_vine_issue_id: 54543
+  - name: "Planetary #17"
+    comic_vine_issue_id: 54544
+  - name: "Planetary #18"
+    comic_vine_issue_id: 54545
+  - name: "Planetary #19"
+    comic_vine_issue_id: 98114
+  - name: "Planetary #20"
+    comic_vine_issue_id: 98115
+  - name: "Planetary #21"
+    comic_vine_issue_id: 98116
+  - name: "Planetary #22"
+    comic_vine_issue_id: 104421
+  - name: "Planetary #23"
+    comic_vine_issue_id: 105544
+  - name: "Planetary #24"
+    comic_vine_issue_id: 105545
+  - name: "Planetary #25"
+    comic_vine_issue_id: 105546
+  - name: "Planetary #26"
+    comic_vine_issue_id: 105547
+  - name: "Planetary #27"
+    comic_vine_issue_id: 175227
+  - name: "Planetary/JLA: Terra Occulta #1"
+    comic_vine_issue_id: 105567
+  - name: "Planetary/Batman: Night On Earth #1"
+    comic_vine_issue_id: 105551

@@ -1,0 +1,31 @@
+---
+collection: dc-delux
+name: 'Batman: Rok Setny'
+image: dc-delux.015.webp
+image_source: https://egmont.pl
+isbn: 9788328118188
+release_date: '2016-10-05'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3729119/batman---rok-setny-i-inne-opowiesci
+shops:
+  egmont: https://egmont.pl/Batman.-Rok-setny.,607143,p.html
+  gildia: https://www.gildia.pl/komiksy/312887-batman-rok-setny
+reviews:
+  paradoks: https://paradoks.net.pl/read/30840-batman-rok-setny-i-inne-opowiesci-recenzja
+issues:
+  - name: "Batman: Year 100 #1"
+    comic_vine_issue_id: 112507
+  - name: "Batman: Year 100 #2"
+    comic_vine_issue_id: 114543
+  - name: "Batman: Year 100 #3"
+    comic_vine_issue_id: 125435
+  - name: "Batman: Year 100 #4"
+    comic_vine_issue_id: 114544
+  - name: "Batman Chronicles (vol. 1) #11"
+    comic_vine_issue_id: 173357
+  - name: "Solo #3"
+    comic_vine_issue_id: 99861
+  - name: "Batman: Gotham Knights #3"
+    comic_vine_issue_id: 55297

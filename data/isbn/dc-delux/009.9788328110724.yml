@@ -1,0 +1,31 @@
+---
+collection: dc-delux
+name: Nowa granica
+image: dc-delux.009.webp
+image_source: https://egmont.pl
+isbn: 9788328110724
+release_date: '2015-12-04'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/271921/nowa-granica
+shops:
+  egmont: https://egmont.pl/Nowa-granica,606811,p.html
+  gildia: https://www.gildia.pl/komiksy/273819-nowa-granica
+reviews:
+  paradoks: https://paradoks.net.pl/read/28381-nowa-granica-recenzja
+issues:
+  - name: "DC: The New Frontier #1"
+    comic_vine_issue_id: 93962
+  - name: "DC: The New Frontier #2"
+    comic_vine_issue_id: 93963
+  - name: "DC: The New Frontier #3"
+    comic_vine_issue_id: 93964
+  - name: "DC: The New Frontier #4"
+    comic_vine_issue_id: 93965
+  - name: "DC: The New Frontier #5"
+    comic_vine_issue_id: 93966
+  - name: "DC: The New Frontier #6"
+    comic_vine_issue_id: 93967
+  - name: "Justice League: The New Frontier Special #1"
+    comic_vine_issue_id: 124673

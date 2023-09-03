@@ -1,0 +1,42 @@
+---
+collection: dc-delux
+name: 'Batman: Świt mrocznego Księżyca'
+image: dc-delux.021.webp
+image_source: https://egmont.pl
+isbn: 9788328126992
+release_date: '2018-02-21'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4820139/batman-swit-mrocznego-ksiezyca
+shops:
+  egmont: https://egmont.pl/Batman.-Swit-mrocznego-Ksiezyca,6072322,p.html
+  gildia: https://www.gildia.pl/komiksy/356076-batman-swit-mrocznego-ksiezyca
+reviews:
+  naekranie: https://naekranie.pl/recenzje/batman-swit-mrocznego-ksiezyca-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34663-batman-swit-mrocznego-ksiezyca-recenzja
+issues:
+  - name: "Batman and the Monster Men #1"
+    comic_vine_issue_id: 136618
+  - name: "Batman and the Monster Men #2"
+    comic_vine_issue_id: 136619
+  - name: "Batman and the Monster Men #3"
+    comic_vine_issue_id: 136620
+  - name: "Batman and the Monster Men #4"
+    comic_vine_issue_id: 136621
+  - name: "Batman and the Monster Men #5"
+    comic_vine_issue_id: 136622
+  - name: "Batman and the Monster Men #6"
+    comic_vine_issue_id: 136623
+  - name: "Batman and the Mad Monk #1"
+    comic_vine_issue_id: 136608
+  - name: "Batman and the Mad Monk #2"
+    comic_vine_issue_id: 136609
+  - name: "Batman and the Mad Monk #3"
+    comic_vine_issue_id: 136610
+  - name: "Batman and the Mad Monk #4"
+    comic_vine_issue_id: 136611
+  - name: "Batman and the Mad Monk #5"
+    comic_vine_issue_id: 136612
+  - name: "Batman and the Mad Monk #6"
+    comic_vine_issue_id: 136613

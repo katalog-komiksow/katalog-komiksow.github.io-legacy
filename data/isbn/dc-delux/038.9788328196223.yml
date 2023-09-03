@@ -1,0 +1,44 @@
+---
+collection: dc-delux
+name: Omega Men - To już koniec
+image: dc-delux.038.webp
+image_source: https://egmont.pl
+isbn: 9788328196223
+release_date: '2020-10-14'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4927421/omega-men
+shops:
+  egmont: https://egmont.pl/Omega-Men-To-juz-koniec,34405391,p.html
+  gildia: https://www.gildia.pl/komiksy/437916-omega-men-to-juz-koniec
+reviews:
+  filmozercy: https://filmozercy.com/wpis/omega-men-to-juz-koniec-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/omega-men-to-juz-koniec-recenzja-komiksu
+issues:
+  - name: "DC Sneak Peek: The Omega Men #1"
+    comic_vine_issue_id: 487794
+  - name: "The Omega Men (vol. 3) #1"
+    comic_vine_issue_id: 490842
+  - name: "The Omega Men (vol. 3) #2"
+    comic_vine_issue_id: 493760
+  - name: "The Omega Men (vol. 3) #3"
+    comic_vine_issue_id: 496868
+  - name: "The Omega Men (vol. 3) #4"
+    comic_vine_issue_id: 499024
+  - name: "The Omega Men (vol. 3) #5"
+    comic_vine_issue_id: 502097
+  - name: "The Omega Men (vol. 3) #6"
+    comic_vine_issue_id: 506635
+  - name: "The Omega Men (vol. 3) #7"
+    comic_vine_issue_id: 509689
+  - name: "The Omega Men (vol. 3) #8"
+    comic_vine_issue_id: 512401
+  - name: "The Omega Men (vol. 3) #9"
+    comic_vine_issue_id: 517817
+  - name: "The Omega Men (vol. 3) #10"
+    comic_vine_issue_id: 522412
+  - name: "The Omega Men (vol. 3) #11"
+    comic_vine_issue_id: 527119
+  - name: "The Omega Men (vol. 3) #12"
+    comic_vine_issue_id: 531857

@@ -1,0 +1,51 @@
+---
+collection: dc-delux
+name: Uniwersum DC według Mike'a Mignoli
+image: dc-delux.037.webp
+image_source: https://egmont.pl
+isbn: 9788328196230
+release_date: '2020-10-07'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4927412/uniwersum-dc-wedlug-mike-a-mignoli
+shops:
+  egmont: https://egmont.pl/Uniwersum-DC-wedlug-Mike-a-Mignoli,32646169,p.html
+  gildia: https://www.gildia.pl/komiksy/435035-uniwersum-dc-wedlug-mike-a-mignoli
+reviews:
+  filmozercy: https://filmozercy.com/wpis/uniwersum-dc-wedlug-mike-a-mignoli-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/uniwersum-dc-wedlug-mikea-mignoli-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/40968-uniwersum-dc-wedlug-mikea-mignoli-recenzja
+issues:
+  - name: "Phantom Stranger #1"
+    comic_vine_issue_id: 28642
+  - name: "Phantom Stranger #2"
+    comic_vine_issue_id: 28756
+  - name: "Phantom Stranger #3"
+    comic_vine_issue_id: 28877
+  - name: "Phantom Stranger #4"
+    comic_vine_issue_id: 29096
+  - name: "The World of Krypton (vol. 2) #1"
+    comic_vine_issue_id: 28896
+  - name: "The World of Krypton (vol. 2) #2"
+    comic_vine_issue_id: 29113
+  - name: "The World of Krypton (vol. 2) #3"
+    comic_vine_issue_id: 29234
+  - name: "The World of Krypton (vol. 2) #4"
+    comic_vine_issue_id: 29341
+  - name: "Action Comics (vol. 1) #600"
+    comic_vine_issue_id: 110964
+  - name: "Superman (vol. 2) #18"
+    comic_vine_issue_id: 29678
+  - name: "Superman (vol. 2) #23"
+    comic_vine_issue_id: 30278
+  - name: "Action Comics Annual #2"
+    comic_vine_issue_id: 30590
+  - name: "Swamp Thing Annual (vol. 2) #5"
+    comic_vine_issue_id: 31305
+  - name: "Batman: Legends of the Dark Knight #54"
+    comic_vine_issue_id: 38131
+  - name: "Batman: Black & White #2"
+    comic_vine_issue_id: 230320
+  - name: "Batman Villains: Secret Files and Origins 2005 #1"
+    comic_vine_issue_id: 119188

@@ -1,0 +1,62 @@
+---
+collection: dc-delux
+name: Potwór z bagien
+image: dc-delux.040.webp
+image_source: https://egmont.pl
+isbn: 9788328196254
+release_date: '2020-11-25'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4927269/potwor-z-bagien
+shops:
+  egmont: https://egmont.pl/Potwor-z-bagien,36385808,p.html
+  gildia: https://www.gildia.pl/komiksy/440224-potwor-z-bagien-scott-snyder
+reviews:
+  naekranie: https://naekranie.pl/recenzje/potwor-z-bagien-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/41133-potwor-z-bagien-scotta-snydera-recenzja
+issues:
+  - name: "Swamp Thing (vol. 5) #0"
+    comic_vine_issue_id: 355791
+  - name: "Swamp Thing (vol. 5) #1"
+    comic_vine_issue_id: 291165
+  - name: "Swamp Thing (vol. 5) #2"
+    comic_vine_issue_id: 294200
+  - name: "Swamp Thing (vol. 5) #3"
+    comic_vine_issue_id: 300973
+  - name: "Swamp Thing (vol. 5) #4"
+    comic_vine_issue_id: 305595
+  - name: "Swamp Thing (vol. 5) #5"
+    comic_vine_issue_id: 309356
+  - name: "Swamp Thing (vol. 5) #6"
+    comic_vine_issue_id: 313780
+  - name: "Swamp Thing (vol. 5) #7"
+    comic_vine_issue_id: 319038
+  - name: "Swamp Thing (vol. 5) #8"
+    comic_vine_issue_id: 326968
+  - name: "Swamp Thing (vol. 5) #9"
+    comic_vine_issue_id: 334198
+  - name: "Swamp Thing (vol. 5) #10"
+    comic_vine_issue_id: 338473
+  - name: "Swamp Thing (vol. 5) #11"
+    comic_vine_issue_id: 344557
+  - name: "Swamp Thing (vol. 5) #12"
+    comic_vine_issue_id: 348038
+  - name: "Swamp Thing (vol. 5) #13"
+    comic_vine_issue_id: 359831
+  - name: "Swamp Thing (vol. 5) #14"
+    comic_vine_issue_id: 365735
+  - name: "Swamp Thing (vol. 5) #15"
+    comic_vine_issue_id: 371150
+  - name: "Swamp Thing (vol. 5) #16"
+    comic_vine_issue_id: 379184
+  - name: "Swamp Thing (vol. 5) #17"
+    comic_vine_issue_id: 384919
+  - name: "Swamp Thing (vol. 5) #18"
+    comic_vine_issue_id: 390402
+  - name: "Animal Man (vol. 2) #12"
+    comic_vine_issue_id: 348036
+  - name: "Animal Man (vol. 2) #17"
+    comic_vine_issue_id: 384917
+  - name: "Swamp Thing Annual (vol. 5) #1"
+    comic_vine_issue_id: 364091

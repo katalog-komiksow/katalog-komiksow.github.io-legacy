@@ -1,0 +1,31 @@
+---
+collection: dc-delux
+name: Superman. Amerykański obcy
+image: dc-delux.041.webp
+image_source: https://egmont.pl
+isbn: 9788328158634
+release_date: '2020-12-02'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4943396/superman-amerykanski-obcy
+shops:
+  egmont: https://egmont.pl/Superman.-Amerykanski-Obcy,37718037,p.html
+  gildia: https://www.gildia.pl/komiksy/442774-superman-amerykanski-obcy
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superman-amerykanski-obcy-recenzja-komiksu-opinie-wrazenia
+issues:
+  - name: "Superman: American Alien #1"
+    comic_vine_issue_id: 505504
+  - name: "Superman: American Alien #2"
+    comic_vine_issue_id: 508416
+  - name: "Superman: American Alien #3"
+    comic_vine_issue_id: 510926
+  - name: "Superman: American Alien #4"
+    comic_vine_issue_id: 516067
+  - name: "Superman: American Alien #5"
+    comic_vine_issue_id: 520186
+  - name: "Superman: American Alien #6"
+    comic_vine_issue_id: 526030
+  - name: "Superman: American Alien #7"
+    comic_vine_issue_id: 530711

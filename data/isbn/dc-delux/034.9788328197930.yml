@@ -1,0 +1,30 @@
+---
+collection: dc-delux
+name: 'Batman: Szalona miłość'
+image: dc-delux.034.webp
+image_source: https://egmont.pl
+isbn: 9788328197930
+release_date: '2019-12-04'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4908105/batman-szalona-milosc-i-inne-opowiesci
+shops:
+  egmont: https://egmont.pl/Batman.-Szalona-milosc,21443600,p.html
+  gildia: https://www.gildia.pl/komiksy/413066-batman-szalona-milosc-i-inne-opowiesci
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-szalona-milosc-i-inne-opowiesci-prezentacja-komiksu
+  paradoks: https://paradoks.net.pl/read/39333-batman-szalona-milosc-i-inne-opowiesci-recenzja
+issues:
+  - name: "The Batman Adventures: Mad Love #1"
+    comic_vine_issue_id: 123083
+  - name: "The Batman Adventures Annual #1"
+    comic_vine_issue_id: 38348
+  - name: "The Batman Adventures Annual #2"
+    comic_vine_issue_id: 95837
+  - name: "The Batman Adventures Holiday Special #1"
+    comic_vine_issue_id: 110734
+  - name: "Adventures in the DC Universe #3"
+    comic_vine_issue_id: 43727
+  - name: "Batman: Black And White (vol. 1) #1"
+    comic_vine_issue_id: 42460

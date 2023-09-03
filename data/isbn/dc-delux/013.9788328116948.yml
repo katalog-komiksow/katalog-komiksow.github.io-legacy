@@ -1,0 +1,26 @@
+---
+collection: dc-delux
+name: Flashpoint. Punkt krytyczny
+image: dc-delux.013.webp
+image_source: https://egmont.pl
+isbn: 9788328116948
+release_date: '2016-06-15'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/303762/flashpoint---punkt-krytyczny
+shops:
+  egmont: https://egmont.pl/Flashpoint-punkt-krytyczny.,606511,p.html
+  gildia: https://www.gildia.pl/komiksy/303446-flashpoint-punkt-krytyczny
+reviews: []
+issues:
+  - name: "Flashpoint (vol. 2) #1"
+    comic_vine_issue_id: 269827
+  - name: "Flashpoint (vol. 2) #2"
+    comic_vine_issue_id: 272411
+  - name: "Flashpoint (vol. 2) #3"
+    comic_vine_issue_id: 277377
+  - name: "Flashpoint (vol. 2) #4"
+    comic_vine_issue_id: 282568
+  - name: "Flashpoint (vol. 2) #5"
+    comic_vine_issue_id: 290102

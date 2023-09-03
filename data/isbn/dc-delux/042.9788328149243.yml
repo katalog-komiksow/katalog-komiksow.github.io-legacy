@@ -1,0 +1,25 @@
+---
+collection: dc-delux
+name: Kingdom Come
+image: dc-delux.042.webp
+image_source: https://egmont.pl
+isbn: 9788328149243
+release_date: '2021-03-21'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4950490/kingdom-come-przyjdz-krolestwo
+shops:
+  egmont: https://egmont.pl/Kingdom-Come,45885459,p.html
+  gildia: https://www.gildia.pl/komiksy/449508-kingdom-come
+reviews:
+  paradoks: https://paradoks.net.pl/read/41578-kingdom-come-przyjdz-krolestwo-recenzja
+issues:
+  - name: "Kingdom Come #1"
+    comic_vine_issue_id: 42353
+  - name: "Kingdom Come #2"
+    comic_vine_issue_id: 42446
+  - name: "Kingdom Come #3"
+    comic_vine_issue_id: 42547
+  - name: "Kingdom Come #4"
+    comic_vine_issue_id: 42649

@@ -1,0 +1,43 @@
+---
+collection: dc-delux
+name: 'Catwoman. Tom 3: Pod presją'
+image: dc-delux.022.webp
+image_source: https://egmont.pl
+isbn: 9788328119253
+release_date: '2018-04-18'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4823049/catwoman-pod-presja
+shops:
+  egmont: https://egmont.pl/Catwoman.-Pod-presja.-Tom-3,7366680,p.html
+  gildia: https://www.gildia.pl/komiksy/359290-catwoman-3-pod-presja
+reviews:
+  filmozercy: https://filmozercy.com/wpis/catwoman-tom-3-pod-presja-recenzja-komiksu
+issues:
+  - name: "Catwoman (vol. 3) #25"
+    comic_vine_issue_id: 109423
+  - name: "Catwoman (vol. 3) #26"
+    comic_vine_issue_id: 109424
+  - name: "Catwoman (vol. 3) #27"
+    comic_vine_issue_id: 109425
+  - name: "Catwoman (vol. 3) #28"
+    comic_vine_issue_id: 109426
+  - name: "Catwoman (vol. 3) #29"
+    comic_vine_issue_id: 109427
+  - name: "Catwoman (vol. 3) #30"
+    comic_vine_issue_id: 109428
+  - name: "Catwoman (vol. 3) #31"
+    comic_vine_issue_id: 96316
+  - name: "Catwoman (vol. 3) #32"
+    comic_vine_issue_id: 96317
+  - name: "Catwoman (vol. 3) #33"
+    comic_vine_issue_id: 98297
+  - name: "Catwoman (vol. 3) #34"
+    comic_vine_issue_id: 98298
+  - name: "Catwoman (vol. 3) #35"
+    comic_vine_issue_id: 98299
+  - name: "Catwoman (vol. 3) #36"
+    comic_vine_issue_id: 98300
+  - name: "Catwoman (vol. 3) #37"
+    comic_vine_issue_id: 98301

@@ -1,0 +1,35 @@
+---
+collection: dc-delux
+name: 'Lobo: Portret bękarta'
+image: dc-delux.005.webp
+image_source: https://egmont.pl
+isbn: 9788328110472
+release_date: '2015-07-27'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/257226/lobo-portret-bekarta
+shops:
+  egmont: https://egmont.pl/Lobo.-Portret-bekarta,3658753,p.html
+  gildia: https://www.gildia.pl/komiksy/571429-lobo-portret-bekarta
+reviews:
+  paradoks: https://paradoks.net.pl/read/27319-lobo-portret-bekarta-recenzja
+issues:
+  - name: "Lobo (vol. 1) #1"
+    comic_vine_issue_id: 115327
+  - name: "Lobo (vol. 1) #2"
+    comic_vine_issue_id: 115368
+  - name: "Lobo (vol. 1) #3"
+    comic_vine_issue_id: 115369
+  - name: "Lobo (vol. 1) #4"
+    comic_vine_issue_id: 115370
+  - name: "Lobo's Back #1"
+    comic_vine_issue_id: 107638
+  - name: "Lobo's Back #2"
+    comic_vine_issue_id: 107704
+  - name: "Lobo's Back #3"
+    comic_vine_issue_id: 107705
+  - name: "Lobo's Back #4"
+    comic_vine_issue_id: 107706
+  - name: "Lobo Paramilitary Christmas Special #1"
+    comic_vine_issue_id: 113855

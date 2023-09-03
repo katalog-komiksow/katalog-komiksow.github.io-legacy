@@ -1,0 +1,21 @@
+---
+collection: dc-delux
+name: Batman. Ziemia Jeden. Tom 3
+image: dc-delux.049.webp
+image_source: https://egmont.pl
+isbn: 9788328156333
+release_date: '2023-02-22'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5058576/batman---ziemia-jeden-tom-3
+shops:
+  egmont: https://egmont.pl/Batman.-Ziemia-Jeden.-Tom-3,70990858,p.html
+  gildia: https://www.gildia.pl/komiksy/548733-batman-ziemia-jeden-tom-3
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-ziemia-jeden-tom-3-recenzja-komiksu-klatwa-nietoperza
+  naekranie: https://naekranie.pl/recenzje/batman-ziemia-jeden-tom-3-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/44808-batman-ziemia-jeden-tom-3-recenzja
+issues:
+  - name: "Batman: Earth One #3"
+    comic_vine_issue_id: 858428

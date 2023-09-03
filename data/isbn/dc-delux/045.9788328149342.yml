@@ -1,0 +1,25 @@
+---
+collection: dc-delux
+name: Kosmiczna Odyseja
+image: dc-delux.045.webp
+image_source: https://egmont.pl
+isbn: 9788328149342
+release_date: '2021-08-11'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4979753/kosmiczna-odyseja
+shops:
+  egmont: https://egmont.pl/Kosmiczna-Odyseja,56424458,p.html
+  gildia: https://www.gildia.pl/komiksy/489560-kosmiczna-odyseja
+reviews:
+  paradoks: https://paradoks.net.pl/read/42291-kosmiczna-odyseja-recenzja
+issues:
+  - name: "Cosmic Odyssey #1"
+    comic_vine_issue_id: 30255
+  - name: "Cosmic Odyssey #2"
+    comic_vine_issue_id: 30382
+  - name: "Cosmic Odyssey #3"
+    comic_vine_issue_id: 30729
+  - name: "Cosmic Odyssey #4"
+    comic_vine_issue_id: 30850

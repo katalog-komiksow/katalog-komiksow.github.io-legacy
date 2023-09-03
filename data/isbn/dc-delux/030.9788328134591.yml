@@ -1,0 +1,21 @@
+---
+collection: dc-delux
+name: 'Batman: Mroczny książę z bajki'
+image: dc-delux.030.webp
+image_source: https://egmont.pl
+isbn: 9788328134591
+release_date: '2019-06-05'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4883750/batman---mroczny-ksiaze-z-bajki
+shops:
+  egmont: https://egmont.pl/Batman-Mroczny-ksiaze-z-bajki,17096724,p.html
+  gildia: https://www.gildia.pl/komiksy/395228-batman-mroczny-ksiaze-z-bajki
+reviews:
+  paradoks: https://paradoks.net.pl/read/38206-batman-mroczny-ksiaze-z-bajki-recenzja
+issues:
+  - name: "Batman: The Dark Prince Charming #1"
+    comic_vine_issue_id: 634503
+  - name: "Batman: The Dark Prince Charming #2"
+    comic_vine_issue_id: 674094

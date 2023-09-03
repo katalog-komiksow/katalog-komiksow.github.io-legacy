@@ -1,0 +1,18 @@
+---
+collection: dc-delux
+name: 'Batman: Azyl Arkham'
+image: dc-delux.006.webp
+image_source: https://egmont.pl
+isbn: 9788328110533
+release_date: '2015-08-26'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/267142/batman-azyl-arkham-powazny-dom-na-powaznej-ziemi
+shops:
+  egmont: https://egmont.pl/Batman.-Azyl-Arkham,608640,p.html
+reviews:
+  paradoks: https://paradoks.net.pl/read/27474-batman-azyl-arkham-recenzja
+issues:
+  - name: "Batman: Arkham Asylum #1"
+    comic_vine_issue_id: 122008

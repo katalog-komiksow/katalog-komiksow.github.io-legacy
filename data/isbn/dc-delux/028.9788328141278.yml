@@ -1,0 +1,44 @@
+---
+collection: dc-delux
+name: Ostatni kryzys
+image: dc-delux.028.webp
+image_source: https://egmont.pl
+isbn: 9788328141278
+release_date: '2019-02-27'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4871944/ostatni-kryzys
+shops:
+  egmont: https://egmont.pl/Ostatni-kryzys,14595076,p.html
+  gildia: https://www.gildia.pl/komiksy/386037-ostatni-kryzys
+reviews:
+  filmozercy: https://filmozercy.com/wpis/ostatni-kryzys-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/37332-ostatni-kryzys-recenzja
+issues:
+  - name: "DC Universe #0"
+    comic_vine_issue_id: 21352
+  - name: "Final Crisis #1"
+    comic_vine_issue_id: 130994
+  - name: "Final Crisis #2"
+    comic_vine_issue_id: 131869
+  - name: "Final Crisis #3"
+    comic_vine_issue_id: 135068
+  - name: "Final Crisis #4"
+    comic_vine_issue_id: 140850
+  - name: "Final Crisis #5"
+    comic_vine_issue_id: 145368
+  - name: "Final Crisis #6"
+    comic_vine_issue_id: 150022
+  - name: "Final Crisis #7"
+    comic_vine_issue_id: 150660
+  - name: "Final Crisis: Superman Beyond #1"
+    comic_vine_issue_id: 988156
+  - name: "Final Crisis: Superman Beyond #2"
+    comic_vine_issue_id: 988157
+  - name: "Final Crisis: Submit #1"
+    comic_vine_issue_id: 140852
+  - name: "Batman (vol. 1) #682"
+    comic_vine_issue_id: 144296
+  - name: "Batman (vol. 1) #683"
+    comic_vine_issue_id: 148610

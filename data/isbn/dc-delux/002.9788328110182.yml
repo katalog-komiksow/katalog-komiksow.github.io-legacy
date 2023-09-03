@@ -1,0 +1,20 @@
+---
+collection: dc-delux
+name: 'Batman: Ziemia Jeden. Tom 1'
+image: dc-delux.002.webp
+image_source: https://egmont.pl
+isbn: 9788328110182
+release_date: '2015-04-27'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/255904/batman---ziemia-jeden-tom-1
+shops:
+  egmont: https://egmont.pl/Batman.-Ziemia-Jeden.-Tom-1,608687,p.html
+  gildia: https://www.gildia.pl/komiksy/265838-batman-ziemia-jeden-tom-1
+reviews:
+  geeklife: https://www.geeklife.pl/2023/02/08/batman-ziemia-jeden-tom-1-geoff-johns-recenzja-komiksu-dc-deluxe/
+  paradoks: https://paradoks.net.pl/read/26515-batman-ziemia-jeden-recenzja
+issues:
+  - name: "Batman: Earth One #1"
+    comic_vine_issue_id: 344032

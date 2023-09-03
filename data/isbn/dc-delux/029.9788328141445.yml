@@ -1,0 +1,25 @@
+---
+collection: dc-delux
+name: Shazam! - Potworne Stowarzyszenie Zła
+image: dc-delux.029.webp
+image_source: https://egmont.pl
+isbn: 9788328141445
+release_date: '2019-03-27'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4877399/shazam-potworne-stowarzyszenie-zla
+shops:
+  egmont: https://egmont.pl/Shazam-Potworne-Stowarzyszenie-Zla,15539217,p.html
+  gildia: https://www.gildia.pl/komiksy/388446-shazam-potworne-stowarzyszenie-zla
+reviews:
+  paradoks: https://paradoks.net.pl/read/37535-shazam-potworne-stowarzyszenie-zla-recenzja
+issues:
+  - name: "Shazam! The Monster Society of Evil #1"
+    comic_vine_issue_id: 106386
+  - name: "Shazam! The Monster Society of Evil #2"
+    comic_vine_issue_id: 106820
+  - name: "Shazam! The Monster Society of Evil #3"
+    comic_vine_issue_id: 108962
+  - name: "Shazam! The Monster Society of Evil #4"
+    comic_vine_issue_id: 111919

@@ -1,0 +1,61 @@
+---
+collection: dc-delux
+name: 'Batman: Rozbite Miasto i inne opowieści'
+image: dc-delux.025.webp
+image_source: https://egmont.pl
+isbn: 9788328134508
+release_date: '2018-10-31'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4864522/batman-rozbite-miasto-i-inne-opowiesci
+shops:
+  egmont: https://egmont.pl/Batman.-Rozbite-miasto-i-inne-opowiesci,11681816,p.html
+  gildia: https://www.gildia.pl/komiksy/375448-batman-rozbite-miasto-i-inne-opowiesci
+reviews:
+  paradoks: https://paradoks.net.pl/read/36472-batman-rozbite-miasto-i-inne-opowiesci-recenzja
+issues:
+  - name: "Batman (vol. 1) #620"
+    comic_vine_issue_id: 91389
+  - name: "Batman (vol. 1) #621"
+    comic_vine_issue_id: 91390
+  - name: "Batman (vol. 1) #622"
+    comic_vine_issue_id: 91391
+  - name: "Batman (vol. 1) #623"
+    comic_vine_issue_id: 91392
+  - name: "Batman (vol. 1) #624"
+    comic_vine_issue_id: 91393
+  - name: "Batman (vol. 1) #625"
+    comic_vine_issue_id: 91394
+  - name: "Flashpoint: Batman - Knight of Vengeance #1"
+    comic_vine_issue_id: 272346
+  - name: "Flashpoint: Batman - Knight of Vengeance #2"
+    comic_vine_issue_id: 277419
+  - name: "Flashpoint: Batman - Knight of Vengeance #3"
+    comic_vine_issue_id: 282900
+  - name: "Batman: Gotham Knights #8"
+    comic_vine_issue_id: 55302
+  - name: "Wednesday Comics #1"
+    comic_vine_issue_id: 163278
+  - name: "Wednesday Comics #2"
+    comic_vine_issue_id: 164355
+  - name: "Wednesday Comics #3"
+    comic_vine_issue_id: 165124
+  - name: "Wednesday Comics #4"
+    comic_vine_issue_id: 165580
+  - name: "Wednesday Comics #5"
+    comic_vine_issue_id: 166270
+  - name: "Wednesday Comics #6"
+    comic_vine_issue_id: 167250
+  - name: "Wednesday Comics #7"
+    comic_vine_issue_id: 167684
+  - name: "Wednesday Comics #8"
+    comic_vine_issue_id: 169036
+  - name: "Wednesday Comics #9"
+    comic_vine_issue_id: 169527
+  - name: "Wednesday Comics #10"
+    comic_vine_issue_id: 170616
+  - name: "Wednesday Comics #11"
+    comic_vine_issue_id: 171722
+  - name: "Wednesday Comics #12"
+    comic_vine_issue_id: 172506

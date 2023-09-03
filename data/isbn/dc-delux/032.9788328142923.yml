@@ -1,0 +1,57 @@
+---
+collection: dc-delux
+name: Green Arrow
+image: dc-delux.032.webp
+image_source: https://egmont.pl
+isbn: 9788328142923
+release_date: '2019-10-23'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4895641/green-arrow
+shops:
+  egmont: https://egmont.pl/Green-Arrow,20140048,p.html
+  gildia: https://www.gildia.pl/komiksy/407194-green-arrow
+reviews:
+  paradoks: https://paradoks.net.pl/read/39254-green-arrow-recenzja
+issues:
+  - name: "Green Arrow (vol. 5) #17"
+    comic_vine_issue_id: 384920
+  - name: "Green Arrow (vol. 5) #18"
+    comic_vine_issue_id: 390399
+  - name: "Green Arrow (vol. 5) #19"
+    comic_vine_issue_id: 395677
+  - name: "Green Arrow (vol. 5) #20"
+    comic_vine_issue_id: 400113
+  - name: "Green Arrow (vol. 5) #21"
+    comic_vine_issue_id: 408950
+  - name: "Green Arrow (vol. 5) #22"
+    comic_vine_issue_id: 415210
+  - name: "Green Arrow (vol. 5) #23"
+    comic_vine_issue_id: 420607
+  - name: "Green Arrow (vol. 5) #24"
+    comic_vine_issue_id: 427653
+  - name: "Green Arrow (vol. 5) #25"
+    comic_vine_issue_id: 432293
+  - name: "Green Arrow (vol. 5) #26"
+    comic_vine_issue_id: 435545
+  - name: "Green Arrow (vol. 5) #27"
+    comic_vine_issue_id: 441374
+  - name: "Green Arrow (vol. 5) #28"
+    comic_vine_issue_id: 444475
+  - name: "Green Arrow (vol. 5) #29"
+    comic_vine_issue_id: 446950
+  - name: "Green Arrow (vol. 5) #30"
+    comic_vine_issue_id: 449542
+  - name: "Green Arrow (vol. 5) #31"
+    comic_vine_issue_id: 452262
+  - name: "Green Arrow (vol. 5) #32"
+    comic_vine_issue_id: 455435
+  - name: "Green Arrow (vol. 5) #33"
+    comic_vine_issue_id: 458565
+  - name: "Green Arrow (vol. 5) #34"
+    comic_vine_issue_id: 461689
+  - name: "Green Arrow: Futures End #1"
+    comic_vine_issue_id: 463945
+  - name: "Secret Origins (vol. 3) #4"
+    comic_vine_issue_id: 457584

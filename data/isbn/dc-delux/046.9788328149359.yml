@@ -1,0 +1,29 @@
+---
+collection: dc-delux
+name: Batman. Ego i inne opowieści
+image: dc-delux.046.webp
+image_source: https://egmont.pl
+isbn: 9788328149359
+release_date: '2022-03-23'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5011722/batman-ego-i-inne-opowiesci
+shops:
+  egmont: https://egmont.pl/Batman.-Ego-i-inne-opowiesci,62981135,p.html
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-ego-i-inne-opowiesci-recenzja-komiksu-legendarny-tworca-i-zbior-jego-prac-o-mrocznym-rycerzu
+  naekranie: https://naekranie.pl/recenzje/batman-ego-i-inne-opowiesci-recenzja-komiksu
+issues:
+  - name: "Batman: Ego #1"
+    comic_vine_issue_id: 20592
+  - name: "Batman: Gotham Knights #23"
+    comic_vine_issue_id: 55317
+  - name: "Catwoman: Selina's Big Score"
+    comic_vine_issue_id: 228853
+  - name: "Batman: Gotham Knights #33"
+    comic_vine_issue_id: 119365
+  - name: "Solo #1"
+    comic_vine_issue_id: 98708
+  - name: "Solo #5"
+    comic_vine_issue_id: 120988

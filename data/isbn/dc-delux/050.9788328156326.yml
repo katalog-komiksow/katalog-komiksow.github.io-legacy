@@ -1,12 +1,12 @@
 ---
-collection: batman-rozne
+collection: dc-delux
 name: Batman. Zagłada Gotham
-image: batman.5.jpeg
-image_source: "https://egmont.pl"
+image: dc-delux.050.jpeg
+image_source: https://egmont.pl
 isbn: 9788328156326
 release_date: "2023-04-12"
 series:
-  - "Batman"
+- DC Delux
 links:
   lubimyczytac: https://lubimyczytac.pl/ksiazka/5058030/batman-zaglada-gotham
 shops:

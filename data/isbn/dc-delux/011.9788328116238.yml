@@ -1,0 +1,45 @@
+---
+collection: dc-delux
+name: 'Catwoman. Tom 1: Na tropie Catwoman'
+image: dc-delux.011.webp
+image_source: https://egmont.pl
+isbn: 9788328116238
+release_date: '2016-02-17'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/290265/catwoman-na-tropie-catwoman
+shops:
+  egmont: https://egmont.pl/Catwoman.-Na-tropie-Catwoman.-Tom-1.,607145,p.html
+  gildia: https://www.gildia.pl/komiksy/292450-catwoman-1-na-tropie-catwoman
+reviews:
+  paradoks: https://paradoks.net.pl/read/28750-catwoman-na-tropie-catwoman-recenzja
+issues:
+  - name: "Selina's Big Score #14"
+    comic_vine_issue_id: 228853
+  - name: "Detective Comics (vol. 1) #759"
+    comic_vine_issue_id: 113225
+  - name: "Detective Comics (vol. 1) #760"
+    comic_vine_issue_id: 113226
+  - name: "Detective Comics (vol. 1) #761"
+    comic_vine_issue_id: 113276
+  - name: "Detective Comics (vol. 1) #762"
+    comic_vine_issue_id: 113277
+  - name: "Catwoman (vol. 3) #1"
+    comic_vine_issue_id: 52122
+  - name: "Catwoman (vol. 3) #2"
+    comic_vine_issue_id: 52123
+  - name: "Catwoman (vol. 3) #3"
+    comic_vine_issue_id: 52124
+  - name: "Catwoman (vol. 3) #4"
+    comic_vine_issue_id: 52125
+  - name: "Catwoman (vol. 3) #5"
+    comic_vine_issue_id: 52126
+  - name: "Catwoman (vol. 3) #6"
+    comic_vine_issue_id: 52127
+  - name: "Catwoman (vol. 3) #7"
+    comic_vine_issue_id: 52128
+  - name: "Catwoman (vol. 3) #8"
+    comic_vine_issue_id: 89433
+  - name: "Catwoman (vol. 3) #9"
+    comic_vine_issue_id: 89434

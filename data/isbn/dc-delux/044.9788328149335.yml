@@ -1,0 +1,41 @@
+---
+collection: dc-delux
+name: Wonder Woman. Tom 3
+image: dc-delux.044.webp
+image_source: https://egmont.pl
+isbn: 9788328149335
+release_date: '02.06.2021-06-02'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4973205/wonder-woman-tom-3
+shops:
+  egmont: https://egmont.pl/Wonder-Woman.-Tom-3,53792773,p.html
+  gildia: https://www.gildia.pl/komiksy/483322-wonder-woman-tom-3
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wonder-woman-tom-3-recenzja-komiksu-opinia-wrazenia-w-poszukiwaniu-sprawiedliwosci
+issues:
+  - name: "Wonder Woman #218"
+    comic_vine_issue_id: 107682
+  - name: "Wonder Woman #219"
+    comic_vine_issue_id: 107683
+  - name: "Wonder Woman #220"
+    comic_vine_issue_id: 107684
+  - name: "Wonder Woman #221"
+    comic_vine_issue_id: 107685
+  - name: "Wonder Woman #222"
+    comic_vine_issue_id: 107686
+  - name: "Wonder Woman #223"
+    comic_vine_issue_id: 107687
+  - name: "Wonder Woman #224"
+    comic_vine_issue_id: 107688
+  - name: "Wonder Woman #225"
+    comic_vine_issue_id: 107689
+  - name: "Wonder Woman #226"
+    comic_vine_issue_id: 107690
+  - name: "Blackest Night: Wonder Woman #1"
+    comic_vine_issue_id: 185678
+  - name: "Blackest Night: Wonder Woman #2"
+    comic_vine_issue_id: 191204
+  - name: "Blackest Night: Wonder Woman #3"
+    comic_vine_issue_id: 195373

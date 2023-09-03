@@ -1,0 +1,37 @@
+---
+collection: dc-delux
+name: Multiwersum
+image: dc-delux.036.webp
+image_source: https://egmont.pl
+isbn: 9788328196216
+release_date: '2020-04-22'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4924560/multiwersum
+shops:
+  egmont: https://egmont.pl/Multiwersum,25426952,p.html
+  gildia: https://www.gildia.pl/komiksy/422868-multiwersum
+reviews:
+  filmozercy: https://filmozercy.com/wpis/grant-morrison-multiwersum-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/multiwersum-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/40010-multiwersum-recenzja
+issues:
+  - name: "The Multiversity #1"
+    comic_vine_issue_id: 462852
+  - name: "The Multiversity #2"
+    comic_vine_issue_id: 487175
+  - name: "The Multiversity: The Society of Super-Heroes. Conquerors of the Counter-World #1"
+    comic_vine_issue_id: 465795
+  - name: "The Multiversity: The Just #1"
+    comic_vine_issue_id: 468416
+  - name: "The Multiversity: Pax Americana #1"
+    comic_vine_issue_id: 470374
+  - name: "The Multiversity: Thunderworld Adventures #1"
+    comic_vine_issue_id: 473592
+  - name: "The Multiversity: Guidebook #1"
+    comic_vine_issue_id: 477801
+  - name: "The Multiversity: Mastermen #1"
+    comic_vine_issue_id: 479935
+  - name: "The Multiversity: Ultra Comics #1"
+    comic_vine_issue_id: 483311

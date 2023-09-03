@@ -1,0 +1,29 @@
+---
+collection: dc-delux
+name: Batman/Sędzia Dredd - Wszystkie spotkania
+image: dc-delux.020.webp
+image_source: https://egmont.pl
+isbn: 9788328127180
+release_date: '2017-12-07'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810569/batman-sedzia-dredd-wszystkie-spotkania
+shops:
+  egmont: https://egmont.pl/Batman-Sedzia-Dredd.-Wszystkie-spotkania,5061642,p.html
+  gildia: https://www.gildia.pl/komiksy/350180-batman-sedzia-dredd-wszystkie-spotkania
+reviews:
+  paradoks: https://paradoks.net.pl/read/34326-batmansedzia-dredd-wszystkie-spotkania-recenzja
+issues:
+  - name: "Batman/Judge Dredd: Die Laughing #1"
+    comic_vine_issue_id: 134161
+  - name: "Batman/Judge Dredd: Die Laughing #2"
+    comic_vine_issue_id: 134181
+  - name: "Batman/Judge Dredd: Judgement on Gotham #1"
+    comic_vine_issue_id: 117703
+  - name: "Batman/Judge Dredd: The Ultimate Riddle #1"
+    comic_vine_issue_id: 121161
+  - name: "Batman/Judge Dredd: Vendetta in Gotham #1"
+    comic_vine_issue_id: 117705
+  - name: "Lobo/Judge Dredd: Psycho Biker vs. Mutants From Hell #1"
+    comic_vine_issue_id: 232100

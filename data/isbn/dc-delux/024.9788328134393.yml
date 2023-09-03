@@ -1,0 +1,30 @@
+---
+collection: dc-delux
+name: Nieskończony kryzys
+image: dc-delux.024.webp
+image_source: https://egmont.pl
+isbn: 9788328134393
+release_date: '2018-08-22'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4854902/nieskonczony-kryzys
+shops:
+  egmont: https://egmont.pl/Nieskonczony-kryzys,10451982,p.html
+reviews:
+  paradoks: https://paradoks.net.pl/read/36053-nieskonczony-kryzys-recenzja
+issues:
+  - name: "Infinite Crisis #1"
+    comic_vine_issue_id: 105305
+  - name: "Infinite Crisis #2"
+    comic_vine_issue_id: 107877
+  - name: "Infinite Crisis #3"
+    comic_vine_issue_id: 107881
+  - name: "Infinite Crisis #4"
+    comic_vine_issue_id: 105306
+  - name: "Infinite Crisis #5"
+    comic_vine_issue_id: 122050
+  - name: "Infinite Crisis #6"
+    comic_vine_issue_id: 122054
+  - name: "Infinite Crisis #7"
+    comic_vine_issue_id: 121466

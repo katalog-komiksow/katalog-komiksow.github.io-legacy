@@ -1,0 +1,47 @@
+---
+collection: dc-delux
+name: Planetary. Tom 1
+image: dc-delux.026.webp
+image_source: https://egmont.pl
+isbn: 9788328134553
+release_date: '2018-11-28'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4869803/planetary-tom-1
+shops:
+  egmont: https://egmont.pl/Planetary.-Tom-1,12821527,p.html
+  gildia: https://www.gildia.pl/komiksy/378152-planetary-1-wydanie-zbiorcze
+reviews:
+  filmozercy: https://filmozercy.com/wpis/planetary-tom-1-recenzja-komiksu
+issues:
+  - name: "Planetary #1"
+    comic_vine_issue_id: 54528
+  - name: "Planetary #2"
+    comic_vine_issue_id: 105479
+  - name: "Planetary #3"
+    comic_vine_issue_id: 54530
+  - name: "Planetary #4"
+    comic_vine_issue_id: 54531
+  - name: "Planetary #5"
+    comic_vine_issue_id: 54532
+  - name: "Planetary #6"
+    comic_vine_issue_id: 54533
+  - name: "Planetary #7"
+    comic_vine_issue_id: 54534
+  - name: "Planetary #8"
+    comic_vine_issue_id: 54535
+  - name: "Planetary #9"
+    comic_vine_issue_id: 54536
+  - name: "Planetary #10"
+    comic_vine_issue_id: 54537
+  - name: "Planetary #11"
+    comic_vine_issue_id: 54538
+  - name: "Planetary #12"
+    comic_vine_issue_id: 54539
+  - name: "Planetary #13"
+    comic_vine_issue_id: 54540
+  - name: "Planetary #14"
+    comic_vine_issue_id: 54541
+  - name: "Planetary/The Authority: Ruling the World #1"
+    comic_vine_issue_id: 105550

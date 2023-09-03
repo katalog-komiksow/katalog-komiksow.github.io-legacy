@@ -1,0 +1,39 @@
+---
+collection: dc-delux
+name: 'Batman: Mroczne odbicie'
+image: dc-delux.004.webp
+image_source: https://egmont.pl
+isbn: 9788328110403
+release_date: '2015-06-13'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/260098/batman-mroczne-odbicie
+shops:
+  egmont: https://egmont.pl/Batman.-Mroczne-odbicie,606317,p.html
+  gildia: https://www.gildia.pl/komiksy/268720-batman-mroczne-odbicie
+reviews:
+  paradoks: https://paradoks.net.pl/read/27122-batman-mroczne-odbicie-recenzja
+issues:
+  - name: "Detective Comics (vol. 1) #871"
+    comic_vine_issue_id: 246411
+  - name: "Detective Comics (vol. 1) #872"
+    comic_vine_issue_id: 252621
+  - name: "Detective Comics (vol. 1) #873"
+    comic_vine_issue_id: 259072
+  - name: "Detective Comics (vol. 1) #874"
+    comic_vine_issue_id: 263707
+  - name: "Detective Comics (vol. 1) #875"
+    comic_vine_issue_id: 267103
+  - name: "Detective Comics (vol. 1) #876"
+    comic_vine_issue_id: 268975
+  - name: "Detective Comics (vol. 1) #877"
+    comic_vine_issue_id: 271354
+  - name: "Detective Comics (vol. 1) #878"
+    comic_vine_issue_id: 276560
+  - name: "Detective Comics (vol. 1) #879"
+    comic_vine_issue_id: 278454
+  - name: "Detective Comics (vol. 1) #880"
+    comic_vine_issue_id: 281529
+  - name: "Detective Comics (vol. 1) #881"
+    comic_vine_issue_id: 285157

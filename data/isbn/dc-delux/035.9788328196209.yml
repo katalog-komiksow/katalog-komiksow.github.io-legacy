@@ -1,0 +1,41 @@
+---
+collection: dc-delux
+name: Mister Miracle
+image: dc-delux.035.webp
+image_source: https://egmont.pl
+isbn: 9788328196209
+release_date: '2020-01-22'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4820895/mister-miracle
+shops:
+  egmont: https://egmont.pl/Mister-Miracle,22466575,p.html
+  gildia: https://www.gildia.pl/komiksy/418033-mister-miracle
+reviews:
+  naekranie: https://naekranie.pl/recenzje/mister-miracle-recenzja-komiksu
+issues:
+  - name: "Mister Miracle (vol. 4) #1"
+    comic_vine_issue_id: 613746
+  - name: "Mister Miracle (vol. 4) #2"
+    comic_vine_issue_id: 621594
+  - name: "Mister Miracle (vol. 4) #3"
+    comic_vine_issue_id: 628562
+  - name: "Mister Miracle (vol. 4) #4"
+    comic_vine_issue_id: 636350
+  - name: "Mister Miracle (vol. 4) #5"
+    comic_vine_issue_id: 646163
+  - name: "Mister Miracle (vol. 4) #6"
+    comic_vine_issue_id: 652605
+  - name: "Mister Miracle (vol. 4) #7"
+    comic_vine_issue_id: 662718
+  - name: "Mister Miracle (vol. 4) #8"
+    comic_vine_issue_id: 666788
+  - name: "Mister Miracle (vol. 4) #9"
+    comic_vine_issue_id: 672998
+  - name: "Mister Miracle (vol. 4) #10"
+    comic_vine_issue_id: 678515
+  - name: "Mister Miracle (vol. 4) #11"
+    comic_vine_issue_id: 685823
+  - name: "Mister Miracle (vol. 4) #12"
+    comic_vine_issue_id: 692042

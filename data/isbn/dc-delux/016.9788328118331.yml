@@ -1,0 +1,27 @@
+---
+collection: dc-delux
+name: 'Batman: Gotyk'
+image: dc-delux.016.webp
+image_source: https://egmont.pl
+isbn: 9788328118331
+release_date: '2016-12-07'
+series:
+- DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3953277/batman-gotyk
+shops:
+  egmont: https://egmont.pl/Batman.-Gotyk.,606694,p.html
+  gildia: https://www.gildia.pl/komiksy/318199-batman-gotyk
+reviews:
+  paradoks: https://paradoks.net.pl/read/31280-batman-gotyk-recenzja
+issues:
+  - name: "Batman: Legends of the Dark Knight #6"
+    comic_vine_issue_id: 32654
+  - name: "Batman: Legends of the Dark Knight #7"
+    comic_vine_issue_id: 32750
+  - name: "Batman: Legends of the Dark Knight #8"
+    comic_vine_issue_id: 32867
+  - name: "Batman: Legends of the Dark Knight #9"
+    comic_vine_issue_id: 32989
+  - name: "Batman: Legends of the Dark Knight #10"
+    comic_vine_issue_id: 33107
