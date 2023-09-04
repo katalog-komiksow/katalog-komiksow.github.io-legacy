@@ -1,0 +1,162 @@
+---
+- name: "Batman: Hush, część 1"
+  isbn: 0
+- name: "Batman: Hush, część 2"
+  isbn: 0
+- name: "Green Arrow: Kołczan, część 1"
+  isbn: 0
+- name: "Green Arrow: Kołczan, część 2"
+  isbn: 0
+- name: "Batman: Batman i Syn"
+  isbn: 0
+- name: "Wonder Woman: Krąg"
+  isbn: 0
+- name: "Batman: Długie Halloween, część 1"
+  isbn: 0
+- name: "Batman: Długie Halloween, część 2"
+  isbn: 0
+- name: "Batman: Śmierć w Rodzinie"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Ziemia Dwa"
+  isbn: 0
+- name: "Catwoman: Wielki Skok Seliny"
+  isbn: 0
+- name: "Superman: Ostatni syn Kryptona"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Wieża Babel"
+  isbn: 0
+- name: "Batman: Zagłada Gotham"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Rok Pierwszy, część 1"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Rok Pierwszy, część 2"
+  isbn: 0
+- name: "Harley Quinn: Preludia i fantazje"
+  isbn: 0
+- name: "Superman: Człowiek ze Stali"
+  isbn: 0
+- name: "Lex Luthor: Człowiek ze Stali"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Sprawiedliwość, część 1"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Sprawiedliwość, część 2"
+  isbn: 0
+- name: "Odważni i Niezłomni: Władcy Losu"
+  isbn: 0
+- name: "Green Lantern: Tajna Geneza"
+  isbn: 0
+- name: "Superman: Śmierć Supermana"
+  isbn: 0
+- name: "Flash: Urodzony Sprinter"
+  isbn: 0
+- name: "Robin: Rok Pierwszy"
+  isbn: 0
+- name: "Wonder Woman: Raj Utracon"
+  isbn: 0
+- name: "Catwoman: Na tropie Catwoman"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Gwoźdź"
+  isbn: 0
+- name: "Trójca	Batman/Superman/Wonder"
+  isbn: 0
+- name: "Superman: Brainiac"
+  isbn: 0
+- name: "Batgirl: Rok Pierwszy"
+  isbn: 0
+- name: "Superman: Tajna Geneza"
+  isbn: 0
+- name: "Batman: Narodziny Demona, część 1"
+  isbn: 0
+- name: "Batman: Narodziny Demona, część 2"
+  isbn: 0
+- name: "Young Justice: Ich własna liga"
+  isbn: 0
+- name: "Flash: Wojna Łotrów"
+  isbn: 0
+- name: "Batman: Zjawy z przeszłości"
+  isbn: 0
+- name: "Superman: Dziedzictwo, część 1"
+  isbn: 0
+- name: "Superman: Dziedzictwo, część 2"
+  isbn: 0
+- name: "Wonder Woman: Oczy Gorgony"
+  isbn: 0
+- name: "Superman/Batman: Wrogowie Publiczni"
+  isbn: 0
+- name: "Plastic Man: Ścigany"
+  isbn: 0
+- name: "Green Arrow: Rok Pierwszy"
+  isbn: 0
+- name: "Nowa Granica, część 1"
+  isbn: 0
+- name: "Nowa Granica, część 2"
+  isbn: 0
+- name: "Flash: Powrót Barry'ego Allena"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Kolejny Gwóźdź"
+  isbn: 0
+- name: "Wonder Woman: Bogowie i śmiertelnicy"
+  isbn: 0
+- name: "Superman/Batman: Supergirl"
+  isbn: 0
+- name: "Batman: Człowiek, który się śmieje/Azyl Arkham"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Nowy Porządek Świata"
+  isbn: 0
+- name: "Nowi Nastoletni Tytani: Kontrakt Judasza"
+  isbn: 0
+- name: "Superman: Dla Jutra, część 1"
+  isbn: 0
+- name: "Superman: Dla Jutra, część 2"
+  isbn: 0
+- name: "Amerykańska Liga Sprawiedliwości: Pragnienie Sprawiedliwości"
+  isbn: 0
+- name: "Batman: Pod kapturem"
+  isbn: 0
+- name: "Green Lantern/Green Arrow: Włóczęga Bohaterów"
+  isbn: 0
+- name: "Superman/Batman: Udręka"
+  isbn: 0
+- name: "Punkt Krytyczny"
+  isbn: 0
+- name: "Batman/Huntress: Zew Krwi"
+  isbn: 0
+- name: "JLA: Siła wyższa"
+  isbn: 0
+- name: "Superman: Co się stało z Człowiekiem Jutra?"
+  isbn: 0
+- name: "JLA/JSA: Cnota i występek"
+  isbn: 0
+- name: "Batman: Czarna rękawica"
+  isbn: 0
+- name: "Potwór z bagien, część 1"
+  isbn: 0
+- name: "Superman/Batman: Legendy najlepszych na świecie"
+  isbn: 0
+- name: "Green Lantern: Zemsta Green Lanternów"
+  isbn: 0
+- name: "Superman/Shazam: Pierwszy grom"
+  isbn: 0
+- name: "JSA: Złoty wiek"
+  isbn: 0
+- name: "JLI: Międzynarodowa Liga Sprawiedliwości, część 1"
+  isbn: 0
+- name: "Potwór z Bagien, część 2"
+  isbn: 0
+- name: "Green Lantern: Poszukiwany Hal Jordan"
+  isbn: 0
+- name: "Superman i Legion Superbohaterów"
+  isbn: 0
+- name: "Nastoletni Tytani: Przyszłość jest teraz"
+  isbn: 0
+- name: "Batman: Dynastia Mrocznego Rycerza"
+  isbn: 0
+- name: "Flash: Błyskawica w butelce"
+  isbn: 0
+- name: "JLI: Międzynarodowa Liga Sprawiedliwości, część 2"
+  isbn: 0
+- name: "Superman: Kryzys Szkarłatnego Kryptonitu"
+  isbn: 0
+- name: "Hawkman: Wieczny lot"
+  isbn: 0
+
