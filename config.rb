@@ -145,6 +145,15 @@ helpers do
       {}
     end
   end
+
+  def books_exist_count(collection_slug)
+    books = YAML.load_file("data/collection/#{collection_slug}.yml")
+    checks =
+      books.map.with_index do |book, index|
+        File.exist?("data/isbn/#{collection_slug}/#{(index+1).to_s.rjust(3, "0")}.#{book["isbn"]}.yml")
+      end
+    checks.count(true)
+  end
 end
 
 # Build-specific configuration

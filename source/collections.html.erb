@@ -1,6 +1,7 @@
 <table class="table">
   <thead>
     <tr>
+      <th scope="col">Stan</th>
       <th scope="col">Data startu</th>
       <th scope="col">Uniwersum</th>
       <th scope="col">Wydawca</th>
@@ -10,7 +11,18 @@
   <tbody>
     <% data.collections.each do |collection| %>
       <tr>
-        <th scope="row"><%= collection.date %></th>
+        <td scope="row">
+          <% if data.collection[collection.slug] %>
+            <% if data.collection[collection.slug].size == books_exist_count(collection.slug) %>
+              <i class="bi bi-check-circle-fill text-success"></i>
+            <% else %>
+              <i class="bi bi-hourglass-split text-warning"></i>
+            <% end %>
+          <% else %>
+            <i class="bi bi-question-circle-fill text-danger"></i>
+          <% end %>
+        </td>
+        <th><%= collection.date %></th>
         <th><%= collection.universum %></th>
         <th><%= collection.publisher %></th>
         <td>
