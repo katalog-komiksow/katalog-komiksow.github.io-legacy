@@ -1,0 +1,247 @@
+---
+- name: "Doktor Strange - Początki i zakończenia"
+  isbn: 0
+- name: "Elektra - Assassin"
+  isbn: 0
+- name: "Wojna Domowa"
+  isbn: 0
+- name: "Anihilacja - tom 1"
+  isbn: 0
+- name: "Deadpool Classic - tom 1"
+  isbn: 0
+- name: "X-Men: Mordercza Geneza"
+  isbn: 0
+- name: "Punisher MAX - tom 1"
+  isbn: 0
+- name: "Anihilacja - tom 2"
+  isbn: 0
+- name: "Czarna Wdowa: Powrót do domu"
+  isbn: 0
+- name: "Deadpool Classic - tom 2"
+  isbn: 0
+- name: "Punisher MAX - tom 2"
+  isbn: 0
+- name: "Hulk: Koniec i inne opowieści"
+  isbn: 0
+- name: "Daredevil Nieustraszony - tom 1"
+  isbn: 0
+- name: "Wolverine: Jason Aaron - tom 1"
+  isbn: 0
+- name: "Deadpool Classic - tom 3"
+  isbn: 0
+- name: "Daredevil Nieustraszony - tom 2"
+  isbn: 0
+- name: "Anihilacja - tom 3"
+  isbn: 0
+- name: "Punisher MAX - tom 3"
+  isbn: 0
+- name: "Spider-Man i Czarna Kotka: Zło, które ludzie czynią"
+  isbn: 0
+- name: "Wolverine: Jason Aaron - tom 2"
+  isbn: 0
+- name: "Anihilacja: Podbój - tom 1"
+  isbn: 0
+- name: "Deadpool Classic - tom 4"
+  isbn: 0
+- name: "Daredevil Nieustraszony - tom 3"
+  isbn: 0
+- name: "Punisher MAX - tom 4"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 1"
+  isbn: 0
+- name: "Daredevil Nieustraszony - tom 4"
+  isbn: 0
+- name: "Deadpool Classic - tom 5"
+  isbn: 0
+- name: "Wolverine: Jason Aaron - tom 3"
+  isbn: 0
+- name: "Daredevil Nieustraszony - tom 5"
+  isbn: 0
+- name: "Runaways - tom 1"
+  isbn: 0
+- name: "Anihilacja: Podbój - tom 2"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 2"
+  isbn: 0
+- name: "Wolverine: Jason Aaron - tom 4"
+  isbn: 0
+- name: "Daredevil Nieustraszony - tom 6"
+  isbn: 0
+- name: "Punisher MAX - tom 5"
+  isbn: 0
+- name: "Runaways - tom 2"
+  isbn: 0
+- name: "Rękawica Nieskończoności"
+  isbn: 0
+- name: "Daredevil: Frank Miller - tom 1"
+  isbn: 0
+- name: "Uncanny X-Men: Powstanie i upadek Imperium Shi'ar"
+  isbn: 0
+- name: "Deadpool Classic - tom 6"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 3"
+  isbn: 0
+- name: "Wojna nieskończoności"
+  isbn: 0
+- name: "Runaways - tom 3"
+  isbn: 0
+- name: "Spider-Man"
+  isbn: 0
+- name: "Wolverine: Staruszek Logan"
+  isbn: 0
+- name: "Punisher MAX - tom 6"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 4"
+  isbn: 0
+- name: "Kapitan Ameryka tom 1: Zimowy Żołnierz"
+  isbn: 0
+- name: "Deadpool Classic - tom 7"
+  isbn: 0
+- name: "Strażnicy Galaktyki - tom 1"
+  isbn: 0
+- name: "X-Men: Jim Lee"
+  isbn: 0
+- name: "Daredevil: Frank Miller - tom 2"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 5"
+  isbn: 0
+- name: "Punisher MAX - tom 7"
+  isbn: 0
+- name: "Kapitan Ameryka tom 2: Czerwony Łajdak"
+  isbn: 0
+- name: "Krucjata nieskończoności"
+  isbn: 0
+- name: "Wojna królów: Preludium"
+  isbn: 0
+- name: "Deadpool Classic - tom 8"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 6"
+  isbn: 0
+- name: "Daredevil: Frank Miller - tom 3"
+  isbn: 0
+- name: "Punisher MAX - tom 8"
+  isbn: 0
+- name: "Kapitan Ameryka tom 3: Śmierć Kapitana Ameryki"
+  isbn: 0
+- name: "Srebrny Surfer: Przypowieści"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 7"
+  isbn: 0
+- name: "Deadpool Classic - tom 9"
+  isbn: 0
+- name: "Wojna Królów"
+  isbn: 0
+- name: "Punisher MAX - tom 9"
+  isbn: 0
+- name: "Ultimate X-Men - tom 1"
+  isbn: 0
+- name: "Daredevil: Frank Miller - tom 4"
+  isbn: 0
+- name: "Strażnicy Galaktyki - tom 2"
+  isbn: 0
+- name: "Kapitan Ameryka tom 4: Człowiek, który kupił Amerykę"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 8"
+  isbn: 0
+- name: "Daredevil Nieustraszony - tom 0"
+  isbn: 0
+- name: "Deadpool Classic - tom 10"
+  isbn: 0
+- name: "Amazing Spider-Man Epic Collection - Ostatnie łowy Kravena"
+  isbn: 0
+- name: "Ultimate X-Men - tom 2"
+  isbn: 0
+- name: "Punisher MAX - tom 10"
+  isbn: 0
+- name: "Domena Królów"
+  isbn: 0
+- name: "Kapitan Ameryka tom 5: Człowiek bez twarzy"
+  isbn: 0
+- name: "Amazing Spider-Man Epic Collection - Venom"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 9"
+  isbn: 0
+- name: "Deadpool i Cable - tom 1"
+  isbn: 0
+- name: "Ultimate X-Men - tom 3"
+  isbn: 0
+- name: "Marvel Knights Punisher - tom 1"
+  isbn: 0
+- name: "Amazing Spider-Man Epic Collection - Inferno"
+  isbn: 0
+- name: "Fantastyczna Czwórka - tom 1"
+  isbn: 0
+- name: "Daredevil Nieustraszony - tom 7"
+  isbn: 0
+- name: "X-Men: Punkty zwrotne - Kompleks mesjasz"
+  isbn: 0
+- name: "Kapitan Ameryka tom 6: Odrodzenie"
+  isbn: 0
+- name: "Ultimate X-Men - tom 4"
+  isbn: 0
+- name: "Marvel Knights Punisher - tom 2"
+  isbn: 0
+- name: "Amazing Spider-Man Epic Collection - Kosmiczne przygody"
+  isbn: 0
+- name: "Lepsi wrogowie Spider-Mana"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 10"
+  isbn: 0
+- name: "X-Men: Punkty zwrotne - Wojna o mesjasza"
+  isbn: 0
+- name: "Oto nadchodzi... Daredevil - tom 1"
+  isbn: 0
+- name: "Thor"
+  isbn: 0
+- name: "Deadpool i Cable - tom 2"
+  isbn: 0
+- name: "Ultimate Spider-Man - tom 11"
+  isbn: 0
+- name: "100	Imperatyw Thanosa"
+  isbn: 0
+- name: "101	X-Men: Punkty Zwrotne - Powtórne przyjście"
+  isbn: 0
+- name: "102	Amazing Spider-Man Epic Collection - Powrót Złowieszczej Szóstki"
+  isbn: 0
+- name: "103	Marvel Knights Punisher - tom 3"
+  isbn: 0
+- name: "104	Oto nadchodzi... Daredevil - tom 2"
+  isbn: 0
+- name: "105	Silver Surfer - tom 1"
+  isbn: 0
+- name: "106	Ultimate X-Men - tom 5"
+  isbn: 0
+- name: "107	Punisher Epic Collection: Krąg krwi"
+  isbn: 0
+- name: "108	Ultimate Spider-Man - tom 12"
+  isbn: 0
+- name: "109	X-Men: Punkty Zwrotne - Masakra mutantów"
+  isbn: 0
+- name: "110	Fantastyczna Czwórka - tom 2"
+  isbn: 0
+- name: "111	Kapitan Ameryka tom 7: Proces Kapitana Ameryki"
+  isbn: 0
+- name: "112	Silver Surfer - tom 2"
+  isbn: 0
+- name: "113	Amazing Spider-Man Epic Collection - Każdy z każdym"
+  isbn: 0
+- name: "114	Kapitan Ameryka tom 8: Amerykańscy marzyciele"
+  isbn: 0
+- name: "115	Ultimate Spider-Man - tom 13"
+  isbn: 0
+- name: "116	Amazing Spider-Man - tom 1"
+  isbn: 0
+- name: "117	X-Men: Punkty zwrotne - Upadek mutantów"
+  isbn: 0
+- name: "118	Tajna inwazja"
+  isbn: 0
+- name: "119	Punisher Epic Collection: Kingpin rządzi"
+  isbn: 0
+- name: "120	Amazing Spider-Man Epic Collection. Plaga pająkobójców"
+  isbn: 0
+- name: "121	Oto nadchodzi... Daredevil - tom 3"
+  isbn: 0
+- name: "122	Moon Knight"
+  isbn: 0
+- name: "123	Ultimate X-Men - tom 6"
+  isbn: 0
