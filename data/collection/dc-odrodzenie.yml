@@ -1,0 +1,203 @@
+---
+- name: "Droga do Odrodzenia. Superman - Lois i Clark"
+  isbn: 0
+- name: "Droga do Odrodzenia: Superman - Ostatnie dni Supermana"
+  isbn: 0
+- name: "Uniwersum DC - Odrodzenie"
+  isbn: 0
+- name: "Batman. Tom 1: Jestem Gotham"
+  isbn: 0
+- name: "Green Arrow. Tom 1: Śmierć i życie Olivera Queena"
+  isbn: 0
+- name: "Suicide Squad - Oddział Samobójców. Tom 1: Czarne więzienie"
+  isbn: 0
+- name: "Superman. Tom 1: Syn Supermana"
+  isbn: 0
+- name: "Superman - Action Comics. Tom 1: Ścieżka zagłady"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 1: Powstanie Batmanów"
+  isbn: 0
+- name: "Flash. Tom 1: Piorun uderza dwa razy"
+  isbn: 0
+- name: "Liga Sprawiedliwości. Tom 1: Maszyny zagłady"
+  isbn: 0
+- name: "All-Star Batman. Tom 1: Mój największy wróg"
+  isbn: 0
+- name: "Aquaman. Tom 1: Utonięcie"
+  isbn: 0
+- name: "Hal Jordan i Korpus Zielonych Latarni. Tom 1: Prawo Sinestro"
+  isbn: 0
+- name: "Nastoletni Tytani. Tom 1: Damian wie lepiej"
+  isbn: 0
+- name: "Batman: Noc Ludzi Potworów"
+  isbn: 0
+- name: "Harley Quinn. Tom 1: Umrzeć ze śmiechem"
+  isbn: 0
+- name: "Nightwing. Tom 1: Lepszy niż Batman"
+  isbn: 0
+- name: "Wonder Woman. Tom 1: Kłamstwa"
+  isbn: 0
+- name: "Batman. Tom 2: Jestem Samobójcą"
+  isbn: 0
+- name: "Green Arrow. Tom 2: Wyspa Blizn"
+  isbn: 0
+- name: "Superman. Tom 2: Pierwsze Próby Superboya"
+  isbn: 0
+- name: "Aquaman. Tom 2: Nadpływa Czarna Manta"
+  isbn: 0
+- name: "Superman - Action Comics. Tom 2: Powrót do Daily Planet"
+  isbn: 0
+- name: "Liga Sprawiedliwości. Tom 2: Epidemia"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 2: Syndykat Ofiar"
+  isbn: 0
+- name: "Flash. Tom 2: Pęd ciemności"
+  isbn: 0
+- name: "Wonder Woman. Tom 2: Rok pierwszy"
+  isbn: 0
+- name: "Hal Jordan i Korpus Zielonych Latarni. Tom 2: Światło w Butelce"
+  isbn: 0
+- name: "Suicide Squad - Oddział Samobójców. Tom 2: Przy Zdrowych Zmysłach"
+  isbn: 0
+- name: "Nightwing. Tom 2: Blüdhaven"
+  isbn: 0
+- name: "Liga Sprawiedliwości. Tom 3: Ponadczasowi"
+  isbn: 0
+- name: "Liga Sprawiedliwości kontra Suicide Squad"
+  isbn: 0
+- name: "Superman - Action Comics. Tom 3: Ludzie ze stali"
+  isbn: 0
+- name: "Harley Quinn. Tom 2: Joker kocha Harley"
+  isbn: 0
+- name: "Batman. Tom 3: Jestem Bane"
+  isbn: 0
+- name: "Green Arrow. Tom 3: Szmaragdowy Banita"
+  isbn: 0
+- name: "Superman. Tom 3: Wielokrotność"
+  isbn: 0
+- name: "All-Star Batman. Tom 2: Końce Świata"
+  isbn: 0
+- name: "Flash. Tom 3: Łotrzy - Reaktywacja"
+  isbn: 0
+- name: "Superman Odrodzony"
+  isbn: 0
+- name: "Wonder Woman. Tom 3: Prawda"
+  isbn: 0
+- name: "Aquaman. Tom 3: Korona Atlantydy"
+  isbn: 0
+- name: "Hal Jordan i Korpus Zielonych Latarni. Tom 3: Poszukiwanie nadziei"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 3: Liga Cieni"
+  isbn: 0
+- name: "Batman/The Flash: Przypinka"
+  isbn: 0
+- name: "Liga Sprawiedliwości. Tom 4: Niekończąca się walka"
+  isbn: 0
+- name: "Harley Quinn. Tom 3: Krwiste mięso"
+  isbn: 0
+- name: "Superman - Action Comics. Tom 4: Nowy świat"
+  isbn: 0
+- name: "Superman. Tom 4: Czarny świt"
+  isbn: 0
+- name: "Wonder Woman. Tom 4: Godwatch"
+  isbn: 0
+- name: "Nightwing. Tom 3: Nightwing musi umrzeć"
+  isbn: 0
+- name: "Batman. Tom 4: Wojna Żartów z Zagadkami"
+  isbn: 0
+- name: "Flash. Tom 4: Ucieczka"
+  isbn: 0
+- name: "Green Arrow. Tom 4: Powstanie Star City"
+  isbn: 0
+- name: "Hal Jordan i Korpus Zielonych Latarni. Tom 4: Rozłam"
+  isbn: 0
+- name: "Nastoletni Tytani. Tom 2: Wejście Aqualada"
+  isbn: 0
+- name: "Suicide Squad - Oddział Samobójców. Tom 3: Płonąca baza"
+  isbn: 0
+- name: "Superman - Action Comics. Tom 5: Efekt Oza"
+  isbn: 0
+- name: "Flash. Tom 5: Negatywny"
+  isbn: 0
+- name: "Suicide Squad - Oddział Samobójców. Tom 4: Ziemianie w ogniu"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 4: Deus Ex Machina"
+  isbn: 0
+- name: "Superman - Action Comics. Tom 5: Booster Gold"
+  isbn: 0
+- name: "Liga Sprawiedliwości. Tom 5: Dziedzictwo"
+  isbn: 0
+- name: "All-Star Batman. Tom 3: Pierwszy Sojusznik"
+  isbn: 0
+- name: "Suicide Squad - Oddział Samobójców. Tom 5: Zabij swoich bliskich"
+  isbn: 0
+- name: "Green Arrow. Tom 5: Konstelacja strachu"
+  isbn: 0
+- name: "Nightwing. Tom 4: Starzy i nowi wrogowie"
+  isbn: 0
+- name: "Superman - Action Comics 1000"
+  isbn: 0
+- name: "Batman. Tom 5: Zaręczeni"
+  isbn: 0
+- name: "Nastoletni Tytani. Tom 3: Powrót Kid Flasha"
+  isbn: 0
+- name: "Superman. Tom 5: Nadzieje i lęki"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 5: Życie w samotności"
+  isbn: 0
+- name: "Superman. Tom 6: Imperius Lex"
+  isbn: 0
+- name: "Batman. Tom 6: Narzeczona czy włamywaczka?"
+  isbn: 0
+- name: "Liga Sprawiedliwości. Tom 6: Piach w trybach"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 6: Upadek Batmanów"
+  isbn: 0
+- name: "Superman. Tom 7: Bizarrowersum"
+  isbn: 0
+- name: "Suicide Squad - Oddział Samobójców. Tom 6: Tajna historia oddziału specjalnego X"
+  isbn: 0
+- name: "Batman. Tom 7: Ślub"
+  isbn: 0
+- name: "Flash. Tom 6: Zimny dzień w piekle"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 7: Wieczni Batmani"
+  isbn: 0
+- name: "Batman. Tom 8: Zimne dni"
+  isbn: 0
+- name: "Flash. Tom 7: Burza doskonała"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 8: Na zewnątrz"
+  isbn: 0
+- name: "Harley Quinn. Tom 4: Niespodzianka"
+  isbn: 0
+- name: "Batman. Tom 9: Drapieżne ptaki"
+  isbn: 0
+- name: "Flash. Tom 8: Wojna Flashów"
+  isbn: 0
+- name: "Batman - Detective Comics. Tom 9: Dwa oblicza Two-Face'a"
+  isbn: 0
+- name: "Flash. Tom 9: Rachunek mocy"
+  isbn: 0
+- name: "Batman. Tom 10: Koszmary"
+  isbn: 0
+- name: "Flash. Tom 10: Wyprawa po moc"
+  isbn: 0
+- name: "Batman. Tom 11: Upadek"
+  isbn: 0
+- name: "Harley Quinn. Tom 5: Głosuj na Harley"
+  isbn: 0
+- name: "Flash. Tom 11: Mistrzowska sztuczka"
+  isbn: 0
+- name: "Batman. Tom 12: Miasto Bane'a"
+  isbn: 0
+- name: "Flash - Rok pierwszy"
+  isbn: 0
+- name: "Flash. Tom 12: Śmierć i moc prędkości"
+  isbn: 0
+- name: "Flash. Tom 13: Rządy łotrów"
+  isbn: 0
+- name: "Flash. Tom 14: Era Flasha"
+  isbn: 0
+- name: "Flash. Tom 15: Meta"
+  isbn: 0
