@@ -1,4 +1,14 @@
 ---
+- name: Marvel (Mucha Comics)
+  slug: marvel-mucha-comics
+  universum: Marvel
+  publisher: Mucha Comics
+  date: "2007-10-11"
+- name: DC (Mucha Comics)
+  slug: dc-mucha-comics
+  universum: DC
+  publisher: Mucha Comics
+  date: "2012-06-29"
 - name: Wielka Kolekcja Komiksów Marvela
   slug: wkkm
   universum: Marvel
