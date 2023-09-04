@@ -1,0 +1,257 @@
+---
+- name: "Spider-Man"
+  isbn: 0
+- name: "Wolverine"
+  isbn: 0
+- name: "Iron Man"
+  isbn: 0
+- name: "Kapitan Ameryka"
+  isbn: 0
+- name: "Hulk"
+  isbn: 0
+- name: "Hawkeye"
+  isbn: 0
+- name: "Avengers"
+  isbn: 0
+- name: "Power Man"
+  isbn: 0
+- name: "Wojów trzech"
+  isbn: 0
+- name: "Kapitan Marvel"
+  isbn: 0
+- name: "Fantastyczna Czwórka"
+  isbn: 0
+- name: "X-Men"
+  isbn: 0
+- name: "Strażnicy Galaktyki"
+  isbn: 0
+- name: "Ludzka Pochodnia (Jim Hammond)"
+  isbn: 0
+- name: "Vision"
+  isbn: 0
+- name: "Falcon"
+  isbn: 0
+- name: "Deadpool"
+  isbn: 0
+- name: "Walkiria"
+  isbn: 0
+- name: "Punisher"
+  isbn: 0
+- name: "Nick Fury"
+  isbn: 0
+- name: "Czarna Pantera"
+  isbn: 0
+- name: "Mockingbird"
+  isbn: 0
+- name: "Defenders"
+  isbn: 0
+- name: "Daredevil"
+  isbn: 0
+- name: "Dr Strange"
+  isbn: 0
+- name: "Scarlet Witch"
+  isbn: 0
+- name: "Machine Man"
+  isbn: 0
+- name: "Blade"
+  isbn: 0
+- name: "Inhumans"
+  isbn: 0
+- name: "Beast"
+  isbn: 0
+- name: "Thor"
+  isbn: 0
+- name: "Shang-Chi"
+  isbn: 0
+- name: "Warlock"
+  isbn: 0
+- name: "Hank Pym"
+  isbn: 0
+- name: "Herkules"
+  isbn: 0
+- name: "Wasp"
+  isbn: 0
+- name: "Ghost Rider"
+  isbn: 0
+- name: "Wonder Man"
+  isbn: 0
+- name: "Silver Surfer"
+  isbn: 0
+- name: "Elektra"
+  isbn: 0
+- name: "Black Knight"
+  isbn: 0
+- name: "Moon Knight"
+  isbn: 0
+- name: "Star Lord"
+  isbn: 0
+- name: "Szop Rocket"
+  isbn: 0
+- name: "Kapitan Brytania"
+  isbn: 0
+- name: "Iron Fist"
+  isbn: 0
+- name: "Spider-Woman"
+  isbn: 0
+- name: "Ant-Man (Scott Lang)"
+  isbn: 0
+- name: "She-Hulk"
+  isbn: 0
+- name: "Cloak i Dagger"
+  isbn: 0
+- name: "Carol Danvers (Ms Marvel/Kapitan Marvel)"
+  isbn: 0
+- name: "War Machine"
+  isbn: 0
+- name: "Spider-Girl"
+  isbn: 0
+- name: "Marvel Boy"
+  isbn: 0
+- name: "Sentry"
+  isbn: 0
+- name: "Jessica Jones"
+  isbn: 0
+- name: "Zimowy Żołnierz"
+  isbn: 0
+- name: "Young Avengers"
+  isbn: 0
+- name: "Nova"
+  isbn: 0
+- name: "Czarna Wdowa (Black Widow)"
+  isbn: 0
+- name: "Generation X"
+  isbn: 0
+- name: "Invaders"
+  isbn: 0
+- name: "West Coast Avengers"
+  isbn: 0
+- name: "Czerwony Hulk (Red Hulk)"
+  isbn: 0
+- name: "Runaways"
+  isbn: 0
+- name: "Stwór (Thing)"
+  isbn: 0
+- name: "Namor"
+  isbn: 0
+- name: "Avengers Academy"
+  isbn: 0
+- name: "Great Lakes Avengers"
+  isbn: 0
+- name: "Pet Avengers"
+  isbn: 0
+- name: "Profesor X"
+  isbn: 0
+- name: "New Mutants"
+  isbn: 0
+- name: "Union Jack"
+  isbn: 0
+- name: "Spider-Man 2099"
+  isbn: 0
+- name: "New Warriors"
+  isbn: 0
+- name: "Excalibur"
+  isbn: 0
+- name: "Venom (Flash Thompson)"
+  isbn: 0
+- name: "Alpha Flight"
+  isbn: 0
+- name: "Miles Morales, Ultimate Spider-Man"
+  isbn: 0
+- name: "Scarlet Spider (Ben Reilly)"
+  isbn: 0
+- name: "Quasar (Wendell Vaughn)"
+  isbn: 0
+- name: "Thunderbolts"
+  isbn: 0
+- name: "Beta Bill Ray"
+  isbn: 0
+- name: "Squirrel Girl"
+  isbn: 0
+- name: "Totalnie Odlotowy Hulk"
+  isbn: 0
+- name: "Riri Williams (Ironheart)"
+  isbn: 0
+- name: "Loki"
+  isbn: 0
+- name: "X-23"
+  isbn: 0
+- name: "Angela"
+  isbn: 0
+- name: "Killraven"
+  isbn: 0
+- name: "Cable"
+  isbn: 0
+- name: "Deathlok"
+  isbn: 0
+- name: "Secret Avengers"
+  isbn: 0
+- name: "Nova (Sam Alexander)"
+  isbn: 0
+- name: "Nick Fury Jr."
+  isbn: 0
+- name: "Angel"
+  isbn: 0
+- name: "Niewidzialna Kobieta"
+  isbn: 0
+- name: "Agent Coulson"
+  isbn: 0
+- name: "Quicksilver"
+  isbn: 0
+- name: "Mister Fantastic"
+  isbn: 0
+- name: "Superior Spider-Man"
+  isbn: 0
+- name: "Jean Grey"
+  isbn: 0
+- name: "Cyclops"
+  isbn: 0
+- name: "Ludzka Pochodnia (Johnny Storm)"
+  isbn: 0
+- name: "Ms. Marvel (Kamala Khan)"
+  isbn: 0
+- name: "Banshee"
+  isbn: 0
+- name: "Multiple Man (Jamie Madrox)"
+  isbn: 0
+- name: "Silk"
+  isbn: 0
+- name: "Storm"
+  isbn: 0
+- name: "Spider-Gwen"
+  isbn: 0
+- name: "Kingpin"
+  isbn: 0
+- name: "Iceman"
+  isbn: 0
+- name: "Niesławny Iron Man"
+  isbn: 0
+- name: "Rogue"
+  isbn: 0
+- name: "Gambit"
+  isbn: 0
+- name: "Niewiarygodna Gwenpool"
+  isbn: 0
+- name: "Colossus"
+  isbn: 0
+- name: "Kitty Pryde"
+  isbn: 0
+- name: "Ghost Rider (Robbie Reyes)"
+  isbn: 0
+- name: "Nightcrawler"
+  isbn: 0
+- name: "Red Skull"
+  isbn: 0
+- name: "Doktor Doom"
+  isbn: 0
+- name: "Magneto"
+  isbn: 0
+- name: "MODOK"
+  isbn: 0
+- name: "Ultron"
+  isbn: 0
+- name: "Thanos"
+  isbn: 0
+- name: "Apocalypse"
+  isbn: 0
+- name: "Venom"
+  isbn: 0
