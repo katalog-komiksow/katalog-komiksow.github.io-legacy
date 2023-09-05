@@ -1,143 +1,214 @@
 ---
 - name: "Elektra żyje!"
-  isbn: 0
+  isbn: 9788791630392
+  image: 001.9788791630392.jpeg
 - name: "Astonishing X-Men - tom 1: Obdarowani"
-  isbn: 0
+  isbn: 9788791630422
+  image: 002.9788791630422.jpeg
 - name: "Astonishing X-Men - tom 2: Niebezpieczni"
-  isbn: 0
+  isbn: 9788361319009
+  image: 003.9788361319009.jpeg
 - name: "Astonishing X-Men - tom 3: Rozdarci"
-  isbn: 0
+  isbn: 9788361319047
+  image: 004.9788361319047.jpeg
 - name: "Silver Surfer: Requiem"
-  isbn: 0
+  isbn: 9788361319054
+  image: 005.9788361319054.jpeg
 - name: "Astonishing X-Men tom 4: Niepowstrzymani"
-  isbn: 0
+  isbn: 9788361319108
+  image: 006.9788361319108.jpeg
 - name: "Marvels"
-  isbn: 0
+  isbn: 9788361319115
+  image: 007.9788361319115.jpeg
 - name: "Avengers Disassembled"
-  isbn: 0
+  isbn: 9788361319139
+  image: 008.9788361319139.jpeg
 - name: "Iron Man: Pięć koszmarów"
-  isbn: 0
+  isbn: 9788361319160
+  image: 009.9788361319160.jpeg
 - name: "Tajna Wojna"
-  isbn: 0
+  isbn: 9788361319184
+  image: 010.9788361319184.jpeg
 - name: "New Avengers - tom 1: Ucieczka"
-  isbn: 0
+  isbn: 9788361319207
+  image: 011.9788361319207.jpeg
 - name: "Wolverine: Wróg Publiczny. Część 1"
-  isbn: 0
+  isbn: 9788361319214
+  image: 012.9788361319214.jpeg
 - name: "Thor: Wikingowie"
-  isbn: 0
+  isbn: 9788361319221
+  image: 013.9788361319221.jpeg
 - name: "Wolverine: Wróg Publiczny. Część 2"
-  isbn: 0
+  isbn: 9788361319238
+  image: 014.9788361319238.jpeg
 - name: "New Avengers - tom 2: Sentry"
-  isbn: 0
+  isbn: 9788361319245
+  image: 015.9788361319245.jpeg
 - name: "New Avengers - tom 3: Kłamstwa i tajemnice"
-  isbn: 0
+  isbn: 9788361319283
+  image: 016.9788361319283.jpeg
 - name: "Ród M"
-  isbn: 0
+  isbn: 9788361319306
+  image: 017.9788361319306.jpeg
 - name: "New Avengers - tom 4: Kolektyw"
-  isbn: 0
+  isbn: 9788361319313
+  image: 018.9788361319313.jpeg
 - name: "New Avengers - tom 5: Wojna domowa"
-  isbn: 0
+  isbn: 9788361319344
+  image: 019.9788361319344.jpeg
 - name: "Wojna domowa"
-  isbn: 0
+  isbn: 9788361319351
+  image: 020.9788361319351.jpeg
 - name: "Wolverine. Logan"
-  isbn: 0
+  isbn: 9788361319412
+  image: 021.9788361319412.jpeg
 - name: "Daredevil Żółty"
-  isbn: 0
+  isbn: 9788361319542
+  image: 022.9788361319542.jpeg
 - name: "Wolverine: Geneza II"
-  isbn: 0
+  isbn: 9788361319610
+  image: 023.9788361319610.jpeg
 - name: "Hulk Szary"
-  isbn: 0
+  isbn: 9788361319641
+  image: 024.9788361319641.jpeg
 - name: "Jessica Jones: Alias - tom 1"
-  isbn: 0
+  isbn: 9788361319696
+  image: 025.9788361319696.jpeg
 - name: "Miracleman"
-  isbn: 0
+  isbn: 9788361319740
+  image: 026.9788361319740.jpeg
 - name: "Jessica Jones: Alias - tom 2"
-  isbn: 0
+  isbn: 9788361319771
+  image: 027.9788361319771.jpeg
 - name: "Loki"
-  isbn: 0
+  isbn: 9788361319788
+  image: 028.9788361319788.jpeg
 - name: "Kapitan Ameryka Biały"
-  isbn: 0
+  isbn: 9788361319825
+  image: 029.9788361319825.jpeg
 - name: "Spider-Man: Władza"
-  isbn: 0
+  isbn: 9788361319818
+  image: 030.9788361319818.jpeg
 - name: "Cage"
-  isbn: 0
+  isbn: 9788361319856
+  image: 031.9788361319856.jpeg
 - name: "Spider-Man Niebieski"
-  isbn: 0
+  isbn: 9788366589742
+  image: 032.9788366589742.jpeg
 - name: "Jessica Jones: Alias - tom 3"
-  isbn: 0
+  isbn: 9788361319917
+  image: 033.9788361319917.jpeg
 - name: "Nieśmiertelny Iron Fist - tom 1"
-  isbn: 0
+  isbn: 9788361319962
+  image: 034.9788361319962.jpeg
 - name: "The Uncanny X-Force - tom 1: Sposób na Apocalypse'a"
-  isbn: 0
+  isbn: 9788361319979
+  image: 035.9788361319979.jpeg
 - name: "Miracleman: Złota Era"
-  isbn: 0
+  isbn: 9788361319931
+  image: 036.9788361319931.jpeg
 - name: "Jessica Jones: Alias - tom 4"
-  isbn: 0
+  isbn: 9788361319993
+  image: 037.9788361319993.jpeg
 - name: "Cesarzowa (Empress)"
-  isbn: 0
+  isbn: 9788365938060
+  image: 038.9788365938060.jpeg
 - name: "Nieśmiertelny Iron Fist - tom 2: Siedem stolic Nieba"
-  isbn: 0
+  isbn: 9788365938107
+  image: 039.9788365938107.jpeg
 - name: "The Uncanny X-Force - tom 2: Era Archangela"
-  isbn: 0
+  isbn: 9788365938091
+  image: 040.9788365938091.jpeg
 - name: "Jessica Jones: Puls"
-  isbn: 0
+  isbn: 9788365938114
+  image: 041.9788365938114.jpeg
 - name: "Astonishing X-Men - tom zbiorczy 1"
-  isbn: 0
+  isbn: 9788365938244
+  image: 042.9788365938244.jpeg
 - name: "Nieśmiertelny Iron Fist - tom 3"
-  isbn: 0
+  isbn: 9788365938251
+  image: 043.9788365938251.jpeg
 - name: "The Uncanny X-Force - tom 3: Inny świat"
-  isbn: 0
+  isbn: 9788365938268
+  image: 044.9788365938268.jpeg
 - name: "Jessica Jones - tom 1: Wyzwolona"
-  isbn: 0
+  isbn: 9788365938305
+  image: 045.9788365938305.jpeg
 - name: "Astonishing X-Men - tom zbiorczy 2"
-  isbn: 0
+  isbn: 9788365938350
+  image: 046.9788365938350.jpeg
 - name: "The Uncanny X-Force - tom 4: Ostateczna Egzekucja"
-  isbn: 0
+  isbn: 9788365938404
+  image: 047.9788365938404.jpeg
 - name: "Nieśmiertelny Iron Fist - tom 4: Ucieczka z ósmego miasta"
-  isbn: 0
+  isbn: 9788365938411
+  image: 048.9788365938411.jpeg
 - name: "Jessica Jones - tom 2: Sekrety Marii Hill"
-  isbn: 0
+  isbn: 9788365938480
+  image: 049.9788365938480.jpeg
 - name: "Astonishing X-Men - tom zbiorczy 3"
-  isbn: 0
+  isbn: 9788365938596
+  image: 050.9788365938596.jpeg
 - name: "Jessica Jones - tom 3: Powrót Purple Mana"
-  isbn: 0
+  isbn: 9788365938787
+  image: 051.9788365938787.jpeg
 - name: "New X-men - tom 1: Z jak Zagłada"
-  isbn: 0
+  isbn: 9788365938824
+  image: 052.9788365938824.jpeg
 - name: "New X-men - tom 2: Piekło na Ziemi"
-  isbn: 0
-- name: "Jessica Jones - Martwy punkt"
-  isbn: 0
+  isbn: 9788366589049
+  image: 053.9788366589049.jpeg
+- name: "Jessica Jones - tom 4: Martwy punkt"
+  isbn: 9788366589032
+  image: 054.9788366589032.jpeg
 - name: "X-Men: Era Apocalypse'a - tom 1: Świt"
-  isbn: 0
-- name: "Jessica Jones - Fioletowa córka"
-  isbn: 0
+  isbn: 9788366589087
+  image: 055.9788366589087.jpeg
+- name: "Jessica Jones - tom 5: Fioletowa córka"
+  isbn: 9788366589179
+  image: 056.9788366589179.jpeg
 - name: "New X-men - tom 3: Bunt w Instytucie Xaviera"
-  isbn: 0
+  isbn: 9788366589186
+  image: 057.9788366589186.jpeg
 - name: "X-Men: Era Apocalypse'a - tom 2: Rządy"
-  isbn: 0
-- name: "New X-men - tom 4"
-  isbn: 0
+  isbn: 9788366589285
+  image: 058.9788366589285.jpeg
+- name: "New X-men - tom 4: Planeta X"
+  isbn: 9788366589360
+  image: 059.9788366589360.jpeg
 - name: "Wolverine: Czerń, biel i krew"
-  isbn: 0
+  isbn: 9788366589483
+  image: 060.9788366589483.jpeg
 - name: "Spectacular Spider-man (J. M. DeMatteis/Sal Buscema)"
-  isbn: 0
-- name: "X-Men: Era Apocalypse'a - tom 3"
-  isbn: 0
+  isbn: 9788366589544
+  image: 061.9788366589544.jpeg
+- name: "X-Men: Era Apocalypse'a - tom 3: Wojna"
+  isbn: 9788366589551
+  image: 062.9788366589551.jpeg
 - name: "Carnage: Czerń, biel i krew"
-  isbn: 0
+  isbn: 9788366589599
+  image: 063.9788366589599.jpeg
 - name: "Wolverine - tom 1"
-  isbn: 0
-- name: "X-Men: Era Apocalypse'a - tom 4"
-  isbn: 0
+  isbn: 9788366589636
+  image: 064.9788366589636.jpeg
+- name: "X-Men: Era Apocalypse'a - tom 4: Zmierzch"
+  isbn: 9788366589780
+  image: 065.9788366589780.jpeg
 - name: "Deadpool: Czerń, biel i krew"
-  isbn: 0
+  isbn: 9788366589766
+  image: 066.9788366589766.jpeg
 - name: "Elektra: Czerń, biel i krew"
-  isbn: 0
+  isbn: 9788366589919
+  image: 067.9788366589919.jpeg
 - name: "Venom: Zabójczy obrońca"
-  isbn: 0
+  isbn: 9788366589957
+  image: 068.9788366589957.jpeg
 - name: "X-Statix: Sławni i martwi - tom 1"
-  isbn: 0
+  isbn: 9788366589971
+  image: 069.9788366589971.jpeg
 - name: "Moon Knight: Czerń, biel i krew"
-  isbn: 0
+  isbn: 9788367571098
+  image: 070.9788367571098.jpeg
 - name: "Spider-man: Śmierć Jean DeWolff"
-  isbn: 0
+  isbn: 9788367571180
+  image: 071.9788367571180.jpeg
