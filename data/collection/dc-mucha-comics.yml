@@ -1,13 +1,19 @@
 ---
 - name: "All-Star Superman"
-  isbn: 0
+  isbn: 9788361319290
+  image: 001.9788361319290.jpeg
 - name: "Batman - Długie Halloween"
-  isbn: 0
+  isbn: 9788361319382
+  image: 002.9788361319382.jpeg
 - name: "Catwoman: Rzymskie wakacje"
-  isbn: 0
+  isbn: 9788361319429
+  image: 003.9788361319429.jpeg
 - name: "Batman - Mroczne Zwycięstwo"
-  isbn: 0
+  isbn: 9788361319450
+  image: 004.9788361319450.jpeg
 - name: "Sprawiedliwość"
-  isbn: 0
+  isbn: 9788361319559
+  image: 005.9788361319559.jpeg
 - name: "Batman - Legendy Mrocznego Rycerza"
-  isbn: 0
+  isbn: 9788361319573
+  image: 006.9788361319573.jpeg
