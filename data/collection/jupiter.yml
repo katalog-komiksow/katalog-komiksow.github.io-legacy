@@ -1,7 +1,10 @@
 ---
 - name: "Jupiter's Legacy: Dziedzictwo Jowisza (tom 1)"
-  isbn: 0
+  isbn: 9788365938046
+  image: jupiter.1.jpeg
 - name: "Jupiter's Legacy: Dziedzictwo Jowisza (tom 2)"
-  isbn: 0
+  isbn: 9788365938213
+  image: jupiter.2.jpeg
 - name: "Jupiter's Circle. Orbita Jowisza"
-  isbn: 0
+  isbn: 9788365938848
+  image: jupiter.3.jpeg
