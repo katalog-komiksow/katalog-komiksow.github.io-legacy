@@ -1,257 +1,385 @@
 ---
 - name: "Spider-Man"
-  isbn: 0
+  isbn: 9788328209411
+  image: 001.9788328209411.jpeg
 - name: "Wolverine"
-  isbn: 0
+  isbn: 9788328209428
+  image: 002.9788328209428.jpeg
 - name: "Iron Man"
-  isbn: 0
+  isbn: 9788328209435
+  image: 003.9788328209435.jpeg
 - name: "Kapitan Ameryka"
-  isbn: 0
+  isbn: 9788328209442
+  image: 004.9788328209442.jpeg
 - name: "Hulk"
-  isbn: 0
+  isbn: 9788328210424
+  image: 005.9788328210424.jpeg
 - name: "Hawkeye"
-  isbn: 0
+  isbn: 9788328209404
+  image: 006.9788328209404.jpeg
 - name: "Avengers"
-  isbn: 0
+  isbn: 9788328209473
+  image: 007.9788328209473.jpeg
 - name: "Power Man"
-  isbn: 0
+  isbn: 9788328209480
+  image: 008.9788328209480.jpeg
 - name: "Wojów trzech"
-  isbn: 0
+  isbn: 9788328209497
+  image: 009.9788328209497.jpeg
 - name: "Kapitan Marvel"
-  isbn: 0
+  isbn: 9788328209503
+  image: 010.9788328209503.jpeg
 - name: "Fantastyczna Czwórka"
-  isbn: 0
+  isbn: 9788328209510
+  image: 011.9788328209510.jpeg
 - name: "X-Men"
-  isbn: 0
+  isbn: 9788328209527
+  image: 012.9788328209527.jpeg
 - name: "Strażnicy Galaktyki"
-  isbn: 0
+  isbn: 9788328209534
+  image: 013.9788328209534.jpeg
 - name: "Ludzka Pochodnia (Jim Hammond)"
-  isbn: 0
+  isbn: 9788328209541
+  image: 014.9788328209541.jpeg
 - name: "Vision"
-  isbn: 0
+  isbn: 9788328209558
+  image: 015.9788328209558.jpeg
 - name: "Falcon"
-  isbn: 0
+  isbn: 9788328209565
+  image: 016.9788328209565.jpeg
 - name: "Deadpool"
-  isbn: 0
+  isbn: 9788328209572
+  image: 017.9788328209572.jpeg
 - name: "Walkiria"
-  isbn: 0
+  isbn: 9788328209589
+  image: 018.9788328209589.jpeg
 - name: "Punisher"
-  isbn: 0
+  isbn: 9788328209596
+  image: 019.9788328209596.jpeg
 - name: "Nick Fury"
-  isbn: 0
+  isbn: 9788328209602
+  image: 020.9788328209602.jpeg
 - name: "Czarna Pantera"
-  isbn: 0
+  isbn: 9788328209619
+  image: 021.9788328209619.jpeg
 - name: "Mockingbird"
-  isbn: 0
+  isbn: 9788328209626
+  image: 022.9788328209626.jpeg
 - name: "Defenders"
-  isbn: 0
+  isbn: 9788328209633
+  image: 023.9788328209633.jpeg
 - name: "Daredevil"
-  isbn: 0
+  isbn: 9788328209640
+  image: 024.9788328209640.jpeg
 - name: "Dr Strange"
-  isbn: 0
+  isbn: 9788328209657
+  image: 025.9788328209657.jpeg
 - name: "Scarlet Witch"
-  isbn: 0
+  isbn: 9788328209664
+  image: 026.9788328209664.jpeg
 - name: "Machine Man"
-  isbn: 0
+  isbn: 9788328209671
+  image: 027.9788328209671.jpeg
 - name: "Blade"
-  isbn: 0
+  isbn: 9788328209688
+  image: 028.9788328209688.jpeg
 - name: "Inhumans"
-  isbn: 0
+  isbn: 9788328209695
+  image: 029.9788328209695.jpeg
 - name: "Beast"
-  isbn: 0
+  isbn: 9788328209701
+  image: 030.9788328209701.jpeg
 - name: "Thor"
-  isbn: 0
+  isbn: 9788328209718
+  image: 031.9788328209718.jpeg
 - name: "Shang-Chi"
-  isbn: 0
+  isbn: 9788328209725
+  image: 032.9788328209725.jpeg
 - name: "Warlock"
-  isbn: 0
+  isbn: 9788328209732
+  image: 033.9788328209732.jpeg
 - name: "Hank Pym"
-  isbn: 0
+  isbn: 9788328209749
+  image: 034.9788328209749.jpeg
 - name: "Herkules"
-  isbn: 0
+  isbn: 9788328209756
+  image: 035.9788328209756.jpeg
 - name: "Wasp"
-  isbn: 0
+  isbn: 9788328209763
+  image: 036.9788328209763.jpeg
 - name: "Ghost Rider"
-  isbn: 0
+  isbn: 9788328209770
+  image: 037.9788328209770.jpeg
 - name: "Wonder Man"
-  isbn: 0
+  isbn: 9788328209787
+  image: 038.9788328209787.jpeg
 - name: "Silver Surfer"
-  isbn: 0
+  isbn: 9788328209794
+  image: 039.9788328209794.jpeg
 - name: "Elektra"
-  isbn: 0
+  isbn: 9788328209800
+  image: 040.9788328209800.jpeg
 - name: "Black Knight"
-  isbn: 0
+  isbn: 9788328209817
+  image: 041.9788328209817.jpeg
 - name: "Moon Knight"
-  isbn: 0
+  isbn: 9788328209824
+  image: 042.9788328209824.jpeg
 - name: "Star Lord"
-  isbn: 0
+  isbn: 9788328209831
+  image: 043.9788328209831.jpeg
 - name: "Szop Rocket"
-  isbn: 0
+  isbn: 9788328209848
+  image: 044.9788328209848.jpeg
 - name: "Kapitan Brytania"
-  isbn: 0
+  isbn: 9788328209855
+  image: 045.9788328209855.jpeg
 - name: "Iron Fist"
-  isbn: 0
+  isbn: 9788328209862
+  image: 046.9788328209862.jpeg
 - name: "Spider-Woman"
-  isbn: 0
+  isbn: 9788328209879
+  image: 047.9788328209879.jpeg
 - name: "Ant-Man (Scott Lang)"
-  isbn: 0
+  isbn: 9788328209886
+  image: 048.9788328209886.jpeg
 - name: "She-Hulk"
-  isbn: 0
+  isbn: 9788328209893
+  image: 049.9788328209893.jpeg
 - name: "Cloak i Dagger"
-  isbn: 0
+  isbn: 9788328209909
+  image: 050.9788328209909.jpeg
 - name: "Carol Danvers (Ms Marvel/Kapitan Marvel)"
-  isbn: 0
+  isbn: 9788328209916
+  image: 051.9788328209916.jpeg
 - name: "War Machine"
-  isbn: 0
+  isbn: 9788328209923
+  image: 052.9788328209923.jpeg
 - name: "Spider-Girl"
-  isbn: 0
+  isbn: 9788328209930
+  image: 053.9788328209930.jpeg
 - name: "Marvel Boy"
-  isbn: 0
+  isbn: 9788328209947
+  image: 054.9788328209947.jpeg
 - name: "Sentry"
-  isbn: 0
+  isbn: 9788328209954
+  image: 055.9788328209954.jpeg
 - name: "Jessica Jones"
-  isbn: 0
+  isbn: 9788328209961
+  image: 056.9788328209961.jpeg
 - name: "Zimowy Żołnierz"
-  isbn: 0
+  isbn: 9788328209978
+  image: 057.9788328209978.jpeg
 - name: "Young Avengers"
-  isbn: 0
+  isbn: 9788328209985
+  image: 058.9788328209985.jpeg
 - name: "Nova"
-  isbn: 0
+  isbn: 9788382809992
+  image: 059.9788382809992.jpeg
 - name: "Czarna Wdowa (Black Widow)"
-  isbn: 0
+  isbn: 9788328210004
+  image: 060.9788328210004.jpeg
 - name: "Generation X"
-  isbn: 0
+  isbn: 9788328210011
+  image: 061.9788328210011.jpeg
 - name: "Invaders"
-  isbn: 0
+  isbn: 9788328210028
+  image: 062.9788328210028.jpeg
 - name: "West Coast Avengers"
-  isbn: 0
+  isbn: 9788328210035
+  image: 063.9788328210035.jpeg
 - name: "Czerwony Hulk (Red Hulk)"
-  isbn: 0
+  isbn: 9788328210042
+  image: 064.9788328210042.jpeg
 - name: "Runaways"
-  isbn: 0
+  isbn: 9788328210059
+  image: 065.9788328210059.jpeg
 - name: "Stwór (Thing)"
-  isbn: 0
+  isbn: 9788328210066
+  image: 066.9788328210066.jpeg
 - name: "Namor"
-  isbn: 0
+  isbn: 9788328210073
+  image: 067.9788328210073.jpeg
 - name: "Avengers Academy"
-  isbn: 0
+  isbn: 9788328210080
+  image: 068.9788328210080.jpeg
 - name: "Great Lakes Avengers"
-  isbn: 0
+  isbn: 9788328210097
+  image: 069.9788328210097.jpeg
 - name: "Pet Avengers"
-  isbn: 0
+  isbn: 9788328210103
+  image: 070.9788328210103.jpeg
 - name: "Profesor X"
-  isbn: 0
+  isbn: 9788328210110
+  image: 071.9788328210110.jpeg
 - name: "New Mutants"
-  isbn: 0
+  isbn: 9788382810127
+  image: 072.9788382810127.jpeg
 - name: "Union Jack"
-  isbn: 0
+  isbn: 9788328210134
+  image: 073.9788328210134.jpeg
 - name: "Spider-Man 2099"
-  isbn: 0
+  isbn: 9788328210141
+  image: 074.9788328210141.jpeg
 - name: "New Warriors"
-  isbn: 0
+  isbn: 9788382810158
+  image: 075.9788382810158.jpeg
 - name: "Excalibur"
-  isbn: 0
+  isbn: 9788328210165
+  image: 076.9788328210165.jpeg
 - name: "Venom (Flash Thompson)"
-  isbn: 0
+  isbn: 9788328210172
+  image: 077.9788328210172.jpeg
 - name: "Alpha Flight"
-  isbn: 0
+  isbn: 9788328210189
+  image: 078.9788328210189.jpeg
 - name: "Miles Morales, Ultimate Spider-Man"
-  isbn: 0
+  isbn: 9788328210196
+  image: 079.9788328210196.jpeg
 - name: "Scarlet Spider (Ben Reilly)"
-  isbn: 0
+  isbn: 9788328210202
+  image: 080.9788328210202.jpeg
 - name: "Quasar (Wendell Vaughn)"
-  isbn: 0
+  isbn: 9788328210219
+  image: 081.9788328210219.jpeg
 - name: "Thunderbolts"
-  isbn: 0
+  isbn: 9788328210226
+  image: 082.9788328210226.jpeg
 - name: "Beta Bill Ray"
-  isbn: 0
+  isbn: 9788328210233
+  image: 083.9788328210233.jpeg
 - name: "Squirrel Girl"
-  isbn: 0
+  isbn: 9788328210240
+  image: 084.9788328210240.jpeg
 - name: "Totalnie Odlotowy Hulk"
-  isbn: 0
+  isbn: 9788328210257
+  image: 085.9788328210257.jpeg
 - name: "Riri Williams (Ironheart)"
-  isbn: 0
+  isbn: 9788328210264
+  image: 086.9788328210264.jpeg
 - name: "Loki"
-  isbn: 0
+  isbn: 9788328210271
+  image: 087.9788328210271.jpeg
 - name: "X-23"
-  isbn: 0
+  isbn: 9788328210288
+  image: 088.9788328210288.jpeg
 - name: "Angela"
-  isbn: 0
+  isbn: 9788328210295
+  image: 089.9788328210295.jpeg
 - name: "Killraven"
-  isbn: 0
+  isbn: 9788328210301
+  image: 090.9788328210301.jpeg
 - name: "Cable"
-  isbn: 0
+  isbn: 9788328210318
+  image: 091.9788328210318.jpeg
 - name: "Deathlok"
-  isbn: 0
+  isbn: 9788328210325
+  image: 092.9788328210325.jpeg
 - name: "Secret Avengers"
-  isbn: 0
+  isbn: 9788328210332
+  image: 093.9788328210332.jpeg
 - name: "Nova (Sam Alexander)"
-  isbn: 0
+  isbn: 9788328210349
+  image: 094.9788328210349.jpeg
 - name: "Nick Fury Jr."
-  isbn: 0
+  isbn: 9788328210356
+  image: 095.9788328210356.jpeg
 - name: "Angel"
-  isbn: 0
+  isbn: 9788328210363
+  image: 096.9788328210363.jpeg
 - name: "Niewidzialna Kobieta"
-  isbn: 0
+  isbn: 9788328210370
+  image: 097.9788328210370.jpeg
 - name: "Agent Coulson"
-  isbn: 0
+  isbn: 9788328210387
+  image: 098.9788328210387.jpeg
 - name: "Quicksilver"
-  isbn: 0
+  isbn: 9788328210394
+  image: 099.9788328210394.jpeg
 - name: "Mister Fantastic"
-  isbn: 0
+  isbn: 9788328210400
+  image: 100.9788328210400.jpeg
 - name: "Superior Spider-Man"
-  isbn: 0
+  isbn: 9788328229983
+  image: 101.9788328229983.jpeg
 - name: "Jean Grey"
-  isbn: 0
+  isbn: 9788328229990
+  image: 102.9788328229990.jpeg
 - name: "Cyclops"
-  isbn: 0
+  isbn: 9788328230002
+  image: 103.9788328230002.jpeg
 - name: "Ludzka Pochodnia (Johnny Storm)"
-  isbn: 0
+  isbn: 9788328230019
+  image: 104.9788328230019.jpeg
 - name: "Ms. Marvel (Kamala Khan)"
-  isbn: 0
+  isbn: 9788328230026
+  image: 105.9788328230026.jpeg
 - name: "Banshee"
-  isbn: 0
+  isbn: 9788328230033
+  image: 106.9788328230033.jpeg
 - name: "Multiple Man (Jamie Madrox)"
-  isbn: 0
+  isbn: 9788328230040
+  image: 107.9788328230040.jpeg
 - name: "Silk"
-  isbn: 0
+  isbn: 9788328230057
+  image: 108.9788328230057.jpeg
 - name: "Storm"
-  isbn: 0
+  isbn: 9788328230064
+  image: 109.9788328230064.jpeg
 - name: "Spider-Gwen"
-  isbn: 0
+  isbn: 9788328230071
+  image: 110.9788328230071.jpeg
 - name: "Kingpin"
-  isbn: 0
+  isbn: 9788328230088
+  image: 111.9788328230088.jpeg
 - name: "Iceman"
-  isbn: 0
+  isbn: 9788328230095
+  image: 112.9788328230095.jpeg
 - name: "Niesławny Iron Man"
-  isbn: 0
+  isbn: 9788328230101
+  image: 113.9788328230101.jpeg
 - name: "Rogue"
-  isbn: 0
+  isbn: 9788328230118
+  image: 114.9788328230118.jpeg
 - name: "Gambit"
-  isbn: 0
+  isbn: 9788328230125
+  image: 115.9788328230125.jpeg
 - name: "Niewiarygodna Gwenpool"
-  isbn: 0
+  isbn: 9788328230132
+  image: 116.9788328230132.jpeg
 - name: "Colossus"
-  isbn: 0
+  isbn: 9788328230149
+  image: 117.9788328230149.jpeg
 - name: "Kitty Pryde"
-  isbn: 0
+  isbn: 9788328230156
+  image: 118.9788328230156.jpeg
 - name: "Ghost Rider (Robbie Reyes)"
-  isbn: 0
+  isbn: 9788328230163
+  image: 119.9788328230163.jpeg
 - name: "Nightcrawler"
-  isbn: 0
+  isbn: 9788328230170
+  image: 120.9788328230170.jpeg
 - name: "Red Skull"
-  isbn: 0
+  isbn: 9788328230187
+  image: 121.9788328230187.jpeg
 - name: "Doktor Doom"
-  isbn: 0
+  isbn: 9788328230194
+  image: 122.9788328230194.jpeg
 - name: "Magneto"
-  isbn: 0
+  isbn: 9788328230200
+  image: 123.9788328230200.jpeg
 - name: "MODOK"
-  isbn: 0
+  isbn: 9788328230217
+  image: 124.9788328230217.webp
 - name: "Ultron"
-  isbn: 0
+  isbn: 9788328230224
+  image: 125.9788328230224.jpeg
 - name: "Thanos"
-  isbn: 0
+  isbn: 9788328230231
+  image: 126.9788328230231.jpeg
 - name: "Apocalypse"
-  isbn: 0
+  isbn: 9788328230248
+  image: 127.9788328230248.jpeg
 - name: "Venom"
-  isbn: 0
+  isbn: 9788328230255
+  image: 128.9788328230255.jpeg
