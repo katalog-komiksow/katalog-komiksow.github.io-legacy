@@ -1,247 +1,370 @@
 ---
 - name: "Doktor Strange - Początki i zakończenia"
-  isbn: 0
+  isbn: 9788328118430
+  image: 001.9788328118430.webp
 - name: "Elektra - Assassin"
-  isbn: 0
+  isbn: 9788328118447
+  image: 002.9788328118447.webp
 - name: "Wojna Domowa"
-  isbn: 0
+  isbn: 9788328118454
+  image: 003.9788328118454.webp
 - name: "Anihilacja - tom 1"
-  isbn: 0
+  isbn: 9788328118539
+  image: 004.9788328118539.webp
 - name: "Deadpool Classic - tom 1"
-  isbn: 0
+  isbn: 9788328118560
+  image: 005.9788328118560.webp
 - name: "X-Men: Mordercza Geneza"
-  isbn: 0
+  isbn: 9788328118638
+  image: 006.9788328118638.webp
 - name: "Punisher MAX - tom 1"
-  isbn: 0
+  isbn: 09788328118607
+  image: 007.9788328118607.webp
 - name: "Anihilacja - tom 2"
-  isbn: 0
+  isbn: 9788328118546
+  image: 008.9788328118546.webp
 - name: "Czarna Wdowa: Powrót do domu"
-  isbn: 0
+  isbn: 9788328118591
+  image: 009.9788328118591.webp
 - name: "Deadpool Classic - tom 2"
-  isbn: 0
+  isbn: 9788328118577
+  image: 010.9788328118577.webp
 - name: "Punisher MAX - tom 2"
-  isbn: 0
+  isbn: 9788328153400
+  image: 011.9788328153400.webp
 - name: "Hulk: Koniec i inne opowieści"
-  isbn: 0
+  isbn: 9788328118645
+  image: 012.9788328118645.webp
 - name: "Daredevil Nieustraszony - tom 1"
-  isbn: 0
+  isbn: 9788328161399
+  image: 013.9788328161399.webp
 - name: "Wolverine: Jason Aaron - tom 1"
-  isbn: 0
+  isbn: 9788328127500
+  image: 014.9788328127500.webp
 - name: "Deadpool Classic - tom 3"
-  isbn: 0
+  isbn: 9788328118584
+  image: 015.9788328118584.webp
 - name: "Daredevil Nieustraszony - tom 2"
-  isbn: 0
+  isbn: 9788328161405
+  image: 016.9788328161405.webp
 - name: "Anihilacja - tom 3"
-  isbn: 0
+  isbn: 9788328118553
+  image: 017.9788328118553.webp
 - name: "Punisher MAX - tom 3"
-  isbn: 0
+  isbn: 9788328118621
+  image: 018.9788328118621.webp
 - name: "Spider-Man i Czarna Kotka: Zło, które ludzie czynią"
-  isbn: 0
+  isbn: 9788328127876
+  image: 019.9788328127876.webp
 - name: "Wolverine: Jason Aaron - tom 2"
-  isbn: 0
+  isbn: 9788328127517
+  image: 020.9788328127517.webp
 - name: "Anihilacja: Podbój - tom 1"
-  isbn: 0
+  isbn: 9788328127869
+  image: 021.9788328127869.webp
 - name: "Deadpool Classic - tom 4"
-  isbn: 0
+  isbn: 9788328127883
+  image: 022.9788328127883.webp
 - name: "Daredevil Nieustraszony - tom 3"
-  isbn: 0
+  isbn: 9788328127494
+  image: 023.9788328127494.webp
 - name: "Punisher MAX - tom 4"
-  isbn: 0
+  isbn: 9788328126657
+  image: 024.9788328126657.webp
 - name: "Ultimate Spider-Man - tom 1"
-  isbn: 0
+  isbn: 9788328161382
+  image: 025.9788328161382.webp
 - name: "Daredevil Nieustraszony - tom 4"
-  isbn: 0
+  isbn: 9788328127548
+  image: 026.9788328127548.webp
 - name: "Deadpool Classic - tom 5"
-  isbn: 0
+  isbn: 9788328126763
+  image: 027.9788328126763.webp
 - name: "Wolverine: Jason Aaron - tom 3"
-  isbn: 0
+  isbn: 9788328127524
+  image: 028.9788328127524.webp
 - name: "Daredevil Nieustraszony - tom 5"
-  isbn: 0
+  isbn: 9788328127555
+  image: 029.9788328127555.webp
 - name: "Runaways - tom 1"
-  isbn: 0
+  isbn: 9788328126596
+  image: 030.9788328126596.webp
 - name: "Anihilacja: Podbój - tom 2"
-  isbn: 0
+  isbn: 9788328126688
+  image: 031.9788328126688.webp
 - name: "Ultimate Spider-Man - tom 2"
-  isbn: 0
+  isbn: 9788328167063
+  image: 032.9788328167063.webp
 - name: "Wolverine: Jason Aaron - tom 4"
-  isbn: 0
+  isbn: 9788328127531
+  image: 033.9788328127531.webp
 - name: "Daredevil Nieustraszony - tom 6"
-  isbn: 0
+  isbn: 9788328127562
+  image: 034.9788328127562.webp
 - name: "Punisher MAX - tom 5"
-  isbn: 0
+  isbn: 9788328126831
+  image: 035.9788328126831.webp
 - name: "Runaways - tom 2"
-  isbn: 0
+  isbn: 9788328126794
+  image: 036.9788328126794.webp
 - name: "Rękawica Nieskończoności"
-  isbn: 0
+  isbn: 9788328161498
+  image: 037.9788328161498.webp
 - name: "Daredevil: Frank Miller - tom 1"
-  isbn: 0
+  isbn: 9788328134836
+  image: 038.9788328134836.webp
 - name: "Uncanny X-Men: Powstanie i upadek Imperium Shi'ar"
-  isbn: 0
+  isbn: 9788328134799
+  image: 039.9788328134799.webp
 - name: "Deadpool Classic - tom 6"
-  isbn: 0
+  isbn: 9788328134782
+  image: 040.9788328134782.webp
 - name: "Ultimate Spider-Man - tom 3"
-  isbn: 0
+  isbn: 9788328161412
+  image: 041.9788328161412.webp
 - name: "Wojna nieskończoności"
-  isbn: 0
+  isbn: 9788328134843
+  image: 042.9788328134843.webp
 - name: "Runaways - tom 3"
-  isbn: 0
+  isbn: 9788328134812
+  image: 043.9788328134812.webp
 - name: "Spider-Man"
-  isbn: 0
+  isbn: 9788328161450
+  image: 044.9788328161450.webp
 - name: "Wolverine: Staruszek Logan"
-  isbn: 0
+  isbn: 9788328141759
+  image: 045.9788328141759.webp
 - name: "Punisher MAX - tom 6"
-  isbn: 0
+  isbn: 9788328153417
+  image: 046.9788328153417.webp
 - name: "Ultimate Spider-Man - tom 4"
-  isbn: 0
+  isbn: 9788328141827
+  image: 047.9788328141827.webp
 - name: "Kapitan Ameryka tom 1: Zimowy Żołnierz"
-  isbn: 0
+  isbn: 9788328134850
+  image: 048.9788328134850.webp
 - name: "Deadpool Classic - tom 7"
-  isbn: 0
+  isbn: 9788328141780
+  image: 049.9788328141780.webp
 - name: "Strażnicy Galaktyki - tom 1"
-  isbn: 0
+  isbn: 9788328141803
+  image: 050.9788328141803.webp
 - name: "X-Men: Jim Lee"
-  isbn: 0
+  isbn: 9788328141841
+  image: 051.9788328141841.webp
 - name: "Daredevil: Frank Miller - tom 2"
-  isbn: 0
+  isbn: 9788328141773
+  image: 052.9788328141773.webp
 - name: "Ultimate Spider-Man - tom 5"
-  isbn: 0
+  isbn: 9788328141834
+  image: 053.9788328141834.webp
 - name: "Punisher MAX - tom 7"
-  isbn: 0
+  isbn: 9788328153424
+  image: 054.9788328153424.webp
 - name: "Kapitan Ameryka tom 2: Czerwony Łajdak"
-  isbn: 0
+  isbn: 9788328141766
+  image: 055.9788328141766.webp
 - name: "Krucjata nieskończoności"
-  isbn: 0
+  isbn: 9788328197800
+  image: 056.9788328197800.webp
 - name: "Wojna królów: Preludium"
-  isbn: 0
+  isbn: 9788328197794
+  image: 057.9788328197794.webp
 - name: "Deadpool Classic - tom 8"
-  isbn: 0
+  isbn: 9788328197787
+  image: 058.9788328197787.webp
 - name: "Ultimate Spider-Man - tom 6"
-  isbn: 0
+  isbn: 9788328197817
+  image: 059.9788328197817.webp
 - name: "Daredevil: Frank Miller - tom 3"
-  isbn: 0
+  isbn: 9788328197770
+  image: 060.9788328197770.webp
 - name: "Punisher MAX - tom 8"
-  isbn: 0
+  isbn: 9788328196827
+  image: 061.9788328196827.webp
 - name: "Kapitan Ameryka tom 3: Śmierć Kapitana Ameryki"
-  isbn: 0
+  isbn: 9788328196735
+  image: 062.9788328196735.webp
 - name: "Srebrny Surfer: Przypowieści"
-  isbn: 0
+  isbn: 9788328196766
+  image: 063.9788328196766.webp
 - name: "Ultimate Spider-Man - tom 7"
-  isbn: 0
+  isbn: 9788328196759
+  image: 064.9788328196759.webp
 - name: "Deadpool Classic - tom 9"
-  isbn: 0
+  isbn: 9788328196797
+  image: 065.9788328196797.webp
 - name: "Wojna Królów"
-  isbn: 0
+  isbn: 9788328196780
+  image: 066.9788328196780.webp
 - name: "Punisher MAX - tom 9"
-  isbn: 0
+  isbn: 9788328196834
+  image: 067.9788328196834.webp
 - name: "Ultimate X-Men - tom 1"
-  isbn: 0
+  isbn: 9788328196810
+  image: 068.9788328196810.webp
 - name: "Daredevil: Frank Miller - tom 4"
-  isbn: 0
+  isbn: 9788328196803
+  image: 069.9788328196803.webp
 - name: "Strażnicy Galaktyki - tom 2"
-  isbn: 0
+  isbn: 9788328197756
+  image: 070.9788328197756.webp
 - name: "Kapitan Ameryka tom 4: Człowiek, który kupił Amerykę"
-  isbn: 0
+  isbn: 9788328196742
+  image: 071.9788328196742.webp
 - name: "Ultimate Spider-Man - tom 8"
-  isbn: 0
+  isbn: 9788328196773
+  image: 072.9788328196773.webp
 - name: "Daredevil Nieustraszony - tom 0"
-  isbn: 0
+  isbn: 9788328196841
+  image: 073.9788328196841.webp
 - name: "Deadpool Classic - tom 10"
-  isbn: 0
+  isbn: 9788328160118
+  image: 074.9788328160118.webp
 - name: "Amazing Spider-Man Epic Collection - Ostatnie łowy Kravena"
-  isbn: 0
+  isbn: 9788328157385
+  image: 075.9788328157385.webp
 - name: "Ultimate X-Men - tom 2"
-  isbn: 0
+  isbn: 9788328150010
+  image: 076.9788328150010.webp
 - name: "Punisher MAX - tom 10"
-  isbn: 0
+  isbn: 9788328160422
+  image: 077.9788328160422.webp
 - name: "Domena Królów"
-  isbn: 0
+  isbn: 9788328160415
+  image: 078.9788328160415.webp
 - name: "Kapitan Ameryka tom 5: Człowiek bez twarzy"
-  isbn: 0
+  isbn: 9788328160439
+  image: 079.9788328160439.webp
 - name: "Amazing Spider-Man Epic Collection - Venom"
-  isbn: 0
+  isbn: 9788328157392
+  image: 080.9788328157392.webp
 - name: "Ultimate Spider-Man - tom 9"
-  isbn: 0
+  isbn: 9788328150034
+  image: 081.9788328150034.webp
 - name: "Deadpool i Cable - tom 1"
-  isbn: 0
+  isbn: 9788328152021
+  image: 082.9788328152021.webp
 - name: "Ultimate X-Men - tom 3"
-  isbn: 0
+  isbn: 9788328150041
+  image: 083.9788328150041.webp
 - name: "Marvel Knights Punisher - tom 1"
-  isbn: 0
+  isbn: 9788328152052
+  image: 084.9788328152052.webp
 - name: "Amazing Spider-Man Epic Collection - Inferno"
-  isbn: 0
+  isbn: 9788328150065
+  image: 085.9788328150065.webp
 - name: "Fantastyczna Czwórka - tom 1"
-  isbn: 0
+  isbn: 9788328152243
+  image: 086.9788328152243.webp
 - name: "Daredevil Nieustraszony - tom 7"
-  isbn: 0
+  isbn: 9788328150058
+  image: 087.9788328150058.webp
 - name: "X-Men: Punkty zwrotne - Kompleks mesjasz"
-  isbn: 0
+  isbn: 9788328152045
+  image: 088.9788328152045.webp
 - name: "Kapitan Ameryka tom 6: Odrodzenie"
-  isbn: 0
+  isbn: 9788328152267
+  image: 089.9788328152267.webp
 - name: "Ultimate X-Men - tom 4"
-  isbn: 0
+  isbn: 9788328154490
+  image: 090.9788328154490.webp
 - name: "Marvel Knights Punisher - tom 2"
-  isbn: 0
+  isbn: 9788328154438
+  image: 091.9788328154438.webp
 - name: "Amazing Spider-Man Epic Collection - Kosmiczne przygody"
-  isbn: 0
+  isbn: 9788328154315
+  image: 092.9788328154315.webp
 - name: "Lepsi wrogowie Spider-Mana"
-  isbn: 0
+  isbn: 9788328154452
+  image: 093.9788328154452.webp
 - name: "Ultimate Spider-Man - tom 10"
-  isbn: 0
+  isbn: 9788328154346
+  image: 094.9788328154346.webp
 - name: "X-Men: Punkty zwrotne - Wojna o mesjasza"
-  isbn: 0
+  isbn: 9788328154414
+  image: 095.9788328154414.webp
 - name: "Oto nadchodzi... Daredevil - tom 1"
-  isbn: 0
+  isbn: 9788328154292
+  image: 096.9788328154292.webp
 - name: "Thor"
-  isbn: 0
+  isbn: 9788328154483
+  image: 097.9788328154483.webp
 - name: "Deadpool i Cable - tom 2"
-  isbn: 0
+  isbn: 9788328154384
+  image: 098.9788328154384.webp
 - name: "Ultimate Spider-Man - tom 11"
-  isbn: 0
-- name: "100	Imperatyw Thanosa"
-  isbn: 0
-- name: "101	X-Men: Punkty Zwrotne - Powtórne przyjście"
-  isbn: 0
-- name: "102	Amazing Spider-Man Epic Collection - Powrót Złowieszczej Szóstki"
-  isbn: 0
-- name: "103	Marvel Knights Punisher - tom 3"
-  isbn: 0
-- name: "104	Oto nadchodzi... Daredevil - tom 2"
-  isbn: 0
-- name: "105	Silver Surfer - tom 1"
-  isbn: 0
-- name: "106	Ultimate X-Men - tom 5"
-  isbn: 0
-- name: "107	Punisher Epic Collection: Krąg krwi"
-  isbn: 0
-- name: "108	Ultimate Spider-Man - tom 12"
-  isbn: 0
-- name: "109	X-Men: Punkty Zwrotne - Masakra mutantów"
-  isbn: 0
-- name: "110	Fantastyczna Czwórka - tom 2"
-  isbn: 0
-- name: "111	Kapitan Ameryka tom 7: Proces Kapitana Ameryki"
-  isbn: 0
-- name: "112	Silver Surfer - tom 2"
-  isbn: 0
-- name: "113	Amazing Spider-Man Epic Collection - Każdy z każdym"
-  isbn: 0
-- name: "114	Kapitan Ameryka tom 8: Amerykańscy marzyciele"
-  isbn: 0
-- name: "115	Ultimate Spider-Man - tom 13"
-  isbn: 0
-- name: "116	Amazing Spider-Man - tom 1"
-  isbn: 0
-- name: "117	X-Men: Punkty zwrotne - Upadek mutantów"
-  isbn: 0
-- name: "118	Tajna inwazja"
-  isbn: 0
-- name: "119	Punisher Epic Collection: Kingpin rządzi"
-  isbn: 0
-- name: "120	Amazing Spider-Man Epic Collection. Plaga pająkobójców"
-  isbn: 0
-- name: "121	Oto nadchodzi... Daredevil - tom 3"
-  isbn: 0
-- name: "122	Moon Knight"
-  isbn: 0
-- name: "123	Ultimate X-Men - tom 6"
-  isbn: 0
+  isbn: 9788328154353
+  image: 099.9788328154353.webp
+- name: "Imperatyw Thanosa"
+  isbn: 9788328154476
+  image: 100.9788328154476.webp
+- name: "X-Men: Punkty Zwrotne - Powtórne przyjście"
+  isbn: 9788328154407
+  image: 101.9788328154407.webp
+- name: "Amazing Spider-Man Epic Collection - Powrót Złowieszczej Szóstki"
+  isbn: 9788328154322
+  image: 102.9788328154322.webp
+- name: "Marvel Knights Punisher - tom 3"
+  isbn: 9788328154445
+  image: 103.9788328154445.webp
+- name: "Oto nadchodzi... Daredevil - tom 2"
+  isbn: 9788328154308
+  image: 104.9788328154308.webp
+- name: "Silver Surfer - tom 1"
+  isbn: 9788328154469
+  image: 105.9788328154469.webp
+- name: "Ultimate X-Men - tom 5"
+  isbn: 9788328154506
+  image: 106.9788328154506.webp
+- name: "Punisher Epic Collection: Krąg krwi"
+  isbn: 9788328154421
+  image: 107.9788328154421.webp
+- name: "Ultimate Spider-Man - tom 12"
+  isbn: 9788328154360
+  image: 108.9788328154360.webp
+- name: "X-Men: Punkty Zwrotne - Masakra mutantów"
+  isbn: 9788328154513
+  image: 109.9788328154513.webp
+- name: "Fantastyczna Czwórka - tom 2"
+  isbn: 9788328154391
+  image: 110.9788328154391.webp
+- name: "Kapitan Ameryka tom 7: Proces Kapitana Ameryki"
+  isbn: 9788328154377
+  image: 111.9788328154377.webp
+- name: "Silver Surfer - tom 2"
+  isbn: 9788328153356
+  image: 112.9788328153356.webp
+- name: "Amazing Spider-Man Epic Collection - Każdy z każdym"
+  isbn: 9788328154339
+  image: 113.9788328154339.webp
+- name: "Kapitan Ameryka tom 8: Amerykańscy marzyciele"
+  isbn: 9788328157613
+  image: 114.9788328157613.webp
+- name: "Ultimate Spider-Man - tom 13"
+  isbn: 9788328157200
+  image: 115.9788328157200.webp
+- name: "Amazing Spider-Man - tom 1"
+  isbn: 9788328166486
+  image: 116.9788328166486.webp
+- name: "X-Men: Punkty zwrotne - Upadek mutantów"
+  isbn: 9788328161306
+  image: 117.9788328161306.webp
+- name: "Tajna inwazja"
+  isbn: 9788328161368
+  image: 118.9788328161368.webp
+- name: "Punisher Epic Collection: Kingpin rządzi"
+  isbn: 9788328161269
+  image: 119.9788328161269.webp
+- name: "Amazing Spider-Man Epic Collection. Plaga pająkobójców"
+  isbn: 9788328164321
+  image: 120.9788328164321.webp
+- name: "Oto nadchodzi... Daredevil - tom 3"
+  isbn: 9788328153646
+  image: 121.9788328153646.webp
+- name: "Moon Knight"
+  isbn: 9788328161252
+  image: 122.9788328161252.webp
+- name: "Ultimate X-Men - tom 6"
+  isbn: 9788328167209
+  image: 123.9788328167209.webp
