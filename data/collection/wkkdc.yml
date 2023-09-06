@@ -1,162 +1,245 @@
 ---
 - name: "Batman: Hush, część 1"
-  isbn: 0
+  isbn: 9788377186015
+  image: 001.9788377186015.jpeg
 - name: "Batman: Hush, część 2"
-  isbn: 0
+  isbn: 9788377186022
+  image: 002.9788377186022.jpeg
 - name: "Green Arrow: Kołczan, część 1"
-  isbn: 0
+  isbn: 9788377186039
+  image: 003.9788377186039.jpeg
 - name: "Green Arrow: Kołczan, część 2"
-  isbn: 0
+  isbn: 9788377186046
+  image: 004.9788377186046.jpeg
 - name: "Batman: Batman i Syn"
-  isbn: 0
+  isbn: 9788377186053
+  image: 005.9788377186053.jpeg
 - name: "Wonder Woman: Krąg"
-  isbn: 0
+  isbn: 9788377186060
+  image: 006.9788377186060.jpeg
 - name: "Batman: Długie Halloween, część 1"
-  isbn: 0
+  isbn: 9788377186077
+  image: 007.9788377186077.jpeg
 - name: "Batman: Długie Halloween, część 2"
-  isbn: 0
+  isbn: 9788377186084
+  image: 008.9788377186084.jpeg
 - name: "Batman: Śmierć w Rodzinie"
-  isbn: 0
+  isbn: 9788377186091
+  image: 009.9788377186091.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Ziemia Dwa"
-  isbn: 0
+  isbn: 9788377186107
+  image: 010.9788377186107.jpeg
 - name: "Catwoman: Wielki Skok Seliny"
-  isbn: 0
+  isbn: 9788377186114
+  image: 011.9788377186114.jpeg
 - name: "Superman: Ostatni syn Kryptona"
-  isbn: 0
+  isbn: 9788377186121
+  image: 012.9788377186121.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Wieża Babel"
-  isbn: 0
+  isbn: 9788377186138
+  image: 013.9788377186138.jpeg
 - name: "Batman: Zagłada Gotham"
-  isbn: 0
+  isbn: 9788377186145
+  image: 014.9788377186145.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Rok Pierwszy, część 1"
-  isbn: 0
+  isbn: 9788377186152
+  image: 015.9788377186152.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Rok Pierwszy, część 2"
-  isbn: 0
+  isbn: 9788377186169
+  image: 016.9788377186169.jpeg
 - name: "Harley Quinn: Preludia i fantazje"
-  isbn: 0
+  isbn: 9788377186176
+  image: 017.9788377186176.jpeg
 - name: "Superman: Człowiek ze Stali"
-  isbn: 0
+  isbn: 9788377186183
+  image: 018.9788377186183.jpeg
 - name: "Lex Luthor: Człowiek ze Stali"
-  isbn: 0
+  isbn: 9788377186190
+  image: 019.9788377186190.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Sprawiedliwość, część 1"
-  isbn: 0
+  isbn: 9788377186206
+  image: 020.9788377186206.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Sprawiedliwość, część 2"
-  isbn: 0
+  isbn: 9788377186213
+  image: 021.9788377186213.jpeg
 - name: "Odważni i Niezłomni: Władcy Losu"
-  isbn: 0
+  isbn: 9788377186220
+  image: 022.9788377186220.jpeg
 - name: "Green Lantern: Tajna Geneza"
-  isbn: 0
+  isbn: 9788377186237
+  image: 023.9788377186237.jpeg
 - name: "Superman: Śmierć Supermana"
-  isbn: 0
+  isbn: 9788377186244
+  image: 024.9788377186244.jpeg
 - name: "Flash: Urodzony Sprinter"
-  isbn: 0
+  isbn: 9788377186251
+  image: 025.9788377186251.jpeg
 - name: "Robin: Rok Pierwszy"
-  isbn: 0
+  isbn: 9788377186268
+  image: 026.9788377186268.jpeg
 - name: "Wonder Woman: Raj Utracon"
-  isbn: 0
+  isbn: 9788377186275
+  image: 027.9788377186275.jpeg
 - name: "Catwoman: Na tropie Catwoman"
-  isbn: 0
+  isbn: 9788377186282
+  image: 028.9788377186282.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Gwoźdź"
-  isbn: 0
+  isbn: 9788377186299
+  image: 029.9788377186299.jpeg
 - name: "Trójca	Batman/Superman/Wonder"
-  isbn: 0
+  isbn: 9788377186305
+  image: 030.9788377186305.jpeg
 - name: "Superman: Brainiac"
-  isbn: 0
+  isbn: 9788377186312
+  image: 031.9788377186312.jpeg
 - name: "Batgirl: Rok Pierwszy"
-  isbn: 0
+  isbn: 9788377186329
+  image: 032.9788377186329.jpeg
 - name: "Superman: Tajna Geneza"
-  isbn: 0
+  isbn: 9788377186336
+  image: 033.9788377186336.jpeg
 - name: "Batman: Narodziny Demona, część 1"
-  isbn: 0
+  isbn: 9788377186343
+  image: 034.9788377186343.jpeg
 - name: "Batman: Narodziny Demona, część 2"
-  isbn: 0
-- name: "Young Justice: Ich własna liga"
-  isbn: 0
+  isbn: 9788377186350
+  image: 035.9788377186350.jpeg
+- name: "Liga Młodych: Ich własna liga"
+  isbn: 9788377186367
+  image: 036.9788377186367.jpeg
 - name: "Flash: Wojna Łotrów"
-  isbn: 0
+  isbn: 9788377186374
+  image: 037.9788377186374.jpeg
 - name: "Batman: Zjawy z przeszłości"
-  isbn: 0
+  isbn: 9788377186381
+  image: 038.9788377186381.jpeg
 - name: "Superman: Dziedzictwo, część 1"
-  isbn: 0
+  isbn: 9788377186398
+  image: 039.9788377186398.jpeg
 - name: "Superman: Dziedzictwo, część 2"
-  isbn: 0
+  isbn: 9788377186404
+  image: 040.9788377186404.jpeg
 - name: "Wonder Woman: Oczy Gorgony"
-  isbn: 0
+  isbn: 9788377186411
+  image: 041.9788377186411.jpeg
 - name: "Superman/Batman: Wrogowie Publiczni"
-  isbn: 0
+  isbn: 9788377186428
+  image: 042.9788377186428.jpeg
 - name: "Plastic Man: Ścigany"
-  isbn: 0
+  isbn: 9788377186435
+  image: 043.9788377186435.jpeg
 - name: "Green Arrow: Rok Pierwszy"
-  isbn: 0
+  isbn: 9788377186442
+  image: 044.9788377186442.jpeg
 - name: "Nowa Granica, część 1"
-  isbn: 0
+  isbn: 9788377186459
+  image: 045.9788377186459.jpeg
 - name: "Nowa Granica, część 2"
-  isbn: 0
+  isbn: 9788377186466
+  image: 046.9788377186466.jpeg
 - name: "Flash: Powrót Barry'ego Allena"
-  isbn: 0
+  isbn: 9788377186473
+  image: 047.9788377186473.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Kolejny Gwóźdź"
-  isbn: 0
+  isbn: 9788377186480
+  image: 048.9788377186480.jpeg
 - name: "Wonder Woman: Bogowie i śmiertelnicy"
-  isbn: 0
+  isbn: 9788377186497
+  image: 049.9788377186497.jpeg
 - name: "Superman/Batman: Supergirl"
-  isbn: 0
+  isbn: 9788377186503
+  image: 050.9788377186503.jpeg
 - name: "Batman: Człowiek, który się śmieje/Azyl Arkham"
-  isbn: 0
+  isbn: 9788377186510
+  image: 051.9788377186510.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Nowy Porządek Świata"
-  isbn: 0
+  isbn: 9788377186527
+  image: 052.9788377186527.jpeg
 - name: "Nowi Nastoletni Tytani: Kontrakt Judasza"
-  isbn: 0
+  isbn: 9788377186534
+  image: 053.9788377186534.jpeg
 - name: "Superman: Dla Jutra, część 1"
-  isbn: 0
+  isbn: 9788377186541
+  image: 054.9788377186541.jpeg
 - name: "Superman: Dla Jutra, część 2"
-  isbn: 0
+  isbn: 9788377186558
+  image: 055.9788377186558.jpeg
 - name: "Amerykańska Liga Sprawiedliwości: Pragnienie Sprawiedliwości"
-  isbn: 0
+  isbn: 9788377186565
+  image: 056.9788377186565.jpeg
 - name: "Batman: Pod kapturem"
-  isbn: 0
+  isbn: 9788377186572
+  image: 057.9788377186572.jpeg
 - name: "Green Lantern/Green Arrow: Włóczęga Bohaterów"
-  isbn: 0
+  isbn: 9788377186589
+  image: 058.9788377186589.jpeg
 - name: "Superman/Batman: Udręka"
-  isbn: 0
-- name: "Punkt Krytyczny"
-  isbn: 0
+  isbn: 9788377186596
+  image: 059.9788377186596.jpeg
+- name: "Flashpoint: Punkt Krytyczny"
+  isbn: 9788377186602
+  image: 060.9788377186602.jpeg
 - name: "Batman/Huntress: Zew Krwi"
-  isbn: 0
-- name: "JLA: Siła wyższa"
-  isbn: 0
+  isbn: 9788365725851
+  image: 061.9788365725851.jpeg
+- name: "Amerykańska Liga Sprawiedliwości JLA: Siła wyższa"
+  isbn: 9788365725868
+  image: 062.9788365725868.jpeg
 - name: "Superman: Co się stało z Człowiekiem Jutra?"
-  isbn: 0
+  isbn: 9788365725875
+  image: 063.9788365725875.jpeg
 - name: "JLA/JSA: Cnota i występek"
-  isbn: 0
+  isbn: 9788365725882
+  image: 064.9788365725882.jpeg
 - name: "Batman: Czarna rękawica"
-  isbn: 0
+  isbn: 9788365725899
+  image: 065.9788365725899.jpeg
 - name: "Potwór z bagien, część 1"
-  isbn: 0
+  isbn: 9788365725905
+  image: 066.9788365725905.jpeg
 - name: "Superman/Batman: Legendy najlepszych na świecie"
-  isbn: 0
+  isbn: 9788365725912
+  image: 067.9788365725912.jpeg
 - name: "Green Lantern: Zemsta Green Lanternów"
-  isbn: 0
+  isbn: 9788365725929
+  image: 068.9788365725929.jpeg
 - name: "Superman/Shazam: Pierwszy grom"
-  isbn: 0
+  isbn: 9788365725936
+  image: 069.9788365725936.jpeg
 - name: "JSA: Złoty wiek"
-  isbn: 0
-- name: "JLI: Międzynarodowa Liga Sprawiedliwości, część 1"
-  isbn: 0
+  isbn: 9788365725943
+  image: 070.9788365725943.jpeg
+- name: "Międzynarodowa Liga Sprawiedliwości, część 1"
+  isbn: 9788365725950
+  image: 071.9788365725950.jpeg
 - name: "Potwór z Bagien, część 2"
-  isbn: 0
+  isbn: 9788365725967
+  image: 072.9788365725967.jpeg
 - name: "Green Lantern: Poszukiwany Hal Jordan"
-  isbn: 0
+  isbn: 9788365725974
+  image: 073.9788365725974.jpeg
 - name: "Superman i Legion Superbohaterów"
-  isbn: 0
+  isbn: 9788365725981
+  image: 074.9788365725981.jpeg
 - name: "Nastoletni Tytani: Przyszłość jest teraz"
-  isbn: 0
+  isbn: 9788365725998
+  image: 075.9788365725998.jpeg
 - name: "Batman: Dynastia Mrocznego Rycerza"
-  isbn: 0
+  isbn: 9788377182376
+  image: 076.9788377182376.jpeg
 - name: "Flash: Błyskawica w butelce"
-  isbn: 0
-- name: "JLI: Międzynarodowa Liga Sprawiedliwości, część 2"
-  isbn: 0
+  isbn: 9788377182383
+  image: 077.9788377182383.jpeg
+- name: "Międzynarodowa Liga Sprawiedliwości, część 2"
+  isbn: 9788377182390
+  image: 078.9788377182390.jpeg
 - name: "Superman: Kryzys Szkarłatnego Kryptonitu"
-  isbn: 0
+  isbn: 9788377182482
+  image: 079.9788377182482.jpeg
 - name: "Hawkman: Wieczny lot"
-  isbn: 0
+  isbn: 9788377182499
+  image: 080.9788377182499.jpeg
+- name: "Kryzys tożsamości"
+  isbn: 9788377185650
+  image: S01.9788377185650.jpeg
 
