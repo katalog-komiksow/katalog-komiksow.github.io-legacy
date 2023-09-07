@@ -21,7 +21,11 @@
         </th>
         <td>
           <% if book.image %>
-            <%= image_tag("#{config[:book_cover_base_url]}/#{collection_slug}/#{book.image}", width: "100") %>
+            <% if book.external %>
+              <%= image_tag("#{config[:book_cover_base_url]}/#{book.external}/#{book.image}", width: "100") %>
+            <% else %>
+              <%= image_tag("#{config[:book_cover_base_url]}/#{collection_slug}/#{book.image}", width: "100") %>
+            <% end %>
           <% elsif book.isbn && isbn_data %>
             <%= image_tag("#{config[:book_cover_base_url]}/#{collection_slug}/#{isbn_data.image}", width: "100") %>
           <% end %>

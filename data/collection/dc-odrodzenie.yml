@@ -1,203 +1,305 @@
 ---
 - name: "Droga do Odrodzenia. Superman - Lois i Clark"
-  isbn: 0
+  isbn: 9788328119963
+  image: 001.9788328119963.webp
 - name: "Droga do Odrodzenia: Superman - Ostatnie dni Supermana"
-  isbn: 0
+  isbn: 9788328127043
+  image: 002.9788328127043.webp
 - name: "Uniwersum DC - Odrodzenie"
-  isbn: 0
+  isbn: 9788328127050
+  image: dc-delux.019.webp
+  external: dc-delux
 - name: "Batman. Tom 1: Jestem Gotham"
-  isbn: 0
+  isbn: 9788328127685
+  image: 004.9788328127685.webp
 - name: "Green Arrow. Tom 1: Śmierć i życie Olivera Queena"
-  isbn: 0
+  isbn: 9788328127678
+  image: 005.9788328127678.webp
 - name: "Suicide Squad - Oddział Samobójców. Tom 1: Czarne więzienie"
-  isbn: 0
+  isbn: 9788328127692
+  image: 006.9788328127692.webp
 - name: "Superman. Tom 1: Syn Supermana"
-  isbn: 0
+  isbn: 9788328127661
+  image: 007.9788328127661.webp
 - name: "Superman - Action Comics. Tom 1: Ścieżka zagłady"
-  isbn: 0
+  isbn: 9788328127739
+  image: 008.9788328127739.webp
 - name: "Batman - Detective Comics. Tom 1: Powstanie Batmanów"
-  isbn: 0
+  isbn: 9788328127722
+  image: 009.9788328127722.webp
 - name: "Flash. Tom 1: Piorun uderza dwa razy"
-  isbn: 0
+  isbn: 9788328127708
+  image: 010.9788328127708.webp
 - name: "Liga Sprawiedliwości. Tom 1: Maszyny zagłady"
-  isbn: 0
+  isbn: 9788328127715
+  image: 011.9788328127715.webp
 - name: "All-Star Batman. Tom 1: Mój największy wróg"
-  isbn: 0
+  isbn: 9788328127760
+  image: 012.9788328127760.webp
 - name: "Aquaman. Tom 1: Utonięcie"
-  isbn: 0
+  isbn: 9788328127746
+  image: 013.9788328127746.webp
 - name: "Hal Jordan i Korpus Zielonych Latarni. Tom 1: Prawo Sinestro"
-  isbn: 0
+  isbn: 9788328127753
+  image: 014.9788328127753.webp
 - name: "Nastoletni Tytani. Tom 1: Damian wie lepiej"
-  isbn: 0
+  isbn: 9788328127777
+  image: 015.9788328127777.webp
 - name: "Batman: Noc Ludzi Potworów"
-  isbn: 0
+  isbn: 9788328127807
+  image: 016.9788328127807.webp
 - name: "Harley Quinn. Tom 1: Umrzeć ze śmiechem"
-  isbn: 0
+  isbn: 9788328116580
+  image: 017.9788328116580.webp
 - name: "Nightwing. Tom 1: Lepszy niż Batman"
-  isbn: 0
+  isbn: 9788328127791
+  image: 018.9788328127791.webp
 - name: "Wonder Woman. Tom 1: Kłamstwa"
-  isbn: 0
+  isbn: 9788328127814
+  image: 019.9788328127814.webp
 - name: "Batman. Tom 2: Jestem Samobójcą"
-  isbn: 0
+  isbn: 9788328126404
+  image: 020.9788328126404.webp
 - name: "Green Arrow. Tom 2: Wyspa Blizn"
-  isbn: 0
+  isbn: 9788328126398
+  image: 021.9788328126398.webp
 - name: "Superman. Tom 2: Pierwsze Próby Superboya"
-  isbn: 0
+  isbn: 9788328126381
+  image: 022.9788328126381.webp
 - name: "Aquaman. Tom 2: Nadpływa Czarna Manta"
-  isbn: 0
+  isbn: 9788328126701
+  image: 023.9788328126701.webp
 - name: "Superman - Action Comics. Tom 2: Powrót do Daily Planet"
-  isbn: 0
+  isbn: 9788328126473
+  image: 024.9788328126473.webp
 - name: "Liga Sprawiedliwości. Tom 2: Epidemia"
-  isbn: 0
+  isbn: 9788328126510
+  image: 025.9788328126510.webp
 - name: "Batman - Detective Comics. Tom 2: Syndykat Ofiar"
-  isbn: 0
+  isbn: 9788328126480
+  image: 026.9788328126480.webp
 - name: "Flash. Tom 2: Pęd ciemności"
-  isbn: 0
+  isbn: 9788328126534
+  image: 027.9788328126534.webp
 - name: "Wonder Woman. Tom 2: Rok pierwszy"
-  isbn: 0
+  isbn: 9788328134003
+  image: 028.9788328134003.webp
 - name: "Hal Jordan i Korpus Zielonych Latarni. Tom 2: Światło w Butelce"
-  isbn: 0
+  isbn: 9788328134010
+  image: 029.9788328134010.webp
 - name: "Suicide Squad - Oddział Samobójców. Tom 2: Przy Zdrowych Zmysłach"
-  isbn: 0
+  isbn: 9788328126497
+  image: 030.9788328126497.webp
 - name: "Nightwing. Tom 2: Blüdhaven"
-  isbn: 0
+  isbn: 9788328134027
+  image: 031.9788328134027.webp
 - name: "Liga Sprawiedliwości. Tom 3: Ponadczasowi"
-  isbn: 0
+  isbn: 9788328134034
+  image: 032.9788328134034.webp
 - name: "Liga Sprawiedliwości kontra Suicide Squad"
-  isbn: 0
+  isbn: 9788328134041
+  image: 033.9788328134041.webp
 - name: "Superman - Action Comics. Tom 3: Ludzie ze stali"
-  isbn: 0
+  isbn: 9788328134065
+  image: 034.9788328134065.webp
 - name: "Harley Quinn. Tom 2: Joker kocha Harley"
-  isbn: 0
+  isbn: 9788328134058
+  image: 035.9788328134058.webp
 - name: "Batman. Tom 3: Jestem Bane"
-  isbn: 0
+  isbn: 9788328134287
+  image: 036.9788328134287.webp
 - name: "Green Arrow. Tom 3: Szmaragdowy Banita"
-  isbn: 0
+  isbn: 9788328134256
+  image: 037.9788328134256.webp
 - name: "Superman. Tom 3: Wielokrotność"
-  isbn: 0
+  isbn: 9788328134249
+  image: 038.9788328134249.webp
 - name: "All-Star Batman. Tom 2: Końce Świata"
-  isbn: 0
+  isbn: 9788328126527
+  image: 039.9788328126527.webp
 - name: "Flash. Tom 3: Łotrzy - Reaktywacja"
-  isbn: 0
+  isbn: 9788328134232
+  image: 040.9788328134232.webp
 - name: "Superman Odrodzony"
-  isbn: 0
+  isbn: 9788328134294
+  image: 041.9788328134294.webp
 - name: "Wonder Woman. Tom 3: Prawda"
-  isbn: 0
+  isbn: 9788328134317
+  image: 042.9788328134317.webp
 - name: "Aquaman. Tom 3: Korona Atlantydy"
-  isbn: 0
+  isbn: 9788328134355
+  image: 043.9788328134355.webp
 - name: "Hal Jordan i Korpus Zielonych Latarni. Tom 3: Poszukiwanie nadziei"
-  isbn: 0
+  isbn: 9788328134348
+  image: 044.9788328134348.webp
 - name: "Batman - Detective Comics. Tom 3: Liga Cieni"
-  isbn: 0
+  isbn: 9788328134331
+  image: 045.9788328134331.webp
 - name: "Batman/The Flash: Przypinka"
-  isbn: 0
+  isbn: 9788328135789
+  image: 046.9788328135789.webp
 - name: "Liga Sprawiedliwości. Tom 4: Niekończąca się walka"
-  isbn: 0
+  isbn: 9788328134416
+  image: 047.9788328134416.webp
 - name: "Harley Quinn. Tom 3: Krwiste mięso"
-  isbn: 0
+  isbn: 9788328134409
+  image: 048.9788328134409.webp
 - name: "Superman - Action Comics. Tom 4: Nowy świat"
-  isbn: 0
+  isbn: 9788328134423
+  image: 049.9788328134423.webp
 - name: "Superman. Tom 4: Czarny świt"
-  isbn: 0
+  isbn: 9788328134478
+  image: 050.9788328134478.webp
 - name: "Wonder Woman. Tom 4: Godwatch"
-  isbn: 0
+  isbn: 9788328134461
+  image: 051.9788328134461.webp
 - name: "Nightwing. Tom 3: Nightwing musi umrzeć"
-  isbn: 0
+  isbn: 9788328134485
+  image: 052.9788328134485.webp
 - name: "Batman. Tom 4: Wojna Żartów z Zagadkami"
-  isbn: 0
+  isbn: 9788328134522
+  image: 053.9788328134522.webp
 - name: "Flash. Tom 4: Ucieczka"
-  isbn: 0
+  isbn: 9788328134546
+  image: 054.9788328134546.webp
 - name: "Green Arrow. Tom 4: Powstanie Star City"
-  isbn: 0
+  isbn: 9788328134539
+  image: 055.9788328134539.webp
 - name: "Hal Jordan i Korpus Zielonych Latarni. Tom 4: Rozłam"
-  isbn: 0
+  isbn: 9788328134621
+  image: 056.9788328134621.webp
 - name: "Nastoletni Tytani. Tom 2: Wejście Aqualada"
-  isbn: 0
+  isbn: 9788328134607
+  image: 057.9788328134607.webp
 - name: "Suicide Squad - Oddział Samobójców. Tom 3: Płonąca baza"
-  isbn: 0
+  isbn: 9788328134614
+  image: 058.9788328134614.webp
 - name: "Superman - Action Comics. Tom 5: Efekt Oza"
-  isbn: 0
+  isbn: 9788328141070
+  image: 059.9788328141070.webp
 - name: "Flash. Tom 5: Negatywny"
-  isbn: 0
+  isbn: 9788328141087
+  image: 060.9788328141087.webp
 - name: "Suicide Squad - Oddział Samobójców. Tom 4: Ziemianie w ogniu"
-  isbn: 0
+  isbn: 9788328141056
+  image: 061.9788328141056.webp
 - name: "Batman - Detective Comics. Tom 4: Deus Ex Machina"
-  isbn: 0
+  isbn: 9788328141209
+  image: 062.9788328141209.webp
 - name: "Superman - Action Comics. Tom 5: Booster Gold"
-  isbn: 0
+  isbn: 9788328141223
+  image: 063.9788328141223.webp
 - name: "Liga Sprawiedliwości. Tom 5: Dziedzictwo"
-  isbn: 0
+  isbn: 9788328141216
+  image: 064.9788328141216.webp
 - name: "All-Star Batman. Tom 3: Pierwszy Sojusznik"
-  isbn: 0
+  isbn: 9788328141292
+  image: 065.9788328141292.webp
 - name: "Suicide Squad - Oddział Samobójców. Tom 5: Zabij swoich bliskich"
-  isbn: 0
+  isbn: 9788328141308
+  image: 066.9788328141308.webp
 - name: "Green Arrow. Tom 5: Konstelacja strachu"
-  isbn: 0
+  isbn: 9788328141315
+  image: 067.9788328141315.webp
 - name: "Nightwing. Tom 4: Starzy i nowi wrogowie"
-  isbn: 0
+  isbn: 9788328141476
+  image: 068.9788328141476.webp
 - name: "Superman - Action Comics 1000"
-  isbn: 0
+  isbn: 9788328141322
+  image: 069.9788328141322.webp
 - name: "Batman. Tom 5: Zaręczeni"
-  isbn: 0
+  isbn: 9788328141452
+  image: 070.9788328141452.webp
 - name: "Nastoletni Tytani. Tom 3: Powrót Kid Flasha"
-  isbn: 0
+  isbn: 9788328141711
+  image: 071.9788328141711.webp
 - name: "Superman. Tom 5: Nadzieje i lęki"
-  isbn: 0
+  isbn: 9788328141575
+  image: 072.9788328141575.webp
 - name: "Batman - Detective Comics. Tom 5: Życie w samotności"
-  isbn: 0
+  isbn: 9788328141551
+  image: 073.9788328141551.webp
 - name: "Superman. Tom 6: Imperius Lex"
-  isbn: 0
+  isbn: 9788328141612
+  image: 074.9788328141612.webp
 - name: "Batman. Tom 6: Narzeczona czy włamywaczka?"
-  isbn: 0
+  isbn: 9788328141599
+  image: 075.9788328141599.webp
 - name: "Liga Sprawiedliwości. Tom 6: Piach w trybach"
-  isbn: 0
+  isbn: 9788328141650
+  image: 076.9788328141650.webp
 - name: "Batman - Detective Comics. Tom 6: Upadek Batmanów"
-  isbn: 0
+  isbn: 9788328141636
+  image: 077.9788328141636.webp
 - name: "Superman. Tom 7: Bizarrowersum"
-  isbn: 0
+  isbn: 9788328141742
+  image: 078.9788328141742.webp
 - name: "Suicide Squad - Oddział Samobójców. Tom 6: Tajna historia oddziału specjalnego X"
-  isbn: 0
+  isbn: 9788328142848
+  image: 079.9788328142848.webp
 - name: "Batman. Tom 7: Ślub"
-  isbn: 0
+  isbn: 9788328141643
+  image: 080.9788328141643.webp
 - name: "Flash. Tom 6: Zimny dzień w piekle"
-  isbn: 0
+  isbn: 9788328197466
+  image: 081.9788328197466.webp
 - name: "Batman - Detective Comics. Tom 7: Wieczni Batmani"
-  isbn: 0
+  isbn: 9788328142893
+  image: 082.9788328142893.webp
 - name: "Batman. Tom 8: Zimne dni"
-  isbn: 0
+  isbn: 9788328142930
+  image: 083.9788328142930.webp
 - name: "Flash. Tom 7: Burza doskonała"
-  isbn: 0
+  isbn: 9788328197473
+  image: 084.9788328197473.webp
 - name: "Batman - Detective Comics. Tom 8: Na zewnątrz"
-  isbn: 0
+  isbn: 9788328142978
+  image: 085.9788328142978.webp
 - name: "Harley Quinn. Tom 4: Niespodzianka"
-  isbn: 0
+  isbn: 9788328141568
+  image: 086.9788328141568.webp
 - name: "Batman. Tom 9: Drapieżne ptaki"
-  isbn: 0
+  isbn: 9788328197985
+  image: 087.9788328197985.webp
 - name: "Flash. Tom 8: Wojna Flashów"
-  isbn: 0
+  isbn: 9788328196001
+  image: 088.9788328196001.webp
 - name: "Batman - Detective Comics. Tom 9: Dwa oblicza Two-Face'a"
-  isbn: 0
+  isbn: 9788328197978
+  image: 089.9788328197978.webp
 - name: "Flash. Tom 9: Rachunek mocy"
-  isbn: 0
+  isbn: 9788328196018
+  image: 090.9788328196018.webp
 - name: "Batman. Tom 10: Koszmary"
-  isbn: 0
+  isbn: 9788328197992
+  image: 091.9788328197992.webp
 - name: "Flash. Tom 10: Wyprawa po moc"
-  isbn: 0
+  isbn: 9788328196025
+  image: 092.9788328196025.webp
 - name: "Batman. Tom 11: Upadek"
-  isbn: 0
+  isbn: 9788328196032
+  image: 093.9788328196032.webp
 - name: "Harley Quinn. Tom 5: Głosuj na Harley"
-  isbn: 0
+  isbn: 9788328198661
+  image: 094.9788328198661.webp
 - name: "Flash. Tom 11: Mistrzowska sztuczka"
-  isbn: 0
+  isbn: 9788328158009
+  image: 095.9788328158009.webp
 - name: "Batman. Tom 12: Miasto Bane'a"
-  isbn: 0
+  isbn: 9788328158054
+  image: 096.9788328158054.webp
 - name: "Flash - Rok pierwszy"
-  isbn: 0
+  isbn: 9788328159402
+  image: 097.9788328159402.webp
 - name: "Flash. Tom 12: Śmierć i moc prędkości"
-  isbn: 0
+  isbn: 9788328159419
+  image: 098.9788328159419.webp
 - name: "Flash. Tom 13: Rządy łotrów"
-  isbn: 0
+  isbn: 9788328152427
+  image: 099.9788328152427.webp
 - name: "Flash. Tom 14: Era Flasha"
-  isbn: 0
+  isbn: 9788328160668
+  image: 100.9788328160668.webp
 - name: "Flash. Tom 15: Meta"
-  isbn: 0
+  isbn: 9788328156067
+  image: 101.9788328156067.webp
