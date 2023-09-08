@@ -1,109 +1,163 @@
 ---
-- name: "Wojny nieskończoności. Odlicanie"
-  isbn: 0
+- name: "Wojny nieskończoności. Odliczanie"
+  isbn: 9788328160453
+  image: 001.9788328160453.webp
 - name: "Wojny nieskończoności"
-  isbn: 0
+  isbn: 9788328160460
+  image: 002.9788328160460.webp
 - name: "Amazing Spider-Man. Powrót do korzeni. Tom 1"
-  isbn: 0
+  isbn: 9788328167377
+  image: 003.9788328167377.webp
 - name: "Avengers. Ostatnia fala. Tom 1"
-  isbn: 0
+  isbn: 9788328152069
+  image: 004.9788328152069.webp
 - name: "Venom. Tom 1"
-  isbn: 0
+  isbn: 9788328167407
+  image: 005.9788328167407.webp
 - name: "Deadpool. Najemnika śmierć nie tyka. Tom 1"
-  isbn: 0
+  isbn: 9788328152014
+  image: 006.9788328152014.webp
 - name: "Powrót Wolverine'a"
-  isbn: 0
+  isbn: 9788328152274
+  image: 007.9788328152274.webp
 - name: "X-Men. Czerwoni"
-  isbn: 0
+  isbn: 9788328158993
+  image: 008.9788328158993.webp
 - name: "Doktor Strange. Tom 1"
-  isbn: 0
+  isbn: 9788328152281
+  image: 009.9788328152281.webp
 - name: "X-terminacja"
-  isbn: 0
+  isbn: 9788328152038
+  image: 010.9788328152038.webp
 - name: "Nieśmiertelny Hulk. Tom 1"
-  isbn: 0
+  isbn: 9788328152298
+  image: 011.9788328152298.webp
 - name: "Thor. Thor odrodzony. Tom 1"
-  isbn: 0
+  isbn: 9788328152090
+  image: 012.9788328152090.webp
 - name: "Avengers. Dookoła świata. Tom 2"
-  isbn: 0
+  isbn: 9788328152076
+  image: 013.9788328152076.webp
 - name: "Amazing Spider-Man. Przyjaciele i wrogowie. Tom 2"
-  isbn: 0
-- name: "Spidergeddon"
-  isbn: 0
+  isbn: 9788328152168
+  image: 014.9788328152168.webp
+- name: "Spidergedon"
+  isbn: 9788328152304
+  image: 015.9788328152304.webp
 - name: "Deadpool. Doranoc. Tom 2"
-  isbn: 0
+  isbn: 9788328152229
+  image: 016.9788328152229.webp
 - name: "Strażnicy Galaktyki. Ostatnie wyzwanie. Tom 1"
-  isbn: 0
+  isbn: 9788328152182
+  image: 017.9788328152182.webp
 - name: "Uncanny X-Men. Upadek X-Men"
-  isbn: 0
+  isbn: 9788328152311
+  image: 018.9788328152311.webp
 - name: "Avengers. Bez drogi do domu"
-  isbn: 0
+  isbn: 9788328152816
+  image: 019.9788328152816.webp
 - name: "Avengers. Wojna wampirów. Tom 3"
-  isbn: 0
+  isbn: 9788328152083
+  image: 020.9788328152083.webp
 - name: "Amazing Spider-Man. Życiowe osiągnięcie. Tom 3"
-  isbn: 0
+  isbn: 9788328152823
+  image: 021.9788328152823.webp
 - name: "Tony Stark. Iron Man. Tom 1"
-  isbn: 0
+  isbn: 9788328154599
+  image: 022.9788328154599.webp
 - name: "Doktor Strange. Tom 2"
-  isbn: 0
+  isbn: 9788328154568
+  image: 023.9788328154568.webp
 - name: "Amazing Spider-Man. Ścigany. Tom 4"
-  isbn: 0
+  isbn: 9788328154261
+  image: 024.9788328154261.webp
 - name: "Silver Surfer. Czarny"
-  isbn: 0
+  isbn: 9788328154636
+  image: 025.9788328154636.webp
 - name: "Thor. Preludium wojny światów. Tom 2"
-  isbn: 0
+  isbn: 9788328154643
+  image: 026.9788328154643.webp
 - name: "Avengers. Wojna światów. Tom 4"
-  isbn: 0
+  isbn: 9788328154520
+  image: 027.9788328154520.webp
 - name: "Wojna światów"
-  isbn: 0
+  isbn: 9788328154711
+  image: 028.9788328154711.webp
 - name: "Uncanny X-Men. Cyclops i Wolverine. Tom 2"
-  isbn: 0
+  isbn: 9788328154681
+  image: 029.9788328154681.webp
 - name: "Deadpool. Weasel idzie do Piekła. Tom 3"
-  isbn: 0
+  isbn: 9788328154551
+  image: 030.9788328154551.webp
 - name: "Venom. Tom 2"
-  isbn: 0
+  isbn: 9788328154698
+  image: 031.9788328154698.webp
 - name: "Król Thor"
-  isbn: 0
+  isbn: 9788328154667
+  image: 032.9788328154667.webp
 - name: "Thor. Kres wojny. Tom 3"
-  isbn: 0
+  isbn: 9788328154650
+  image: 033.9788328154650.webp
 - name: "Tony Stark. Iron Man. Tom 2"
-  isbn: 0
+  isbn: 9788328154605
+  image: 034.9788328154605.webp
 - name: "Amazing Spider-Man. Za kulisami. Tom 5"
-  isbn: 0
+  isbn: 9788328154278
+  image: 035.9788328154278.webp
 - name: "Ród X / Potęgi X"
-  isbn: 0
+  isbn: 9788328154575
+  image: 036.9788328154575.webp
 - name: "Savage Avengers. Tom 1"
-  isbn: 0
+  isbn: 9788328154544
+  image: 037.9788328154544.webp
 - name: "Strażnicy Galaktyki. Bez wiary. Tom 2"
-  isbn: 0
+  isbn: 9788328154612
+  image: 038.9788328154612.webp
 - name: "Avengers. Wyścig upiornych jeźdźców. Tom 5"
-  isbn: 0
+  isbn: 9788328154537
+  image: 039.9788328154537.webp
 - name: "Nieśmiertelny Hulk. Tom 2"
-  isbn: 0
+  isbn: 9788328154582
+  image: 040.9788328154582.webp
 - name: "Amazing Spider-Man. Rzeź absolutna. Tom 6"
-  isbn: 0
+  isbn: 9788328154285
+  image: 041.9788328154285.webp
 - name: "Venom. Tom 3"
-  isbn: 0
+  isbn: 9788328154704
+  image: 042.9788328154704.webp
 - name: "Avengers. Powrót Gwiezdnego Piętna. Tom 6"
-  isbn: 0
+  isbn: 9788328153349
+  image: 043.9788328153349.webp
 - name: "Amazing Spider-Man. 2099. Tom 7"
-  isbn: 0
+  isbn: 9788328157132
+  image: 044.9788328157132.webp
 - name: "Świt X. New Mutants"
-  isbn: 0
+  isbn: 9788328157620
+  image: 045.9788328157620.webp
 - name: "Świt X. X-Men. Tom 1"
-  isbn: 0
+  isbn: 9788328157637
+  image: 046.9788328157637.webp
 - name: "Nieśmiertelny Hulk. Tom 3"
-  isbn: 0
+  isbn: 9788328161153
+  image: 047.9788328161153.webp
 - name: "Strażnicy Galaktyki. Czyli zostaliśmy my. Tom 1"
-  isbn: 0
+  isbn: 9788328161207
+  image: 048.9788328161207.webp
 - name: "Amazing Spider-Man. Dranie i łajdacy. Tom 8"
-  isbn: 0
+  isbn: 9788328157149
+  image: 049.9788328157149.webp
 - name: "Avengers. Era Khonshu. Tom 7"
-  isbn: 0
-- name: "Epireum"
-  isbn: 0
-- name: "Epireum. X-Men"
-  isbn: 0
+  isbn: 9788328161115
+  image: 050.9788328161115.webp
+- name: "Empireum"
+  isbn: 9788328161139
+  image: 051.9788328161139.webp
+- name: "Empireum. X-Men"
+  isbn: 9788328161146
+  image: 052.9788328161146.webp
 - name: "Amazing Spider-Man. Dawne grzechy. Tom 9"
-  isbn: 0
+  isbn: 9788328164338
+  image: 053.9788328164338.webp
 - name: "Świt X. X-Men. Tom 2"
-  isbn: 0
+  isbn: 9788328161221
+  image: 054.9788328161221.webp
