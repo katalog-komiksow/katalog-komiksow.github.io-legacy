@@ -1,123 +1,184 @@
 ---
 - name: "Człowiek ze Stali"
-  isbn: 0
+  isbn: 9788328142862
+  image: 001.9788328142862.webp
 - name: "Liga Sprawiedliwości - Bez Sprawiedliwości"
-  isbn: 0
+  isbn: 9788328142855
+  image: 002.9788328142855.webp
 - name: "Superman Action Comics. Niewidzialna mafia. Tom 1"
-  isbn: 0
+  isbn: 9788328142909
+  image: 003.9788328142909.webp
 - name: "Liga Sprawiedliwości. Totalność. Tom 1"
-  isbn: 0
+  isbn: 9788328142947
+  image: 004.9788328142947.webp
 - name: "Superman. Saga jedności. Ziemia widmo. Tom 1"
-  isbn: 0
+  isbn: 9788328142985
+  image: 005.9788328142985.webp
 - name: "Liga Sprawiedliwości. Cmentarzysko Bogów. Tom 2"
-  isbn: 0
+  isbn: 9788328197954
+  image: 006.9788328197954.webp
 - name: "Batman kontra Deathstroke"
-  isbn: 0
+  isbn: 9788328196049
+  image: 007.9788328196049.webp
 - name: "Green Lantern. Galaktyczny Stróż Prawa. Tom 1"
-  isbn: 0
+  isbn: 9788328196070
+  image: 008.9788328196070.webp
 - name: "Liga Sprawiedliwości. Planeta Jastrzębi. Tom 3"
-  isbn: 0
+  isbn: 9788328197961
+  image: 009.9788328197961.webp
 - name: "Kryzys bohaterów"
-  isbn: 0
+  isbn: 9788328196100
+  image: 010.9788328196100.webp
 - name: "Superman Action Comics. Nadejście Lewiatana. Tom 2"
-  isbn: 0
+  isbn: 9788328196063
+  image: 011.9788328196063.webp
 - name: "Batman. Detective Comics. Mitologia. Tom 1"
-  isbn: 0
+  isbn: 9788328198807
+  image: 012.9788328198807.webp
 - name: "Superman. Saga jedności. Ród El. Tom 2"
-  isbn: 0
+  isbn: 9788328196056
+  image: 013.9788328196056.webp
 - name: "Batman. Detective Comics #1000"
-  isbn: 0
+  isbn: 9788328198968
+  image: 014.9788328198968.webp
 - name: "Lewiatan"
-  isbn: 0
+  isbn: 9788328196117
+  image: 015.9788328196117.webp
 - name: "Liga Sprawiedliwości. Szósty wymiar. Tom 4"
-  isbn: 0
+  isbn: 9788328158023
+  image: 016.9788328158023.webp
 - name: "Batman. Detective Comics. Rycerz z Arkham. Tom 2"
-  isbn: 0
-- name: "Green Lantern. Dzień w tórym spadły gwiazdy. Tom 2"
-  isbn: 0
+  isbn: 9788328158016
+  image: 017.9788328158016.webp
+- name: "Green Lantern. Dzień w którym spadły gwiazdy. Tom 2"
+  isbn: 9788328196087
+  image: 018.9788328196087.webp
 - name: "Superman Action Comics. Polowanie na Lewiatana. Tom 3"
-  isbn: 0
+  isbn: 9788328158047
+  image: 019.9788328158047.webp
 - name: "Zegar zagłady"
-  isbn: 0
+  isbn: 9788328197206
+  image: 020.9788328197206.webp
 - name: "DCEased. Nieumarli w świecie DC"
-  isbn: 0
+  isbn: 9788328158610
+  image: 021.9788328158610.webp
 - name: "Batman. Detective Comics. Pozdrowienia z Gotham. Tom 3"
-  isbn: 0
+  isbn: 9788328159365
+  image: 022.9788328159365.webp
 - name: "Superman. Prawda ujawniona. Tom 3"
-  isbn: 0
+  isbn: 9788328158030
+  image: 023.9788328158030.webp
 - name: "DCEased. Niezniszczalni"
-  isbn: 0
+  isbn: 9788328159334
+  image: 024.9788328159334.webp
 - name: "Flash Forward"
-  isbn: 0
+  isbn: 9788328159372
+  image: 025.9788328159372.webp
 - name: "Liga Sprawiedliwości. Wojna totalna. Rok Łotrów. Tom 5"
-  isbn: 0
+  isbn: 9788328158580
+  image: 026.9788328158580.webp
 - name: "Batman. Ich mroczne plany. Tom 1"
-  isbn: 0
+  isbn: 9788328159396
+  image: 027.9788328159396.webp
 - name: "Batman. Detective Comics. Zimna zemsta. Tom 4"
-  isbn: 0
+  isbn: 9788328159426
+  image: 028.9788328159426.webp
 - name: "Liga Sprawiedliwości. Do was należy zemsta. Tom 6"
-  isbn: 0
+  isbn: 9788328160309
+  image: 029.9788328160309.webp
 - name: "Green Lantern. Blackstars. Tom 3"
-  isbn: 0
+  isbn: 9788328160583
+  image: 030.9788328160583.webp
 - name: "Batman. Detective Comics. Wojna Jokera. Tom 5"
-  isbn: 0
+  isbn: 9788328152397
+  image: 031.9788328152397.webp
 - name: "Suicide Squad. Zła krew"
-  isbn: 0
+  isbn: 9788328152380
+  image: 032.9788328152380.webp
 - name: "Batman. Wojna Jokera. Tom 2"
-  isbn: 0
+  isbn: 9788328152403
+  image: 033.9788328152403.webp
 - name: "Liga Sprawiedliwości. Galaktyka grozy. Tom 7"
-  isbn: 0
+  isbn: 9788328152502
+  image: 034.9788328152502.webp
 - name: "Superman Action Comics. Metropolis w ogniu. Tom 4"
-  isbn: 0
+  isbn: 9788328152519
+  image: 035.9788328152519.webp
 - name: "Superman. Mitologczność. Tom 4"
-  isbn: 0
+  isbn: 9788328152434
+  image: 036.9788328152434.webp
 - name: "Green Lantern. Ultrawojna. Tom 4"
-  isbn: 0
+  isbn: 9788328154155
+  image: 037.9788328154155.webp
 - name: "DCEased. Nadzieja na końcu świata"
-  isbn: 0
+  isbn: 9788328160644
+  image: 038.9788328160644.webp
 - name: "Batman. Detective Comics #1027"
-  isbn: 0
+  isbn: 9788328154193
+  image: 039.9788328154193.webp
 - name: "Batman. Opowieści o duchach. Tom 3"
-  isbn: 0
+  isbn: 9788328154223
+  image: 040.9788328154223.webp
 - name: "Superman Action Comics. Ród Kentów. Tom 5"
-  isbn: 0
+  isbn: 9788328156210
+  image: 041.9788328156210.webp
 - name: "Batman. Detective Comics. Droga do zagłady. Tom 6"
-  isbn: 0
+  isbn: 9788328154964
+  image: 042.9788328154964.webp
 - name: "DCEased. Martwa planeta"
-  isbn: 0
+  isbn: 9788328156425
+  image: 043.9788328156425.webp
 - name: "Liga Sprawiedliwości. Wieczna zima"
-  isbn: 0
+  isbn: 9788328156449
+  image: 044.9788328156449.webp
 - name: "DC Comics: POkolenia"
-  isbn: 0
+  isbn: 9788328156227
+  image: 045.9788328156227.webp
 - name: "Stan przyszłości. Batman"
-  isbn: 0
+  isbn: 9788328156616
+  image: 046.9788328156616.webp
 - name: "Stan przyszłości. Superman"
-  isbn: 0
+  isbn: 9788328156623
+  image: 047.9788328156623.webp
 - name: "Stan przyszłości. Liga Sprawiedliwości"
-  isbn: 0
+  isbn: 9788328156647
+  image: 048.9788328156647.webp
 - name: "Batman. Zabobonna zgraja. Tom 4"
-  isbn: 0
+  isbn: 9788328156456
+  image: 049.9788328156456.webp
 - name: "Nieskończona granica"
-  isbn: 0
+  isbn: 9788328156531
+  image: 050.9788328156531.webp
 - name: "Superman. Ten, który spadł"
-  isbn: 0
+  isbn: 9788328157293
+  image: 051.9788328157293.webp
 - name: "Batman. Detective Comics. Nowe sąsiedztwo. Tom 1"
-  isbn: 0
+  isbn: 9788328157019
+  image: 052.9788328157019.webp
 - name: "Flash Powrót Wally'ego Westa. Tom 1"
-  isbn: 0
+  isbn: 9788328157026
+  image: 053.9788328157026.webp
 - name: "Joker. Polowanie na klauna"
-  isbn: 0
+  isbn: 9788328157705
+  image: 054.9788328157705.webp
 - name: "Liga Sprawiedliwości. Pryzmaty. Tom 1"
-  isbn: 0
+  isbn: 9788328157330
+  image: 055.9788328157330.webp
 - name: "Batman. Stan strachu. Tom 5"
-  isbn: 0
+  isbn: 9788328157323
+  image: 056.9788328157323.webp
 - name: "Flash. Najszybszy Człowiek na Ziemi"
-  isbn: 0
+  isbn: 9788328165038
+  image: 057.9788328165038.webp
 - name: "Superman Action Comics. Nadejście Świata Wojny. Tom 1"
-  isbn: 0
+  isbn: 9788328157316
+  image: 058.9788328157316.webp
 - name: "Batman. Detective Comics. Stan strachu. Tom 2"
-  isbn: 0
+  isbn: 9788328165014
+  image: 059.9788328165014.webp
 - name: "Nightwing. Skok w światło. Tom 1"
-  isbn: 0
+  isbn: 9788328157309
+  image: 060.9788328157309.webp
 - name: "Superman. Syn Kal-Ela. Prawda. Tom 1"
-  isbn: 0
+  isbn: 9788328157354
+  image: 061.9788328157354.webp
