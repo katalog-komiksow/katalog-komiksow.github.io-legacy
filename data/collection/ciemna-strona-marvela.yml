@@ -1,0 +1,31 @@
+---
+- name: "Venom: Przed sądem"
+  isbn: 9788828714682
+  image: ciemna-strona-marvela.01.jpeg
+- name: "Czarna Wdowa. Powrót do domu"
+  isbn: 9788828714699
+  image: ciemna-strona-marvela.02.jpeg
+- name: "Deadpool. Tajny agent"
+  isbn: 9788828714705
+  image: ciemna-strona-marvela.03.jpeg
+- name: "Punisher: Koszmar"
+  isbn: 9788828714712
+  image: ciemna-strona-marvela.04.jpeg
+- name: "Jessica Jones. Prywatna superdetektywka"
+  isbn: 9788828714729
+  image: ciemna-strona-marvela.05.jpeg
+- name: "Daredevil. Ciemne noce"
+  isbn: 9788828714736
+  image: ciemna-strona-marvela.06.jpeg
+- name: "Wolverine. Długa noc"
+  isbn: 9788828714743
+  image: ciemna-strona-marvela.07.jpeg
+- name: "Thanos. Wyprawa Thanosa"
+  isbn: 9788828714750
+  image: ciemna-strona-marvela.08.jpeg
+- name: "Doktor Strange. Dziwne początki Strange'a"
+  isbn: 9788828714767
+  image: ciemna-strona-marvela.09.jpeg
+- name: "Ghost Rider. Wojna u wrót piekła"
+  isbn: 9788828714774
+  image: ciemna-strona-marvela.10.jpeg
