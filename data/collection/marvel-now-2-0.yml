@@ -1,181 +1,271 @@
 ---
 - name: "Staruszek Logan. Tom 1: Strefy Wojny"
-  isbn: 0
+  isbn: 9788328126909
+  image: 001.9788328126909.webp
 - name: "Deadpool. Tom 1: Nuworysz z nawijką"
-  isbn: 0
+  isbn: 9788328134874
+  image: 002.9788328134874.webp
 - name: "Extraordinary X-Men. Tom 1: Przystań X"
-  isbn: 0
-- name: "The Amazing Spider-Man: Globalna sieć. Tom 1. Wrogie przejęcie"
-  isbn: 0
+  isbn: 9788328134881
+  image: 003.9788328134881.webp
+- name: "Amazing Spider-Man: Globalna sieć. Tom 1. Wrogie przejęcie"
+  isbn: 9788328134867
+  image: 004.9788328134867.webp
 - name: "All-New Wolverine. Tom 1: Cztery Siostry"
-  isbn: 0
+  isbn: 9788328134911
+  image: 005.9788328134911.webp
 - name: "Avengers. Tom 1: Siedmiu Wspaniałych"
-  isbn: 0
+  isbn: 9788328134935
+  image: 006.9788328134935.webp
 - name: "Ms. Marvel. Tom 5: Supersławna"
-  isbn: 0
+  isbn: 9788328134928
+  image: 007.9788328134928.webp
 - name: "Vision"
-  isbn: 0
+  isbn: 9788328134904
+  image: 008.9788328134904.webp
 - name: "Avengers: Impas. Atak na Pleasant Hill"
-  isbn: 0
+  isbn: 9788328134942
+  image: 009.9788328134942.webp
 - name: "Deadpool. Tom 2: Koniec błędu"
-  isbn: 0
+  isbn: 9788328134898
+  image: 010.9788328134898.webp
 - name: "Staruszek Logan. Tom 2: Berserk"
-  isbn: 0
+  isbn: 9788328134966
+  image: 011.9788328134966.webp
 - name: "Avengers. Tom 2: Rodzinny interes"
-  isbn: 0
+  isbn: 9788328141858
+  image: 012.9788328141858.webp
 - name: "Potężna Thor. Tom 1: Grzmiąca Krew"
-  isbn: 0
-- name: "The Amazing Spider-Man: Globalna sieć. Tom 2. Mroczne królestwo"
-  isbn: 0
+  isbn: 9788328134959
+  image: 013.9788328134959.webp
+- name: "Amazing Spider-Man: Globalna sieć. Tom 2. Mroczne królestwo"
+  isbn: 9788328141971
+  image: 014.9788328141971.webp
 - name: "Deadpool. Tom 3: Deadpool kontra Sabretooth"
-  isbn: 0
+  isbn: 9788328141896
+  image: 015.9788328141896.webp
 - name: "Doktor Strange. Tom 1"
-  isbn: 0
+  isbn: 9788328134980
+  image: 016.9788328134980.webp
 - name: "Extraordinary X-Men. Tom 2: Wojna Apocalypse'a"
-  isbn: 0
+  isbn: 9788328141940
+  image: 017.9788328141940.webp
 - name: "Hawkeye. Tom 1: Odmieniony"
-  isbn: 0
+  isbn: 9788328141988
+  image: 018.9788328141988.webp
 - name: "Deadpool. Tom 4: Śmieciowa opowieść"
-  isbn: 0
+  isbn: 9788328141902
+  image: 019.9788328141902.webp
 - name: "Niezwyciężony Iron Man"
-  isbn: 0
+  isbn: 9788328134973
+  image: 020.9788328134973.webp
 - name: "Staruszek Logan. Tom 3: Na Granicy"
-  isbn: 0
-- name: "The Amazing Spider-Man: Globalna sieć. Tom 3. Demonstracja siły"
-  isbn: 0
+  isbn: 9788328142015
+  image: 021.9788328142015.webp
+- name: "Amazing Spider-Man: Globalna sieć. Tom 3. Demonstracja siły"
+  isbn: 9788328142053
+  image: 022.9788328142053.webp
 - name: "All-New Wolverine. Tom 2: II Wojna Domowa"
-  isbn: 0
+  isbn: 9788328141872
+  image: 023.9788328141872.webp
 - name: "II Wojna Domowa"
-  isbn: 0
+  isbn: 9788328142091
+  image: 024.9788328142091.webp
 - name: "II Wojna Domowa: Amazing Spider-Man"
-  isbn: 0
+  isbn: 9788328142107
+  image: 025.9788328142107.webp
 - name: "II Wojna Domowa: X-Men"
-  isbn: 0
-- name: "Avengers 3: II Wojna Domowa"
-  isbn: 0
+  isbn: 9788328142114
+  image: 026.9788328142114.webp
+- name: "Avengers. Tom 3: II Wojna Domowa"
+  isbn: 9788328141865
+  image: 027.9788328141865.webp
 - name: "Deadpool. Tom 5: II Wojna Domowa"
-  isbn: 0
+  isbn: 9788328141919
+  image: 028.9788328141919.webp
 - name: "Ms. Marvel. Tom 6: II Wojna Domowa"
-  isbn: 0
+  isbn: 9788328142046
+  image: 029.9788328142046.webp
 - name: "Extraordinary X-Men. Tom 3: Upadek Królestw"
-  isbn: 0
+  isbn: 9788328141957
+  image: 030.9788328141957.webp
 - name: "Mockingbird"
-  isbn: 0
-- name: "The Amazing Spider-Man: Globalna sieć. Tom 4. Starzy Znajomi"
-  isbn: 0
+  isbn: 9788328142039
+  image: 031.9788328142039.webp
+- name: "Amazing Spider-Man: Globalna sieć. Tom 4. Starzy Znajomi"
+  isbn: 9788328142060
+  image: 032.9788328142060.webp
 - name: "Deadpool. Tom 6: Deadpool w Czasach Zarazy"
-  isbn: 0
+  isbn: 9788328141926
+  image: 033.9788328141926.webp
 - name: "Potężna Thor. Tom 2: Władcy Midgardu"
-  isbn: 0
+  isbn: 9788328142084
+  image: 034.9788328142084.webp
 - name: "Staruszek Logan. Tom 4: Ostatni Ronin"
-  isbn: 0
+  isbn: 9788328142022
+  image: 035.9788328142022.webp
 - name: "All-New Wolverine. Tom 3: Wróg Publiczny II"
-  isbn: 0
+  isbn: 9788328141889
+  image: 036.9788328141889.webp
 - name: "Hawkeye. Tom 2: Troje"
-  isbn: 0
-- name: "The Amazing Spider-Man: Globalna sieć. Tom 5. Spisek Klonów"
-  isbn: 0
+  isbn: 9788328141995
+  image: 037.9788328141995.webp
+- name: "Amazing Spider-Man: Globalna sieć. Tom 5. Spisek Klonów"
+  isbn: 9788328142077
+  image: 038.9788328142077.webp
 - name: "Extraordinary X-Men. Tom 4: Inhumans kontra X-Men"
-  isbn: 0
+  isbn: 9788328141964
+  image: 039.9788328141964.webp
 - name: "Inhumans kontra X-Men"
-  isbn: 0
+  isbn: 9788328142008
+  image: 040.9788328142008.webp
 - name: "Śmierć X"
-  isbn: 0
+  isbn: 9788328141933
+  image: 041.9788328141933.webp
 - name: "Avengers. Tom 4: I Wojna Kanga"
-  isbn: 0
+  isbn: 9788328197657
+  image: 042.9788328197657.webp
 - name: "Deadpool. Tom 7: Deadpool leci Szekspirem"
-  isbn: 0
+  isbn: 9788328197688
+  image: 043.9788328197688.webp
 - name: "Doktor Strange. Tom 2"
-  isbn: 0
+  isbn: 9788328197701
+  image: 044.9788328197701.webp
 - name: "Amazing Spider-Man: Globalna sieć. Tom 6. Tożsamość Osbourna"
-  isbn: 0
+  isbn: 9788328197749
+  image: 045.9788328197749.webp
 - name: "Ms. Marvel. Tom 7: Obrażenia na sekundę"
-  isbn: 0
-- name: "Staruszek Logan 5: Dawne strachy"
-  isbn: 0
+  isbn: 9788328197725
+  image: 046.9788328197725.webp
+- name: "Staruszek Logan. Tom 5: Dawne strachy"
+  isbn: 9788328197718
+  image: 047.9788328197718.webp
 - name: "Astonishing X-Men. Tom 1: Życie X"
-  isbn: 0
+  isbn: 9788328196483
+  image: 048.9788328196483.webp
 - name: "Deadpool. Tom 8: Póki śmierć nas…"
-  isbn: 0
+  isbn: 9788328197695
+  image: 049.9788328197695.webp
 - name: "Steve Rogers: Kapitan Ameryka Tom 1"
-  isbn: 0
+  isbn: 9788328197671
+  image: 050.9788328197671.webp
 - name: "Czarna Wdowa"
-  isbn: 0
+  isbn: 9788328196551
+  image: 051.9788328196551.webp
 - name: "All-New Wolverine. Tom 4: Odporna"
-  isbn: 0
+  isbn: 9788328197664
+  image: 052.9788328197664.webp
 - name: "Niegodny Thor"
-  isbn: 0
+  isbn: 9788328197763
+  image: 053.9788328197763.webp
 - name: "Deadpool. Tom 9: Deadpool w kosmosie"
-  isbn: 0
+  isbn: 9788328196520
+  image: 054.9788328196520.webp
 - name: "Moon Knight"
-  isbn: 0
+  isbn: 9788328197732
+  image: 055.9788328197732.webp
 - name: "Potężna Thor. Tom 3: Wojna Asgardu z Shi'ar"
-  isbn: 0
+  isbn: 9788328196506
+  image: 056.9788328196506.webp
 - name: "Amazing Spider-Man: Globalna sieć. Tom 7. Upadek imperium"
-  isbn: 0
+  isbn: 9788328196575
+  image: 057.9788328196575.webp
 - name: "Tajne imperium"
-  isbn: 0
+  isbn: 9788328167179
+  image: 058.9788328167179.webp
 - name: "Steve Rogers: Kapitan Ameryka. Tom 2"
-  isbn: 0
+  isbn: 9788328196605
+  image: 059.9788328196605.webp
 - name: "Astonishing X-Men. Tom 2: Człowiek zwany X"
-  isbn: 0
+  isbn: 9788328196490
+  image: 060.9788328196490.webp
 - name: "Avengers. Tom 5: Tajne imperium"
-  isbn: 0
+  isbn: 9788328196612
+  image: 061.9788328196612.webp
 - name: "Deadpool. Tom 10: Tajne imperium"
-  isbn: 0
+  isbn: 9788328196537
+  image: 062.9788328196537.webp
 - name: "Staruszek Logan. Tom 6: Życia minione"
-  isbn: 0
+  isbn: 9788328196650
+  image: 063.9788328196650.webp
 - name: "Doktor Strange. Tom 3"
-  isbn: 0
-- name: "Amazing Spider-Man. Globalna sieć 8: Venom Inc."
-  isbn: 0
+  isbn: 9788328196667
+  image: 064.9788328196667.webp
+- name: "Amazing Spider-Man: Globalna sieć 8: Venom Inc."
+  isbn: 9788328196582
+  image: 065.9788328196582.webp
 - name: "Strażnicy Galaktyki. Tom 1: Brak porozumienia"
-  isbn: 0
+  isbn: 9788328196599
+  image: 066.9788328196599.webp
 - name: "Pokolenia"
-  isbn: 0
+  isbn: 9788328196698
+  image: 067.9788328196698.webp
 - name: "Avengers. Tom 6: Zderzenie światów"
-  isbn: 0
+  isbn: 9788328196629
+  image: 068.9788328196629.webp
 - name: "Deadpool. Tom 11: Deadpool zabija Cable'a"
-  isbn: 0
+  isbn: 9788328196544
+  image: 069.9788328196544.webp
 - name: "Thanos. Tom 1"
-  isbn: 0
+  isbn: 9788328196711
+  image: 070.9788328196711.webp
 - name: "Potężna Thor. Tom 4: Thor Wojny"
-  isbn: 0
-- name: "Amazing Spider-Man. Globalna sieć. Tom 9: Czerwony alarm"
-  isbn: 0
+  isbn: 9788328196513
+  image: 071.9788328196513.webp
+- name: "Amazing Spider-Man: Globalna sieć. Tom 9: Czerwony alarm"
+  isbn: 9788328196681
+  image: 072.9788328196681.webp
 - name: "Phoenix: Zmartwychwstanie. Powrót Jean Grey"
-  isbn: 0
+  isbn: 9788328196674
+  image: 073.9788328196674.webp
 - name: "Strażnicy Galaktyki 2: Jeźdźcy na niebie"
-  isbn: 0
+  isbn: 9788328196636
+  image: 074.9788328196636.webp
 - name: "All-New Wolverine. Tom 5: Sieroty X"
-  isbn: 0
+  isbn: 9788328196643
+  image: 075.9788328196643.webp
 - name: "Ms. Marvel. Tom 8: Mekka"
-  isbn: 0
+  isbn: 9788328196704
+  image: 076.9788328196704.webp
 - name: "Hawkeye: Kate Bishop"
-  isbn: 0
+  isbn: 9788328196728
+  image: 077.9788328196728.webp
 - name: "Deadpool kontra Staruszek Logan"
-  isbn: 0
+  isbn: 9788328160064
+  image: 078.9788328160064.webp
 - name: "Astonishing X-Men. Tom 3: Dopóki starczy tchu"
-  isbn: 0
+  isbn: 9788328149397
+  image: 079.9788328149397.webp
 - name: "Deadpool. Tom 12: Sprawy do załatwienia"
-  isbn: 0
+  isbn: 9788328160071
+  image: 080.9788328160071.webp
 - name: "Avengers. Nie poddamy się"
-  isbn: 0
-- name: "Amazing Spider-Man. Globalna sieć. Tom 10: Odejść z hukiem"
-  isbn: 0
+  isbn: 9788328160088
+  image: 081.9788328160088.webp
+- name: "Amazing Spider-Man: Globalna sieć. Tom 10: Odejść z hukiem"
+  isbn: 9788328142060
+  image: 082.9788328142060.webp
 - name: "Doktor Strange. Tom 4"
-  isbn: 0
+  isbn: 9788328160095
+  image: 083.9788328160095.webp
 - name: "Ms. Marvel. Tom 9: Teenage Wastelan"
-  isbn: 0
+  isbn: 9788328160101
+  image: 084.9788328160101.webp
 - name: "Thanos. Tom 2"
-  isbn: 0
+  isbn: 9788328150003
+  image: 085.9788328150003.webp
 - name: "All New Wolverine. Tom 6: Staruszka Laura"
-  isbn: 0
+  isbn: 9788328160125
+  image: 086.9788328160125.webp
 - name: "Deadpool. Tom 13: Uniwersum Marvela zabija Deadpoola"
-  isbn: 0
+  isbn: 9788328160132
+  image: 087.9788328160132.webp
 - name: "Strażnicy galaktyki 3: Poszukiwacze nieskończoności"
-  isbn: 0
+  isbn: 9788328160156
+  image: 088.9788328160156.webp
 - name: "Potężna Thor. Tom 5: Śmierć Potężnej Thor"
-  isbn: 0
+  isbn: 9788328160408
+  image: 089.9788328160408.webp
 - name: "Ms. Marvel. Tom 10: Raz za Razem"
-  isbn: 0
+  isbn: 9788328160149
+  image: 090.9788328160149.webp
