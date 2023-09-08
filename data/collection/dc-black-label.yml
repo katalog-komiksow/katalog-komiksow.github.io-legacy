@@ -1,109 +1,163 @@
 ---
 - name: "Batman - Biały Rycerz"
-  isbn: 0
+  isbn: 9788328141704
+  image: 001.9788328141704.webp
 - name: "Batman. Przeklęty"
-  isbn: 0
+  isbn: 9788328141698
+  image: 002.9788328141698.webp
 - name: "DMZ - Strefa zdemilitaryzowana. Tom 1"
-  isbn: 0
+  isbn: 9788328196261
+  image: 003.9788328196261.webp
 - name: "DMZ - Strefa zdemilitaryzowana. Tom 2"
-  isbn: 0
+  isbn: 9788328196278
+  image: 004.9788328196278.webp
 - name: "Harleen"
-  isbn: 0
+  isbn: 9788328198739
+  image: 005.9788328198739.webp
 - name: "Hitman. Tom 1"
-  isbn: 0
+  isbn: 9788328196179
+  image: 006.9788328196179.webp
 - name: "Superman - Rok pierwszy"
-  isbn: 0
+  isbn: 9788328196124
+  image: 007.9788328196124.webp
 - name: "Globalne pasmo"
-  isbn: 0
+  isbn: 9788328198975
+  image: 008.9788328198975.webp
 - name: "Batman. Ostatni rycerz na Ziemi. Tom 1"
-  isbn: 0
+  isbn: 9788328196131
+  image: 009.9788328196131.webp
 - name: "DMZ - Strefa zdemilitaryzowana. Tom 3"
-  isbn: 0
+  isbn: 9788328196285
+  image: 010.9788328196285.webp
 - name: "Hitman. Tom 2"
-  isbn: 0
+  isbn: 9788328196186
+  image: 011.9788328196186.webp
 - name: "100 naboi: Brat Lono"
-  isbn: 0
+  isbn: 9788328196346
+  image: 012.9788328196346.webp
 - name: "Joker - Zabójczy uśmiech"
-  isbn: 0
+  isbn: 9788328158627
+  image: 013.9788328158627.webp
 - name: "Animal Man. Omnibus"
-  isbn: 0
+  isbn: 9788328158290
+  image: 014.9788328158290.webp
 - name: "Hitman. Tom 3"
-  isbn: 0
-- name: "Powrót Mrocznego Rycerza"
-  isbn: 0
+  isbn: 9788328196193
+  image: 015.9788328196193.webp
+- name: "Powrót Mrocznego Rycerza. Złote dziecko"
+  isbn: 9788328158641
+  image: 016.9788328158641.webp
 - name: "DMZ - Strefa zdemilitaryzowana. Tom 4"
-  isbn: 0
+  isbn: 9788328160040
+  image: 017.9788328160040.webp
 - name: "Czarna Orchidea"
-  isbn: 0
+  isbn: 9788328160378
+  image: 018.9788328160378.webp
 - name: "Hitman. Tom 4"
-  isbn: 0
+  isbn: 9788328149229
+  image: 019.9788328149229.webp
 - name: "Batman. Klątwa Białego Rycerza"
-  isbn: 0
+  isbn: 9788328159341
+  image: 020.9788328159341.webp
 - name: "Lucyfer. Tom 1"
-  isbn: 0
+  isbn: 9788328161948
+  image: 021.9788328161948.webp
 - name: "Tom Strong. Tom 1"
-  isbn: 0
+  isbn: 9788328150119
+  image: 022.9788328150119.webp
 - name: "Batman. Trzech Jokerów"
-  isbn: 0
+  isbn: 9788328160347
+  image: 023.9788328160347.webp
 - name: "Sandman. Tom 1: Preludia i nokturny"
-  isbn: 0
+  isbn: 9788328160743
+  image: 024.9788328160743.webp
 - name: "Wonder Woman. Martwa ziemia"
-  isbn: 0
+  isbn: 9788328160590
+  image: 025.9788328160590.webp
 - name: "Lucyfer. Tom 2"
-  isbn: 0
+  isbn: 9788328160750
+  image: 026.9788328160750.webp
 - name: "DMZ - Strefa zdemilitaryzowana. Tom 5"
-  isbn: 0
+  isbn: 9788328160057
+  image: 027.9788328160057.webp
 - name: "Hitman. Tom 5"
-  isbn: 0
+  isbn: 9788328149236
+  image: 028.9788328149236.webp
 - name: "Sandman. Tom 2: Dom lalki"
-  isbn: 0
+  isbn: 9788328160767
+  image: 029.9788328160767.webp
 - name: "Hellblazer. Wzloty i upadek. Tom 1"
-  isbn: 0
+  isbn: 9788328152472
+  image: 030.9788328152472.webp
 - name: "Tom Strong. Tom 2"
-  isbn: 0
+  isbn: 9788328152441
+  image: 031.9788328152441.webp
 - name: "Flex Mantallo. Człowiek Mięśniowej Tajemnicy"
-  isbn: 0
+  isbn: 9788328152533
+  image: 032.9788328152533.webp
 - name: "Sandman. Tom 3: Kraina snów"
-  isbn: 0
+  isbn: 9788328150256
+  image: 033.9788328150256.webp
 - name: "Lucyfer. Tom 3"
-  isbn: 0
+  isbn: 9788328150935
+  image: 034.9788328150935.webp
 - name: "Batman Imposter"
-  isbn: 0
+  isbn: 9788328154162
+  image: 035.9788328154162.webp
 - name: "Sandman. Tom 4: Pora mgieł"
-  isbn: 0
+  isbn: 9788328154865
+  image: 036.9788328154865.webp
 - name: "Joker/Harley. Zabójczy umysł"
-  isbn: 0
+  isbn: 9788328196148
+  image: 037.9788328196148.webp
 - name: "Sandman. Tom 5: Zabawa w ciebie"
-  isbn: 0
+  isbn: 9788328156272
+  image: 038.9788328156272.webp
 - name: "Batman Biały Rycerz przedstawia Harley Quinn"
-  isbn: 0
+  isbn: 9788328154216
+  image: 039.9788328154216.webp
 - name: "Niewidzialni. Tom 1"
-  isbn: 0
+  isbn: 9788328156029
+  image: 040.9788328156029.webp
 - name: "Sandman. Tom 6: Refleksje i przypowieści"
-  isbn: 0
+  isbn: 9788328156289
+  image: 041.9788328156289.webp
 - name: "Grób Batmana"
-  isbn: 0
+  isbn: 9788328152939
+  image: 042.9788328152939.webp
 - name: "Tom Strong. Tom 3"
-  isbn: 0
+  isbn: 9788328156043
+  image: 043.9788328156043.webp
 - name: "Sandman. Tom 7: Ulotne życia"
-  isbn: 0
+  isbn: 9788328156296
+  image: 044.9788328156296.webp
 - name: "Niewidzialni. Tom 2"
-  isbn: 0
+  isbn: 9788328156036
+  image: 045.9788328156036.webp
 - name: "Batman. Wyjątkowo mroczna noc"
-  isbn: 0
+  isbn: 9788328157699
+  image: 046.9788328157699.webp
 - name: "Sandman. Tom 8: Koniec Światów"
-  isbn: 0
+  isbn: 9788328157224
+  image: 047.9788328157224.webp
 - name: "Hellblazer. Mike Carey. Tom 2"
-  isbn: 0
+  isbn: 9788328161436
+  image: 048.9788328161436.webp
 - name: "Miły dom nad jeziorem. Tom 1"
-  isbn: 0
+  isbn: 9788328157996
+  image: 049.9788328157996.webp
 - name: "Sandman. Senni Łowcy"
-  isbn: 0
+  isbn: 9788328161832
+  image: 050.9788328161832.webp
 - name: "Niewidzialni. Tom 3"
-  isbn: 0
+  isbn: 9788328155961
+  image: 051.9788328155961.webp
 - name: "Sandman. Tom 9: Panie łaskawe"
-  isbn: 0
+  isbn: 9788328157231
+  image: 052.9788328157231.webp
 - name: "Catwoman. Samotne miasto"
-  isbn: 0
+  isbn: 9788328165113
+  image: 053.9788328165113.webp
 - name: "Hellblazer. Mike Carey. Tom 3"
-  isbn: 0
+  isbn: 9788328161443
+  image: 054.9788328161443.webp
