@@ -1,0 +1,52 @@
+---
+- name: "Spider-Man 1 (1962)"
+  isbn: 9788328241992
+  image: 001.jpeg
+- name: "Fantastyczna Czwórka 1 (1961)"
+  isbn: 9788328246256
+  image: 002.jpeg
+- name: "Thor 1 (1962)"
+  isbn: 9788328246263
+  image: 003.jpeg
+- name: "Hulk 1 (1962)"
+  isbn: 9788328246270
+  image: 004.jpeg
+- name: "Fantastyczna Czwórka 2 (1962)"
+  isbn: 0
+  image: 005.jpeg
+- name: "Iron Man 1 (1963)"
+  isbn: 0
+  image: 006.jpeg
+- name: "Fantastyczna Czwórka 3 (1963)"
+  isbn: 0
+  image: 007.jpeg
+- name: "Thor 2 (1963)"
+  isbn: 0
+  image: 008.jpeg
+- name: "Fantastyczna Czwórka 4 (1963)"
+  isbn: 0
+  image: 009.jpeg
+- name: "Avengers 1 (1963)"
+  isbn: 0
+  image: 010.jpeg
+- name: "Spider-Man 2 (1963)"
+  isbn: 0
+  image: 011.jpeg
+- name: "Fantastyczna Czwórka 5 (1964)"
+  isbn: 0
+  image: 012.jpeg
+- name: "Iron Man 2 (1963)"
+  isbn: 0
+  image: 013.jpeg
+- name: "Thor 3 (1964)"
+  isbn: 0
+  image: 014.jpeg
+- name: "Spider-Man 3 (1964)"
+  isbn: 0
+  image: 015.jpeg
+- name: "Fantastic Four 6 (1964)"
+  isbn: 0
+  image: 016.jpeg
+- name: "Hulk 2 (1964)"
+  isbn: 0
+  image: 017.jpeg
