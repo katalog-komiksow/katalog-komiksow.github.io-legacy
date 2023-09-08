@@ -1,0 +1,31 @@
+---
+- name: "Avengers kontra Ultron"
+  isbn: 9788828709053
+  image: wielkie-pojedynki.01.jpeg
+- name: "Strażnicy Galaktyki kontra Thanos"
+  isbn: 9788828709060
+  image: wielkie-pojedynki.02.jpeg
+- name: "Deadpool kontra Deadpool"
+  isbn: 9788828709077
+  image: wielkie-pojedynki.03.jpeg
+- name: "X-Men kontra Magneto"
+  isbn: 9788828709084
+  image: wielkie-pojedynki.04.jpeg
+- name: "Spider-Man kontra Mysterio"
+  isbn: 9788828709121
+  image: wielkie-pojedynki.05.jpeg
+- name: "Wolverine kontra Sabretooth"
+  isbn: 9788828709138
+  image: wielkie-pojedynki.06.jpeg
+- name: "Venom kontra Spider-Man"
+  isbn: 9788828709145
+  image: wielkie-pojedynki.07.jpeg
+- name: "Thor kontra Loki"
+  isbn: 9788828709091
+  image: wielkie-pojedynki.08.jpeg
+- name: "Kapitan Ameryka kontra Red Skull"
+  isbn: 9788828709107
+  image: wielkie-pojedynki.09.jpeg
+- name: "Iron Man kontra Whiplash"
+  isbn: 9788828709114
+  image: wielkie-pojedynki.10.jpeg
