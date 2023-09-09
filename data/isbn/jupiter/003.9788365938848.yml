@@ -1,0 +1,42 @@
+---
+collection: jupiter
+name: "Jupiter's Circle. Orbita Jowisza"
+image: jupiter.3.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938848
+release_date: "2019-12-18"
+series:
+  - "Jupiter's Legacy"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4912257/jupiter-s-circle-orbita-jowisza
+shops:
+  gildia: https://www.gildia.pl/komiksy/418595-jupiter-s-circle-1-orbita-jowisza
+  muchacomics: https://muchacomics.com/pl/p/Jupiters-Circle.-Orbita-Jowisza/250
+reviews:
+  naekranie: https://naekranie.pl/recenzje/jupiters-circle-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/39280-jupiters-circle-orbita-jowisza-recenzja
+issues:
+  - name: "Jupiter's Legacy (Vol. 1) #1"
+    comic_vine_issue_id: 485556
+  - name: "Jupiter's Legacy (Vol. 1) #2"
+    comic_vine_issue_id: 487863
+  - name: "Jupiter's Legacy (Vol. 1) #3"
+    comic_vine_issue_id: 490934
+  - name: "Jupiter's Legacy (Vol. 1) #4"
+    comic_vine_issue_id: 493831
+  - name: "Jupiter's Legacy (Vol. 1) #5"
+    comic_vine_issue_id: 496924
+  - name: "Jupiter's Legacy (Vol. 1) #6"
+    comic_vine_issue_id: 499067
+  - name: "Jupiter's Legacy (Vol. 2) #1"
+    comic_vine_issue_id: 506689
+  - name: "Jupiter's Legacy (Vol. 2) #2"
+    comic_vine_issue_id: 508924
+  - name: "Jupiter's Legacy (Vol. 2) #3"
+    comic_vine_issue_id: 512462
+  - name: "Jupiter's Legacy (Vol. 2) #4"
+    comic_vine_issue_id: 518882
+  - name: "Jupiter's Legacy (Vol. 2) #5"
+    comic_vine_issue_id: 525057
+  - name: "Jupiter's Legacy (Vol. 2) #6"
+    comic_vine_issue_id: 529681
