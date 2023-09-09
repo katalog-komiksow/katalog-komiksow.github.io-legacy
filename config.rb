@@ -45,6 +45,7 @@ YAML.load_file("data/collections.yml").each do |collection|
 
   YAML.load_file("data/collection/#{collection["slug"]}.yml").each_with_index do |book, index|
     next unless book["isbn"]
+    next unless File.exist?("data/isbn/#{collection["slug"]}/#{(index + 1).to_s.rjust(3, "0")}.#{book["isbn"]}.yml")
 
     proxy(
       "/ksiazka/#{book["isbn"]}.html",
