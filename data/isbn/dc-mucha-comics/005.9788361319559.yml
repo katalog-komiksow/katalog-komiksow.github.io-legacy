@@ -1,0 +1,41 @@
+---
+collection: dc-mucha-comics
+name: "Sprawiedliwość"
+image: 005.9788361319559.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319559
+release_date: "2015-05-20"
+series:
+  - "DC (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/257323/sprawiedliwosc
+shops:
+  gildia: https://www.gildia.pl/komiksy/274041-sprawiedliwosc
+  muchacomics: https://muchacomics.com/en_US/p/Sprawiedliwosc-JUSTICE/145
+reviews:
+  paradoks: https://paradoks.net.pl/read/27582-sprawiedliwosc-recenzja
+issues:
+  - name: "Justice #1"
+    comic_vine_issue_id: 109974
+  - name: "Justice #2"
+    comic_vine_issue_id: 109975
+  - name: "Justice #3"
+    comic_vine_issue_id: 110011
+  - name: "Justice #4"
+    comic_vine_issue_id: 110012
+  - name: "Justice #5"
+    comic_vine_issue_id: 109976
+  - name: "Justice #6"
+    comic_vine_issue_id: 111943
+  - name: "Justice #7"
+    comic_vine_issue_id: 111975
+  - name: "Justice #8"
+    comic_vine_issue_id: 111976
+  - name: "Justice #9"
+    comic_vine_issue_id: 111996
+  - name: "Justice #10"
+    comic_vine_issue_id: 109874
+  - name: "Justice #11"
+    comic_vine_issue_id: 110509
+  - name: "Justice #12"
+    comic_vine_issue_id: 111997

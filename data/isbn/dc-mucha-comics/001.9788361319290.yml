@@ -1,0 +1,41 @@
+---
+collection: dc-mucha-comics
+name: "All-Star Superman"
+image: 001.9788361319290.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319290
+release_date: "2012-07-01"
+series:
+  - "DC (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/145795/all-star-superman
+shops:
+  gildia: https://www.gildia.pl/komiksy/188325-all-star-superman
+  muchacomics: https://muchacomics.com/en_US/p/All-Star-Superman/102
+reviews:
+  paradoks: https://paradoks.net.pl/read/19356-all-star-superman-recenzja
+issues:
+  - name: "All Star Superman #1"
+    comic_vine_issue_id: 106922
+  - name: "All Star Superman #2"
+    comic_vine_issue_id: 106923
+  - name: "All Star Superman #3"
+    comic_vine_issue_id: 106924
+  - name: "All Star Superman #4"
+    comic_vine_issue_id: 106925
+  - name: "All Star Superman #5"
+    comic_vine_issue_id: 106926
+  - name: "All Star Superman #6"
+    comic_vine_issue_id: 106280
+  - name: "All Star Superman #7"
+    comic_vine_issue_id: 108361
+  - name: "All Star Superman #8"
+    comic_vine_issue_id: 111445
+  - name: "All Star Superman #9"
+    comic_vine_issue_id: 117768
+  - name: "All Star Superman #10"
+    comic_vine_issue_id: 125970
+  - name: "All Star Superman #11"
+    comic_vine_issue_id: 131095
+  - name: "All Star Superman #12"
+    comic_vine_issue_id: 139029

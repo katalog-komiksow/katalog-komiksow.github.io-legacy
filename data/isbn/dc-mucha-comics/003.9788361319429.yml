@@ -1,0 +1,29 @@
+---
+collection: dc-mucha-comics
+name: "Catwoman: Rzymskie wakacje"
+image: 003.9788361319429.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319429
+release_date: "2014-05-22"
+series:
+  - "DC (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/224895/catwoman-rzymskie-wakacje
+shops:
+  gildia: https://www.gildia.pl/komiksy/246543-catwoman-rzymskie-wakacje
+  muchacomics: https://muchacomics.com/en_US/p/Catwoman-Rzymskie-wakacje/133
+reviews:
+  paradoks: https://paradoks.net.pl/read/24148-catwoman-rzymskie-wakacje-recenzja
+issues:
+  - name: "Catwoman: When in Rome #1"
+    comic_vine_issue_id: 114800
+  - name: "Catwoman: When in Rome #2"
+    comic_vine_issue_id: 115007
+  - name: "Catwoman: When in Rome #3"
+    comic_vine_issue_id: 115008
+  - name: "Catwoman: When in Rome #4"
+    comic_vine_issue_id: 115010
+  - name: "Catwoman: When in Rome #5"
+    comic_vine_issue_id: 115012
+  - name: "Catwoman: When in Rome #6"
+    comic_vine_issue_id: 115011

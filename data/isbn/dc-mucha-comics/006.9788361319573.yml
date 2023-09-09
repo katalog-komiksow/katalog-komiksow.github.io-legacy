@@ -1,0 +1,37 @@
+---
+collection: dc-mucha-comics
+name: "Batman - Legendy Mrocznego Rycerza"
+image: 006.9788361319573.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319573
+release_date: "2015-08-14"
+series:
+  - "DC (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/267770/legendy-mrocznego-rycerza
+shops:
+  gildia: https://www.gildia.pl/komiksy/276116-legendy-mrocznego-rycerza-tim-sale
+  muchacomics: https://muchacomics.com/en_US/p/Sprawiedliwosc-JUSTICE/145
+reviews:
+  paradoks: https://paradoks.net.pl/read/27445-legendy-mrocznego-rycerza-tim-sale-recenzja
+issues:
+  - name: "Showcase '94 #3"
+    comic_vine_issue_id: 155530
+  - name: "Showcase '94 #4"
+    comic_vine_issue_id: 155531
+  - name: "Legends of the Dark Knight #32"
+    comic_vine_issue_id: 35837
+  - name: "Legends of the Dark Knight #33"
+    comic_vine_issue_id: 35925
+  - name: "Legends of the Dark Knight #34"
+    comic_vine_issue_id: 35959
+  - name: "Shadow of the Bat #7"
+    comic_vine_issue_id: 36543
+  - name: "Shadow of the Bat #8"
+    comic_vine_issue_id: 36780
+  - name: "Shadow of the Bat #9"
+    comic_vine_issue_id: 36888
+  - name: "Solo #1"
+    comic_vine_issue_id: 98708
+  - name: "Batman: Black and White #2"
+    comic_vine_issue_id: 230320
