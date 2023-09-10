@@ -40,13 +40,17 @@
         <div class="card-header">
           <%= book.collection_name %> #<%= book.number %>
         </div>
-        <%= image_tag "#{config[:book_cover_base_url]}/#{book.collection_slug}/#{data.isbn[book.collection_slug]["#{book.number.to_s.rjust(3, "0")}.#{book.isbn}"].image}", class: "card-img-top" %>
+        <% link_to "/ksiazka/#{book.isbn}.html", class: "link-title", relative: true do %>
+          <%= image_tag "#{config[:book_cover_base_url]}/#{book.collection_slug}/#{data.isbn[book.collection_slug]["#{book.number.to_s.rjust(3, "0")}.#{book.isbn}"].image}", class: "card-img-top" %>
+        <% end %>
         <div class="card-body">
           <h5 class="card-title">
-            <% if book.isbn && book.isbn != "" && data.isbn[book.isbn] %>
-              <%= link_to book.name, "/ksiazka/#{book.isbn}.html", relative: true %>
-            <% else %>
-              <%= book.name %>
+            <% link_to "/ksiazka/#{book.isbn}.html", class: "link-title", relative: true do %>
+              <% if book.isbn && book.isbn != "" && data.isbn[book.isbn] %>
+                <%= link_to book.name, "/ksiazka/#{book.isbn}.html", relative: true %>
+              <% else %>
+                <%= book.name %>
+              <% end %>
             <% end %>
           </h5>
           <p class="card-text"><%= book.release_date %></p>
