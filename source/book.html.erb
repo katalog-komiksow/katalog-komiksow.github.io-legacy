@@ -15,26 +15,46 @@
         <p class="lead"><%= collection.name %></p>
         <p class="lead"><%= book_isbn.release_date %></p>
       </div>
+    </div>
+    <div class="row gx-4 gx-lg-5">
       <div class="col-md-4 my-2">
-        <strong>Sklepy</strong>
-        <% book_isbn.shops.each do |key, link| %>
-          <% next if link.to_s == "" %>
-          <p><%= link_to key.titleize, link, target: "_blank" %></p>
-        <% end %>
+        <ul class="list-group">
+          <li class="list-group-item">
+            <b>Sklepy</b>
+          </li>
+          <% book_isbn.shops.each do |key, link| %>
+            <% next if link.to_s == "" %>
+            <li class="list-group-item">
+              <%= link_to key.titleize, link, target: "_blank" %>
+            </li>
+          <% end %>
+        </ul>
       </div>
       <div class="col-md-4 my-2">
-        <strong>Recenzje</strong>
-        <% book_isbn.reviews.each do |key, link| %>
-          <% next if link.to_s == "" %>
-          <p><%= link_to key.titleize, link, target: "_blank" %></p>
-        <% end %>
+        <ul class="list-group">
+          <li class="list-group-item">
+            <b>Recenzja</b>
+          </li>
+          <% book_isbn.reviews.each do |key, link| %>
+            <% next if link.to_s == "" %>
+            <li class="list-group-item">
+              <%= link_to key.titleize, link, target: "_blank" %>
+            </li>
+          <% end %>
+        </ul>
       </div>
       <div class="col-md-4 my-2">
-        <strong>Linki</strong>
-        <% book_isbn.links.each do |key, link| %>
-          <% next if link.to_s == "" %>
-          <p><%= link_to key.titleize, link, target: "_blank" %></p>
-        <% end %>
+        <ul class="list-group">
+          <li class="list-group-item">
+            <b>Linki</b>
+          </li>
+          <% book_isbn.links.each do |key, link| %>
+            <% next if link.to_s == "" %>
+            <li class="list-group-item">
+              <%= link_to key.titleize, link, target: "_blank" %>
+            </li>
+          <% end %>
+        </ul>
       </div>
     </div>
 
