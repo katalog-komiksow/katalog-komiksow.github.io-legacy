@@ -1,0 +1,35 @@
+---
+collection: wielkie-pojedynki
+name: Deadpool kontra Deadpool
+image: wielkie-pojedynki.03.jpeg
+image_source: https://lubimyczytac.pl/
+isbn: 9788828709077
+release_date: '2022-03-01'
+series:
+- Wielki Pojedynki
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5007658/deadpool-kontra-deadpool
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-wielkie-pojedynki-marvela-deadpool-kontra-deadpool
+reviews: []
+issues:
+  - name: "Deadpool (2008) #45"
+    comic_vine_issue_id: 300043
+  - name: "Deadpool (2008) #46"
+    comic_vine_issue_id: 302753
+  - name: "Deadpool (2008) #47"
+    comic_vine_issue_id: 307050
+  - name: "Deadpool (2008) #48"
+    comic_vine_issue_id: 308571
+  - name: "Deadpool (2008) #49"
+    comic_vine_issue_id: 311023
+  - name: "Deadpool kills Deadpool (2013) #1"
+    comic_vine_issue_id: 415236
+  - name: "Deadpool kills Deadpool (2013) #2"
+    comic_vine_issue_id: 420639
+  - name: "Deadpool kills Deadpool (2013) #3"
+    comic_vine_issue_id: 424531
+  - name: "Deadpool kills Deadpool (2013) #4"
+    comic_vine_issue_id: 431439
+  - name: "Deadpool Family (2011) #1"
+    comic_vine_issue_id: 267588

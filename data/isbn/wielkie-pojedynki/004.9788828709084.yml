@@ -1,0 +1,29 @@
+---
+collection: wielkie-pojedynki
+name: X-Men kontra Magneto
+image: wielkie-pojedynki.04.jpeg
+image_source: https://lubimyczytac.pl/
+isbn: 9788828709084
+release_date: '2022-03-01'
+series:
+- Wielki Pojedynki
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5007653/x-men-kontra-magneto
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-wielkie-pojedynki-x-men-kontra-magneto
+reviews: []
+issues:
+  - name: "X-Men (1963) #1"
+    comic_vine_issue_id: 6694
+  - name: "Uncanny X-Men (1963) #150"
+    comic_vine_issue_id: 21614
+  - name: "X-Men (1991) #1"
+    comic_vine_issue_id: 34784
+  - name: "X-Men (1991) #2"
+    comic_vine_issue_id: 34900
+  - name: "X-Men (1991) #3"
+    comic_vine_issue_id: 35019
+  - name: "X-Men (1991) #85"
+    comic_vine_issue_id: 65784
+  - name: "X-Men: Magneto War (1999) #1"
+    comic_vine_issue_id: 126243

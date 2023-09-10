@@ -1,0 +1,39 @@
+---
+collection: wielkie-pojedynki
+name: Thor kontra Loki
+image: wielkie-pojedynki.08.jpeg
+image_source: https://lubimyczytac.pl/
+isbn: 9788828709091
+release_date: '2022-03-01'
+series:
+- Wielki Pojedynki
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5007550/thor-kontra-loki
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-wielkie-pojedynki-thor-kontra-loki
+reviews: []
+issues:
+  - name: "Journey into Mystery (1952) #85"
+    comic_vine_issue_id: 6116
+  - name: "Journey into Mystery (1952) #112"
+    comic_vine_issue_id: 7553
+  - name: "Mighty Thor (1966) #175"
+    comic_vine_issue_id: 10766
+  - name: "Mighty Thor (1966) #176"
+    comic_vine_issue_id: 10815
+  - name: "Mighty Thor (1966) #177"
+    comic_vine_issue_id: 10866
+  - name: "Mighty Thor (1966) #233"
+    comic_vine_issue_id: 110162
+  - name: "Mighty Thor (1966) #234"
+    comic_vine_issue_id: 113940
+  - name: "Loki (2004) #1"
+    comic_vine_issue_id: 96193
+  - name: "Loki (2004) #2"
+    comic_vine_issue_id: 96194
+  - name: "Loki (2004) #3"
+    comic_vine_issue_id: 96195
+  - name: "Loki (2004) #4"
+    comic_vine_issue_id: 96196
+  - name: "Thor (2007) #12"
+    comic_vine_issue_id: 148683

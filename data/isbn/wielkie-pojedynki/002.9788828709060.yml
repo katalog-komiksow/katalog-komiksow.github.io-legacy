@@ -1,0 +1,37 @@
+---
+collection: wielkie-pojedynki
+name: Strażnicy Galaktyki kontra Thanos
+image: wielkie-pojedynki.02.jpeg
+image_source: https://lubimyczytac.pl/
+isbn: 9788828709060
+release_date: '2022-03-01'
+series:
+- Wielki Pojedynki
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5008013/straznicy-galaktyki-kontra-thanos
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-wielkie-pojedynki-marvela-straznicy-galaktyki-kontra-thanos
+reviews: []
+issues:
+  - name: "Avengers Assemble (2012) #1"
+    comic_vine_issue_id: 321304
+  - name: "Avengers Assemble (2012) #2"
+    comic_vine_issue_id: 329226
+  - name: "Avengers Assemble (2012) #3"
+    comic_vine_issue_id: 335281
+  - name: "Avengers Assemble (2012) #4"
+    comic_vine_issue_id: 340401
+  - name: "Avengers Assemble (2012) #5"
+    comic_vine_issue_id: 345395
+  - name: "Avengers Assemble (2012) #6"
+    comic_vine_issue_id: 349642
+  - name: "Avengers Assemble (2012) #7"
+    comic_vine_issue_id: 356763
+  - name: "Avengers Assemble (2012) #8"
+    comic_vine_issue_id: 362182
+  - name: "Guardians of the Galaxy (2013) #18"
+    comic_vine_issue_id: 463351
+  - name: "Guardians of the Galaxy (2013) #19"
+    comic_vine_issue_id: 466327
+  - name: "Guardians of the Galaxy (2013) #20"
+    comic_vine_issue_id: 468908

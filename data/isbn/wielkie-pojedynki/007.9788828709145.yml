@@ -1,0 +1,35 @@
+---
+collection: wielkie-pojedynki
+name: Venom kontra Spider-Man
+image: wielkie-pojedynki.07.jpeg
+image_source: https://lubimyczytac.pl/
+isbn: 9788828709145
+release_date: '2022-03-01'
+series:
+- Wielki Pojedynki
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5008016/venom-kontra-spider-man
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-wielkie-pojedynki-marvela-venom-kontra-spider-man
+reviews: []
+issues:
+  - name: "Amazing Spider-Man (1963) #300"
+    comic_vine_issue_id: 29584
+  - name: "Amazing Spider-Man (1963) #316"
+    comic_vine_issue_id: 31316
+  - name: "Amazing Spider-Man (1963) #317"
+    comic_vine_issue_id: 31429
+  - name: "Amazing Spider-Man (1963) #332"
+    comic_vine_issue_id: 113926
+  - name: "Amazing Spider-Man (1963) #333"
+    comic_vine_issue_id: 32830
+  - name: "Amazing Spider-Man (1963) #346"
+    comic_vine_issue_id: 34086
+  - name: "Amazing Spider-Man (1963) #347"
+    comic_vine_issue_id: 34192
+  - name: "Amazing Spider-Man (1963) #362"
+    comic_vine_issue_id: 64495
+  - name: "Amazing Spider-Man (1963) #363"
+    comic_vine_issue_id: 64496
+  - name: "Amazing Spider-Man Annual (1964) #25"
+    comic_vine_issue_id: 64429

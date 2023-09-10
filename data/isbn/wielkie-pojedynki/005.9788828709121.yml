@@ -1,0 +1,37 @@
+---
+collection: wielkie-pojedynki
+name: Spider-Man kontra Mysterio
+image: wielkie-pojedynki.05.jpeg
+image_source: https://lubimyczytac.pl/
+isbn: 9788828709121
+release_date: '2022-03-01'
+series:
+- Wielki Pojedynki
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5007566/spider-man-kontra-mysterio
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-wielkie-pojedynki-marvela-spider-man-kontra-mysterio
+reviews: []
+issues:
+  - name: "Amazing Spider-Man (1963) #13"
+    comic_vine_issue_id: 7156
+  - name: "Amazing Spider-Man (1963) #66"
+    comic_vine_issue_id: 109503
+  - name: "Amazing Spider-Man (1963) #67"
+    comic_vine_issue_id: 109504
+  - name: "Amazing Spider-Man (1963) #141"
+    comic_vine_issue_id: 15046
+  - name: "Amazing Spider-Man (1963) #142"
+    comic_vine_issue_id: 15137
+  - name: "Amazing Spider-Man (1963) #618"
+    comic_vine_issue_id: 193352
+  - name: "Amazing Spider-Man (1963) #619"
+    comic_vine_issue_id: 194422
+  - name: "Amazing Spider-Man (1963) #620"
+    comic_vine_issue_id: 196462
+  - name: "Friendly neighborhood Spider-Man (2005) #11"
+    comic_vine_issue_id: 105384
+  - name: "Friendly neighborhood Spider-Man (2005) #12"
+    comic_vine_issue_id: 105385
+  - name: "Friendly neighborhood Spider-Man (2005) #13"
+    comic_vine_issue_id: 105386

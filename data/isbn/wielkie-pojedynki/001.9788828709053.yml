@@ -1,0 +1,31 @@
+---
+collection: wielkie-pojedynki
+name: Avengers kontra Ultron
+image: wielkie-pojedynki.01.jpeg
+image_source: https://lubimyczytac.pl/
+isbn: 9788828709053
+release_date: '2022-03-01'
+series:
+- Wielki Pojedynki
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5007666/avengers-kontra-ultron
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-wielkie-pojedynki-marvela-avengers-kontra-ultron
+reviews: []
+issues:
+  - name: "Avengers (1963) #57"
+    comic_vine_issue_id: 113991
+  - name: "Avengers (1963) #58"
+    comic_vine_issue_id: 113994
+  - name: "Avengers (1963) #66"
+    comic_vine_issue_id: 10303
+  - name: "Avengers (1963) #67"
+    comic_vine_issue_id: 10353
+  - name: "Avengers (1963) #68"
+    comic_vine_issue_id: 10401
+  - name: "Avengers: Ultron Forever (2015) #1"
+    comic_vine_issue_id: 484892
+  - name: "New Avengers: Ultron Forever (2015) #1"
+    comic_vine_issue_id: 487209
+  - name: "Uncanny Avengers: Ultron Forever (2015) #1"
+    comic_vine_issue_id: 489915
