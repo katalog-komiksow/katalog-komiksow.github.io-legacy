@@ -1,0 +1,35 @@
+---
+collection: ciemna-strona-marvela
+name: Daredevil. Ciemne noce
+image: ciemna-strona-marvela.06.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788828714736
+release_date: '2022-11-01'
+series:
+- Ciemna Strona Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5043284/daredevil-ciemne-noce
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-ciemna-strona-marvela-daredevil-ciemne-noce
+reviews: []
+issues:
+  - name: "Daredevil: Redemption #1 (2005)"
+    comic_vine_issue_id: 104426
+  - name: "Daredevil: Redemption #2 (2005)"
+    comic_vine_issue_id: 104427
+  - name: "Daredevil: Redemption #3 (2005)"
+    comic_vine_issue_id: 104428
+  - name: "Daredevil: Redemption #4 (2005)"
+    comic_vine_issue_id: 104429
+  - name: "Daredevil: Redemption #5 (2005)"
+    comic_vine_issue_id: 104430
+  - name: "Daredevil: Redemption #6 (2005)"
+    comic_vine_issue_id: 104431
+  - name: "Daredevil / Spider-Man #1 (2001)"
+    comic_vine_issue_id: 169132
+  - name: "Daredevil / Spider-Man #2 (2001)"
+    comic_vine_issue_id: 169136
+  - name: "Daredevil / Spider-Man #3 (2001)"
+    comic_vine_issue_id: 169135
+  - name: "Daredevil / Spider-Man #4 (2001)"
+    comic_vine_issue_id: 169134

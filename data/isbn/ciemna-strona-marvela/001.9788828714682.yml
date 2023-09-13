@@ -1,0 +1,35 @@
+---
+collection: ciemna-strona-marvela
+name: 'Venom: Przed sądem'
+image: ciemna-strona-marvela.01.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788828714682
+release_date: '2022-11-01'
+series:
+- Ciemna Strona Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5041341/venom-przed-sadem
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-ciemna-strona-marvela-venom-przed-sadem-dg
+reviews: []
+issues:
+  - name: "Venom #1 (2003)"
+    comic_vine_issue_id: 96940
+  - name: "Venom #2 (2003)"
+    comic_vine_issue_id: 96941
+  - name: "Venom #3 (2003)"
+    comic_vine_issue_id: 96942
+  - name: "Venom #4 (2003)"
+    comic_vine_issue_id: 96943
+  - name: "Venom #5 (2003)"
+    comic_vine_issue_id: 96944
+  - name: "Venom #6 (2003)"
+    comic_vine_issue_id: 96945
+  - name: "Venom #7 (2003)"
+    comic_vine_issue_id: 96946
+  - name: "Venom #8 (2003)"
+    comic_vine_issue_id: 96947
+  - name: "Venom #9 (2003)"
+    comic_vine_issue_id: 96948
+  - name: "Venom #10 (2003)"
+    comic_vine_issue_id: 96949

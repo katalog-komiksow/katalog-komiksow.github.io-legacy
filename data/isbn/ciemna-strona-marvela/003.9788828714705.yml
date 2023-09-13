@@ -1,0 +1,37 @@
+---
+collection: ciemna-strona-marvela
+name: Deadpool. Tajny agent
+image: ciemna-strona-marvela.03.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788828714705
+release_date: '2022-11-01'
+series:
+- Ciemna Strona Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5045397/deadpool-tajny-agent
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-ciemna-strona-marvela-deadpool-tajny-agent
+reviews: []
+issues:
+  - name: "Night of the living Deadpool #1 (2014)"
+    comic_vine_issue_id: 442170
+  - name: "Night of the living Deadpool #2 (2014)"
+    comic_vine_issue_id: 443985
+  - name: "Night of the living Deadpool #3 (2014)"
+    comic_vine_issue_id: 445818
+  - name: "Night of the living Deadpool #4 (2014)"
+    comic_vine_issue_id: 446994
+  - name: "Return of the living Deadpool #1 (2015)"
+    comic_vine_issue_id: 478614
+  - name: "Return of the living Deadpool #2 (2015)"
+    comic_vine_issue_id: 481613
+  - name: "Return of the living Deadpool #3 (2015)"
+    comic_vine_issue_id: 484903
+  - name: "Return of the living Deadpool #4 (2015)"
+    comic_vine_issue_id: 487841
+  - name: "Deadpool Team-Up #897 (2010)"
+    comic_vine_issue_id: 191189
+  - name: "Deadpool Team-Up #894 (2010)"
+    comic_vine_issue_id: 206817
+  - name: "Deadpool Team-Up #892 (2010)"
+    comic_vine_issue_id: 222038

@@ -1,0 +1,35 @@
+---
+collection: ciemna-strona-marvela
+name: Jessica Jones. Prywatna superdetektywka
+image: ciemna-strona-marvela.05.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788828714729
+release_date: '2022-11-01'
+series:
+- Ciemna Strona Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5043282/jessica-jones-prywatna-superdetektywka
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-ciemna-strona-marvela-jessica-jones-prywatna-superdetektywka-uq
+reviews: []
+issues:
+  - name: "The Pulse #11 (2005)"
+    comic_vine_issue_id: 105853
+  - name: "The Pulse #12 (2005)"
+    comic_vine_issue_id: 105854
+  - name: "The Pulse #13 (2005)"
+    comic_vine_issue_id: 105855
+  - name: "The Pulse #14 (2005)"
+    comic_vine_issue_id: 105856
+  - name: "Jessica Jones: Blind Spot #1 (2020)"
+    comic_vine_issue_id: 733823
+  - name: "Jessica Jones: Blind Spot #2 (2020)"
+    comic_vine_issue_id: 735525
+  - name: "Jessica Jones: Blind Spot #3 (2020)"
+    comic_vine_issue_id: 737161
+  - name: "Jessica Jones: Blind Spot #4 (2020)"
+    comic_vine_issue_id: 738613
+  - name: "Jessica Jones: Blind Spot #5 (2020)"
+    comic_vine_issue_id: 740819
+  - name: "Jessica Jones: Blind Spot #6 (2020)"
+    comic_vine_issue_id: 743442

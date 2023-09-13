@@ -1,0 +1,37 @@
+---
+collection: ciemna-strona-marvela
+name: Thanos. Wyprawa Thanosa
+image: ciemna-strona-marvela.08.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788828714750
+release_date: '2022-11-01'
+series:
+- Ciemna Strona Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5045390/thanos-wyprawa-thanosa
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-ciemna-strona-marvela-thanos-wyprawa-thanosa
+reviews: []
+issues:
+  - name: "Thanos Rising #1 (2013)"
+    comic_vine_issue_id: 395705
+  - name: "Thanos Rising #2 (2013)"
+    comic_vine_issue_id: 400153
+  - name: "Thanos Rising #3 (2013)"
+    comic_vine_issue_id: 409000
+  - name: "Thanos Rising #4 (2013)"
+    comic_vine_issue_id: 417844
+  - name: "Thanos Rising #5 (2013)"
+    comic_vine_issue_id: 423680
+  - name: "Thanos Annual #1 (2014)"
+    comic_vine_issue_id: 454106
+  - name: "Thanos: A God Up There Listening #1 (2014)"
+    comic_vine_issue_id: 467657
+  - name: "Thanos: A God Up There Listening #2 (2014)"
+    comic_vine_issue_id: 468090
+  - name: "Thanos: A God Up There Listening #3 (2014)"
+    comic_vine_issue_id: 468466
+  - name: "Thanos: A God Up There Listening #4 (2014)"
+    comic_vine_issue_id: 468913
+  - name: "Thanos Annual #1 (2018)"
+    comic_vine_issue_id: 110119

@@ -1,0 +1,35 @@
+---
+collection: ciemna-strona-marvela
+name: Doktor Strange. Dziwne początki Strange'a
+image: ciemna-strona-marvela.09.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788828714767
+release_date: '2022-11-01'
+series:
+- Ciemna Strona Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5045387/doktor-strange-dziwne-poczatki-strange-a
+shops:
+  carrefour: https://www.carrefour.pl/dziecko/kultura-i-rozrywka/ksiazki-43/marvel-komiks-ciemna-strona-marvela-doktor-strange
+reviews: []
+issues:
+  - name: "Strange #1 (2004)"
+    comic_vine_issue_id: 97906
+  - name: "Strange #2 (2004)"
+    comic_vine_issue_id: 97907
+  - name: "Strange #3 (2004)"
+    comic_vine_issue_id: 97908
+  - name: "Strange #4 (2004)"
+    comic_vine_issue_id: 103908
+  - name: "Strange #5 (2004)"
+    comic_vine_issue_id: 103909
+  - name: "Strange #6 (2004)"
+    comic_vine_issue_id: 103910
+  - name: "Doctor Strange #17 (2015)"
+    comic_vine_issue_id: 581556
+  - name: "Doctor Strange #18 (2015)"
+    comic_vine_issue_id: 583719
+  - name: "Doctor Strange #19 (2015)"
+    comic_vine_issue_id: 592596
+  - name: "Doctor Strange #20 (2015)"
+    comic_vine_issue_id: 599863
