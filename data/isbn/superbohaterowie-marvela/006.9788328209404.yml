@@ -1,0 +1,31 @@
+---
+collection: superbohaterowie-marvela
+name: Hawkeye
+image: 006.9788328209404.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328209404
+release_date: '2017-03-15'
+series:
+- Superbohaterowie Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4481604/hawkeye-hawkeye-lucznik-wyborowy-wszystko-sie-zmienia-hawkeye
+shops:
+  gildia: https://www.gildia.pl/komiksy/327896-superbohaterowie-marvela-6-hawkeye
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superbohaterowie-marvela-6-hawkeye-prezentacja-komiksu
+issues:
+- name: 'Hawkeye (vol. 1) #1'
+  comic_vine_issue_id: 23453
+- name: 'Hawkeye (vol. 1) #2'
+  comic_vine_issue_id: 23542
+- name: 'Hawkeye (vol. 1) #3'
+  comic_vine_issue_id: 23627
+- name: 'Hawkeye (vol. 1) #4'
+  comic_vine_issue_id: 23726
+- name: 'Tales of Suspense (vol. 1) #57'
+  comic_vine_issue_id: 7308
+- name: 'Avengers (vol. 1) #16'
+  comic_vine_issue_id: 7774
+# Zeszyty Hawkeye (vol. 1) #1-4 (wrzesień-grudzień 1983)
+# Pojedyncza historia z Tales of Suspense (vol. 1) #57 (wrzesień 1964)
+# Zeszyt Avengers (vol. 1) #16 (maj 1965)

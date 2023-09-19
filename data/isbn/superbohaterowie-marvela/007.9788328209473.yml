@@ -1,0 +1,28 @@
+---
+collection: superbohaterowie-marvela
+name: Avengers
+image: 007.9788328209473.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328209473
+release_date: '2017-03-29'
+series:
+- Superbohaterowie Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4481690/avengers-nadejscie-avengers-ultron-bez-ograniczen
+shops:
+  gildia: https://www.gildia.pl/komiksy/327897-superbohaterowie-marvela-7-avengers
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superzloczyncy-marvela-7-apocalypse-prezentacja-komiksu
+issues:
+- name: 'Avengers (vol. 3) #0'
+  comic_vine_issue_id: 120925
+- name: 'Avengers (vol. 3) #19'
+  comic_vine_issue_id: 50778
+- name: 'Avengers (vol. 3) #20'
+  comic_vine_issue_id: 50779
+- name: 'Avengers (vol. 3) #21'
+  comic_vine_issue_id: 50780
+- name: 'Avengers (vol. 3) #22'
+  comic_vine_issue_id: 50781
+- name: 'Avengers (vol. 1) #1'
+  comic_vine_issue_id: 6686

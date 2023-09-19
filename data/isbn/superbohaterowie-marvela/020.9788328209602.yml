@@ -1,0 +1,30 @@
+---
+collection: superbohaterowie-marvela
+name: Nick Fury
+image: 020.9788328209602.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328209602
+release_date: '2017-09-27'
+series:
+- Superbohaterowie Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4808916/nick-fury-sierzant-fury-i-jego-wyjacy-komandosi-tajni-wojownicy
+shops:
+  gildia: https://www.gildia.pl/komiksy/344788-superbohaterowie-marvela-20-nick-fury
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superbohaterowie-marvela-20-nick-fury-prezentacja-komiksu
+issues:
+- name: 'Secret Warrios (vol. 1) #1'
+  comic_vine_issue_id: 151137
+- name: 'Secret Warrios (vol. 1) #2'
+  comic_vine_issue_id: 153061
+- name: 'Secret Warrios (vol. 1) #3'
+  comic_vine_issue_id: 154618
+- name: 'Secret Warrios (vol. 1) #4'
+  comic_vine_issue_id: 156738
+- name: 'Secret Warrios (vol. 1) #5'
+  comic_vine_issue_id: 161533
+- name: 'Secret Warrios (vol. 1) #6'
+  comic_vine_issue_id: 165437
+- name: 'Sgt. Fury and His Howling Commandos (vol. 1) #1'
+  comic_vine_issue_id: 6508

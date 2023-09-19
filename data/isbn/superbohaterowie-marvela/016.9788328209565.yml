@@ -1,0 +1,30 @@
+---
+collection: superbohaterowie-marvela
+name: Falcon
+image: 016.9788328209565.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328209565
+release_date: '2017-08-02'
+series:
+- Superbohaterowie Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4802683/falcon-nadejscie-falcona-zwyciezcy-i-przegrani
+shops:
+  gildia: https://www.gildia.pl/komiksy/342941-superbohaterowie-marvela-16-falcon
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superbohaterowie-marvela-falcon-recenzja-komiksu
+issues:
+- name: 'Falcon (vol. 1) #1'
+  comic_vine_issue_id: 23624
+- name: 'Falcon (vol. 1) #2'
+  comic_vine_issue_id: 23723
+- name: 'Falcon (vol. 1) #3'
+  comic_vine_issue_id: 23873
+- name: 'Falcon (vol. 1) #4'
+  comic_vine_issue_id: 23977
+- name: 'Captain America (vol. 1) #117'
+  comic_vine_issue_id: 10402
+- name: 'Captain America (vol. 1) #118'
+  comic_vine_issue_id: 10463
+- name: 'Captain America (vol. 1) #119'
+  comic_vine_issue_id: 10508

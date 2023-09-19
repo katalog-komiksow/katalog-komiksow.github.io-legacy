@@ -1,0 +1,30 @@
+---
+collection: superbohaterowie-marvela
+name: Machine Man
+image: 027.9788328209671.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328209671
+release_date: '2018-01-03'
+series:
+- Superbohaterowie Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4818773/machine-man-scigany-sen-robota-co-jesli-on-zyje
+shops:
+  gildia: https://www.gildia.pl/komiksy/352311-superbohaterowie-marvela-27-machine-man
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superbohaterowie-marvela-27-machine-man-prezentacja-komiksu
+issues:
+- name: 'Machine Man (vol. 2) #1'
+  comic_vine_issue_id: 24795
+- name: 'Machine Man (vol. 2) #2'
+  comic_vine_issue_id: 24894
+- name: 'Machine Man (vol. 2) #3'
+  comic_vine_issue_id: 24999
+- name: 'Machine Man (vol. 2) #4'
+  comic_vine_issue_id: 25167
+- name: 'Machine Man (vol. 1) #1'
+  comic_vine_issue_id: 18419
+- name: 'Marvel Two-In-One (vol. 1) #92'
+  comic_vine_issue_id: 22526
+- name: 'Marvel Two-In-One (vol. 1) #93'
+  comic_vine_issue_id: 22600

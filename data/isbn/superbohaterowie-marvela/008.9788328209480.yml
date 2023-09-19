@@ -1,0 +1,30 @@
+---
+collection: superbohaterowie-marvela
+name: Power Man
+image: 008.9788328209480.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328209480
+release_date: '2017-04-12'
+series:
+- Superbohaterowie Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4618588/power-man-smiercionosna-nightshade-miasto-bez-litosci
+shops:
+  gildia: https://www.gildia.pl/komiksy/332211-superbohaterowie-marvela-8-power-man
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superzloczyncy-marvela-8-venom-prezentacja-komiksu
+issues:
+- name: 'New Avengers: Luke Cage #1'
+  comic_vine_issue_id: 204632
+- name: 'New Avengers: Luke Cage #2'
+  comic_vine_issue_id: 213583
+- name: 'New Avengers: Luke Cage #3'
+  comic_vine_issue_id: 221958
+- name: 'Power Man and Iron Fist (vol. 1) #50'
+  comic_vine_issue_id: 18426
+- name: 'Power Man and Iron Fist (vol. 1) #51'
+  comic_vine_issue_id: 18590
+- name: 'Power Man and Iron Fist (vol. 1) #52'
+  comic_vine_issue_id: 18749
+- name: 'Power Man and Iron Fist (vol. 1) #53'
+  comic_vine_issue_id: 18908
