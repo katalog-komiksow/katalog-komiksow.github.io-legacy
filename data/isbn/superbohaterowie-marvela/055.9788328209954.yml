@@ -1,0 +1,35 @@
+---
+collection: superbohaterowie-marvela
+name: Sentry
+image: 055.9788328209954.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328209954
+release_date: '2019-01-30'
+series:
+- Superbohaterowie Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4879387/sentry
+shops: []
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superbohaterowie-marvela-55-sentry-prezentacja-komiksu
+issues:
+- name: 'Sentry #1'
+  comic_vine_issue_id: 68433
+- name: 'Sentry #2'
+  comic_vine_issue_id: 68434
+- name: 'Sentry #3'
+  comic_vine_issue_id: 68435
+- name: 'Sentry #4'
+  comic_vine_issue_id: 68436
+- name: 'Sentry #5'
+  comic_vine_issue_id: 68437
+- name: 'Sentry: Fantastic Four #1'
+  comic_vine_issue_id: 122433
+- name: 'Sentry: Spider-Man #1'
+  comic_vine_issue_id: 122439
+- name: 'Sentry: Hulk #1'
+  comic_vine_issue_id: 122435
+- name: 'Sentry: X-Men #1'
+  comic_vine_issue_id: 122434
+- name: 'Sentry: The Void #1'
+  comic_vine_issue_id: 122438
