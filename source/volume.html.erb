@@ -1,0 +1,38 @@
+<% volume = get_volume(volume_id) %>
+
+<h3><%= volume["name"] %> (<%= volume["start_year"] %>)</h3>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Okładka</th>
+      <th scope="col">Tytuł</th>
+      <th scope="col" class="text-end">Książki</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% volume["issues"].sort_by { |issue| [issue["issue_number"].to_i, issue["issue_number"]] }.each do |issue| %>
+      <tr>
+        <th scope="row"><%= issue["issue_number"] %></th>
+        <td>
+          <% if File.exist?("../issue_covers_thumb/images/#{issue["id"]}.jpeg") %>
+            <%= image_tag "#{config[:issue_cover_base_url]}#{issue["id"]}.jpeg", height: "100" %>
+          <% end %>
+        </td>
+        <td><%= issue["name"] %></td>
+        <td class="text-end">
+          <% if data.aggregates[issue["id"]] %>
+            <% data.aggregates[issue["id"]].each do |isbn| %>
+              <% isbn_book = YAML.load_file(Dir.glob("data/isbn/**/*.#{isbn}.yml").first) %>
+
+              <% link_to "/ksiazka/#{isbn}.html", relative: true do %>
+                <%= image_tag "#{config[:book_cover_base_url]}/#{isbn_book["collection"]}/#{data.isbn[isbn_book["collection"]].find { |_, b| b.isbn.to_i == isbn.to_i }.last.image}", height: "100" %>
+              <% end %>
+            <% end %>
+          <% end %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

@@ -1,0 +1,15 @@
+<% grouped_volumes.each do |year, volumes| %>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <strong>Rok <%= year %></strong>
+    </li>
+    <% volumes.sort_by{ |v| v["name"] }.each do |volume| %>
+      <li class="list-group-item">
+        <% link_to "/seria/#{volume["id"]}.html", relative: true do %>
+          <%= volume["publisher"]["name"] %> / <%= volume["name"] %> [<%= volume["count_of_issues"] %>]
+        <% end %>
+      </li>
+    <% end %>
+  </ul>
+  <hr>
+<% end %>

@@ -82,6 +82,21 @@ set :last_book_page, book_pages
   )
 end
 
+proxy("/serie.html", "/volumes.html", ignore: true)
+
+Dir.glob("../comic_vine/volumes/*.json").each do |path|
+  volume_id = File.basename(path, ".json")
+
+  proxy(
+    "/seria/#{volume_id}.html",
+    "volume.html",
+    locals: {
+      volume_id: volume_id
+    },
+    ignore: true
+  )
+end
+
 set :book_cover_base_url, "http://localhost:8880/images/"
 set :issue_cover_base_url, "http://localhost:8881/images/"
 
@@ -154,6 +169,17 @@ helpers do
         File.exist?("data/isbn/#{collection_slug}/#{(index+1).to_s.rjust(3, "0")}.#{book["isbn"]}.yml")
       end
     checks.count(true)
+  end
+
+  def grouped_volumes
+    Dir.glob("../comic_vine/volumes/*.json")
+      .map { |path| JSON.parse(File.read(path)) }
+      .sort_by { |volume| [volume["start_year"].to_i, volume["name"]] }
+      .group_by { |volume| volume["start_year"].to_i }
+  end
+
+  def get_volume(volume_id)
+    JSON.parse(File.read("../comic_vine/volumes/#{volume_id}.json"))
   end
 end
 
