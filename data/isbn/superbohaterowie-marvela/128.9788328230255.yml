@@ -1,0 +1,27 @@
+---
+collection: superbohaterowie-marvela
+name: Venom
+image: 128.9788328230255.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788328230255
+release_date: '2021-11-17'
+series:
+- Superbohaterowie Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4993030/venom-venom-mroczny-poczatek
+shops: []
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superzloczyncy-marvela-8-venom-prezentacja-komiksu
+issues:
+- name: 'Venom: Dark Origin #1'
+  comic_vine_issue_id: 135077
+- name: 'Venom: Dark Origin #2'
+  comic_vine_issue_id: 137353
+- name: 'Venom: Dark Origin #3'
+  comic_vine_issue_id: 139672
+- name: 'Venom: Dark Origin #4'
+  comic_vine_issue_id: 142050
+- name: 'Venom: Dark Origin #5'
+  comic_vine_issue_id: 150006
+- name: 'The Amazing Spider-Man (vol. 1) #300'
+  comic_vine_issue_id: 29584
