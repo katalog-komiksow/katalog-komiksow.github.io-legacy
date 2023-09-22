@@ -1,0 +1,31 @@
+---
+collection: marvel-mucha-comics
+name: "Wolverine: Wróg Publiczny. Część 2"
+image: 014.9788361319238.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319238
+release_date: "2011-07-25"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/154121/wolverine-wrog-publiczny-tom-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/163610-wolverine-wrog-publiczny-tom-2
+  muchacomics: https://muchacomics.com/en_US/p/Wolverine-Wrog-Publiczny-tom-2/117
+reviews:
+  paradoks: https://paradoks.net.pl/read/16986-wolverine-wrog-publiczny-tom-2-recenzja
+issues:
+  - name: "Wolverine #26"
+    comic_vine_issue_id: 100863
+  - name: "Wolverine #27"
+    comic_vine_issue_id: 100864
+  - name: "Wolverine #28"
+    comic_vine_issue_id: 114060
+  - name: "Wolverine #29"
+    comic_vine_issue_id: 114508
+  - name: "Wolverine #30"
+    comic_vine_issue_id: 114509
+  - name: "Wolverine #31"
+    comic_vine_issue_id: 114510
+  - name: "Wolverine #32"
+    comic_vine_issue_id: 114056

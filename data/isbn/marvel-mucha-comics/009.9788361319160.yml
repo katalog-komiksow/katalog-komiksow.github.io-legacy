@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Iron Man: Pięć koszmarów"
+image: 009.9788361319160.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319160
+release_date: "2010-05-13"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/154153/iron-man-piec-koszmarow
+shops:
+  gildia: https://www.gildia.pl/komiksy/129896-iron-man-piec-koszmarow
+reviews: []
+issues:
+  - name: "Iron Man (vol. 2) #1"
+    comic_vine_issue_id: 129659
+  - name: "Iron Man (vol. 2) #2"
+    comic_vine_issue_id: 131346
+  - name: "Iron Man (vol. 2) #3"
+    comic_vine_issue_id: 133043
+  - name: "Iron Man (vol. 2) #4"
+    comic_vine_issue_id: 135072
+  - name: "Iron Man (vol. 2) #5"
+    comic_vine_issue_id: 137180
+  - name: "Iron Man (vol. 2) #6"
+    comic_vine_issue_id: 139969
+  - name: "Iron Man (vol. 2) #7"
+    comic_vine_issue_id: 141556

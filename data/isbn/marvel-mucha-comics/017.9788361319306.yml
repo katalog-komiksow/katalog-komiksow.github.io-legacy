@@ -1,0 +1,33 @@
+---
+collection: marvel-mucha-comics
+name: "Ród M"
+image: 017.9788361319306.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319306
+release_date: "2012-08-01"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/151173/rod-m
+shops:
+  gildia: https://www.gildia.pl/komiksy/189922-rod-m
+  muchacomics: https://muchacomics.com/en_US/p/Rod-M/123
+reviews:
+  paradoks: https://paradoks.net.pl/read/19304-rod-m-recenzja
+issues:
+  - name: "House of M #1"
+    comic_vine_issue_id: 104861
+  - name: "House of M #2"
+    comic_vine_issue_id: 104862
+  - name: "House of M #3"
+    comic_vine_issue_id: 104863
+  - name: "House of M #4"
+    comic_vine_issue_id: 104864
+  - name: "House of M #5"
+    comic_vine_issue_id: 104865
+  - name: "House of M #6"
+    comic_vine_issue_id: 104866
+  - name: "House of M #7"
+    comic_vine_issue_id: 104867
+  - name: "House of M #8"
+    comic_vine_issue_id: 104868

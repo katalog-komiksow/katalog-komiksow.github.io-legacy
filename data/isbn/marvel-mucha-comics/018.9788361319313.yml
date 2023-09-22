@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "New Avengers - tom 4: Kolektyw"
+image: 018.9788361319313.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319313
+release_date: "2012-10-05"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/155789/the-new-avengers---tom-4---kolektyw
+shops:
+  gildia: https://www.gildia.pl/komiksy/193778-new-avengers-mucha-comics-4-kolektyw
+  muchacomics: https://muchacomics.com/en_US/p/New-Avengers-tom-4-Kolektyw/127
+reviews:
+  paradoks: https://paradoks.net.pl/read/19690-new-avengers-tom-4-kolektyw-recenzja
+issues:
+  - name: "New Avengers (vol. 1) #16"
+    comic_vine_issue_id: 105969
+  - name: "New Avengers (vol. 1) #17"
+    comic_vine_issue_id: 105956
+  - name: "New Avengers (vol. 1) #18"
+    comic_vine_issue_id: 106195
+  - name: "New Avengers (vol. 1) #19"
+    comic_vine_issue_id: 106196
+  - name: "New Avengers (vol. 1) #20"
+    comic_vine_issue_id: 107001
+  - name: "New Avengers Annual #1"
+    comic_vine_issue_id: 106582

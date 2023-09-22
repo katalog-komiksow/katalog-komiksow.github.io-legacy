@@ -1,0 +1,23 @@
+---
+collection: marvel-mucha-comics
+name: "Silver Surfer: Requiem"
+image: 005.9788361319054.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319054
+release_date: "2008-11-01"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/60691/silver-surfer-requiem
+shops:
+  gildia: https://www.gildia.pl/komiksy/65117-silver-surfer-requiem
+reviews: []
+issues:
+  - name: "Silver Surfer: Requiem #1"
+    comic_vine_issue_id: 110094
+  - name: "Silver Surfer: Requiem #2"
+    comic_vine_issue_id: 111133
+  - name: "Silver Surfer: Requiem #3"
+    comic_vine_issue_id: 111971
+  - name: "Silver Surfer: Requiem #4"
+    comic_vine_issue_id: 113975

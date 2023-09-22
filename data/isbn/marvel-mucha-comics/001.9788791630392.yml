@@ -1,0 +1,17 @@
+---
+collection: marvel-mucha-comics
+name: "Elektra żyje!"
+image: 001.9788791630392.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788791630392
+release_date: "2007-10-11"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/37311/elektra-zyje
+shops:
+  gildia: https://www.gildia.pl/komiksy/43959-elektra-zyje
+reviews: []
+issues:
+  - name: "Elektra Lives Again #1"
+    comic_vine_issue_id: 134346

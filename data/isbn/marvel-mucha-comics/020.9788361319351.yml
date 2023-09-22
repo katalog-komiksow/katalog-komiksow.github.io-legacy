@@ -1,0 +1,31 @@
+---
+collection: marvel-mucha-comics
+name: "Wojna domowa"
+image: 020.9788361319351.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319351
+release_date: "2013-01-11"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/164786/wojna-domowa
+shops:
+  gildia: https://www.gildia.pl/komiksy/202299-wojna-domowa
+  muchacomics: https://muchacomics.com/en_US/p/Wojna-domowa/122
+reviews:
+  paradoks: https://paradoks.net.pl/read/20183-wojna-domowa-recenzja
+issues:
+  - name: "Civil War #1"
+    comic_vine_issue_id: 105525
+  - name: "Civil War #2"
+    comic_vine_issue_id: 105570
+  - name: "Civil War #3"
+    comic_vine_issue_id: 105624
+  - name: "Civil War #4"
+    comic_vine_issue_id: 105682
+  - name: "Civil War #5"
+    comic_vine_issue_id: 106999
+  - name: "Civil War #6"
+    comic_vine_issue_id: 107000
+  - name: "Civil War #7"
+    comic_vine_issue_id: 106626

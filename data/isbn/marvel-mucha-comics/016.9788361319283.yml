@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "New Avengers - tom 3: Kłamstwa i tajemnice"
+image: 016.9788361319283.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319283
+release_date: "2012-05-10"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/140442/the-new-avengers---tom-3---klamstwa-i-tajemnice
+shops:
+  gildia: https://www.gildia.pl/komiksy/181254-new-avengers-mucha-comics-3-klamstwa-i-tajemnice
+  muchacomics: https://muchacomics.com/en_US/p/New-Avengers-tom-3-Klamstwa-i-tajemnice/126
+reviews:
+  paradoks: https://paradoks.net.pl/read/18868-new-avengers-tom-3-klamstwa-i-tajemnice-recenzja
+issues:
+  - name: "New Avengers (vol. 1) #11"
+    comic_vine_issue_id: 108314
+  - name: "New Avengers (vol. 1) #12"
+    comic_vine_issue_id: 108315
+  - name: "New Avengers (vol. 1) #13"
+    comic_vine_issue_id: 108316
+  - name: "New Avengers (vol. 1) #14"
+    comic_vine_issue_id: 108317
+  - name: "New Avengers (vol. 1) #15"
+    comic_vine_issue_id: 108318
+  - name: "Giant-Size Spider-Woman #1"
+    comic_vine_issue_id: 172318

@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Wolverine: Wróg Publiczny. Część 1"
+image: 012.9788361319214.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319214
+release_date: "2011-03-11"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/96966/wolverine-wrog-publiczny-tom-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/154957-wolverine-wrog-publiczny-tom-1
+  muchacomics: https://muchacomics.com/en_US/p/Wolverine-Wrog-Publiczny-tom-1/118
+reviews:
+  paradoks: https://paradoks.net.pl/read/15917-wolverine-wrog-publiczny-tom-1-recenzja
+issues:
+  - name: "Wolverine #20"
+    comic_vine_issue_id: 96820
+  - name: "Wolverine #21"
+    comic_vine_issue_id: 96821
+  - name: "Wolverine #22"
+    comic_vine_issue_id: 97343
+  - name: "Wolverine #23"
+    comic_vine_issue_id: 97344
+  - name: "Wolverine #24"
+    comic_vine_issue_id: 99465
+  - name: "Wolverine #25"
+    comic_vine_issue_id: 99466

@@ -1,0 +1,25 @@
+---
+collection: marvel-mucha-comics
+name: "New Avengers - tom 2: Sentry"
+image: 015.9788361319245.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319245
+release_date: "2011-10-03"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/140430/the-new-avengers---tom-2---sentry
+shops:
+  gildia: https://www.gildia.pl/komiksy/165678-new-avengers-mucha-comics-2-sentry
+  muchacomics: https://muchacomics.com/en_US/p/New-Avengers-tom-2-Sentry/125
+reviews:
+  paradoks: https://paradoks.net.pl/read/17447-new-avengers-tom-2-sentry-recenzja
+issues:
+  - name: "New Avengers (vol. 1) #7"
+    comic_vine_issue_id: 108307
+  - name: "New Avengers (vol. 1) #8"
+    comic_vine_issue_id: 108308
+  - name: "New Avengers (vol. 1) #9"
+    comic_vine_issue_id: 108309
+  - name: "New Avengers (vol. 1) #10"
+    comic_vine_issue_id: 108312

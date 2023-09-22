@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "New Avengers - tom 1: Ucieczka"
+image: 011.9788361319207.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319207
+release_date: "2011-03-01"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/100635/the-new-avengers---tom-1---ucieczka
+shops:
+  gildia: https://www.gildia.pl/komiksy/154858-new-avengers-mucha-comics-1-ucieczka
+  muchacomics: https://muchacomics.com/en_US/p/New-Avengers-tom-1-Ucieczka/124
+reviews:
+  paradoks: https://paradoks.net.pl/read/15650-new-avengers-tom-1-ucieczka-recenzja
+issues:
+  - name: "New Avengers (vol. 1) #1"
+    comic_vine_issue_id: 101407
+  - name: "New Avengers (vol. 1) #2"
+    comic_vine_issue_id: 101408
+  - name: "New Avengers (vol. 1) #3"
+    comic_vine_issue_id: 101409
+  - name: "New Avengers (vol. 1) #4"
+    comic_vine_issue_id: 108304
+  - name: "New Avengers (vol. 1) #5"
+    comic_vine_issue_id: 108305
+  - name: "New Avengers (vol. 1) #6"
+    comic_vine_issue_id: 108306

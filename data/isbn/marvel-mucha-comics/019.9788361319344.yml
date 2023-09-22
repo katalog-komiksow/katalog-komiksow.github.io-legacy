@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "New Avengers - tom 5: Wojna domowa"
+image: 019.9788361319344.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319344
+release_date: "2012-12-07"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/164356/the-new-avengers---tom-5---wojna-domowa
+shops:
+  gildia: https://www.gildia.pl/komiksy/199444-new-avengers-mucha-comics-5-wojna-domowa
+  muchacomics: https://muchacomics.com/en_US/p/New-Avengers-tom-5-Wojna-domowa/128
+reviews:
+  paradoks: https://paradoks.net.pl/read/20085-new-avengers-tom-5-wojna-domowa-recenzja
+issues:
+  - name: "New Avengers (vol. 1) #21"
+    comic_vine_issue_id: 107893
+  - name: "New Avengers (vol. 1) #22"
+    comic_vine_issue_id: 107895
+  - name: "New Avengers (vol. 1) #23"
+    comic_vine_issue_id: 108038
+  - name: "New Avengers (vol. 1) #24"
+    comic_vine_issue_id: 108039
+  - name: "New Avengers (vol. 1) #25"
+    comic_vine_issue_id: 108040
+  - name: "Civil War: The Initiative #1"
+    comic_vine_issue_id: 106789
