@@ -1,0 +1,27 @@
+---
+collection: marvel-mucha-comics
+name: "Jessica Jones: Alias - tom 2"
+image: 027.9788361319771.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319771
+release_date: "2016-10-05"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3861168/jessica-jones-alias-tom-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/316351-jessica-jones-alias-tom-2
+  muchacomics: https://muchacomics.com/pl/p/Jessica-Jones-Alias-tom-2/167
+reviews:
+  paradoks: https://paradoks.net.pl/read/30990-jessica-jones-alias-tom-2-recenzja
+issues:
+  - name: "Alias #11"
+    comic_vine_issue_id: 105773
+  - name: "Alias #12"
+    comic_vine_issue_id: 105774
+  - name: "Alias #13"
+    comic_vine_issue_id: 105775
+  - name: "Alias #14"
+    comic_vine_issue_id: 105778
+  - name: "Alias #15"
+    comic_vine_issue_id: 105793

@@ -1,0 +1,33 @@
+---
+collection: marvel-mucha-comics
+name: "Nieśmiertelny Iron Fist - tom 2: Siedem stolic Nieba"
+image: 039.9788365938107.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938107
+release_date: "2018-03-08"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4824038/niesmiertelny-iron-fist---tom-2---siedem-stolic-nieba
+shops:
+  gildia: https://www.gildia.pl/komiksy/359418-niesmiertelny-iron-fist-2-siedem-stolic-nieba
+  muchacomics: https://muchacomics.com/pl/p/Niesmiertelny-Iron-Fist-tom-2/200
+reviews:
+  paradoks: https://paradoks.net.pl/read/34884-niesmiertelny-iron-fist-tom-2-siedem-stolic-nieba-recenzja
+issues:
+  - name: "The Immortal Iron Fist #8"
+    comic_vine_issue_id: 113760
+  - name: "The Immortal Iron Fist #9"
+    comic_vine_issue_id: 114985
+  - name: "The Immortal Iron Fist #10"
+    comic_vine_issue_id: 116919
+  - name: "The Immortal Iron Fist #11"
+    comic_vine_issue_id: 120314
+  - name: "The Immortal Iron Fist #12"
+    comic_vine_issue_id: 121662
+  - name: "The Immortal Iron Fist #13"
+    comic_vine_issue_id: 126215
+  - name: "The Immortal Iron Fist #14"
+    comic_vine_issue_id: 129003
+  - name: "The Immortal Iron Fist Annual #1"
+    comic_vine_issue_id: 114984

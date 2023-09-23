@@ -1,0 +1,27 @@
+---
+collection: marvel-mucha-comics
+name: "Spider-Man Niebieski"
+image: 032.9788366589742.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589742
+release_date: "2017-05-18"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4635992/spider-man-niebieski
+shops:
+  gildia: https://www.gildia.pl/komiksy/338197-spider-man-niebieski
+reviews: []
+issues:
+  - name: "Spider-Man: Blue #1"
+    comic_vine_issue_id: 114345
+  - name: "Spider-Man: Blue #2"
+    comic_vine_issue_id: 114347
+  - name: "Spider-Man: Blue #3"
+    comic_vine_issue_id: 77957
+  - name: "Spider-Man: Blue #4"
+    comic_vine_issue_id: 77958
+  - name: "Spider-Man: Blue #5"
+    comic_vine_issue_id: 77959
+  - name: "Spider-Man: Blue #6"
+    comic_vine_issue_id: 77960

@@ -1,0 +1,35 @@
+---
+collection: marvel-mucha-comics
+name: "Jessica Jones: Alias - tom 1"
+image: 025.9788361319696.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319696
+release_date: "2016-05-25"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/305091/jessica-jones-alias-tom-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/295546-jessica-jones-alias-tom-1
+  muchacomics: https://muchacomics.com/pl/p/Jessica-Jones-Alias-tom-1/161
+reviews:
+  paradoks: https://paradoks.net.pl/read/30105-jessica-jones-alias-tom-1-recenzja
+issues:
+  - name: "Alias #1"
+    comic_vine_issue_id: 77721
+  - name: "Alias #2"
+    comic_vine_issue_id: 77722
+  - name: "Alias #3"
+    comic_vine_issue_id: 77723
+  - name: "Alias #4"
+    comic_vine_issue_id: 77724
+  - name: "Alias #5"
+    comic_vine_issue_id: 77725
+  - name: "Alias #6"
+    comic_vine_issue_id: 105766
+  - name: "Alias #7"
+    comic_vine_issue_id: 105768
+  - name: "Alias #8"
+    comic_vine_issue_id: 105767
+  - name: "Alias #9"
+    comic_vine_issue_id: 105769

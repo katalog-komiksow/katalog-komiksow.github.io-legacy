@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Nieśmiertelny Iron Fist - tom 1"
+image: 034.9788361319962.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319962
+release_date: "2017-09-20"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4807883/niesmiertelny-iron-fist---tom-1---opowiesc-ostatniego-iron-fista
+shops:
+  gildia: https://www.gildia.pl/komiksy/346153-niesmiertelny-iron-fist-1-opowiesc-ostatniego-iron-fista
+  muchacomics: https://muchacomics.com/pl/p/Niesmiertelny-Iron-Fist-tom-1/188
+reviews:
+  paradoks: https://paradoks.net.pl/read/33810-niesmiertelny-iron-fist-tom-1-opowiesc-ostatniego-iron-fista-recenzja
+issues:
+  - name: "The Immortal Iron Fist #1"
+    comic_vine_issue_id: 106625
+  - name: "The Immortal Iron Fist #2"
+    comic_vine_issue_id: 106958
+  - name: "The Immortal Iron Fist #3"
+    comic_vine_issue_id: 106628
+  - name: "The Immortal Iron Fist #4"
+    comic_vine_issue_id: 107998
+  - name: "The Immortal Iron Fist #5"
+    comic_vine_issue_id: 109268
+  - name: "The Immortal Iron Fist #6"
+    comic_vine_issue_id: 111103

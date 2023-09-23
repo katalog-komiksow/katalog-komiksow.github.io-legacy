@@ -1,0 +1,25 @@
+---
+collection: marvel-mucha-comics
+name: "Spider-Man: Władza"
+image: 030.9788361319818.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319818
+release_date: "2017-03-03"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4383334/spider-man-wladza
+shops:
+  gildia: https://www.gildia.pl/komiksy/300998-spider-man-wladza
+  muchacomics: https://muchacomics.com/pl/p/Spider-Man-Wladza/175
+reviews:
+  paradoks: https://paradoks.net.pl/read/32319-spider-man-wladza-recenzja
+issues:
+  - name: "Spider-Man: Reign #1"
+    comic_vine_issue_id: 106466
+  - name: "Spider-Man: Reign #2"
+    comic_vine_issue_id: 106449
+  - name: "Spider-Man: Reign #3"
+    comic_vine_issue_id: 106400
+  - name: "Spider-Man: Reign #4"
+    comic_vine_issue_id: 106931

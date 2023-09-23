@@ -1,0 +1,31 @@
+---
+collection: marvel-mucha-comics
+name: "Cesarzowa (Empress)"
+image: 038.9788365938060.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938060
+release_date: "2018-01-24"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4819927/empress---cesarzowa
+shops:
+  gildia: https://www.gildia.pl/komiksy/356274-empress-cesarzowa-1
+  muchacomics: https://muchacomics.com/pl/p/Empress.-Cesarzowa/198
+reviews:
+  paradoks: https://paradoks.net.pl/read/34736-empress-cesarzowa-ksiega-pierwsza-recenzja
+issues:
+  - name: "Empress #1"
+    comic_vine_issue_id: 523254
+  - name: "Empress #2"
+    comic_vine_issue_id: 528508
+  - name: "Empress #3"
+    comic_vine_issue_id: 534288
+  - name: "Empress #4"
+    comic_vine_issue_id: 538507
+  - name: "Empress #5"
+    comic_vine_issue_id: 543752
+  - name: "Empress #6"
+    comic_vine_issue_id: 550356
+  - name: "Empress #7"
+    comic_vine_issue_id: 558965

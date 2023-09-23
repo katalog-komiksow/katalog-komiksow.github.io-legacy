@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Kapitan Ameryka Biały"
+image: 029.9788361319825.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319825
+release_date: "2017-02-24"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4350952/kapitan-ameryka-bialy
+shops:
+  gildia: https://www.gildia.pl/komiksy/326019-kapitan-ameryka-bialy
+  muchacomics: https://muchacomics.com/pl/p/Kapitan-Ameryka-Bialy/173
+reviews:
+  paradoks: https://paradoks.net.pl/read/31899-kapitan-ameryka-bialy-recenzja
+issues:
+  - name: "Captain America: White #0"
+    comic_vine_issue_id: 132762
+  - name: "Captain America: White #1"
+    comic_vine_issue_id: 499779
+  - name: "Captain America: White #2"
+    comic_vine_issue_id: 501607
+  - name: "Captain America: White #3"
+    comic_vine_issue_id: 502856
+  - name: "Captain America: White #4"
+    comic_vine_issue_id: 505514
+  - name: "Captain America: White #5"
+    comic_vine_issue_id: 509697

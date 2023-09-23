@@ -1,0 +1,31 @@
+---
+collection: marvel-mucha-comics
+name: "Jessica Jones: Alias - tom 4"
+image: 037.9788361319993.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319993
+release_date: "2017-10-31"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4811484/jessica-jones-alias-tom-4
+shops:
+  gildia: https://www.gildia.pl/komiksy/350546-jessica-jones-alias-tom-4
+  muchacomics: https://muchacomics.com/pl/p/Jessica-Jones-Alias-tom-4/191
+reviews:
+  paradoks: https://paradoks.net.pl/read/34025-jessica-jones-alias-tom-4-recenzja
+issues:
+  - name: "Alias #22"
+    comic_vine_issue_id: 105783
+  - name: "Alias #23"
+    comic_vine_issue_id: 105784
+  - name: "Alias #24"
+    comic_vine_issue_id: 105785
+  - name: "Alias #25"
+    comic_vine_issue_id: 105786
+  - name: "Alias #26"
+    comic_vine_issue_id: 105787
+  - name: "Alias #27"
+    comic_vine_issue_id: 105788
+  - name: "Alias #28"
+    comic_vine_issue_id: 105789

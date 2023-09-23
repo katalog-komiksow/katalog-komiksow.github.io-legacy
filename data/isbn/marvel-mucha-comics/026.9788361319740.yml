@@ -1,0 +1,48 @@
+---
+collection: marvel-mucha-comics
+name: "Miracleman"
+image: 026.9788361319740.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319740
+release_date: "2016-10-05"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3861146/miracleman
+shops:
+  gildia: https://www.gildia.pl/komiksy/292011-miracleman
+  muchacomics: https://muchacomics.com/pl/p/Miracleman-tom-1/169
+reviews: []
+issues:
+  - name: "Miracleman #1"
+    comic_vine_issue_id: 442254
+  - name: "Miracleman #2"
+    comic_vine_issue_id: 444030
+  - name: "Miracleman #3"
+    comic_vine_issue_id: 446592
+  - name: "Miracleman #4"
+    comic_vine_issue_id: 449065
+  - name: "Miracleman #5"
+    comic_vine_issue_id: 452446
+  - name: "Miracleman #6"
+    comic_vine_issue_id: 453538
+  - name: "Miracleman #7"
+    comic_vine_issue_id: 455600
+  - name: "Miracleman #8"
+    comic_vine_issue_id: 458783
+  - name: "Miracleman #9"
+    comic_vine_issue_id: 461857
+  - name: "Miracleman #10"
+    comic_vine_issue_id: 464106
+  - name: "Miracleman #11"
+    comic_vine_issue_id: 467148
+  - name: "Miracleman #12"
+    comic_vine_issue_id: 467796
+  - name: "Miracleman #13"
+    comic_vine_issue_id: 469558
+  - name: "Miracleman #14"
+    comic_vine_issue_id: 475547
+  - name: "Miracleman #15"
+    comic_vine_issue_id: 478692
+  - name: "Miracleman #16"
+    comic_vine_issue_id: 481721

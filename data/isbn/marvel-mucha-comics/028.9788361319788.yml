@@ -1,0 +1,27 @@
+---
+collection: marvel-mucha-comics
+name: "Loki"
+image: 028.9788361319788.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319788
+release_date: "2016-12-06"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4096490/loki
+shops:
+  gildia: https://www.gildia.pl/komiksy/320193-loki
+  muchacomics: https://muchacomics.com/pl/p/Loki/171
+reviews:
+  filmozercy: https://filmozercy.com/wpis/loki-prezentacja-komiksu
+  naekranie: https://naekranie.pl/recenzje/loki-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/31359-loki-recenzja
+issues:
+  - name: "Loki #1"
+    comic_vine_issue_id: 96193
+  - name: "Loki #2"
+    comic_vine_issue_id: 96194
+  - name: "Loki #3"
+    comic_vine_issue_id: 96195
+  - name: "Loki #4"
+    comic_vine_issue_id: 96196

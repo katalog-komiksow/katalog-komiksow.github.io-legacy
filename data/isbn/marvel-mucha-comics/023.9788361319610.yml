@@ -1,0 +1,27 @@
+---
+collection: marvel-mucha-comics
+name: "Wolverine: Geneza II"
+image: 023.9788361319610.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319610
+release_date: "2015-10-29"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/268951/wolverine-geneza-ii
+shops:
+  gildia: https://www.gildia.pl/komiksy/280802-wolverine-geneza-ii
+  muchacomics: https://muchacomics.com/pl/p/Wolverine-Geneza-II-Origin-II/153
+reviews:
+  paradoks: https://paradoks.net.pl/read/27943-wolverine-geneza-ii-recenzja
+issues:
+  - name: "Origin II  #1"
+    comic_vine_issue_id: 438379
+  - name: "Origin II  #2"
+    comic_vine_issue_id: 442927
+  - name: "Origin II  #3"
+    comic_vine_issue_id: 446487
+  - name: "Origin II  #4"
+    comic_vine_issue_id: 448974
+  - name: "Origin II  #5"
+    comic_vine_issue_id: 451771

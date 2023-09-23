@@ -1,0 +1,23 @@
+---
+collection: marvel-mucha-comics
+name: "Wolverine. Logan"
+image: 021.9788361319412.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319412
+release_date: "2014-05-27"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/227858/wolverine-logan
+shops:
+  gildia: https://www.gildia.pl/komiksy/240273-wolverine-logan
+  muchacomics: https://muchacomics.com/en_US/p/Wolverine-Logan/132
+reviews:
+  paradoks: https://paradoks.net.pl/read/24351
+issues:
+  - name: "Logan #1"
+    comic_vine_issue_id: 124875
+  - name: "Logan #2"
+    comic_vine_issue_id: 126504
+  - name: "Logan #3"
+    comic_vine_issue_id: 129698

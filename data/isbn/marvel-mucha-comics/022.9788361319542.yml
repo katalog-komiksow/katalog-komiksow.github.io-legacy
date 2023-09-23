@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Daredevil Żółty"
+image: 022.9788361319542.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319542
+release_date: "2015-05-20"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/257321/daredevil-zolty
+shops:
+  gildia: https://www.gildia.pl/komiksy/274488-daredevil-zolty
+  muchacomics: https://muchacomics.com/pl/p/Daredevil-Zolty/147
+reviews:
+  paradoks: https://paradoks.net.pl/read/26980-daredevil-zolty-recenzja
+issues:
+  - name: "Daredevil: Yellow #1"
+    comic_vine_issue_id: 55289
+  - name: "Daredevil: Yellow #2"
+    comic_vine_issue_id: 55290
+  - name: "Daredevil: Yellow #3"
+    comic_vine_issue_id: 55291
+  - name: "Daredevil: Yellow #4"
+    comic_vine_issue_id: 55292
+  - name: "Daredevil: Yellow #5"
+    comic_vine_issue_id: 55293
+  - name: "Daredevil: Yellow #6"
+    comic_vine_issue_id: 55294

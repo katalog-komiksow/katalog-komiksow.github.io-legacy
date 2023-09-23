@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Hulk Szary"
+image: 024.9788361319641.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319641
+release_date: "2015-12-18"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/288422/hulk-szary
+shops:
+  gildia: https://www.gildia.pl/komiksy/287275-hulk-szary
+  muchacomics: https://muchacomics.com/pl/p/Hulk-Szary/156
+reviews:
+  paradoks: https://paradoks.net.pl/read/28311-hulk-szary-recenzja
+issues:
+  - name: "Hulk: Gray #1"
+    comic_vine_issue_id: 130629
+  - name: "Hulk: Gray  #2"
+    comic_vine_issue_id: 130645
+  - name: "Hulk: Gray  #3"
+    comic_vine_issue_id: 130646
+  - name: "Hulk: Gray  #4"
+    comic_vine_issue_id: 130647
+  - name: "Hulk: Gray  #5"
+    comic_vine_issue_id: 130644
+  - name: "Hulk: Gray  #6"
+    comic_vine_issue_id: 130649

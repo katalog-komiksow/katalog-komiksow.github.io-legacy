@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Miracleman: Złota Era"
+image: 036.9788361319931.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319931
+release_date: "2017-09-20"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4807762/miracleman---zlota-era
+shops:
+  gildia: https://www.gildia.pl/komiksy/346154-miracleman-zlota-era
+  muchacomics: https://muchacomics.com/pl/p/Miracleman-Zlota-Era/187
+reviews:
+  naekranie: https://naekranie.pl/recenzje/miracleman-zlota-era-recenzja-komiksu
+issues:
+  - name: "Miracleman by Gaiman & Buckingham #1"
+    comic_vine_issue_id: 499166
+  - name: "Miracleman by Gaiman & Buckingham #2"
+    comic_vine_issue_id: 500407
+  - name: "Miracleman by Gaiman & Buckingham #3"
+    comic_vine_issue_id: 502065
+  - name: "Miracleman by Gaiman & Buckingham #4"
+    comic_vine_issue_id: 505174
+  - name: "Miracleman by Gaiman & Buckingham #5"
+    comic_vine_issue_id: 507368
+  - name: "Miracleman by Gaiman & Buckingham #6"
+    comic_vine_issue_id: 510613

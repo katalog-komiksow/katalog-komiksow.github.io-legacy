@@ -1,0 +1,33 @@
+---
+collection: marvel-mucha-comics
+name: "The Uncanny X-Force - tom 1: Sposób na Apocalypse'a"
+image: 035.9788361319979.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788361319979
+release_date: "2017-09-20"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4809272/uncanny-x-force---tom-1---sposob-na-apocalypse-a
+shops:
+  gildia: https://www.gildia.pl/komiksy/346155-uncanny-x-force-1-sposob-na-apocalypse-a
+  muchacomics: https://muchacomics.com/pl/p/Uncanny-X-Force-Sposob-na-Apocalypsea-tom-1/189
+reviews:
+  paradoks: https://paradoks.net.pl/read/33372-uncanny-x-force-tom-1-sposob-na-apocalypsea-zapowiedz
+issues:
+  - name: "Uncanny X-Force #1"
+    comic_vine_issue_id: 237053
+  - name: "Uncanny X-Force #2"
+    comic_vine_issue_id: 246424
+  - name: "Uncanny X-Force #3"
+    comic_vine_issue_id: 249206
+  - name: "Uncanny X-Force #4"
+    comic_vine_issue_id: 259125
+  - name: "Uncanny X-Force #5.1"
+    comic_vine_issue_id: 266000
+  - name: "Uncanny X-Force #5"
+    comic_vine_issue_id: 262615
+  - name: "Uncanny X-Force #6"
+    comic_vine_issue_id: 266505
+  - name: "Uncanny X-Force #7"
+    comic_vine_issue_id: 268219
