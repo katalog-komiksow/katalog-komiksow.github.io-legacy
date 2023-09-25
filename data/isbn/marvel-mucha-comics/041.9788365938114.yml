@@ -1,0 +1,45 @@
+---
+collection: marvel-mucha-comics
+name: "Jessica Jones: Puls"
+image: 041.9788365938114.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938114
+release_date: "2018-04-26"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4851365/jessica-jones-puls
+shops:
+  gildia: https://www.gildia.pl/komiksy/363735-jessica-jones-puls
+  muchacomics: https://muchacomics.com/pl/p/Puls-The-Pulse/203
+reviews:
+  paradoks: https://paradoks.net.pl/read/35231-jessica-jones-puls-recenzja
+issues:
+  - name: "The Pulse #1"
+    comic_vine_issue_id: 99291
+  - name: "The Pulse #2"
+    comic_vine_issue_id: 99292
+  - name: "The Pulse #3"
+    comic_vine_issue_id: 99293
+  - name: "The Pulse #4"
+    comic_vine_issue_id: 99294
+  - name: "The Pulse #5"
+    comic_vine_issue_id: 99295
+  - name: "The Pulse #6"
+    comic_vine_issue_id: 99296
+  - name: "The Pulse #7"
+    comic_vine_issue_id: 105807
+  - name: "The Pulse #8"
+    comic_vine_issue_id: 105808
+  - name: "The Pulse #9"
+    comic_vine_issue_id: 105809
+  - name: "The Pulse #11"
+    comic_vine_issue_id: 105853
+  - name: "The Pulse #12"
+    comic_vine_issue_id: 105854
+  - name: "The Pulse #13"
+    comic_vine_issue_id: 105855
+  - name: "The Pulse #14"
+    comic_vine_issue_id: 105856
+  - name: "New Avengers Annual #1"
+    comic_vine_issue_id: 106582
