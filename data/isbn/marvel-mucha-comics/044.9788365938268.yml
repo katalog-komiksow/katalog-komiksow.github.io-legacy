@@ -1,0 +1,35 @@
+---
+collection: marvel-mucha-comics
+name: "The Uncanny X-Force - tom 3: Inny świat"
+image: 044.9788365938268.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938268
+release_date: "2018-11-23"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4871389/uncanny-x-force---tom-3---inny-swiat
+shops:
+  gildia: https://www.gildia.pl/komiksy/382900-uncanny-x-force-3-inny-swiat
+  muchacomics: https://muchacomics.com/pl/p/Uncanny-X-Force-Inny-Swiat-tom-3/221
+reviews:
+  paradoks: https://naekranie.pl/recenzje/uncanny-x-force-03-inny-swiat-recenzja-komiksu
+issues:
+  - name: "Uncanny X-Force #19.1"
+    comic_vine_issue_id: 309399
+  - name: "Uncanny X-Force #20"
+    comic_vine_issue_id: 311672
+  - name: "Uncanny X-Force #21"
+    comic_vine_issue_id: 313715
+  - name: "Uncanny X-Force #22"
+    comic_vine_issue_id: 316683
+  - name: "Uncanny X-Force #23"
+    comic_vine_issue_id: 324701
+  - name: "Uncanny X-Force #24"
+    comic_vine_issue_id: 331917
+  - name: "Fear Itself: Uncanny X-Force #1"
+    comic_vine_issue_id: 277627
+  - name: "Fear Itself: Uncanny X-Force #2"
+    comic_vine_issue_id: 285336
+  - name: "Fear Itself: Uncanny X-Force #3"
+    comic_vine_issue_id: 293317

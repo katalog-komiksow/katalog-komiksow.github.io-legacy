@@ -1,0 +1,43 @@
+---
+collection: marvel-mucha-comics
+name: "Astonishing X-Men - tom zbiorczy 2"
+image: 046.9788365938350.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938350
+release_date: "2019-03-08"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4880998/astonishing-x-men-tom-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/390693-astonishing-x-men-2
+  muchacomics: https://muchacomics.com/pl/p/Astonishing-X-Men-tom-2/229
+reviews:
+  paradoks: https://paradoks.net.pl/read/37470-astonishing-x-men-tom-2-recenzja
+issues:
+  - name: "Astonishing X-Men #13"
+    comic_vine_issue_id: 106677
+  - name: "Astonishing X-Men #14"
+    comic_vine_issue_id: 106678
+  - name: "Astonishing X-Men #15"
+    comic_vine_issue_id: 106750
+  - name: "Astonishing X-Men #16"
+    comic_vine_issue_id: 106751
+  - name: "Astonishing X-Men #17"
+    comic_vine_issue_id: 106752
+  - name: "Astonishing X-Men #18"
+    comic_vine_issue_id: 106130
+  - name: "Astonishing X-Men #19"
+    comic_vine_issue_id: 106105
+  - name: "Astonishing X-Men #20"
+    comic_vine_issue_id: 106469
+  - name: "Astonishing X-Men #21"
+    comic_vine_issue_id: 108923
+  - name: "Astonishing X-Men #22"
+    comic_vine_issue_id: 113737
+  - name: "Astonishing X-Men #23"
+    comic_vine_issue_id: 116965
+  - name: "Astonishing X-Men #24"
+    comic_vine_issue_id: 121887
+  - name: "Giant-Size Astonishing X-Men #1"
+    comic_vine_issue_id: 130969
