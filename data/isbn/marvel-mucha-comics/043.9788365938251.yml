@@ -1,0 +1,27 @@
+---
+collection: marvel-mucha-comics
+name: "Nieśmiertelny Iron Fist - tom 3"
+image: 043.9788365938251.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938251
+release_date: "2018-10-31"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4870156/niesmiertelny-iron-fist---tom-3---historia-zelaznej-piesci
+shops:
+  gildia: https://www.gildia.pl/komiksy/379141-niesmiertelny-iron-fist-3-historia-zelaznej-piesci
+  muchacomics: https://muchacomics.com/pl/p/Niesmiertelny-Iron-Fist-tom-3/217
+reviews:
+  paradoks: https://paradoks.net.pl/read/36347-niesmiertelny-iron-fist-tom-3-historia-zelaznej-piesci-recenzja
+issues:
+  - name: "Immortal Iron Fist #7"
+    comic_vine_issue_id: 112730
+  - name: "Immortal Iron Fist #15"
+    comic_vine_issue_id: 131090
+  - name: "Immortal Iron Fist #16"
+    comic_vine_issue_id: 131809
+  - name: "The Immortal Iron Fist: Orson Randall and the Green Mist of Death #1"
+    comic_vine_issue_id: 123401
+  - name: "Immortal Iron Fist: The Origin of Danny Rand #1"
+    comic_vine_issue_id: 136057
