@@ -1,0 +1,43 @@
+---
+collection: marvel-mucha-comics
+name: "The Uncanny X-Force - tom 4: Ostateczna Egzekucja"
+image: 047.9788365938404.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938404
+release_date: "2019-04-30"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4885367/uncanny-x-force---tom-4---ostateczna-egzekucja
+shops:
+  gildia: https://www.gildia.pl/komiksy/396085-uncanny-x-force-4-ostateczna-egzekucja
+  muchacomics: https://muchacomics.com/pl/p/Uncanny-X-Force-Ostateczna-Egzekucja-tom-4/232
+reviews:
+  paradoks: https://paradoks.net.pl/read/37615-uncanny-x-force-tom-4-ostateczna-egzekucja-zapowiedz
+issues:
+  - name: "Uncanny X-Force #25"
+    comic_vine_issue_id: 335059
+  - name: "Uncanny X-Force #26"
+    comic_vine_issue_id: 340176
+  - name: "Uncanny X-Force #27"
+    comic_vine_issue_id: 345327
+  - name: "Uncanny X-Force #28"
+    comic_vine_issue_id: 347199
+  - name: "Uncanny X-Force #29"
+    comic_vine_issue_id: 351056
+  - name: "Uncanny X-Force #30"
+    comic_vine_issue_id: 354097
+  - name: "Uncanny X-Force #31"
+    comic_vine_issue_id: 356772
+  - name: "Uncanny X-Force #32"
+    comic_vine_issue_id: 360030
+  - name: "Uncanny X-Force #33"
+    comic_vine_issue_id: 366181
+  - name: "Uncanny X-Force #34"
+    comic_vine_issue_id: 369095
+  - name: "Uncanny X-Force #35"
+    comic_vine_issue_id: 373316
+  - name: "Wolverine: Dangerous Games #1"
+    comic_vine_issue_id: 131329
+  - name: "Deadpool #1000"
+    comic_vine_issue_id: 227866

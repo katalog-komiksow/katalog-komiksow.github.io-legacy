@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Jessica Jones - tom 2: Sekrety Marii Hill"
+image: 049.9788365938480.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938480
+release_date: "2019-07-26"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4895846/jessica-jones-tom-2-sekrety-marii-hill
+shops:
+  gildia: https://www.gildia.pl/komiksy/403898-jessica-jones-2-sekrety-marii-hill
+  muchacomics: https://muchacomics.com/pl/p/Jessica-Jones-Sekrety-Marii-Hill-tom-2/237
+reviews:
+  naekranie: https://paradoks.net.pl/read/38363-jessica-jones-tom-2-sekrety-marii-hill-recenzja
+issues:
+  - name: "Jessica Jones #7"
+    comic_vine_issue_id: 590796
+  - name: "Jessica Jones #8"
+    comic_vine_issue_id: 594115
+  - name: "Jessica Jones #9"
+    comic_vine_issue_id: 599867
+  - name: "Jessica Jones #10"
+    comic_vine_issue_id: 606629
+  - name: "Jessica Jones #11"
+    comic_vine_issue_id: 612041
+  - name: "Jessica Jones #12"
+    comic_vine_issue_id: 619629

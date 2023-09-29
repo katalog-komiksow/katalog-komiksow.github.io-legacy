@@ -1,0 +1,44 @@
+---
+collection: marvel-mucha-comics
+name: "Astonishing X-Men - tom zbiorczy 3"
+image: 050.9788365938596.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938596
+release_date: "2019-09-13"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4900543/astonishing-x-men-tom-3
+shops:
+  gildia: https://www.gildia.pl/komiksy/400027-astonishing-x-men-3
+  muchacomics: https://muchacomics.com/pl/p/Astonishing-X-Men-tom-3/242
+reviews:
+  naekranie: https://naekranie.pl/recenzje/astonishing-x-men-tom-3-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/38852-astonishing-x-men-tom-3-recenzja
+issues:
+  - name: "Astonishing X-Men #25"
+    comic_vine_issue_id: 131985
+  - name: "Astonishing X-Men #26"
+    comic_vine_issue_id: 135433
+  - name: "Astonishing X-Men #27"
+    comic_vine_issue_id: 140444
+  - name: "Astonishing X-Men #28"
+    comic_vine_issue_id: 150497
+  - name: "Astonishing X-Men #29"
+    comic_vine_issue_id: 155841
+  - name: "Astonishing X-Men #30"
+    comic_vine_issue_id: 161755
+  - name: "Astonishing X-Men #31"
+    comic_vine_issue_id: 174976
+  - name: "Astonishing X-Men #32"
+    comic_vine_issue_id: 181101
+  - name: "Astonishing X-Men #33"
+    comic_vine_issue_id: 187624
+  - name: "Astonishing X-Men #34"
+    comic_vine_issue_id: 221757
+  - name: "Astonishing X-Men #35"
+    comic_vine_issue_id: 231666
+  - name: "Astonishing X-Men: Ghost Boxes #1"
+    comic_vine_issue_id: 141259
+  - name: "Astonishing X-Men: Ghost Boxes #2"
+    comic_vine_issue_id: 145532
