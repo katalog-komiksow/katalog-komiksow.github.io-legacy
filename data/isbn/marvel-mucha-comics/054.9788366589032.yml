@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Jessica Jones - tom 4: Martwy punkt"
+image: 054.9788366589032.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589032
+release_date: "2020-05-20"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4929435/jessica-jones-tom-4-martwy-punkt
+shops:
+  gildia: https://www.gildia.pl/komiksy/429769-jessica-jones-martwy-punkt
+  muchacomics: https://muchacomics.com/pl/p/Jessica-Jones-Martwy-Punkt/262
+reviews:
+  paradoks: https://paradoks.net.pl/read/40397-jessica-jones-martwy-punkt-recenzja
+issues:
+  - name: "Jessica Jones: Blind Spot #1"
+    comic_vine_issue_id: 733823
+  - name: "Jessica Jones: Blind Spot #2"
+    comic_vine_issue_id: 735525
+  - name: "Jessica Jones: Blind Spot #3"
+    comic_vine_issue_id: 737161
+  - name: "Jessica Jones: Blind Spot #4"
+    comic_vine_issue_id: 738613
+  - name: "Jessica Jones: Blind Spot #5"
+    comic_vine_issue_id: 740819
+  - name: "Jessica Jones: Blind Spot #6"
+    comic_vine_issue_id: 743442
