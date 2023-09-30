@@ -1,0 +1,35 @@
+---
+collection: marvel-mucha-comics
+name: "New X-men - tom 1: Z jak Zagłada"
+image: 052.9788365938824.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938824
+release_date: "2019-12-18"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4911165/new-x-men-z-jak-zaglada
+shops:
+  gildia: https://www.gildia.pl/komiksy/418593-new-x-men-wyd-zbiorcze-tom-1
+  muchacomics: https://muchacomics.com/pl/p/New-X-Men-Z-jak-Zaglada-tom-1/252
+reviews:
+  paradoks: https://paradoks.net.pl/read/39289-new-x-men-tom-1-z-jak-zaglada-recenzja
+issues:
+  - name: "New X-Men #114"
+    comic_vine_issue_id: 66992
+  - name: "New X-Men #115"
+    comic_vine_issue_id: 66993
+  - name: "New X-Men #116"
+    comic_vine_issue_id: 66994
+  - name: "New X-Men #117"
+    comic_vine_issue_id: 66995
+  - name: "New X-Men #118"
+    comic_vine_issue_id: 78322
+  - name: "New X-Men #119"
+    comic_vine_issue_id: 78323
+  - name: "New X-Men #120"
+    comic_vine_issue_id: 78324
+  - name: "New X-Men #121"
+    comic_vine_issue_id: 78325
+  - name: "New X-Men 2001 Annual #1"
+    comic_vine_issue_id: 128914
