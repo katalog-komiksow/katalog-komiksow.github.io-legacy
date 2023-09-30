@@ -1,0 +1,28 @@
+---
+collection: marvel-mucha-comics
+name: "Jessica Jones - tom 3: Powrót Purple Mana"
+image: 051.9788365938787.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788365938787
+release_date: "2019-12-18"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4911166/jessica-jones-tom-3-powrot-purple-mana
+shops:
+  gildia: https://www.gildia.pl/komiksy/418594-jessica-jones-3-powrot-purple-mana
+  muchacomics: https://muchacomics.com/pl/p/Jessica-Jones-Powrot-Purple-Mana-tom-3/251
+reviews: []
+issues:
+  - name: "Jessica Jones #13"
+    comic_vine_issue_id: 626286
+  - name: "Jessica Jones #14"
+    comic_vine_issue_id: 636374
+  - name: "Jessica Jones #15"
+    comic_vine_issue_id: 649733
+  - name: "Jessica Jones #16"
+    comic_vine_issue_id: 656707
+  - name: "Jessica Jones #17"
+    comic_vine_issue_id: 661151
+  - name: "Jessica Jones #18"
+    comic_vine_issue_id: 664300
