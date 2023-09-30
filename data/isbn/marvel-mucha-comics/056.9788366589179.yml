@@ -1,0 +1,23 @@
+---
+collection: marvel-mucha-comics
+name: "Jessica Jones - tom 5: Fioletowa córka"
+image: 056.9788366589179.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589179
+release_date: "2020-09-22"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4941147/jessica-jones-tom-5-fioletowa-corka
+shops:
+  gildia: https://www.gildia.pl/komiksy/440172-jessica-jones-fioletowa-corka
+  muchacomics: https://muchacomics.com/pl/p/Jessica-Jones-Fioletowa-corka/270
+reviews:
+  paradoks: https://paradoks.net.pl/read/40952-jessica-jones-fioletowa-corka-recenzja
+issues:
+  - name: "Jessica Jones: Purple Daughter #1"
+    comic_vine_issue_id: 697635
+  - name: "Jessica Jones: Purple Daughter #2"
+    comic_vine_issue_id: 701314
+  - name: "Jessica Jones: Purple Daughter #3"
+    comic_vine_issue_id: 703943
