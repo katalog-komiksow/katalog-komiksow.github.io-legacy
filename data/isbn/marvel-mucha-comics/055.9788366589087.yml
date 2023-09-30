@@ -1,0 +1,38 @@
+---
+collection: marvel-mucha-comics
+name: "X-Men: Era Apocalypse'a - tom 1: Świt"
+image: 055.9788366589087.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589087
+release_date: "2020-06-26"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4931762/x-men-era-apocalypse-a-swit-tom-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/432402-x-men-era-apocalypse-a-1-swit
+  muchacomics: https://muchacomics.com/pl/p/X-Men-%E2%80%9EEra-Apocalypsea-ksiega-pierwsza-%E2%80%9ESwit/265
+reviews:
+  naekranie: https://naekranie.pl/recenzje/era-apocalypsea-swit-tom-1-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/40358-era-apocalypsea-ksiega-pierwsza-swit-recenzja
+issues:
+  - name: "The Uncanny X-Men #320"
+    comic_vine_issue_id: 40358
+  - name: "X-Men #40"
+    comic_vine_issue_id: 65741
+  - name: "The Uncanny X-Men #321"
+    comic_vine_issue_id: 40487
+  - name: "X-Men #41"
+    comic_vine_issue_id: 65742
+  - name: "Cable #20"
+    comic_vine_issue_id: 40492
+  - name: "X-Men Alpha"
+    comic_vine_issue_id: 105731
+  - name: "Generation Next #1"
+    comic_vine_issue_id: 40589
+  - name: "The Astonishing X-Men #1"
+    comic_vine_issue_id: 40582
+  - name: "Gambit and the X-Ternals #1"
+    comic_vine_issue_id: 40588
+  - name: "Weapon X #1"
+    comic_vine_issue_id: 40598
