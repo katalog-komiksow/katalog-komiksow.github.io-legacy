@@ -1,0 +1,36 @@
+---
+collection: marvel-mucha-comics
+name: "X-Men: Era Apocalypse'a - tom 4: Zmierzch"
+image: 065.9788366589780.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589780
+release_date: "2022-05-10"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5018017/x-men-era-apocalypse-a-4-zmierzch
+shops:
+  gildia: https://www.gildia.pl/komiksy/522894-x-men-era-apocalypse-a-4-zmierzch
+  muchacomics: https://muchacomics.com/pl/p/X-Men-%E2%80%9EEra-Apocalypsea-ksiega-czwarta-%E2%80%9EZmierzch/305
+reviews:
+  naekranie: https://naekranie.pl/recenzje/era-apocalypsea-tom-4-zmierzch-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/43425-era-apocalypsea-ksiega-czwarta-zmierzch-recenzja
+issues:
+  - name: "The Astonishing X-Men #4"
+    comic_vine_issue_id: 40968
+  - name: "Generation Next #4"
+    comic_vine_issue_id: 40977
+  - name: "Gambit and the X-Ternals #4"
+    comic_vine_issue_id: 40976
+  - name: "X-Man #4"
+    comic_vine_issue_id: 40985
+  - name: "X-Calibre #4"
+    comic_vine_issue_id: 40984
+  - name: "Factor X #4"
+    comic_vine_issue_id: 40973
+  - name: "Weapon X #4"
+    comic_vine_issue_id: 40982
+  - name: "The Amazing X-Men #4"
+    comic_vine_issue_id: 40967
+  - name: "X-Men Omega #1"
+    comic_vine_issue_id: 105975

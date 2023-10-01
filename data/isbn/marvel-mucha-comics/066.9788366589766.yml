@@ -1,0 +1,25 @@
+---
+collection: marvel-mucha-comics
+name: "Deadpool: Czerń, biel i krew"
+image: 066.9788366589766.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589766
+release_date: "2022-05-10"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5020439/deadpool-czern-biel-i-krew
+shops:
+  gildia: https://www.gildia.pl/komiksy/522863-deadpool-czern-biel-i-krew
+  muchacomics: https://muchacomics.com/pl/p/DEADPOOL-CZERN%2C-BIEL-i-KREW/303
+reviews:
+  geeklife: https://www.geeklife.pl/2022/06/09/deadpool-czern-biel-i-krew-recenzja-komiksu/
+issues:
+  - name: "Deadpool: Black, White & Blood #1"
+    comic_vine_issue_id: 877062
+  - name: "Deadpool: Black, White & Blood #2"
+    comic_vine_issue_id: 884086
+  - name: "Deadpool: Black, White & Blood #3"
+    comic_vine_issue_id: 888635
+  - name: "Deadpool: Black, White & Blood #4"
+    comic_vine_issue_id: 894105

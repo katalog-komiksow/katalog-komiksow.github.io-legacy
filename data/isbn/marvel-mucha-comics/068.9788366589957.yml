@@ -1,0 +1,29 @@
+---
+collection: marvel-mucha-comics
+name: "Venom: Zabójczy obrońca"
+image: 068.9788366589957.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589957
+release_date: "2022-11-11"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5045999/venom-zabojczy-obronca
+shops:
+  gildia: https://www.gildia.pl/komiksy/542898-venom-zabojczy-obronca
+  muchacomics: https://muchacomics.com/pl/p/VENOM-ZABOJCZY-OBRONCA/315
+reviews:
+  paradoks: https://paradoks.net.pl/read/44257-venom-zabojczy-obronca-recenzja
+issues:
+  - name: "Venom: Lethal Protector #1"
+    comic_vine_issue_id: 57641
+  - name: "Venom: Lethal Protector #2"
+    comic_vine_issue_id: 57642
+  - name: "Venom: Lethal Protector #3"
+    comic_vine_issue_id: 57643
+  - name: "Venom: Lethal Protector #4"
+    comic_vine_issue_id: 57644
+  - name: "Venom: Lethal Protector #5"
+    comic_vine_issue_id: 57645
+  - name: "Venom: Lethal Protector #6"
+    comic_vine_issue_id: 57646

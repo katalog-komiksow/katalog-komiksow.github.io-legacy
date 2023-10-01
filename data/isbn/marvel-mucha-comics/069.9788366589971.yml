@@ -1,0 +1,45 @@
+---
+collection: marvel-mucha-comics
+name: "X-Statix: Sławni i martwi - tom 1"
+image: 069.9788366589971.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589971
+#release_date: "2022-11-11"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5051746/x-statix-slawni-i-martwi-tom-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/547636-x-statix-slawni-i-martwi-1
+  muchacomics: https://muchacomics.com/pl/p/X-Statix-Slawni-i-martwi-tom-1/319
+reviews:
+  naekranie: https://naekranie.pl/recenzje/x-statix-01-slawni-i-martwi-recenzja-komiksu
+issues:
+  - name: "X-Force vol. 1 #116"
+    comic_vine_issue_id: 64586
+  - name: "X-Force vol. 1 #117"
+    comic_vine_issue_id: 107069
+  - name: "X-Force vol. 1 #118"
+    comic_vine_issue_id: 107070
+  - name: "X-Force vol. 1 #119"
+    comic_vine_issue_id: 107071
+  - name: "X-Force vol. 1 #120"
+    comic_vine_issue_id: 107072
+  - name: "X-Force vol. 1 #121"
+    comic_vine_issue_id: 72638
+  - name: "X-Force vol. 1 #122"
+    comic_vine_issue_id: 72639
+  - name: "X-Force vol. 1 #123"
+    comic_vine_issue_id: 72640
+  - name: "X-Force vol. 1 #124"
+    comic_vine_issue_id: 72641
+  - name: "X-Force vol. 1 #125"
+    comic_vine_issue_id: 72642
+  - name: "X-Force vol. 1 #126"
+    comic_vine_issue_id: 107073
+  - name: "X-Force vol. 1 #127"
+    comic_vine_issue_id: 107074
+  - name: "X-Force vol. 1 #128"
+    comic_vine_issue_id: 107075
+  - name: "X-Force vol. 1 #129"
+    comic_vine_issue_id: 107076

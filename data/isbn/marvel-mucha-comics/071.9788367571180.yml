@@ -1,0 +1,31 @@
+---
+collection: marvel-mucha-comics
+name: "Spider-man: Śmierć Jean DeWolff"
+image: 071.9788367571180.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788367571180
+release_date: "2023-07-10"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5076091/spider-man-smierc-jean-dewolff
+shops:
+  gildia: https://www.gildia.pl/komiksy/568570-spider-man-smierc-jean-dewolff
+  muchacomics: https://muchacomics.com/pl/p/SPIDER-MAN-SMIERC-JEAN-DeWOLFF/329
+reviews:
+  paradoks: https://paradoks.net.pl/read/45410-peter-parker-the-spectacular-spider-man-smierc-jean-dewolff-recenzja
+issues:
+  - name: "Peter Parker, The Spectacular Spider-Man (1976) #107"
+    comic_vine_issue_id: 25993
+  - name: "Peter Parker, The Spectacular Spider-Man (1976) #108"
+    comic_vine_issue_id: 26099
+  - name: "Peter Parker, The Spectacular Spider-Man (1976) #109"
+    comic_vine_issue_id: 26205
+  - name: "Peter Parker, The Spectacular Spider-Man (1976) #110"
+    comic_vine_issue_id: 26409
+  - name: "Peter Parker, The Spectacular Spider-Man (1976) #134"
+    comic_vine_issue_id: 29152
+  - name: "Peter Parker, The Spectacular Spider-Man (1976) #135"
+    comic_vine_issue_id: 29269
+  - name: "Peter Parker, The Spectacular Spider-Man (1976) #136"
+    comic_vine_issue_id: 29378

@@ -1,0 +1,25 @@
+---
+collection: marvel-mucha-comics
+name: "Wolverine: Czerń, biel i krew"
+image: 060.9788366589483.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589483
+release_date: "2021-08-03"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4979606/wolverine-czern-biel-i-krew
+shops:
+  gildia: https://www.gildia.pl/komiksy/493305-wolverine-czern-biel-i-krew
+  muchacomics: https://muchacomics.com/pl/p/WOLVERINE-CZERN%2C-BIEL-i-KREW/287
+reviews:
+  naekranie: https://naekranie.pl/recenzje/wolverine-czern-biel-i-krew-recenzja-komiksu
+issues:
+  - name: "Wolverine: Black, White & Blood #1"
+    comic_vine_issue_id: 816472
+  - name: "Wolverine: Black, White & Blood #2"
+    comic_vine_issue_id: 821503
+  - name: "Wolverine: Black, White & Blood #3"
+    comic_vine_issue_id: 828199
+  - name: "Wolverine: Black, White & Blood #4"
+    comic_vine_issue_id: 836307

@@ -1,0 +1,25 @@
+---
+collection: marvel-mucha-comics
+name: "Moon Knight: Czerń, biel i krew"
+image: 070.9788367571098.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788367571098
+release_date: "2023-04-06"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5065622/moon-knight-czern-biel-i-krew
+shops:
+  gildia: https://www.gildia.pl/komiksy/557331-moon-knight-czern-biel-i-krew
+  muchacomics: https://muchacomics.com/pl/p/MOON-KNIGHT-CZERN%2C-BIEL-i-KREW/324
+reviews:
+  naekranie: https://naekranie.pl/recenzje/moon-knight-czern-biel-i-krew-recenzja-komiksu
+issues:
+  - name: "Moon Knight: Black, White & Blood #1"
+    comic_vine_issue_id: 922409
+  - name: "Moon Knight: Black, White & Blood #2"
+    comic_vine_issue_id: 930975
+  - name: "Moon Knight: Black, White & Blood #3"
+    comic_vine_issue_id: 937730
+  - name: "Moon Knight: Black, White & Blood #4"
+    comic_vine_issue_id: 945045

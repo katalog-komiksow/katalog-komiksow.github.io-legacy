@@ -1,0 +1,39 @@
+---
+collection: marvel-mucha-comics
+name: "X-Men: Era Apocalypse'a - tom 2: Rządy"
+image: 058.9788366589285.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589285
+release_date: "2020-12-21"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4952741/x-men-era-apocalypse-a-2-rzady
+shops:
+  gildia: https://www.gildia.pl/komiksy/448459-x-men-era-apocalypse-a-2-rzady
+  muchacomics: https://muchacomics.com/pl/p/X-Men-%E2%80%9EEra-Apocalypsea-ksiega-druga-%E2%80%9ERzady-/276
+reviews:
+  paradoks: https://paradoks.net.pl/read/41277-era-apocalypsea-ksiega-druga-rzady-recenzja
+issues:
+  - name: "Factor X #1"
+    comic_vine_issue_id: 40587
+  - name: "X-Man #1"
+    comic_vine_issue_id: 40601
+  - name: "X-Calibre #1"
+    comic_vine_issue_id: 40600
+  - name: "The Amazing X-Men #1"
+    comic_vine_issue_id: 40581
+  - name: "The Astonishing X-Men #2"
+    comic_vine_issue_id: 40720
+  - name: "The Amazing X-Men #2"
+    comic_vine_issue_id: 105543
+  - name: "Gambit and the X-Ternals #2"
+    comic_vine_issue_id: 40728
+  - name: "Generation Next #2"
+    comic_vine_issue_id: 40729
+  - name: "Weapon X #2"
+    comic_vine_issue_id: 40733
+  - name: "X-Calibre #2"
+    comic_vine_issue_id: 40735
+  - name: "Factor X #2"
+    comic_vine_issue_id: 40726

@@ -1,0 +1,35 @@
+---
+collection: marvel-mucha-comics
+name: "New X-men - tom 4: Planeta X"
+image: 059.9788366589360.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589360
+release_date: "2021-04-28"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4969354/new-x-men-planeta-x
+shops:
+  gildia: https://www.gildia.pl/komiksy/484526-new-x-men-wyd-zbiorcze-tom-4
+  muchacomics: https://muchacomics.com/pl/p/New-X-Men-Planeta-X-tom-4/281
+reviews:
+  naekranie: https://naekranie.pl/recenzje/new-x-men-tom-4-planeta-x-recenzja-komiksu
+issues:
+  - name: "New X-Men #146"
+    comic_vine_issue_id: 114451
+  - name: "New X-Men #147"
+    comic_vine_issue_id: 114452
+  - name: "New X-Men #148"
+    comic_vine_issue_id: 114454
+  - name: "New X-Men #149"
+    comic_vine_issue_id: 114458
+  - name: "New X-Men #150"
+    comic_vine_issue_id: 114459
+  - name: "New X-Men #151"
+    comic_vine_issue_id: 106245
+  - name: "New X-Men #152"
+    comic_vine_issue_id: 106246
+  - name: "New X-Men #153"
+    comic_vine_issue_id: 106247
+  - name: "New X-Men #154"
+    comic_vine_issue_id: 106248

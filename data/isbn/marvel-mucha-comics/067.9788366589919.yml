@@ -1,0 +1,25 @@
+---
+collection: marvel-mucha-comics
+name: "Elektra: Czerń, biel i krew"
+image: 067.9788366589919.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589919
+release_date: "2022-09-29"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5040230/elektra-czern-biel-i-krew
+shops:
+  gildia: https://www.gildia.pl/komiksy/538068-elektra-czern-biel-i-krew
+  muchacomics: https://muchacomics.com/pl/p/ELEKTRA-CZERN%2C-BIEL-i-KREW/312
+reviews:
+  naekranie: https://naekranie.pl/recenzje/elektra-czern-biel-i-krew-recenzja-komiksu
+issues:
+  - name: "Elektra: Black, White & Blood #1"
+    comic_vine_issue_id: 901415
+  - name: "Elektra: Black, White & Blood #2"
+    comic_vine_issue_id: 908703
+  - name: "Elektra: Black, White & Blood #3"
+    comic_vine_issue_id: 912250
+  - name: "Elektra: Black, White & Blood #4"
+    comic_vine_issue_id: 924795

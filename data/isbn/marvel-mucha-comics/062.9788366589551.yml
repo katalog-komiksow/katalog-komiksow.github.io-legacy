@@ -1,0 +1,35 @@
+---
+collection: marvel-mucha-comics
+name: "X-Men: Era Apocalypse'a - tom 3: Wojna"
+image: 062.9788366589551.jpeg
+image_source: "https://lubimyczytac.pl"
+isbn: 9788366589551
+release_date: "2021-10-05"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4988945/x-men-era-apocalypse-a-3-wojna
+shops:
+  gildia: https://www.gildia.pl/komiksy/499500-x-men-era-apocalypse-a-3-wojna
+  muchacomics: https://muchacomics.com/pl/p/X-Men-%E2%80%9EEra-Apocalypsea-ksiega-trzecia-%E2%80%9EWojna/291
+reviews:
+  naekranie: https://naekranie.pl/recenzje/era-apocalypsea-tom-3-wojna-recenzja-komiksu
+issues:
+  - name: "X-Man #2"
+    comic_vine_issue_id: 40736
+  - name: "X-Calibre #3"
+    comic_vine_issue_id: 40861
+  - name: "Factor X #3"
+    comic_vine_issue_id: 40850
+  - name: "The Astonishing X-Men #3"
+    comic_vine_issue_id: 40845
+  - name: "The Amazing X-Men #3"
+    comic_vine_issue_id: 40844
+  - name: "X-Man #3"
+    comic_vine_issue_id: 40862
+  - name: "Weapon X #3"
+    comic_vine_issue_id: 40859
+  - name: "Generation Next #3"
+    comic_vine_issue_id: 40853
+  - name: "Gambit and the X-Ternals #3"
+    comic_vine_issue_id: 40852
