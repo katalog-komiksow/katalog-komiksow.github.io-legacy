@@ -1,0 +1,30 @@
+---
+collection: wkkdc
+name: "Batman: Batman i Syn"
+image: 005.9788377186053.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186053
+release_date: "2016-10-19"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3930271/batman-batman-i-syn
+shops:
+  gildia: https://www.gildia.pl/komiksy/311472-wielka-kolekcja-komiksow-dc-comics-5-batman-batman-i-syn
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-5-batman-i-syn-prezentacja-komiksu
+issues:
+  - name: "Batman (vol. 1) #655"
+    comic_vine_issue_id: 114075
+  - name: "Batman (vol. 1) #656"
+    comic_vine_issue_id: 114059
+  - name: "Batman (vol. 1) #657"
+    comic_vine_issue_id: 121734
+  - name: "Batman (vol. 1) #658"
+    comic_vine_issue_id: 108509
+  - name: "Batman (vol. 1) #664"
+    comic_vine_issue_id: 107594
+  - name: "Batman (vol. 1) #665"
+    comic_vine_issue_id: 109609
+  - name: "Detective Comics (vol. 1) #411"
+    comic_vine_issue_id: 112680
