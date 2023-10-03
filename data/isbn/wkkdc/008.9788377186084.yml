@@ -1,0 +1,32 @@
+---
+collection: wkkdc
+name: "Batman: Długie Halloween, część 2"
+image: 008.9788377186084.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186084
+release_date: "2016-11-30"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4064394/batman-dlugie-halloween---czesc-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/311475-wielka-kolekcja-komiksow-dc-comics-8-batman-dlugie-halloween-cz-2
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-8-batman-dlugie-halloween-czesc-2-prezentacja-komiksu
+issues:
+  - name: "Batman: The Long Halloween #7"
+    comic_vine_issue_id: 48833
+  - name: "Batman: The Long Halloween #8"
+    comic_vine_issue_id: 48834
+  - name: "Batman: The Long Halloween #9"
+    comic_vine_issue_id: 48835
+  - name: "Batman: The Long Halloween #10"
+    comic_vine_issue_id: 48836
+  - name: "Batman: The Long Halloween #11"
+    comic_vine_issue_id: 48837
+  - name: "Batman: The Long Halloween #12"
+    comic_vine_issue_id: 48838
+  - name: "Batman: The Long Halloween #13"
+    comic_vine_issue_id: 48839
+  - name: "Detective Comics (vol. 1) #66"
+    comic_vine_issue_id: 112174
