@@ -1,0 +1,28 @@
+---
+collection: wkkdc
+name: "Green Arrow: Kołczan, część 1"
+image: 003.9788377186039.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186039
+release_date: "2016-09-21"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3839332/green-arrow-kolczan---czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/311470-wielka-kolekcja-komiksow-dc-comics-3-green-arrow-kolczan-cz-1
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-3-green-arrow-kolczan-czesc-1
+issues:
+  - name: "Green Arrow (vol. 3) #1"
+    comic_vine_issue_id: 66918
+  - name: "Green Arrow (vol. 3) #2"
+    comic_vine_issue_id: 66919
+  - name: "Green Arrow (vol. 3) #3"
+    comic_vine_issue_id: 66920
+  - name: "Green Arrow (vol. 3) #4"
+    comic_vine_issue_id: 66921
+  - name: "Green Arrow (vol. 3) #5"
+    comic_vine_issue_id: 66922
+  - name: "The Brave and the Bold (vol. 1) #85"
+    comic_vine_issue_id: 10332
