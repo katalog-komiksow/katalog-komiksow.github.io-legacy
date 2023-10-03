@@ -1,0 +1,26 @@
+---
+collection: wkkdc
+name: "Batman: Śmierć w Rodzinie"
+image: 009.9788377186091.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186091
+release_date: "2016-12-14"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4122193/batman-smierc-w-rodzinie
+shops:
+  gildia: https://www.gildia.pl/komiksy/319905-wielka-kolekcja-komiksow-dc-comics-9-batman-smierc-w-rodzinie
+reviews:
+  paradoks: https://paradoks.net.pl/read/31201-batman-smierc-w-rodzinie-recenzja
+issues:
+  - name: "Batman (vol.1) #426"
+    comic_vine_issue_id: 30377
+  - name: "Batman (vol.1) #427"
+    comic_vine_issue_id: 30478
+  - name: "Batman (vol.1) #428"
+    comic_vine_issue_id: 30541
+  - name: "Batman (vol.1) #429"
+    comic_vine_issue_id: 30725
+  - name: "Batman (vol.1) #366"
+    comic_vine_issue_id: 23680
