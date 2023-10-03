@@ -1,0 +1,30 @@
+---
+collection: wkkdc
+name: "Batman: Hush, część 1"
+image: 001.9788377186015.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186015
+release_date: "2016-08-24"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3761493/batman-hush---czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/311468-wielka-kolekcja-komiksow-dc-comics-1-batman-hush-cz-1
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-1-batman-hush-czesc-1-prezentacja-komiksu
+issues:
+  - name: "Batman (vol. 1) #608"
+    comic_vine_issue_id: 124939
+  - name: "Batman (vol. 1) #609"
+    comic_vine_issue_id: 124980
+  - name: "Batman (vol. 1) #610"
+    comic_vine_issue_id: 125046
+  - name: "Batman (vol. 1) #611"
+    comic_vine_issue_id: 125134
+  - name: "Batman (vol. 1) #612"
+    comic_vine_issue_id: 125222
+  - name: "Batman (vol. 1) #613"
+    comic_vine_issue_id: 121730
+  - name: "Detective Comics (vol. 1) #27"
+    comic_vine_issue_id: 105764

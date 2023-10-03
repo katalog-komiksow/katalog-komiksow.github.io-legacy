@@ -1,0 +1,32 @@
+---
+collection: wkkdc
+name: "Batman: Hush, część 2"
+image: 002.9788377186022.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186022
+release_date: "2016-09-07"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3820400/batman-hush---czesc-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/311469-wielka-kolekcja-komiksow-dc-comics-2-batman-hush-cz-2
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-1-batman-hush-czesc-2-prezentacja-komiksu
+issues:
+  - name: "Batman (vol. 1) #614"
+    comic_vine_issue_id: 121729
+  - name: "Batman (vol. 1) #615"
+    comic_vine_issue_id: 125291
+  - name: "Batman (vol. 1) #616"
+    comic_vine_issue_id: 91385
+  - name: "Batman (vol. 1) #617"
+    comic_vine_issue_id: 91386
+  - name: "Batman (vol. 1) #618"
+    comic_vine_issue_id: 91387
+  - name: "Batman (vol. 1) #619"
+    comic_vine_issue_id: 91388
+  - name: "Wizard: The Comics Magazine (vol. 1) #0"
+    comic_vine_issue_id: 110476
+  - name: "Detective Comics (vol. 1) #33"
+    comic_vine_issue_id: 112065
