@@ -1,0 +1,28 @@
+---
+collection: wkkdc
+name: "Catwoman: Wielki Skok Seliny"
+image: 011.9788377186114.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186114
+release_date: "2017-01-11"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4218978/catwoman-wielki-skok-seliny
+shops:
+  gildia: https://www.gildia.pl/komiksy/319907-wielka-kolekcja-komiksow-dc-comics-11-catwoman-wielki-skok-seliny
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-11-catwoman-wielki-skok-seliny-prezentacja-i-porownanie
+issues:
+  - name: "Catwoman: Selina's Big Score #1"
+    comic_vine_issue_id: 228853
+  - name: "Detective Comics (vol.1) #759"
+    comic_vine_issue_id: 113225
+  - name: "Detective Comics (vol.1) #760"
+    comic_vine_issue_id: 113226
+  - name: "Detective Comics (vol.1) #761"
+    comic_vine_issue_id: 113276
+  - name: "Detective Comics (vol.1) #762"
+    comic_vine_issue_id: 113277
+  - name: "Batman (vol. 1) #1"
+    comic_vine_issue_id: 105811
