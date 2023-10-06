@@ -1,0 +1,30 @@
+---
+collection: wkkdc
+name: "Superman: Człowiek ze Stali"
+image: 018.9788377186183.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186183
+release_date: "2017-04-19"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4427961/superman-czlowiek-ze-stali
+shops:
+  gildia: https://www.gildia.pl/komiksy/332210-wielka-kolekcja-komiksow-dc-comics-18-superman-czlowiek-ze-stali
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-18-superman-czlowiek-ze-stali-prezentacja-komiksu
+issues:
+  - name: "The Man of Steel (vol. 1) #1"
+    comic_vine_issue_id: 27236
+  - name: "The Man of Steel (vol. 1) #2"
+    comic_vine_issue_id: 27315
+  - name: "The Man of Steel (vol. 1) #3"
+    comic_vine_issue_id: 27343
+  - name: "The Man of Steel (vol. 1) #4"
+    comic_vine_issue_id: 27422
+  - name: "The Man of Steel (vol. 1) #5"
+    comic_vine_issue_id: 27447
+  - name: "The Man of Steel (vol. 1) #6"
+    comic_vine_issue_id: 27531
+  - name: "Action Comics (vol. 1) #1"
+    comic_vine_issue_id: 105403
