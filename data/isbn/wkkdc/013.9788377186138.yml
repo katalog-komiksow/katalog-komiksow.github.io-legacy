@@ -1,0 +1,28 @@
+---
+collection: wkkdc
+name: "Amerykańska Liga Sprawiedliwości: Wieża Babel"
+image: 013.9788377186138
+image_source: https://lubimyczytac.pl
+isbn: 9788377186138
+release_date: "2017-02-08"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4307126/amerykanska-liga-sprawiedliwosci-jla-wieza-babel
+shops:
+  gildia: https://www.gildia.pl/komiksy/326223-wielka-kolekcja-komiksow-dc-comics-13-amerykanska-liga-sprawiedliwosci-jla-wieza-babel
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-13-amerykanska-liga-sprawiedliwosci-wieza-babel-prezentacja-komiksu
+issues:
+  - name: "JLA #43"
+    comic_vine_issue_id: 46384
+  - name: "JLA #44"
+    comic_vine_issue_id: 46399
+  - name: "JLA #45"
+    comic_vine_issue_id: 46417
+  - name: "JLA #46"
+    comic_vine_issue_id: 83095
+  - name: "JLA: Secret Files and Origins #3"
+    comic_vine_issue_id: 78350
+  - name: "The Brave and the Bold (vol.1) #28"
+    comic_vine_issue_id: 4519

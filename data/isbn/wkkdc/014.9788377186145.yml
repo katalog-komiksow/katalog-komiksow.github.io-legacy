@@ -1,0 +1,26 @@
+---
+collection: wkkdc
+name: "Batman: Zagłada Gotham"
+image: 014.9788377186145.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186145
+release_date: "2017-02-22"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4354822/batman-zaglada-gotham
+shops:
+  gildia: https://www.gildia.pl/komiksy/326224-wielka-kolekcja-komiksow-dc-comics-14-batman-zaglada-gotham
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-14-batman-zaglada-gotham-prezentacja-komiksu
+issues:
+  - name: "Batman: The Doom That Came to Gotham #1"
+    comic_vine_issue_id: 48235
+  - name: "Batman: The Doom That Came to Gotham #2"
+    comic_vine_issue_id: 48236
+  - name: "Batman: The Doom That Came to Gotham #3"
+    comic_vine_issue_id: 48237
+  - name: "Batman: Gotham Knights #36"
+    comic_vine_issue_id: 119370
+  - name: "The Demon (vol.1) #1"
+    comic_vine_issue_id: 12384
