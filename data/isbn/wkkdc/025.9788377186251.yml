@@ -1,0 +1,32 @@
+---
+collection: wkkdc
+name: "Flash: Urodzony Sprinter"
+image: 025.9788377186251.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186251
+release_date: "2017-07-26"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4427973/flash-urodzony-sprinter
+shops:
+  gildia: https://www.gildia.pl/komiksy/339014-wielka-kolekcja-komiksow-dc-comics-25-flash-urodzony-sprinter
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-25-flash-urodzony-sprinter-prezentacja-komiksu
+issues:
+  - name: "Flash (vol. 2) #62"
+    comic_vine_issue_id: 35645
+  - name: "Flash (vol. 2) #63"
+    comic_vine_issue_id: 35720
+  - name: "Flash (vol. 2) #64"
+    comic_vine_issue_id: 35748
+  - name: "Flash (vol. 2) #65"
+    comic_vine_issue_id: 35834
+  - name: "Flash Annual (vol. 2) #8"
+    comic_vine_issue_id: 33648
+  - name: "Speed Force #1"
+    comic_vine_issue_id: 142657
+  - name: "The Flash 80-Page Giant #1"
+    comic_vine_issue_id: 29897
+  - name: "The Flash (vol. 1) #135"
+    comic_vine_issue_id: 6398

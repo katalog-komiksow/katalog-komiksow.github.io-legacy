@@ -1,0 +1,26 @@
+---
+collection: wkkdc
+name: "Robin: Rok Pierwszy"
+image: 026.9788377186268.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186268
+release_date: "2017-08-09"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4427974/robin-rok-pierwszy
+shops:
+  gildia: https://www.gildia.pl/komiksy/339015-wielka-kolekcja-komiksow-dc-comics-26-robin-rok-pierwszy
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-26-robin-rok-pierwszy-prezentacja-komiksu
+issues:
+  - name: "Robin: Year One #1"
+    comic_vine_issue_id: 68422
+  - name: "Robin: Year One #2"
+    comic_vine_issue_id: 68423
+  - name: "Robin: Year One #3"
+    comic_vine_issue_id: 68424
+  - name: "Robin: Year One #4"
+    comic_vine_issue_id: 68425
+  - name: "Detective Comics (vol. 1) #38"
+    comic_vine_issue_id: 111907
