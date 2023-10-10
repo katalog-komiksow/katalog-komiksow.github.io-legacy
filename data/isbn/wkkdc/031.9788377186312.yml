@@ -1,0 +1,30 @@
+---
+collection: wkkdc
+name: "Superman: Brainiac"
+image: 031.9788377186312.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186312
+release_date: "2017-10-18"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4427981/superman-brainiac
+shops:
+  gildia: https://www.gildia.pl/komiksy/348855-wielka-kolekcja-komiksow-dc-comics-31-superman-brainiac
+reviews:
+  paradoks: https://paradoks.net.pl/read/33749-wkkdc-tom-31-superman-brainiac-recenzja
+issues:
+  - name: "Action Comics (vol. 1) #866"
+    comic_vine_issue_id: 131393
+  - name: "Action Comics (vol. 1) #867"
+    comic_vine_issue_id: 133044
+  - name: "Action Comics (vol. 1) #868"
+    comic_vine_issue_id: 135439
+  - name: "Action Comics (vol. 1) #869"
+    comic_vine_issue_id: 138980
+  - name: "Action Comics (vol. 1) #870"
+    comic_vine_issue_id: 140070
+  - name: "Superman: New Krypton Special (vol.1) #1"
+    comic_vine_issue_id: 140868
+  - name: "Action Comics (vol. 1) #242"
+    comic_vine_issue_id: 121191

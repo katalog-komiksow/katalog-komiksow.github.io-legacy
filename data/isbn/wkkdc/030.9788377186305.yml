@@ -1,0 +1,24 @@
+---
+collection: wkkdc
+name: "Trójca"
+image: 030.9788377186305.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186305
+release_date: "2017-10-04"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4427980/batman-superman-wonder-woman-trojca
+shops:
+  gildia: https://www.gildia.pl/komiksy/347445-wielka-kolekcja-komiksow-dc-comics-30-batman-superman-wonder-woman-trojca
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-30-trojca-batman-superman-wonder-woman-prezentacja-i-porownanie
+issues:
+  - name: "Batman/Superman/Wonder Woman: Trinity #1"
+    comic_vine_issue_id: 93996
+  - name: "Batman/Superman/Wonder Woman: Trinity #2"
+    comic_vine_issue_id: 93997
+  - name: "Batman/Superman/Wonder Woman: Trinity #3"
+    comic_vine_issue_id: 93998
+  - name: "World's Finest Comics (vol. 1) #71"
+    comic_vine_issue_id: 120154
