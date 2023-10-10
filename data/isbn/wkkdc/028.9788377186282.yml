@@ -1,0 +1,34 @@
+---
+collection: wkkdc
+name: "Catwoman: Na tropie Catwoman"
+image: 028.9788377186282.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186282
+release_date: "2017-09-06"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4427976/catwoman-na-tropie-catwoman
+shops:
+  gildia: https://www.gildia.pl/komiksy/346074-wielka-kolekcja-komiksow-dc-comics-28-catwoman-na-tropie-catwoman
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-28-catwoman-na-tropie-catwoman-prezentacja-i-porownanie
+issues:
+  - name: "Catwoman (vol. 2) #1"
+    comic_vine_issue_id: 52122
+  - name: "Catwoman (vol. 2) #2"
+    comic_vine_issue_id: 52123
+  - name: "Catwoman (vol. 2) #3"
+    comic_vine_issue_id: 52124
+  - name: "Catwoman (vol. 2) #4"
+    comic_vine_issue_id: 52125
+  - name: "Catwoman (vol. 2) #6"
+    comic_vine_issue_id: 52127
+  - name: "Catwoman (vol. 2) #7"
+    comic_vine_issue_id: 52128
+  - name: "Catwoman (vol. 2) #8"
+    comic_vine_issue_id: 89433
+  - name: "Catwoman (vol. 2) #9"
+    comic_vine_issue_id: 89434
+  - name: "Batman (vol. 1) #62"
+    comic_vine_issue_id: 120800
