@@ -1,58 +1,58 @@
 ---
 - name: "Spider-Man 1 (1962)"
-  isbn: 9788328241992
-  image: 001.jpeg
+  isbn: 9788328246249
+  image: 001.9788328246249.webp
 - name: "Fantastyczna Czwórka 1 (1961)"
   isbn: 9788328246256
-  image: 002.jpeg
+  image: 002.9788328246256.webp
 - name: "Thor 1 (1962)"
   isbn: 9788328246263
-  image: 003.jpeg
+  image: 003.9788328246263.webp
 - name: "Hulk 1 (1962)"
   isbn: 9788328246270
-  image: 004.jpeg
+  image: 004.9788328246270.webp
 - name: "Fantastyczna Czwórka 2 (1962)"
-  isbn: 0
-  image: 005.jpeg
+  isbn: 9788328246287
+  image: 005.9788328246287.webp
 - name: "Iron Man 1 (1963)"
-  isbn: 0
-  image: 006.jpeg
+  isbn: 9788328246294
+  image: 006.9788328246294.webp
 - name: "Fantastyczna Czwórka 3 (1963)"
-  isbn: 0
-  image: 007.jpeg
+  isbn: 9788328246300
+  image: 007.9788328246300.webp
 - name: "Thor 2 (1963)"
-  isbn: 0
-  image: 008.jpeg
+  isbn: 9788328246317
+  image: 008.9788328246317.webp
 - name: "Fantastyczna Czwórka 4 (1963)"
-  isbn: 0
-  image: 009.jpeg
+  isbn: 9788328246324
+  image: 009.9788328246324.webp
 - name: "Avengers 1 (1963)"
-  isbn: 0
-  image: 010.jpeg
+  isbn: 9788328246331
+  image: 010.9788328246331.webp
 - name: "Spider-Man 2 (1963)"
-  isbn: 0
-  image: 011.jpeg
+  isbn: 9788328246238
+  image: 011.9788328246238.webp
 - name: "Fantastyczna Czwórka 5 (1964)"
-  isbn: 0
-  image: 012.jpeg
+  isbn: 9788328246355
+  image: 012.9788328246355.webp
 - name: "Iron Man 2 (1963)"
   isbn: 0
-  image: 013.jpeg
+  image: 013.webp
 - name: "Thor 3 (1964)"
   isbn: 0
-  image: 014.jpeg
+  image: 014.webp
 - name: "Spider-Man 3 (1964)"
   isbn: 0
-  image: 015.jpeg
+  image: 015.webp
 - name: "Fantastic Four 6 (1964)"
   isbn: 0
-  image: 016.jpeg
+  image: 016.webp
 - name: "Hulk 2 (1964)"
   isbn: 0
-  image: 017.jpeg
+  image: 017.webp
 - name: "Daredevil 1 (1964)"
   isbn: 0
-  image: 018.jpeg
+  image: 018.webp
 - name: "Iron Man 3 (1964)"
   isbn: 0
-  image: 019.jpeg
+  image: 019.webp
