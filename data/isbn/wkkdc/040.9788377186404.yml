@@ -1,0 +1,30 @@
+---
+collection: wkkdc
+name: "Superman: Dziedzictwo, część 2"
+image: 040.9788377186404.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186404
+release_date: "2018-02-21"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4428168/superman-dziedzictwo---czesc-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/357066-wielka-kolekcja-komiksow-dc-comics-40-superman-dziedzictwo-cz-2
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-40-superman-dziedzictwo-czesc-2-prezentacja-komiksu
+issues:
+  - name: "Superman: Birthright #7"
+    comic_vine_issue_id: 112053
+  - name: "Superman: Birthright #8"
+    comic_vine_issue_id: 112054
+  - name: "Superman: Birthright #9"
+    comic_vine_issue_id: 112159
+  - name: "Superman: Birthright #10"
+    comic_vine_issue_id: 112160
+  - name: "Superman: Birthright #11"
+    comic_vine_issue_id: 112161
+  - name: "Superman: Birthright #12"
+    comic_vine_issue_id: 112162
+  - name: "Adventure Comics (vol. 1) #271"
+    comic_vine_issue_id: 114929

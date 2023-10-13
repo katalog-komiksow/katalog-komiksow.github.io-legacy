@@ -1,0 +1,22 @@
+---
+collection: wkkdc
+name: "Batman: Narodziny Demona, część 1"
+image: 034.9788377186343.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186343
+release_date: "2017-11-29"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4428135/batman-narodziny-demona---czesc-1
+shops:
+  gildia: https://www.gildia.pl/komiksy/351056-wielka-kolekcja-komiksow-dc-comics-34-batman-narodziny-demona-cz-1
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-34-batman-narodziny-demona-czesc-1-prezentacja-komiksu
+issues:
+  - name: "Batman: Son of the Demon #1"
+    comic_vine_issue_id: 154206
+  - name: "Batman: Bride of the Demon #1"
+    comic_vine_issue_id: 230554
+  - name: "Batman (vol. 1) #232"
+    comic_vine_issue_id: 11463

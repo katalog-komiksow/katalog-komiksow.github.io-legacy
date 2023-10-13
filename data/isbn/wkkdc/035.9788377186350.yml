@@ -1,0 +1,20 @@
+---
+collection: wkkdc
+name: "Batman: Narodziny Demona, część 2"
+image: 035.9788377186350.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186350
+release_date: "2017-12-13"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4428141/batman-narodziny-demona---czesc-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/351057-wielka-kolekcja-komiksow-dc-comics-35-batman-narodziny-demona-cz2
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-35-batman-narodziny-demona-czesc-2-prezentacja-komiksu
+issues:
+  - name: "Batman: Birth of the Demon #1"
+    comic_vine_issue_id: 230752
+  - name: "Batman (vol. 1) #235"
+    comic_vine_issue_id: 11636
