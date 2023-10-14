@@ -1,0 +1,30 @@
+---
+collection: wkkdc
+name: "Superman/Batman: Wrogowie Publiczni"
+image: 042.9788377186428.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186428
+release_date: "2018-03-21"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4428174/superman-batman-wrogowie-publiczni
+shops:
+  gildia: https://www.gildia.pl/komiksy/359284-wielka-kolekcja-komiksow-dc-comics-42-superman-batman-wrogowie-publiczni
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-42-superman-batman-wrogowie-publiczni-prezentacja-komiksu
+issues:
+  - name: "Superman/Batman #1"
+    comic_vine_issue_id: 93952
+  - name: "Superman/Batman #2"
+    comic_vine_issue_id: 93953
+  - name: "Superman/Batman #3"
+    comic_vine_issue_id: 93954
+  - name: "Superman/Batman #4"
+    comic_vine_issue_id: 93955
+  - name: "Superman/Batman #5"
+    comic_vine_issue_id: 93956
+  - name: "Superman/Batman #6"
+    comic_vine_issue_id: 93957
+  - name: "Superman (vol.1) #76"
+    comic_vine_issue_id: 120155
