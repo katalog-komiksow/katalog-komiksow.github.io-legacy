@@ -1,0 +1,25 @@
+---
+collection: wkkdc
+name: "JSA: Złoty wiek"
+image: 070.9788365725943.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788365725943
+release_date: "2019-04-17"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4885117/jsa-zloty-wiek
+shops: []
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-70-jsa-zlota-era-prezentacja-komiksu
+issues:
+  - title: "The Golden Age Vol.1 #1"
+    comic_vine_issue_id: 38321
+  - title: "The Golden Age Vol.1 #2"
+    comic_vine_issue_id: 38334
+  - title: "The Golden Age Vol.1 #3"
+    comic_vine_issue_id: 38337
+  - title: "The Golden Age Vol.1 #4"
+    comic_vine_issue_id: 40140
+  - title: "Justice League of America vol. 1 #22"
+    comic_vine_issue_id: 6665
