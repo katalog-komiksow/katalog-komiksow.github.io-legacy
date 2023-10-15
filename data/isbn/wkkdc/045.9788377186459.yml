@@ -1,0 +1,24 @@
+---
+collection: wkkdc
+name: "Nowa Granica, część 1"
+image: 045.9788377186459.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186459
+release_date: "2018-05-02"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/271921/nowa-granica
+shops:
+  gildia: https://www.gildia.pl/komiksy/362698-wielka-kolekcja-komiksow-dc-comics-45-nowa-granica-czesc-1
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-45-nowa-granica-czesc-1-prezentacja-komiksu
+issues:
+  - title: "DC: The New Frontier #1"
+    comic_vine_issue_id: 93962
+  - title: "DC: The New Frontier #2"
+    comic_vine_issue_id: 93963
+  - title: "DC: The New Frontier #3"
+    comic_vine_issue_id: 93964
+  - title: "Adventure Comics #466"
+    comic_vine_issue_id: 124393

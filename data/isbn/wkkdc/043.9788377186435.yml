@@ -1,0 +1,30 @@
+---
+collection: wkkdc
+name: "Plastic Man: Ścigany"
+image: 043.9788377186435.jpeg
+image_source: https://lubimyczytac.pl
+isbn: 9788377186435
+release_date: "2018-04-04"
+series:
+  - Wielka Kolekcja Komiksów DC Comics
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4428185/plastic-man-scigany
+shops:
+  gildia: https://www.gildia.pl/komiksy/360455-wielka-kolekcja-komiksow-dc-comics-43-plastic-man-scigany
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wkkdcc-43-plastic-man-scigany-prezentacja-komiksu
+issues:
+  - title: "Plastic Man #1"
+    comic_vine_issue_id: 97425
+  - title: "Plastic Man #2"
+    comic_vine_issue_id: 97426
+  - title: "Plastic Man #3"
+    comic_vine_issue_id: 97427
+  - title: "Plastic Man #4"
+    comic_vine_issue_id: 97428
+  - title: "Plastic Man #5"
+    comic_vine_issue_id: 97429
+  - title: "Plastic Man #6"
+    comic_vine_issue_id: 97430
+  - title: "Police Comics #1"
+    comic_vine_issue_id: 127149
