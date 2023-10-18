@@ -14,17 +14,17 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-54-superman-dla-jutra-czesc-1-prezentacja-komiksu
 issues:
-  - title: "Superman (vol. 2) #204"
+  - name: "Superman (vol. 2) #204"
     comic_vine_issue_id: 91408
-  - title: "Superman (vol. 2) #205"
+  - name: "Superman (vol. 2) #205"
     comic_vine_issue_id: 91409
-  - title: "Superman (vol. 2) #206"
+  - name: "Superman (vol. 2) #206"
     comic_vine_issue_id: 91410
-  - title: "Superman (vol. 2) #207"
+  - name: "Superman (vol. 2) #207"
     comic_vine_issue_id: 91411
-  - title: "Superman (vol. 2) #208"
+  - name: "Superman (vol. 2) #208"
     comic_vine_issue_id: 91412
-  - title: "Superman (vol. 2) #209"
+  - name: "Superman (vol. 2) #209"
     comic_vine_issue_id: 91413
-  - title: "Action Comics (vol. 1) #241"
+  - name: "Action Comics (vol. 1) #241"
     comic_vine_issue_id: 121190

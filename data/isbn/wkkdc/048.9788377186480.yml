@@ -14,11 +14,11 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-48-liga-sprawiedliwosci-kolejny-gwozdz-prezentacja-komiksu
 issues:
-  - title: "JLA: Another Nail #1"
+  - name: "JLA: Another Nail #1"
     comic_vine_issue_id: 91436
-  - title: "JLA: Another Nail #2"
+  - name: "JLA: Another Nail #2"
     comic_vine_issue_id: 91437
-  - title: "JLA: Another Nail #3"
+  - name: "JLA: Another Nail #3"
     comic_vine_issue_id: 98430
-  - title: "Showcase #34"
+  - name: "Showcase #34"
     comic_vine_issue_id: 5454

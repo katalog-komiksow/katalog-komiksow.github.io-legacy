@@ -13,19 +13,19 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-65-batman-czarna-rekawica-prezentacja-komiksu
 issues:
-  - title: "Batman (vol. 1) #667"
+  - name: "Batman (vol. 1) #667"
     comic_vine_issue_id: 113066
-  - title: "Batman (vol. 1) #668"
+  - name: "Batman (vol. 1) #668"
     comic_vine_issue_id: 113759
-  - title: "Batman (vol. 1) #669"
+  - name: "Batman (vol. 1) #669"
     comic_vine_issue_id: 115088
-  - title: "Batman (vol. 1) #672"
+  - name: "Batman (vol. 1) #672"
     comic_vine_issue_id: 120622
-  - title: "Batman (vol. 1) #673"
+  - name: "Batman (vol. 1) #673"
     comic_vine_issue_id: 122114
-  - title: "Batman (vol. 1) #674"
+  - name: "Batman (vol. 1) #674"
     comic_vine_issue_id: 124117
-  - title: "Batman (vol. 1) #675"
+  - name: "Batman (vol. 1) #675"
     comic_vine_issue_id: 128267
-  - title: "Detective Comics (vol.1) #110"
+  - name: "Detective Comics (vol.1) #110"
     comic_vine_issue_id: 112151

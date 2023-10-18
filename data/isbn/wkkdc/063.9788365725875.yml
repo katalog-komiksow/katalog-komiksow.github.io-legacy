@@ -13,13 +13,13 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-63-superman-co-sie-stalo-z-czlowiekiem-jutra-prezentacja-komiksu
 issues:
-  - title: "Superman (vol. 1) #423"
+  - name: "Superman (vol. 1) #423"
     comic_vine_issue_id: 27153
-  - title: "Action Comics (vol. 1) #583"
+  - name: "Action Comics (vol. 1) #583"
     comic_vine_issue_id: 119563
-  - title: "DC Comics Presents (vol. 1) #85"
+  - name: "DC Comics Presents (vol. 1) #85"
     comic_vine_issue_id: 25835
-  - title: "Superman Annual (vol. 1) #11"
+  - name: "Superman Annual (vol. 1) #11"
     comic_vine_issue_id: 119463
-  - title: "Superman (Vol. 1) #30"
+  - name: "Superman (Vol. 1) #30"
     comic_vine_issue_id: 119056

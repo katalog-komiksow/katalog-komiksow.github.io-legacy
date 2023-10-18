@@ -13,19 +13,19 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-80-hawkman-nieskonczony-lot-prezentacja-komiksu
 issues:
-  - title: "Hawkman (vol. 4) #1"
+  - name: "Hawkman (vol. 4) #1"
     comic_vine_issue_id: 112705
-  - title: "Hawkman (vol. 4) #2"
+  - name: "Hawkman (vol. 4) #2"
     comic_vine_issue_id: 150080
-  - title: "Hawkman (vol. 4) #3"
+  - name: "Hawkman (vol. 4) #3"
     comic_vine_issue_id: 150081
-  - title: "Hawkman (vol. 4) #4"
+  - name: "Hawkman (vol. 4) #4"
     comic_vine_issue_id: 150082
-  - title: "Hawkman (vol. 4) #5"
+  - name: "Hawkman (vol. 4) #5"
     comic_vine_issue_id: 150083
-  - title: "Hawkman (vol. 4) #6"
+  - name: "Hawkman (vol. 4) #6"
     comic_vine_issue_id: 89264
-  - title: "Hawkman Secret Files and Origins (vol. 1) #1"
+  - name: "Hawkman Secret Files and Origins (vol. 1) #1"
     comic_vine_issue_id: 211895
-  - title: "Flash Comics (vol. 1) #1"
+  - name: "Flash Comics (vol. 1) #1"
     comic_vine_issue_id: 116418

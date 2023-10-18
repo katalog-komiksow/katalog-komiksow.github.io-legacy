@@ -13,19 +13,19 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-73-green-lantern-poszukiwany-hal-jordan-prezentacja-komiksu
 issues:
-  - title: "Green Lantern vol. 4 #14"
+  - name: "Green Lantern vol. 4 #14"
     comic_vine_issue_id: 113256
-  - title: "Green Lantern vol. 4 #15"
+  - name: "Green Lantern vol. 4 #15"
     comic_vine_issue_id: 113259
-  - title: "Green Lantern vol. 4 #16"
+  - name: "Green Lantern vol. 4 #16"
     comic_vine_issue_id: 113261
-  - title: "Green Lantern vol. 4 #17"
+  - name: "Green Lantern vol. 4 #17"
     comic_vine_issue_id: 106713
-  - title: "Green Lantern vol. 4 #18"
+  - name: "Green Lantern vol. 4 #18"
     comic_vine_issue_id: 107601
-  - title: "Green Lantern vol. 4 #19"
+  - name: "Green Lantern vol. 4 #19"
     comic_vine_issue_id: 108926
-  - title: "Green Lantern vol. 4 #20"
+  - name: "Green Lantern vol. 4 #20"
     comic_vine_issue_id: 110062
-  - title: "Green Lantern vol.1 #16"
+  - name: "Green Lantern vol.1 #16"
     comic_vine_issue_id: 159364

@@ -14,9 +14,9 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-51-batman-czlowiek-ktory-sie-smieje-i-azyl-arkham-prezentacja-komiksu
 issues:
-  - title: "Batman: The Man Who Laughs (kwiecień 2005)"
+  - name: "Batman: The Man Who Laughs (kwiecień 2005)"
     comic_vine_issue_id: 132956
-  - title: "Arkham Asylum - A Serious House on Serious Earth (grudzień 1989)"
+  - name: "Arkham Asylum - A Serious House on Serious Earth (grudzień 1989)"
     comic_vine_issue_id: 122008
-  - title: "Batman (vol. 1) #327 (wrzesień 1980)"
+  - name: "Batman (vol. 1) #327 (wrzesień 1980)"
     comic_vine_issue_id: 20627

@@ -13,11 +13,11 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-67-superman-batman-legendy-najlepszych-na-swiecie-prezentacja-komiksu
 issues:
-  - title: "Legends of the World's Finest vol.1 #1"
+  - name: "Legends of the World's Finest vol.1 #1"
     comic_vine_issue_id: 199202
-  - title: "Legends of the World's Finest vol.1 #2"
+  - name: "Legends of the World's Finest vol.1 #2"
     comic_vine_issue_id: 199203
-  - title: "Legends of the World's Finest vol.1 #3"
+  - name: "Legends of the World's Finest vol.1 #3"
     comic_vine_issue_id: 199204
-  - title: "World's Finest vol.1 #88"
+  - name: "World's Finest vol.1 #88"
     comic_vine_issue_id: 121522

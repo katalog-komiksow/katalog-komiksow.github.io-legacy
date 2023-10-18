@@ -13,15 +13,15 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-60-flashpoint-punkt-krytyczny-prezentacja-komiksu
 issues:
-  - title: "Flashpoint (vol. 2) #1"
+  - name: "Flashpoint (vol. 2) #1"
     comic_vine_issue_id: 269827
-  - title: "Flashpoint (vol. 2) #2"
+  - name: "Flashpoint (vol. 2) #2"
     comic_vine_issue_id: 272411
-  - title: "Flashpoint (vol. 2) #3"
+  - name: "Flashpoint (vol. 2) #3"
     comic_vine_issue_id: 277377
-  - title: "Flashpoint (vol. 2) #4"
+  - name: "Flashpoint (vol. 2) #4"
     comic_vine_issue_id: 282568
-  - title: "Flashpoint (vol. 2) #5"
+  - name: "Flashpoint (vol. 2) #5"
     comic_vine_issue_id: 290102
-  - title: "The Flash #139"
+  - name: "The Flash #139"
     comic_vine_issue_id: 6660

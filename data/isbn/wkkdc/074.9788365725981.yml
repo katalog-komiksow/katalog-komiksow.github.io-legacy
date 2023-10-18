@@ -13,17 +13,17 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-74-superman-i-legion-superbohaterow-prezentacja-komiksu
 issues:
-  - title: "Action Comics (1938) #858"
+  - name: "Action Comics (1938) #858"
     comic_vine_issue_id: 116376
-  - title: "Action Comics (1938) #859"
+  - name: "Action Comics (1938) #859"
     comic_vine_issue_id: 118091
-  - title: "Action Comics (1938) #860"
+  - name: "Action Comics (1938) #860"
     comic_vine_issue_id: 120563
-  - title: "Action Comics (1938) #861"
+  - name: "Action Comics (1938) #861"
     comic_vine_issue_id: 122066
-  - title: "Action Comics (1938) #862"
+  - name: "Action Comics (1938) #862"
     comic_vine_issue_id: 124027
-  - title: "Action Comics (1938) #863"
+  - name: "Action Comics (1938) #863"
     comic_vine_issue_id: 126376
-  - title: "Adventure Comics (1938) #247"
+  - name: "Adventure Comics (1938) #247"
     comic_vine_issue_id: 121257

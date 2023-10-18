@@ -13,17 +13,17 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-61-batman-huntress-zadza-krwi-prezentacja-komiksu
 issues:
-  - title: "Batman/Huntress: Cry for Blood (vol. 1) #1"
+  - name: "Batman/Huntress: Cry for Blood (vol. 1) #1"
     comic_vine_issue_id: 47209
-  - title: "Batman/Huntress: Cry for Blood (vol. 1) #2"
+  - name: "Batman/Huntress: Cry for Blood (vol. 1) #2"
     comic_vine_issue_id: 47210
-  - title: "Batman/Huntress: Cry for Blood (vol. 1) #3"
+  - name: "Batman/Huntress: Cry for Blood (vol. 1) #3"
     comic_vine_issue_id: 47211
-  - title: "Batman/Huntress: Cry for Blood (vol. 1) #4"
+  - name: "Batman/Huntress: Cry for Blood (vol. 1) #4"
     comic_vine_issue_id: 47212
-  - title: "Batman/Huntress: Cry for Blood (vol. 1) #5"
+  - name: "Batman/Huntress: Cry for Blood (vol. 1) #5"
     comic_vine_issue_id: 47213
-  - title: "Batman/Huntress: Cry for Blood (vol. 1) #6"
+  - name: "Batman/Huntress: Cry for Blood (vol. 1) #6"
     comic_vine_issue_id: 47214
-  - title: "DC Super Stars Vol. 1 #17"
+  - name: "DC Super Stars Vol. 1 #17"
     comic_vine_issue_id: 17924

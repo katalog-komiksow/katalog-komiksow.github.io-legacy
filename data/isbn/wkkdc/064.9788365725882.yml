@@ -13,9 +13,9 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-64-jla-jsa-cnota-i-wystepek-prezentacja-komiksu
 issues:
-  - title: "JLA/JSA Virtue and Vice"
+  - name: "JLA/JSA Virtue and Vice"
     comic_vine_issue_id: 153471
-  - title: "Justice League of America (vol. 1) #21"
+  - name: "Justice League of America (vol. 1) #21"
     comic_vine_issue_id: 6621
-  - title: "More Fun Comics (vol. 1) #55"
+  - name: "More Fun Comics (vol. 1) #55"
     comic_vine_issue_id: 116387

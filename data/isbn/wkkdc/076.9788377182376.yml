@@ -13,7 +13,7 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-76-batman-dynastia-mrocznego-rycerza-prezentacja-komiksu
 issues:
-  - title: "Batman: Dark Knight Dynasty #1"
+  - name: "Batman: Dark Knight Dynasty #1"
     comic_vine_issue_id: 173427
-  - title: "The Flash vol.1 #137"
+  - name: "The Flash vol.1 #137"
     comic_vine_issue_id: 6527

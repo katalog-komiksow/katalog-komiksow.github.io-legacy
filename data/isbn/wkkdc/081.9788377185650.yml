@@ -13,25 +13,25 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-wydanie-specjalne-1-kryzys-tozsamosci-prezentacja-i-porownanie
 issues:
-  - title: "Identity Crisis #1"
+  - name: "Identity Crisis #1"
     comic_vine_issue_id: 108160
-  - title: "Identity Crisis #2"
+  - name: "Identity Crisis #2"
     comic_vine_issue_id: 108220
-  - title: "Identity Crisis #3"
+  - name: "Identity Crisis #3"
     comic_vine_issue_id: 108233
-  - title: "Identity Crisis #4"
+  - name: "Identity Crisis #4"
     comic_vine_issue_id: 108241
-  - title: "Identity Crisis #5"
+  - name: "Identity Crisis #5"
     comic_vine_issue_id: 110351
-  - title: "Identity Crisis #6"
+  - name: "Identity Crisis #6"
     comic_vine_issue_id: 110353
-  - title: "Identity Crisis #7"
+  - name: "Identity Crisis #7"
     comic_vine_issue_id: 110354
-  - title: "Flash (vol. 2) #214"
+  - name: "Flash (vol. 2) #214"
     comic_vine_issue_id: 131552
-  - title: "Flash (vol. 2) #215"
+  - name: "Flash (vol. 2) #215"
     comic_vine_issue_id: 131553
-  - title: "Flash (vol. 2) #216"
+  - name: "Flash (vol. 2) #216"
     comic_vine_issue_id: 98428
-  - title: "Flash (vol. 2) #217"
+  - name: "Flash (vol. 2) #217"
     comic_vine_issue_id: 98429

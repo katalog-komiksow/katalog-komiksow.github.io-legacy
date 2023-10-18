@@ -14,17 +14,17 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-43-plastic-man-scigany-prezentacja-komiksu
 issues:
-  - title: "Plastic Man #1"
+  - name: "Plastic Man #1"
     comic_vine_issue_id: 97425
-  - title: "Plastic Man #2"
+  - name: "Plastic Man #2"
     comic_vine_issue_id: 97426
-  - title: "Plastic Man #3"
+  - name: "Plastic Man #3"
     comic_vine_issue_id: 97427
-  - title: "Plastic Man #4"
+  - name: "Plastic Man #4"
     comic_vine_issue_id: 97428
-  - title: "Plastic Man #5"
+  - name: "Plastic Man #5"
     comic_vine_issue_id: 97429
-  - title: "Plastic Man #6"
+  - name: "Plastic Man #6"
     comic_vine_issue_id: 97430
-  - title: "Police Comics #1"
+  - name: "Police Comics #1"
     comic_vine_issue_id: 127149

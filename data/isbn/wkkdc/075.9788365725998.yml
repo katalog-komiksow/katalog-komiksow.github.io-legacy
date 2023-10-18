@@ -13,23 +13,23 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-75-nastoletni-tytani-przyszlosc-jest-teraz-prezentacja-komiksu
 issues:
-  - title: "Teen Titans/Legion Special (2004) #1"
+  - name: "Teen Titans/Legion Special (2004) #1"
     comic_vine_issue_id: 129765
-  - title: "Teen Titans (2003) #16"
+  - name: "Teen Titans (2003) #16"
     comic_vine_issue_id: 98239
-  - title: "Teen Titans (2003) #17"
+  - name: "Teen Titans (2003) #17"
     comic_vine_issue_id: 98240
-  - title: "Teen Titans (2003) #18"
+  - name: "Teen Titans (2003) #18"
     comic_vine_issue_id: 98241
-  - title: "Teen Titans (2003) #19"
+  - name: "Teen Titans (2003) #19"
     comic_vine_issue_id: 98242
-  - title: "Teen Titans (2003) #20"
+  - name: "Teen Titans (2003) #20"
     comic_vine_issue_id: 98243
-  - title: "Teen Titans (2003) #21"
+  - name: "Teen Titans (2003) #21"
     comic_vine_issue_id: 100969
-  - title: "Teen Titans (2003) #22"
+  - name: "Teen Titans (2003) #22"
     comic_vine_issue_id: 100970
-  - title: "Teen Titans (2003) #23"
+  - name: "Teen Titans (2003) #23"
     comic_vine_issue_id: 100971
-  - title: "The Brave and the Bold (1955) #60"
+  - name: "The Brave and the Bold (1955) #60"
     comic_vine_issue_id: 7808

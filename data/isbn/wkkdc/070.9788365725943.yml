@@ -13,13 +13,13 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-70-jsa-zlota-era-prezentacja-komiksu
 issues:
-  - title: "The Golden Age Vol.1 #1"
+  - name: "The Golden Age Vol.1 #1"
     comic_vine_issue_id: 38321
-  - title: "The Golden Age Vol.1 #2"
+  - name: "The Golden Age Vol.1 #2"
     comic_vine_issue_id: 38334
-  - title: "The Golden Age Vol.1 #3"
+  - name: "The Golden Age Vol.1 #3"
     comic_vine_issue_id: 38337
-  - title: "The Golden Age Vol.1 #4"
+  - name: "The Golden Age Vol.1 #4"
     comic_vine_issue_id: 40140
-  - title: "Justice League of America vol. 1 #22"
+  - name: "Justice League of America vol. 1 #22"
     comic_vine_issue_id: 6665

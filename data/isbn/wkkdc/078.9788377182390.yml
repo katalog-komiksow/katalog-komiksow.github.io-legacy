@@ -13,15 +13,15 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-78-miedzynarodowa-liga-sprawiedliwosci-czesc-2-prezentacja-komiksu
 issues:
-  - title: "Justice League vol.1 #8"
+  - name: "Justice League vol.1 #8"
     comic_vine_issue_id: 106838
-  - title: "Justice League vol.1 #9"
+  - name: "Justice League vol.1 #9"
     comic_vine_issue_id: 29168
-  - title: "Justice League vol.1 #10"
+  - name: "Justice League vol.1 #10"
     comic_vine_issue_id: 29283
-  - title: "Justice League vol.1 #11"
+  - name: "Justice League vol.1 #11"
     comic_vine_issue_id: 29392
-  - title: "Justice League vol.1 #12"
+  - name: "Justice League vol.1 #12"
     comic_vine_issue_id: 29502
-  - title: "Mister Miracle vol.1 #1"
+  - name: "Mister Miracle vol.1 #1"
     comic_vine_issue_id: 11359

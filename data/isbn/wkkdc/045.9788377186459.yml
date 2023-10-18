@@ -14,11 +14,11 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-45-nowa-granica-czesc-1-prezentacja-komiksu
 issues:
-  - title: "DC: The New Frontier #1"
+  - name: "DC: The New Frontier #1"
     comic_vine_issue_id: 93962
-  - title: "DC: The New Frontier #2"
+  - name: "DC: The New Frontier #2"
     comic_vine_issue_id: 93963
-  - title: "DC: The New Frontier #3"
+  - name: "DC: The New Frontier #3"
     comic_vine_issue_id: 93964
-  - title: "Adventure Comics #466"
+  - name: "Adventure Comics #466"
     comic_vine_issue_id: 124393

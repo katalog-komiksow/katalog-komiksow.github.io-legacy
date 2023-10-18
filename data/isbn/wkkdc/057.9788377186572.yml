@@ -14,19 +14,19 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-57-batman-pod-kapturem-prezentacja-komiksu
 issues:
-  - title: "Batman (vol. 1) #635"
+  - name: "Batman (vol. 1) #635"
     comic_vine_issue_id: 100890
-  - title: "Batman (vol. 1) #636"
+  - name: "Batman (vol. 1) #636"
     comic_vine_issue_id: 100891
-  - title: "Batman (vol. 1) #637"
+  - name: "Batman (vol. 1) #637"
     comic_vine_issue_id: 100892
-  - title: "Batman (vol. 1) #638"
+  - name: "Batman (vol. 1) #638"
     comic_vine_issue_id: 100893
-  - title: "Batman (vol. 1) #639"
+  - name: "Batman (vol. 1) #639"
     comic_vine_issue_id: 100894
-  - title: "Batman (vol. 1) #640"
+  - name: "Batman (vol. 1) #640"
     comic_vine_issue_id: 122133
-  - title: "Batman (vol. 1) #641"
+  - name: "Batman (vol. 1) #641"
     comic_vine_issue_id: 122206
-  - title: "Detective Comics (vol. 1) #168"
+  - name: "Detective Comics (vol. 1) #168"
     comic_vine_issue_id: 121600

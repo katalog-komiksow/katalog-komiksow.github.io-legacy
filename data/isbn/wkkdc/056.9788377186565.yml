@@ -14,19 +14,19 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-56-amerykanska-liga-sprawiedliwosci-pragnienie-sprawiedliwosci-prezentacja-komiksu
 issues:
-  - title: "Justice League: Cry for Justice #1"
+  - name: "Justice League: Cry for Justice #1"
     comic_vine_issue_id: 162566
-  - title: "Justice League: Cry for Justice #2"
+  - name: "Justice League: Cry for Justice #2"
     comic_vine_issue_id: 166117
-  - title: "Justice League: Cry for Justice #3"
+  - name: "Justice League: Cry for Justice #3"
     comic_vine_issue_id: 169335
-  - title: "Justice League: Cry for Justice #4"
+  - name: "Justice League: Cry for Justice #4"
     comic_vine_issue_id: 175113
-  - title: "Justice League: Cry for Justice #5"
+  - name: "Justice League: Cry for Justice #5"
     comic_vine_issue_id: 185062
-  - title: "Justice League: Cry for Justice #6"
+  - name: "Justice League: Cry for Justice #6"
     comic_vine_issue_id: 194797
-  - title: "Justice League: Cry for Justice #7"
+  - name: "Justice League: Cry for Justice #7"
     comic_vine_issue_id: 198874
-  - title: "Detective Comics (vol. 1) #248"
+  - name: "Detective Comics (vol. 1) #248"
     comic_vine_issue_id: 112381

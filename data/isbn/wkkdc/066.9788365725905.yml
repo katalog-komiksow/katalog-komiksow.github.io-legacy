@@ -13,19 +13,19 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-66-potwor-z-bagien-czesc-1-prezentacja-komiksu
 issues:
-  - title: "Swamp Thing (vol. 1) #21"
+  - name: "Swamp Thing (vol. 1) #21"
     comic_vine_issue_id: 261279
-  - title: "Swamp Thing (vol. 1) #22"
+  - name: "Swamp Thing (vol. 1) #22"
     comic_vine_issue_id: 261280
-  - title: "Swamp Thing (vol. 1) #23"
+  - name: "Swamp Thing (vol. 1) #23"
     comic_vine_issue_id: 261281
-  - title: "Swamp Thing (vol. 1) #24"
+  - name: "Swamp Thing (vol. 1) #24"
     comic_vine_issue_id: 261282
-  - title: "Swamp Thing (vol. 1) #25"
+  - name: "Swamp Thing (vol. 1) #25"
     comic_vine_issue_id: 261283
-  - title: "Swamp Thing (vol. 1) #26"
+  - name: "Swamp Thing (vol. 1) #26"
     comic_vine_issue_id: 261285
-  - title: "Swamp Thing (vol. 1) #27"
+  - name: "Swamp Thing (vol. 1) #27"
     comic_vine_issue_id: 261286
-  - title: "House of Secrets vol.1 #92"
+  - name: "House of Secrets vol.1 #92"
     comic_vine_issue_id: 11470

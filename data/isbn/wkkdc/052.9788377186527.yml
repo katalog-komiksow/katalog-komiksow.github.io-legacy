@@ -14,15 +14,15 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-52-amerykanska-liga-sprawiedliwosci-nowy-porzadek-swiata-prezentacja-komiksu
 issues:
-  - title: "JLA #1"
+  - name: "JLA #1"
     comic_vine_issue_id: 43302
-  - title: "JLA #2"
+  - name: "JLA #2"
     comic_vine_issue_id: 109452
-  - title: "JLA #3"
+  - name: "JLA #3"
     comic_vine_issue_id: 43508
-  - title: "JLA #4"
+  - name: "JLA #4"
     comic_vine_issue_id: 43606
-  - title: "JLA Secret Files and Origins #1"
+  - name: "JLA Secret Files and Origins #1"
     comic_vine_issue_id: 78349
-  - title: "Justice League of America (vol. 1) #42"
+  - name: "Justice League of America (vol. 1) #42"
     comic_vine_issue_id: 8345

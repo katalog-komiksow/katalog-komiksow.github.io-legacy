@@ -14,21 +14,21 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-47-flash-powrot-barry-ego-allena-prezentacja-komiksu
 issues:
-  - title: "Flash (vol. 2) #74"
+  - name: "Flash (vol. 2) #74"
     comic_vine_issue_id: 36927
-  - title: "Flash (vol. 2) #75"
+  - name: "Flash (vol. 2) #75"
     comic_vine_issue_id: 37045
-  - title: "Flash (vol. 2) #76"
+  - name: "Flash (vol. 2) #76"
     comic_vine_issue_id: 37179
-  - title: "Flash (vol. 2) #77"
+  - name: "Flash (vol. 2) #77"
     comic_vine_issue_id: 37311
-  - title: "Flash (vol. 2) #78"
+  - name: "Flash (vol. 2) #78"
     comic_vine_issue_id: 37462
-  - title: "Flash (vol. 2) #79"
+  - name: "Flash (vol. 2) #79"
     comic_vine_issue_id: 37604
-  - title: "Flash (vol. 2) #72"
+  - name: "Flash (vol. 2) #72"
     comic_vine_issue_id: 36715
-  - title: "Flash (vol. 2) #73"
+  - name: "Flash (vol. 2) #73"
     comic_vine_issue_id: 36821
-  - title: "Superman (vol. 1) #199"
+  - name: "Superman (vol. 1) #199"
     comic_vine_issue_id: 9534

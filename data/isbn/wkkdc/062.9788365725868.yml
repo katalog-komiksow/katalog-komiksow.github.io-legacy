@@ -13,11 +13,11 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-62-amerykanska-liga-sprawiedliwosci-sila-wyzsza-prezentacja-komiksu
 issues:
-  - title: "JLA: Act of God (vol. 1) #1"
+  - name: "JLA: Act of God (vol. 1) #1"
     comic_vine_issue_id: 94972
-  - title: "JLA: Act of God (vol. 1) #2"
+  - name: "JLA: Act of God (vol. 1) #2"
     comic_vine_issue_id: 94973
-  - title: "JLA: Act of God (vol. 1) #3"
+  - name: "JLA: Act of God (vol. 1) #3"
     comic_vine_issue_id: 94974
-  - title: "Brave and the Bold (vol. 1) #30"
+  - name: "Brave and the Bold (vol. 1) #30"
     comic_vine_issue_id: 4835

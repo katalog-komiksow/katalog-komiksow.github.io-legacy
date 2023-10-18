@@ -13,17 +13,17 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-71-miedzynarodowa-liga-sprawiedliwosci-czesc-1-prezentacja-komiksu
 issues:
-  - title: "Justice League vol.1 #1"
+  - name: "Justice League vol.1 #1"
     comic_vine_issue_id: 105729
-  - title: "Justice League vol.1 #2"
+  - name: "Justice League vol.1 #2"
     comic_vine_issue_id: 28244
-  - title: "Justice League vol.1 #3"
+  - name: "Justice League vol.1 #3"
     comic_vine_issue_id: 28362
-  - title: "Justice League vol.1 #4"
+  - name: "Justice League vol.1 #4"
     comic_vine_issue_id: 28476
-  - title: "Justice League vol.1 #5"
+  - name: "Justice League vol.1 #5"
     comic_vine_issue_id: 28587
-  - title: "Justice League vol.1 #6"
+  - name: "Justice League vol.1 #6"
     comic_vine_issue_id: 28709
-  - title: "Justice League International vol. 1 #7"
+  - name: "Justice League International vol. 1 #7"
     comic_vine_issue_id: 28828

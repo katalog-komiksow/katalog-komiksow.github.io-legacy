@@ -14,19 +14,19 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-53-nowi-nastoletni-tytani-kontrakt-judasza-prezentacja-komiksu
 issues:
-  - title: "The New Teen Titans (vol. 1) #39"
+  - name: "The New Teen Titans (vol. 1) #39"
     comic_vine_issue_id: 23944
-  - title: "The New Teen Titans (vol. 1) #40"
+  - name: "The New Teen Titans (vol. 1) #40"
     comic_vine_issue_id: 24061
-  - title: "Tales of the Teen Titans #41"
+  - name: "Tales of the Teen Titans #41"
     comic_vine_issue_id: 24172
-  - title: "Tales of the Teen Titans #42"
+  - name: "Tales of the Teen Titans #42"
     comic_vine_issue_id: 24277
-  - title: "Tales of the Teen Titans #43"
+  - name: "Tales of the Teen Titans #43"
     comic_vine_issue_id: 24375
-  - title: "Tales of the Teen Titans #44"
+  - name: "Tales of the Teen Titans #44"
     comic_vine_issue_id: 24477
-  - title: "Tales of the Teen Titans Annual #3"
+  - name: "Tales of the Teen Titans Annual #3"
     comic_vine_issue_id: 24532
-  - title: "The Brave and the Bold (vol. 1) #54"
+  - name: "The Brave and the Bold (vol. 1) #54"
     comic_vine_issue_id: 7130

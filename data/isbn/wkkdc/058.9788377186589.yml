@@ -14,17 +14,17 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-58-green-lantern-green-arrow-wloczega-bohaterow-prezentacja-komiksu
 issues:
-  - title: "Green Lantern/Green Arrow #76"
+  - name: "Green Lantern/Green Arrow #76"
     comic_vine_issue_id: 10739
-  - title: "Green Lantern/Green Arrow #77"
+  - name: "Green Lantern/Green Arrow #77"
     comic_vine_issue_id: 10835
-  - title: "Green Lantern/Green Arrow #78"
+  - name: "Green Lantern/Green Arrow #78"
     comic_vine_issue_id: 10880
-  - title: "Green Lantern/Green Arrow #79"
+  - name: "Green Lantern/Green Arrow #79"
     comic_vine_issue_id: 10984
-  - title: "Green Lantern/Green Arrow #80"
+  - name: "Green Lantern/Green Arrow #80"
     comic_vine_issue_id: 11035
-  - title: "Green Lantern/Green Arrow #81"
+  - name: "Green Lantern/Green Arrow #81"
     comic_vine_issue_id: 11137
-  - title: "All-American Comics #16"
+  - name: "All-American Comics #16"
     comic_vine_issue_id: 123898

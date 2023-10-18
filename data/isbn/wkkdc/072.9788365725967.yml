@@ -13,19 +13,19 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-72-potwor-z-bagien-czesc-2-prezentacja-komiksu
 issues:
-  - title: "The Saga of the Swamp Thing vol. 2 #28"
+  - name: "The Saga of the Swamp Thing vol. 2 #28"
     comic_vine_issue_id: 261287
-  - title: "The Saga of the Swamp Thing vol. 2 #29"
+  - name: "The Saga of the Swamp Thing vol. 2 #29"
     comic_vine_issue_id: 261288
-  - title: "The Saga of the Swamp Thing vol. 2 #30"
+  - name: "The Saga of the Swamp Thing vol. 2 #30"
     comic_vine_issue_id: 261289
-  - title: "The Saga of the Swamp Thing vol. 2 #31"
+  - name: "The Saga of the Swamp Thing vol. 2 #31"
     comic_vine_issue_id: 261290
-  - title: "The Saga of the Swamp Thing vol. 2 #32"
+  - name: "The Saga of the Swamp Thing vol. 2 #32"
     comic_vine_issue_id: 261291
-  - title: "The Saga of the Swamp Thing vol. 2 #33"
+  - name: "The Saga of the Swamp Thing vol. 2 #33"
     comic_vine_issue_id: 261292
-  - title: "The Saga of the Swamp Thing vol. 2 #34"
+  - name: "The Saga of the Swamp Thing vol. 2 #34"
     comic_vine_issue_id: 261293
-  - title: "Swamp Thing vol.1 #1"
+  - name: "Swamp Thing vol.1 #1"
     comic_vine_issue_id: 12549

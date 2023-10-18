@@ -14,19 +14,19 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-49-wonder-woman-bogowie-i-smiertelnicy-prezentacja-komiksu
 issues:
-  - title: "Wonder Woman (vol. 2) #1"
+  - name: "Wonder Woman (vol. 2) #1"
     comic_vine_issue_id: 27759
-  - title: "Wonder Woman (vol. 2) #2"
+  - name: "Wonder Woman (vol. 2) #2"
     comic_vine_issue_id: 27870
-  - title: "Wonder Woman (vol. 2) #3"
+  - name: "Wonder Woman (vol. 2) #3"
     comic_vine_issue_id: 27979
-  - title: "Wonder Woman (vol. 2) #4"
+  - name: "Wonder Woman (vol. 2) #4"
     comic_vine_issue_id: 28091
-  - title: "Wonder Woman (vol. 2) #5"
+  - name: "Wonder Woman (vol. 2) #5"
     comic_vine_issue_id: 28193
-  - title: "Wonder Woman (vol. 2) #6"
+  - name: "Wonder Woman (vol. 2) #6"
     comic_vine_issue_id: 28305
-  - title: "Wonder Woman (vol. 2) #7"
+  - name: "Wonder Woman (vol. 2) #7"
     comic_vine_issue_id: 28430
-  - title: "Wonder Woman (vol. 1) #1"
+  - name: "Wonder Woman (vol. 1) #1"
     comic_vine_issue_id: 108764

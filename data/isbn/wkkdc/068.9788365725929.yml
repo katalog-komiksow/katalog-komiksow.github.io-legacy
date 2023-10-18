@@ -13,19 +13,19 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-68-green-lantern-zemsta-green-lanternow-prezentacja-komiksu
 issues:
-  - title: "Green Lantern vol. 4 #7"
+  - name: "Green Lantern vol. 4 #7"
     comic_vine_issue_id: 113139
-  - title: "Green Lantern vol. 4 #8"
+  - name: "Green Lantern vol. 4 #8"
     comic_vine_issue_id: 113140
-  - title: "Green Lantern vol. 4 #9"
+  - name: "Green Lantern vol. 4 #9"
     comic_vine_issue_id: 113142
-  - title: "Green Lantern vol. 4 #10"
+  - name: "Green Lantern vol. 4 #10"
     comic_vine_issue_id: 113161
-  - title: "Green Lantern vol. 4 #11"
+  - name: "Green Lantern vol. 4 #11"
     comic_vine_issue_id: 113162
-  - title: "Green Lantern vol. 4 #12"
+  - name: "Green Lantern vol. 4 #12"
     comic_vine_issue_id: 113167
-  - title: "Green Lantern vol. 4 #13"
+  - name: "Green Lantern vol. 4 #13"
     comic_vine_issue_id: 113255
-  - title: "DC Comics Presents vol. 1 #27"
+  - name: "DC Comics Presents vol. 1 #27"
     comic_vine_issue_id: 20764

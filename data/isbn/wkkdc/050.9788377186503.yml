@@ -14,17 +14,17 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-50-superman-batman-supergirl-prezentacja-komiksu
 issues:
-  - title: "Superman/Batman #8"
+  - name: "Superman/Batman #8"
     comic_vine_issue_id: 93959
-  - title: "Superman/Batman #9"
+  - name: "Superman/Batman #9"
     comic_vine_issue_id: 93960
-  - title: "Superman/Batman #10"
+  - name: "Superman/Batman #10"
     comic_vine_issue_id: 93961
-  - title: "Superman/Batman #11"
+  - name: "Superman/Batman #11"
     comic_vine_issue_id: 100957
-  - title: "Superman/Batman #12"
+  - name: "Superman/Batman #12"
     comic_vine_issue_id: 100958
-  - title: "Superman/Batman #13"
+  - name: "Superman/Batman #13"
     comic_vine_issue_id: 100959
-  - title: "Action Comics (vol. 1) #252"
+  - name: "Action Comics (vol. 1) #252"
     comic_vine_issue_id: 105683

@@ -13,17 +13,17 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-59-superman-batman-udreka-prezentacja-komiksu
 issues:
-  - title: "Superman/Batman #37"
+  - name: "Superman/Batman #37"
     comic_vine_issue_id: 111126
-  - title: "Superman/Batman #38"
+  - name: "Superman/Batman #38"
     comic_vine_issue_id: 111790
-  - title: "Superman/Batman #39"
+  - name: "Superman/Batman #39"
     comic_vine_issue_id: 109933
-  - title: "Superman/Batman #40"
+  - name: "Superman/Batman #40"
     comic_vine_issue_id: 114656
-  - title: "Superman/Batman #41"
+  - name: "Superman/Batman #41"
     comic_vine_issue_id: 117226
-  - title: "Superman/Batman #42"
+  - name: "Superman/Batman #42"
     comic_vine_issue_id: 120367
-  - title: "Forever People #1"
+  - name: "Forever People #1"
     comic_vine_issue_id: 11255

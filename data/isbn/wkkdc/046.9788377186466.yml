@@ -14,11 +14,11 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-46-nowa-granica-czesc-2-prezentacja-komiksu
 issues:
-  - title: "DC: The New Frontier #4"
+  - name: "DC: The New Frontier #4"
     comic_vine_issue_id: 93965
-  - title: "DC: The New Frontier #5"
+  - name: "DC: The New Frontier #5"
     comic_vine_issue_id: 93966
-  - title: "DC: The New Frontier #6"
+  - name: "DC: The New Frontier #6"
     comic_vine_issue_id: 93967
-  - title: "Showcase #17"
+  - name: "Showcase #17"
     comic_vine_issue_id: 4075

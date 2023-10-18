@@ -13,17 +13,17 @@ shops: []
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-79-superman-kryzys-szkarlatnego-kryptonitu-prezentacja-komiksu
 issues:
-  - title: "Superman vol.2 #49"
+  - name: "Superman vol.2 #49"
     comic_vine_issue_id: 33401
-  - title: "Superman vol.2 #50"
+  - name: "Superman vol.2 #50"
     comic_vine_issue_id: 33506
-  - title: "Adventures of Superman vol.1 #472"
+  - name: "Adventures of Superman vol.1 #472"
     comic_vine_issue_id: 33382
-  - title: "Adventures of Superman vol.1 #473"
+  - name: "Adventures of Superman vol.1 #473"
     comic_vine_issue_id: 33484
-  - title: "Action Comics vol.1 #659"
+  - name: "Action Comics vol.1 #659"
     comic_vine_issue_id: 118055
-  - title: "Action Comics vol.1 #660"
+  - name: "Action Comics vol.1 #660"
     comic_vine_issue_id: 113904
-  - title: "Starman vol.1 #28"
+  - name: "Starman vol.1 #28"
     comic_vine_issue_id: 33398

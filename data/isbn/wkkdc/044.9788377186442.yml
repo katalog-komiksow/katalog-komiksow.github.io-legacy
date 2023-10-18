@@ -14,17 +14,17 @@ shops:
 reviews:
   filmozercy: https://filmozercy.com/wpis/wkkdcc-44-green-arrow-rok-pierwszy-prezentacja-komiksu
 issues:
-  - title: "Green Arrow: Year One #1"
+  - name: "Green Arrow: Year One #1"
     comic_vine_issue_id: 111591
-  - title: "Green Arrow: Year One #2"
+  - name: "Green Arrow: Year One #2"
     comic_vine_issue_id: 111937
-  - title: "Green Arrow: Year One #3"
+  - name: "Green Arrow: Year One #3"
     comic_vine_issue_id: 112979
-  - title: "Green Arrow: Year One #4"
+  - name: "Green Arrow: Year One #4"
     comic_vine_issue_id: 114373
-  - title: "Green Arrow: Year One #5"
+  - name: "Green Arrow: Year One #5"
     comic_vine_issue_id: 115070
-  - title: "Green Arrow: Year One #6"
+  - name: "Green Arrow: Year One #6"
     comic_vine_issue_id: 116978
-  - title: "More Fun Comics #73"
+  - name: "More Fun Comics #73"
     comic_vine_issue_id: 116392
