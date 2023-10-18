@@ -1,0 +1,34 @@
+---
+collection: klasyka-marvela
+name: 'Wolverine: Staruszek Logan'
+image: 045.9788328141759.webp
+image_source: https://egmont.pl
+isbn: 9788328141759
+release_date: '2019-05-23'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/116689/wolverine-old-man-logan
+shops:
+  egmont: https://egmont.pl/Wolverine-Staruszek-Logan,16488463,p.html
+  gildia: https://www.gildia.pl/komiksy/394608-wolverine-staruszek-logan
+reviews:
+  naekranie: https://naekranie.pl/recenzje/wolverine-staruszek-logan-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/38100-wolverine-staruszek-logan-recenzja
+issues:
+- name: 'Wolverine (vol. 3) #66'
+  comic_vine_issue_id: 131540
+- name: 'Wolverine (vol. 3) #67'
+  comic_vine_issue_id: 134636
+- name: 'Wolverine (vol. 3) #68'
+  comic_vine_issue_id: 136528
+- name: 'Wolverine (vol. 3) #69'
+  comic_vine_issue_id: 141985
+- name: 'Wolverine (vol. 3) #70'
+  comic_vine_issue_id: 149318
+- name: 'Wolverine (vol. 3) #71'
+  comic_vine_issue_id: 153678
+- name: 'Wolverine (vol. 3) #72'
+  comic_vine_issue_id: 158597
+- name: 'Wolverine: Giant-Size Old Man Logan'
+  comic_vine_issue_id: 172385

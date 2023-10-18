@@ -1,0 +1,35 @@
+---
+collection: klasyka-marvela
+name: Anihilacja - tom 3
+image: 017.9788328118553.webp
+image_source: https://egmont.pl
+isbn: 9788328118553
+release_date: '2017-12-07'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4816433/anihilacja-tom-3
+shops:
+  egmont: https://egmont.pl/Anihilacja.-Tom-3,5061656,p.html
+  gildia: https://www.gildia.pl/komiksy/350161-anihilacja-3
+reviews:
+  planeta_marvel: https://planetamarvel.net/anihilacja-tom-3-recenzja/
+issues:
+- name: 'Annihilation #1'
+  comic_vine_issue_id: 108532
+- name: 'Annihilation #2'
+  comic_vine_issue_id: 108533
+- name: 'Annihilation #3'
+  comic_vine_issue_id: 108534
+- name: 'Annihilation #4'
+  comic_vine_issue_id: 108535
+- name: 'Annihilation #5'
+  comic_vine_issue_id: 106256
+- name: 'Annihilation #6'
+  comic_vine_issue_id: 106331
+- name: 'Annihilation: Heralds of Galactus #1'
+  comic_vine_issue_id: 106711
+- name: 'Annihilation: Heralds of Galactus #2'
+  comic_vine_issue_id: 107996
+- name: 'Annihilation: The Nova Corps Files'
+  comic_vine_issue_id: 106355

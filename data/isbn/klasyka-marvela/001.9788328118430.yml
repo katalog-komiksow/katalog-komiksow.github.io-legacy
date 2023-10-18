@@ -1,0 +1,29 @@
+---
+collection: klasyka-marvela
+name: Doktor Strange - Początki i zakończenia
+image: 001.9788328118430.webp
+image_source: https://egmont.pl
+isbn: 9788328118430
+release_date: '2016-10-05'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3727897/doktor-strange-poczatki-i-zakonczenia
+shops:
+  egmont: https://egmont.pl/Doktor-Strange.-Poczatki-i-zakonczenia.,608812,p.html
+  gildia: https://www.gildia.pl/komiksy/312913-doktor-strange-poczatki-i-zakonczenia
+reviews:
+  paradoks: https://paradoks.net.pl/read/30649-doktor-strange-poczatki-i-zakonczenia-recenzja
+issues:
+- name: 'Strange #1'
+  comic_vine_issue_id: 97906
+- name: 'Strange #2'
+  comic_vine_issue_id: 97907
+- name: 'Strange #3'
+  comic_vine_issue_id: 97908
+- name: 'Strange #4'
+  comic_vine_issue_id: 103908
+- name: 'Strange #5'
+  comic_vine_issue_id: 103909
+- name: 'Strange #6'
+  comic_vine_issue_id: 103910

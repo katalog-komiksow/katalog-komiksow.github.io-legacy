@@ -1,0 +1,43 @@
+---
+collection: klasyka-marvela
+name: 'Kapitan Ameryka tom 1: Zimowy Żołnierz'
+image: '048.9788328134850.webp'
+image_source: https://egmont.pl
+isbn: 9788328134850
+release_date: '2019-07-17'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4887340/kapitan-ameryka-zimowy-zolnierz
+shops:
+  egmont: https://egmont.pl/Kapitan-Ameryka-Zimowy-Zolnierz-Tom-1,17700881,p.html
+  gildia: https://www.gildia.pl/komiksy/398815-kapitan-ameryka-1-zimowy-zolnierz
+reviews:
+  paradoks: https://paradoks.net.pl/read/38648-kapitan-ameryka-tom-1-zimowy-zolnierz-recenzja
+issues:
+- name: 'Captain America (vol. 5) #1'
+  comic_vine_issue_id: 101412
+- name: 'Captain America (vol. 5) #2'
+  comic_vine_issue_id: 101413
+- name: 'Captain America (vol. 5) #3'
+  comic_vine_issue_id: 101414
+- name: 'Captain America (vol. 5) #4'
+  comic_vine_issue_id: 101415
+- name: 'Captain America (vol. 5) #5'
+  comic_vine_issue_id: 115184
+- name: 'Captain America (vol. 5) #6'
+  comic_vine_issue_id: 115187
+- name: 'Captain America (vol. 5) #7'
+  comic_vine_issue_id: 115267
+- name: 'Captain America (vol. 5) #8'
+  comic_vine_issue_id: 115268
+- name: 'Captain America (vol. 5) #9'
+  comic_vine_issue_id: 115269
+- name: 'Captain America (vol. 5) #11'
+  comic_vine_issue_id: 115273
+- name: 'Captain America (vol. 5) #12'
+  comic_vine_issue_id: 115303
+- name: 'Captain America (vol. 5) #13'
+  comic_vine_issue_id: 115308
+- name: 'Captain America (vol. 5) #14'
+  comic_vine_issue_id: 113175

@@ -1,0 +1,35 @@
+---
+collection: klasyka-marvela
+name: 'Daredevil: Frank Miller - tom 1'
+image: '038.9788328134836.webp'
+image_source: https://egmont.pl
+isbn: 9788328134836
+release_date: '2019-01-23'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4876350/daredevil---wizjonerzy-frank-miller-tom-1
+shops:
+  egmont: https://egmont.pl/Daredevil.-Tom-1,13925384,p.html
+  gildia: https://www.gildia.pl/komiksy/383884-daredevil-wizjonerzy-frank-miller-tom-1
+reviews:
+  paradoks: https://paradoks.net.pl/read/37183-daredevil-frank-miller-tom-1-recenzja
+issues:
+- name: 'Daredevil (vol. 1) #158'
+  comic_vine_issue_id: 19503
+- name: 'Daredevil (vol. 1) #159'
+  comic_vine_issue_id: 19638
+- name: 'Daredevil (vol. 1) #160'
+  comic_vine_issue_id: 19777
+- name: 'Daredevil (vol. 1) #161'
+  comic_vine_issue_id: 19917
+- name: 'Daredevil (vol. 1) #163'
+  comic_vine_issue_id: 20237
+- name: 'Daredevil (vol. 1) #164'
+  comic_vine_issue_id: 20383
+- name: 'Daredevil (vol. 1) #165'
+  comic_vine_issue_id: 20524
+- name: 'Daredevil (vol. 1) #166'
+  comic_vine_issue_id: 20658
+- name: 'Daredevil (vol. 1) #167'
+  comic_vine_issue_id: 20791

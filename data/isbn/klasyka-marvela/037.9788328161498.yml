@@ -1,0 +1,33 @@
+---
+collection: klasyka-marvela
+name: Rękawica Nieskończoności
+image: 037.9788328161498.webp
+image_source: https://egmont.pl
+isbn: 9788328161498
+release_date: '2018-12-05'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4863870/rekawica-nieskonczonosci
+shops:
+  egmont: https://egmont.pl/Rekawica-Nieskonczonosci,72570909,p.html
+  gildia: https://www.gildia.pl/komiksy/378491-rekawica-nieskonczonosci
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wojna-nieskonczonosci-prezentacja-komiksu
+issues:
+- name: 'Thanos Quest #1'
+  comic_vine_issue_id: 32212
+- name: 'Thanos Quest #2'
+  comic_vine_issue_id: 32247
+- name: 'Infinity Gauntlet #1'
+  comic_vine_issue_id: 34415
+- name: 'Infinity Gauntlet #2'
+  comic_vine_issue_id: 34529
+- name: 'Infinity Gauntlet #3'
+  comic_vine_issue_id: 34647
+- name: 'Infinity Gauntlet #4'
+  comic_vine_issue_id: 34764
+- name: 'Infinity Gauntlet #5'
+  comic_vine_issue_id: 34880
+- name: 'Infinity Gauntlet #6'
+  comic_vine_issue_id: 35000

@@ -1,0 +1,41 @@
+---
+collection: klasyka-marvela
+name: Anihilacja - tom 2
+image: '008.9788328118546.webp'
+image_source: https://egmont.pl
+isbn: 9788328118546
+release_date: '2017-05-10'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4621194/anihilacja-tom-2
+shops:
+  egmont: https://egmont.pl/Anihilacja.-Tom-2,606331,p.html
+  gildia: https://www.gildia.pl/komiksy/332462-anihilacja-2
+reviews:
+  paradoks: https://paradoks.net.pl/read/32987-anihilacja-tom-2-recenzja
+issues:
+- name: 'Annihilation: Super Skrull #1'
+  comic_vine_issue_id: 105471
+- name: 'Annihilation: Super Skrull #2'
+  comic_vine_issue_id: 120428
+- name: 'Annihilation: Super Skrull #3'
+  comic_vine_issue_id: 120429
+- name: 'Annihilation: Super Skrull #4'
+  comic_vine_issue_id: 120430
+- name: 'Annihilation: Ronan #1'
+  comic_vine_issue_id: 120432
+- name: 'Annihilation: Ronan #2'
+  comic_vine_issue_id: 125235
+- name: 'Annihilation: Ronan #3'
+  comic_vine_issue_id: 125236
+- name: 'Annihilation: Ronan #4'
+  comic_vine_issue_id: 125237
+- name: 'Annihilation: Silver Surfer #1'
+  comic_vine_issue_id: 125533
+- name: 'Annihilation: Silver Surfer #2'
+  comic_vine_issue_id: 120431
+- name: 'Annihilation: Silver Surfer #3'
+  comic_vine_issue_id: 125535
+- name: 'Annihilation: Silver Surfer #4'
+  comic_vine_issue_id: 125591

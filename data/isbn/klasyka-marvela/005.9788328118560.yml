@@ -1,0 +1,37 @@
+---
+collection: klasyka-marvela
+name: Deadpool Classic - tom 1
+image: 005.9788328118560.webp
+image_source: https://egmont.pl
+isbn: 9788328118560
+release_date: '2017-02-15'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4153208/deadpool-classic-tom-1
+shops:
+  egmont: https://egmont.pl/Deadpool-Classic.-Tom-1,606418,p.html
+  gildia: https://www.gildia.pl/komiksy/322944-deadpool-classic-tom-1
+reviews:
+  filmozercy: https://filmozercy.com/wpis/deadpool-classic-tom-1-prezentacja-komiksu
+issues:
+- name: 'New Mutants (vol. 1) #98'
+  comic_vine_issue_id: 33921
+- name: 'Deadpool: Sins of the Past #1'
+  comic_vine_issue_id: 39502
+- name: 'Deadpool: Sins of the Past #2'
+  comic_vine_issue_id: 39645
+- name: 'Deadpool: Sins of the Past #3'
+  comic_vine_issue_id: 39790
+- name: 'Deadpool: Sins of the Past #4'
+  comic_vine_issue_id: 39933
+- name: 'Deadpool Vol.1 #1'
+  comic_vine_issue_id: 43304
+- name: 'Deadpool: The Circle Chase #1'
+  comic_vine_issue_id: 37655
+- name: 'Deadpool: The Circle Chase #2'
+  comic_vine_issue_id: 37794
+- name: 'Deadpool: The Circle Chase #3'
+  comic_vine_issue_id: 37947
+- name: 'Deadpool: The Circle Chase #4'
+  comic_vine_issue_id: 38095

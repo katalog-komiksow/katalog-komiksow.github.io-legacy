@@ -1,0 +1,47 @@
+---
+collection: klasyka-marvela
+name: Spider-Man
+image: 044.9788328161450.webp
+image_source: https://egmont.pl
+isbn: 9788328161450
+release_date: '2019-05-23'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4880993/spider-man-todd-mcfarlane
+shops:
+  egmont: https://egmont.pl/Spider-Man,16488464,p.html
+  gildia: https://www.gildia.pl/komiksy/394596-spider-man
+reviews:
+  filmozercy: https://filmozercy.com/wpis/todd-mcfarlane-spider-man-recenzja-komiksu
+issues:
+- name: 'Spider-Man (vol. 1) #1'
+  comic_vine_issue_id: 64603
+- name: 'Spider-Man (vol. 1) #2'
+  comic_vine_issue_id: 64604
+- name: 'Spider-Man (vol. 1) #3'
+  comic_vine_issue_id: 64605
+- name: 'Spider-Man (vol. 1) #4'
+  comic_vine_issue_id: 64606
+- name: 'Spider-Man (vol. 1) #5'
+  comic_vine_issue_id: 64607
+- name: 'Spider-Man (vol. 1) #6'
+  comic_vine_issue_id: 64608
+- name: 'Spider-Man (vol. 1) #7'
+  comic_vine_issue_id: 64609
+- name: 'Spider-Man (vol. 1) #8'
+  comic_vine_issue_id: 64610
+- name: 'Spider-Man (vol. 1) #9'
+  comic_vine_issue_id: 64611
+- name: 'Spider-Man (vol. 1) #10'
+  comic_vine_issue_id: 64612
+- name: 'Spider-Man (vol. 1) #11'
+  comic_vine_issue_id: 64613
+- name: 'Spider-Man (vol. 1) #12'
+  comic_vine_issue_id: 64614
+- name: 'Spider-Man (vol. 1) #13'
+  comic_vine_issue_id: 64615
+- name: 'Spider-Man (vol. 1) #14'
+  comic_vine_issue_id: 64616
+- name: 'X-Force (vol. 1) #4'
+  comic_vine_issue_id: 34899

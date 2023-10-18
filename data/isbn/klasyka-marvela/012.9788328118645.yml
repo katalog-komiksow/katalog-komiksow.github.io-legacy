@@ -1,0 +1,31 @@
+---
+collection: klasyka-marvela
+name: 'Hulk: Koniec i inne opowieści'
+image: 012.9788328118645.webp
+image_source: https://egmont.pl
+isbn: 9788328118645
+release_date: '2017-09-20'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4801682/hulk-koniec-i-inne-opowiesci
+shops:
+  egmont: https://egmont.pl/Hulk-Koniec-i-inne-opowiesci,3265558,p.html
+  gildia: https://www.gildia.pl/komiksy/342300-hulk-koniec-i-inne-opowiesci
+reviews:
+  paradoks: https://paradoks.net.pl/read/33783-hulk-koniec-i-inne-opowiesci-recenzja
+issues:
+- name: 'Incredible Hulk: Future Imperfect (vol.1) #1'
+  comic_vine_issue_id: 94708
+- name: 'Incredible Hulk: Future Imperfect (vol.1) #2'
+  comic_vine_issue_id: 94709
+- name: 'Incredible Hulk: The End'
+  comic_vine_issue_id: 202340
+- name: 'Marvel Knights: Hulk – Transformè #1'
+  comic_vine_issue_id: 436200
+- name: 'Marvel Knights: Hulk – Transformè #2'
+  comic_vine_issue_id: 442169
+- name: 'Marvel Knights: Hulk – Transformè #3'
+  comic_vine_issue_id: 445816
+- name: 'Marvel Knights: Hulk – Transformè #4'
+  comic_vine_issue_id: 447997

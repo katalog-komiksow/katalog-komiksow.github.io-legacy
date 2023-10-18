@@ -1,0 +1,37 @@
+---
+collection: klasyka-marvela
+name: Deadpool Classic - tom 5
+image: 027.9788328126763.webp
+image_source: https://egmont.pl
+isbn: 9788328126763
+release_date: '2018-06-06'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4847484/deadpool-classic-tom-5
+shops:
+  egmont: https://egmont.pl/Deadpool-Classic.-Tom-5,9024538,p.html
+  gildia: https://www.gildia.pl/komiksy/363397-deadpool-classic-tom-5
+reviews:
+  planeta_marvela: https://planetamarvel.net/deadpool-classic-tom-5-recenzja/
+issues:
+- name: 'Deadpool (vol. 1) #26'
+  comic_vine_issue_id: 50734
+- name: 'Deadpool (vol. 1) #27'
+  comic_vine_issue_id: 105749
+- name: 'Deadpool (vol. 1) #28'
+  comic_vine_issue_id: 105750
+- name: 'Deadpool (vol. 1) #29'
+  comic_vine_issue_id: 50735
+- name: 'Deadpool (vol. 1) #30'
+  comic_vine_issue_id: 50736
+- name: 'Deadpool (vol. 1) #31'
+  comic_vine_issue_id: 50737
+- name: 'Deadpool (vol. 1) #32'
+  comic_vine_issue_id: 50738
+- name: 'Deadpool (vol. 1) #33'
+  comic_vine_issue_id: 50739
+- name: "Baby's First Deadpool Book #1"
+  comic_vine_issue_id: 109764
+- name: 'Deadpool Team-Up #1'
+  comic_vine_issue_id: 109766

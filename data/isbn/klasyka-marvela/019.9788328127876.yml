@@ -1,0 +1,29 @@
+---
+collection: klasyka-marvela
+name: 'Spider-Man i Czarna Kotka: Zło, które ludzie czynią'
+image: '019.9788328127876.webp'
+image_source: https://egmont.pl
+isbn: 9788328127876
+release_date: '2018-01-24'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4821067/spider-man-i-czarna-kotka-zlo-ktore-ludzie-czynia
+shops:
+  egmont: https://egmont.pl/Spider-Man-i-Czarna-Kotka-Zlo-ktore-ludzie-czynia,5695501,p.html
+  gildia: https://www.gildia.pl/komiksy/353938-spider-man-i-czarna-kotka-zlo-ktore-ludzie-czynia
+reviews:
+  paradoks: https://paradoks.net.pl/read/34610-spider-man-i-czarna-kotka-zlo-ktore-ludzie-czynia-recenzja
+issues:
+- name: 'Spider-Man/Black Cat #1'
+  comic_vine_issue_id: 77953
+- name: 'Spider-Man/Black Cat #2'
+  comic_vine_issue_id: 77954
+- name: 'Spider-Man/Black Cat #3'
+  comic_vine_issue_id: 77955
+- name: 'Spider-Man/Black Cat #4'
+  comic_vine_issue_id: 77956
+- name: 'Spider-Man/Black Cat #5'
+  comic_vine_issue_id: 103301
+- name: 'Spider-Man/Black Cat #6'
+  comic_vine_issue_id: 120327

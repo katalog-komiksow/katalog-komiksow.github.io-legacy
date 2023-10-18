@@ -1,0 +1,33 @@
+---
+collection: klasyka-marvela
+name: Elektra - Assassin
+image: 002.9788328118447.webp
+image_source: https://egmont.pl
+isbn: 9788328118447
+release_date: '2016-11-23'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/3889664/elektra-assassin
+shops:
+  egmont: https://egmont.pl/Elektra-Assassin,606396,p.html
+  gildia: https://www.gildia.pl/komiksy/312914-elektra-assassin
+reviews:
+  paradoks: https://paradoks.net.pl/read/31306-elektra-assassin-recenzja
+issues:
+- name: 'Elektra Assassin #1'
+  comic_vine_issue_id: 27082
+- name: 'Elektra Assassin #2'
+  comic_vine_issue_id: 27180
+- name: 'Elektra Assassin #3'
+  comic_vine_issue_id: 27275
+- name: 'Elektra Assassin #4'
+  comic_vine_issue_id: 27382
+- name: 'Elektra Assassin #5'
+  comic_vine_issue_id: 27487
+- name: 'Elektra Assassin #6'
+  comic_vine_issue_id: 27677
+- name: 'Elektra Assassin #7'
+  comic_vine_issue_id: 27789
+- name: 'Elektra Assassin #8'
+  comic_vine_issue_id: 27899

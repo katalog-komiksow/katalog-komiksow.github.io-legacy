@@ -1,0 +1,37 @@
+---
+collection: klasyka-marvela
+name: Deadpool Classic - tom 3
+image: 015.9788328118584.webp
+image_source: https://egmont.pl
+isbn: 9788328118584
+release_date: '2017-11-08'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810476/deadpool-classic-tom-3
+shops:
+  egmont: https://egmont.pl/Deadpool-Classic.-Tom-3,4361232,p.html
+  gildia: https://www.gildia.pl/komiksy/348597-deadpool-classic-tom-3
+reviews:
+  planeta_marvel: https://planetamarvel.net/deadpool-classic-tom-3-recenzja/
+issues:
+- name: 'Deadpool (vol. 1) #9'
+  comic_vine_issue_id: 44221
+- name: 'Deadpool (vol. 1) #10'
+  comic_vine_issue_id: 44329
+- name: 'Deadpool (vol. 1) #11'
+  comic_vine_issue_id: 44426
+- name: 'Deadpool (vol. 1) #12'
+  comic_vine_issue_id: 44599
+- name: 'Deadpool (vol. 1) #13'
+  comic_vine_issue_id: 44709
+- name: 'Deadpool (vol. 1) #14'
+  comic_vine_issue_id: 44806
+- name: 'Deadpool (vol. 1) #15'
+  comic_vine_issue_id: 44892
+- name: 'Deadpool (vol. 1) #16'
+  comic_vine_issue_id: 44978
+- name: 'Deadpool (vol. 1) #17'
+  comic_vine_issue_id: 45064
+- name: 'Amazing Spider-Man (vol. 1) #47'
+  comic_vine_issue_id: 9290

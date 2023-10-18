@@ -1,0 +1,37 @@
+---
+collection: klasyka-marvela
+name: Krucjata nieskończoności
+image: 056.9788328197800.webp
+image_source: https://egmont.pl
+isbn: 9788328197800
+release_date: '2020-01-22'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4913463/krucjata-nieskonczonosci
+shops:
+  egmont: https://egmont.pl/Krucjata-nieskonczonosci,22466562,p.html
+  gildia: https://www.gildia.pl/komiksy/417649-krucjata-nieskonczonosci
+reviews:
+  naekranie: https://naekranie.pl/recenzje/krucjata-nieskonczonosci-recenzja-komiksu
+issues:
+- name: 'The Infinity Crusade #1'
+  comic_vine_issue_id: 108552
+- name: 'The Infinity Crusade #2'
+  comic_vine_issue_id: 37517
+- name: 'The Infinity Crusade #3'
+  comic_vine_issue_id: 37658
+- name: 'The Infinity Crusade #4'
+  comic_vine_issue_id: 37797
+- name: 'The Infinity Crusade #5'
+  comic_vine_issue_id: 37950
+- name: 'The Infinity Crusade #6'
+  comic_vine_issue_id: 38098
+- name: 'Warlock Chronicles #3'
+  comic_vine_issue_id: 37837
+- name: 'Warlock Chronicles #4'
+  comic_vine_issue_id: 37982
+- name: 'Warlock Chronicles #5'
+  comic_vine_issue_id: 38145
+- name: 'Warlock and the Infinity Watch #20'
+  comic_vine_issue_id: 37826

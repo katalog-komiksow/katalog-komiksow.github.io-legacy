@@ -1,0 +1,33 @@
+---
+collection: klasyka-marvela
+name: Deadpool Classic - tom 2
+image: 010.9788328118577.webp
+image_source: https://egmont.pl
+isbn: 9788328118577
+release_date: '2017-07-05'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4796899/deadpool-classic-tom-2
+shops:
+  egmont: https://egmont.pl/Deadpool-Classic.-Tom-2,1633289,p.html
+  gildia: https://www.gildia.pl/komiksy/338986-deadpool-classic-tom-2
+reviews:
+  paradoks: https://paradoks.net.pl/read/33183-deadpool-classic-tom-2-recenzja
+issues:
+- name: 'Deadpool (vol. 1) #2'
+  comic_vine_issue_id: 43414
+- name: 'Deadpool (vol. 1) #3'
+  comic_vine_issue_id: 43510
+- name: 'Deadpool (vol. 1) #4'
+  comic_vine_issue_id: 43608
+- name: 'Deadpool (vol. 1) #5'
+  comic_vine_issue_id: 43712
+- name: 'Deadpool (vol. 1) #6'
+  comic_vine_issue_id: 43799
+- name: 'Deadpool (vol. 1) #7'
+  comic_vine_issue_id: 44005
+- name: 'Deadpool (vol. 1) #8'
+  comic_vine_issue_id: 44118
+- name: 'Daredevil/Deadpool Annual #1997'
+  comic_vine_issue_id: 157856

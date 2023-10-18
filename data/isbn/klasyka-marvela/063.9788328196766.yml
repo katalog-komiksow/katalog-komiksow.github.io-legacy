@@ -1,0 +1,39 @@
+---
+collection: klasyka-marvela
+name: 'Srebrny Surfer: Przypowieści'
+image: 063.9788328196766.webp
+image_source: https://egmont.pl
+isbn: 9788328196766
+release_date: '2020-06-03'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4923660/silver-surfer-przypowiesci
+shops:
+  egmont: https://egmont.pl/Silver-Surfer.-Przypowiesci,27409411,p.html
+  gildia: https://www.gildia.pl/komiksy/428186-silver-surfer-przypowiesci
+reviews:
+  paradoks: https://paradoks.net.pl/read/40288-silver-surfer-przypowiesci-recenzja
+issues:
+- name: 'Silver Surfer (vol. 4) #1'
+  comic_vine_issue_id: 30442
+- name: 'Silver Surfer (vol. 4) #2'
+  comic_vine_issue_id: 30790
+- name: 'Marvel Graphic Novel #58'
+  comic_vine_issue_id: 27374
+- name: 'Silver Surfer: Requiem #1'
+  comic_vine_issue_id: 110094
+- name: 'Silver Surfer: Requiem #2'
+  comic_vine_issue_id: 111133
+- name: 'Silver Surfer: Requiem #3'
+  comic_vine_issue_id: 111971
+- name: 'Silver Surfer: Requiem #4'
+  comic_vine_issue_id: 113975
+- name: 'Silver Surfer: In Thy Name #1'
+  comic_vine_issue_id: 117660
+- name: 'Silver Surfer: In Thy Name #2'
+  comic_vine_issue_id: 119710
+- name: 'Silver Surfer: In Thy Name #3'
+  comic_vine_issue_id: 121764
+- name: 'Silver Surfer: In Thy Name #4'
+  comic_vine_issue_id: 136824

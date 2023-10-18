@@ -1,0 +1,31 @@
+---
+collection: klasyka-marvela
+name: Wojna Domowa
+image: 003.9788328118454.webp
+image_source: https://egmont.pl
+isbn: 9788328118454
+release_date: '2016-12-07'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4114433/wojna-domowa
+shops:
+  egmont: https://egmont.pl/Wojna-domowa,608770,p.html
+  gildia: https://www.gildia.pl/komiksy/312915-wojna-domowa-wyd-ii
+reviews:
+  filmozercy: https://filmozercy.com/wpis/wojna-domowa-recenzja-komiksu
+issues:
+- name: 'Civil War #1'
+  comic_vine_issue_id: 105525
+- name: 'Civil War #2'
+  comic_vine_issue_id: 105570
+- name: 'Civil War #3'
+  comic_vine_issue_id: 105624
+- name: 'Civil War #4'
+  comic_vine_issue_id: 105682
+- name: 'Civil War #5'
+  comic_vine_issue_id: 106999
+- name: 'Civil War #6'
+  comic_vine_issue_id: 107000
+- name: 'Civil War #7'
+  comic_vine_issue_id: 106626

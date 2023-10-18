@@ -1,0 +1,33 @@
+---
+collection: klasyka-marvela
+name: Deadpool Classic - tom 8
+image: '058.9788328197787.webp'
+image_source: https://egmont.pl
+isbn: 9788328197787
+release_date: '2020-02-26'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4916913/deadpool-classic-tom-8
+shops:
+  egmont: https://egmont.pl/Deadpool-Classic-Tom-8,23886877,p.html
+  gildia: https://www.gildia.pl/komiksy/419925-deadpool-classic-tom-8
+reviews:
+  movies_room: https://moviesroom.pl/newsy/komiksy/deadpool-classic-tom-8-recenzja-komiksu/
+issues:
+- name: 'Deadpool (vol. 1) #57'
+  comic_vine_issue_id: 107622
+- name: 'Deadpool (vol. 1) #58'
+  comic_vine_issue_id: 109331
+- name: 'Deadpool (vol. 1) #59'
+  comic_vine_issue_id: 109332
+- name: 'Deadpool (vol. 1) #60'
+  comic_vine_issue_id: 109333
+- name: 'Deadpool (vol. 1) #61'
+  comic_vine_issue_id: 109334
+- name: 'Deadpool (vol. 1) #62'
+  comic_vine_issue_id: 109432
+- name: 'Deadpool (vol. 1) #63'
+  comic_vine_issue_id: 109433
+- name: 'Deadpool (vol. 1) #64'
+  comic_vine_issue_id: 109434

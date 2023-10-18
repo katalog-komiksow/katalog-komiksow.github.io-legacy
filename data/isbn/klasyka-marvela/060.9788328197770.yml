@@ -1,0 +1,45 @@
+---
+collection: klasyka-marvela
+name: 'Daredevil: Frank Miller - tom 3'
+image: 060.9788328197770.webp
+image_source: https://egmont.pl
+isbn: 9788328197770
+release_date: '2020-04-29'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4925454/daredevil---wizjonerzy-frank-miller-tom-3
+shops:
+  egmont: https://egmont.pl/Daredevil.-Frank-Miller.-Tom-3,25426955,p.html
+  gildia: https://www.gildia.pl/komiksy/422863-daredevil-wizjonerzy-frank-miller-tom-3
+reviews:
+  paradoks: https://paradoks.net.pl/read/40072-daredevil-frank-miller-tom-3-recenzja
+issues:
+- name: 'Daredevil (vol. 1) #183'
+  comic_vine_issue_id: 22225
+- name: 'Daredevil (vol. 1) #184'
+  comic_vine_issue_id: 22296
+- name: 'Daredevil (vol. 1) #185'
+  comic_vine_issue_id: 22369
+- name: 'Daredevil (vol. 1) #186'
+  comic_vine_issue_id: 22439
+- name: 'Daredevil (vol. 1) #187'
+  comic_vine_issue_id: 22513
+- name: 'Daredevil (vol. 1) #188'
+  comic_vine_issue_id: 22587
+- name: 'Daredevil (vol. 1) #189'
+  comic_vine_issue_id: 22665
+- name: 'Daredevil (vol. 1) #190'
+  comic_vine_issue_id: 22785
+- name: 'Daredevil (vol. 1) #191'
+  comic_vine_issue_id: 22857
+- name: 'What If? #28'
+  comic_vine_issue_id: 21462
+- name: 'What If? #35'
+  comic_vine_issue_id: 22538
+- name: 'Bizarre Adventures (vol. 1) #28'
+  comic_vine_issue_id: 21585
+- name: 'Elektra Lives Again #1'
+  comic_vine_issue_id: 134346
+- name: 'Daredevil: Love and War (1986)'
+  comic_vine_issue_id: 134231

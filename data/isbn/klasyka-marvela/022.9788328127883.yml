@@ -1,0 +1,36 @@
+---
+collection: klasyka-marvela
+name: Deadpool Classic - tom 4
+image: 022.9788328127883.webp
+image_source: https://egmont.pl
+isbn: 9788328127883
+release_date: '2018-03-26'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4820179/deadpool-classic-tom-4
+shops:
+  egmont: https://egmont.pl/Deadpool-Classic.-Tom-4,6668295,p.html
+  gildia: https://www.gildia.pl/komiksy/356709-deadpool-classic-tom-4
+reviews:
+  planeta_marvel: https://planetamarvel.net/deadpool-classic-tom-4-recenzja/
+issues:
+- name: 'Deadpool (vol. 1) #18'
+  comic_vine_issue_id: 45144
+- name: 'Deadpool (vol. 1) #19'
+  comic_vine_issue_id: 45232
+- name: 'Deadpool (vol. 1) #20'
+  comic_vine_issue_id: 45324
+- name: 'Deadpool (vol. 1) #21'
+  comic_vine_issue_id: 45387
+- name: 'Deadpool (vol. 1) #22'
+  comic_vine_issue_id: 45457
+- name: 'Deadpool (vol. 1) #23'
+  comic_vine_issue_id: 45519
+- name: 'Deadpool (vol. 1) #24'
+  comic_vine_issue_id: 45608
+- name: 'Deadpool (vol. 1) #25'
+  comic_vine_issue_id: 45669
+- name: 'Deadpool & Death Annual #1998'
+  comic_vine_issue_id: 109777
+

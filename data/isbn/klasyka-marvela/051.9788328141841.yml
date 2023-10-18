@@ -1,0 +1,38 @@
+---
+collection: klasyka-marvela
+name: 'X-Men: Jim Lee'
+image: 051.9788328141841.webp
+image_source: https://egmont.pl
+isbn: 9788328141841
+release_date: '2019-09-27'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4894879/x-men-jim-lee
+shops:
+  gildia: https://www.gildia.pl/komiksy/403741-x-men-jim-lee
+reviews:
+  paradoks: https://paradoks.net.pl/read/38772-x-men-jim-lee-recenzja
+issues:
+- name: 'Uncanny X-Men (vol. 1) #248'
+  comic_vine_issue_id: 31670
+- name: 'Uncanny X-Men (vol. 1) #256'
+  comic_vine_issue_id: 32081
+- name: 'Uncanny X-Men (vol. 1) #257'
+  comic_vine_issue_id: 32337
+- name: 'Uncanny X-Men (vol. 1) #258'
+  comic_vine_issue_id: 32436
+- name: 'Uncanny X-Men (vol. 1) #268'
+  comic_vine_issue_id: 33256
+- name: 'Uncanny X-Men (vol. 1) #269'
+  comic_vine_issue_id: 33334
+- name: 'Uncanny X-Men (vol. 1) #273'
+  comic_vine_issue_id: 33893
+- name: 'Uncanny X-Men (vol. 1) #274'
+  comic_vine_issue_id: 34007
+- name: 'Uncanny X-Men (vol. 1) #275'
+  comic_vine_issue_id: 34111
+- name: 'Uncanny X-Men (vol. 1) #276'
+  comic_vine_issue_id: 34214
+- name: 'Uncanny X-Men (vol. 1) #277'
+  comic_vine_issue_id: 34313
