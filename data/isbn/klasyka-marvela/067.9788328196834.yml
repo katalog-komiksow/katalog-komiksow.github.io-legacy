@@ -1,0 +1,41 @@
+---
+collection: klasyka-marvela
+name: Punisher MAX - tom 9
+image: 067.9788328196834.webp
+image_source: https://egmont.pl
+isbn: 9788328196834
+release_date: '2020-10-07'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4933350/punisher-max-tom-9
+shops:
+  egmont: https://egmont.pl/Punisher-Max.-Tom-9,32646167,p.html
+  gildia: https://www.gildia.pl/komiksy/435004-punisher-max-9
+reviews:
+  paradoks: https://paradoks.net.pl/read/41022-punisher-max-tom-9-recenzja
+issues:
+- name: 'Punisher MAX #12'
+  comic_vine_issue_id: 268338
+- name: 'Punisher MAX #13'
+  comic_vine_issue_id: 269836
+- name: 'Punisher MAX #14'
+  comic_vine_issue_id: 273110
+- name: 'Punisher MAX #15'
+  comic_vine_issue_id: 278862
+- name: 'Punisher MAX #16'
+  comic_vine_issue_id: 285718
+- name: 'Punisher MAX #17'
+  comic_vine_issue_id: 292761
+- name: 'Punisher MAX #18'
+  comic_vine_issue_id: 295211
+- name: 'Punisher MAX #19'
+  comic_vine_issue_id: 301814
+- name: 'Punisher MAX #20'
+  comic_vine_issue_id: 307698
+- name: 'Punisher MAX #21'
+  comic_vine_issue_id: 311028
+- name: 'Punisher MAX #22'
+  comic_vine_issue_id: 314971
+- name: 'The Punisher MAX: X-Mas Special'
+  comic_vine_issue_id: 145244
