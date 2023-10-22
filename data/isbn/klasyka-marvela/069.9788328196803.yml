@@ -1,0 +1,49 @@
+---
+collection: klasyka-marvela
+name: 'Daredevil: Frank Miller - tom 4'
+image: '069.9788328196803.webp'
+image_source: https://egmont.pl
+isbn: 9788328196803
+release_date: '2020-11-25'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4948146/daredevil---wizjonerzy-frank-miller-tom-4
+shops:
+  egmont: https://egmont.pl/Daredevil.-Frank-Miller.-Tom-4,36385810,p.html
+  gildia: https://www.gildia.pl/komiksy/440218-daredevil-wizjonerzy-frank-miller-tom-4
+reviews:
+  paradoks: https://paradoks.net.pl/read/41271-daredevil-frank-miller-tom-4-recenzja
+issues:
+  - name: 'Daredevil (vol. 1) #219'
+    comic_vine_issue_id: 25580
+  - name: 'Daredevil (vol. 1) #226'
+    comic_vine_issue_id: 26394
+  - name: 'Daredevil (vol. 1) #227'
+    comic_vine_issue_id: 26500
+  - name: 'Daredevil (vol. 1) #228'
+    comic_vine_issue_id: 26597
+  - name: 'Daredevil (vol. 1) #229'
+    comic_vine_issue_id: 26695
+  - name: 'Daredevil (vol. 1) #230'
+    comic_vine_issue_id: 26789
+  - name: 'Daredevil (vol. 1) #231'
+    comic_vine_issue_id: 26919
+  - name: 'Daredevil (vol. 1) #232'
+    comic_vine_issue_id: 26987
+  - name: 'Daredevil (vol. 1) #233'
+    comic_vine_issue_id: 27079
+  - name: 'Daredevil: The Man Without Fear #1'
+    comic_vine_issue_id: 37946
+  - name: 'Daredevil: The Man Without Fear #2'
+    comic_vine_issue_id: 38094
+  - name: 'Daredevil: The Man Without Fear #3'
+    comic_vine_issue_id: 38252
+  - name: 'Daredevil: The Man Without Fear #4'
+    comic_vine_issue_id: 38499
+  - name: 'Daredevil: The Man Without Fear #5'
+    comic_vine_issue_id: 38648
+  - name: 'Peter Parker, the Spectacular Spider-Man #27'
+    comic_vine_issue_id: 19310
+  - name: 'Peter Parker, the Spectacular Spider-Man #28'
+    comic_vine_issue_id: 19381
