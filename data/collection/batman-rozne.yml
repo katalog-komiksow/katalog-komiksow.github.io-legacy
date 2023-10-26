@@ -14,4 +14,7 @@
 - name: Batman/ Spawn
   isbn: 9788328165106
   image: batman.8.webp
+- name: Batman - Dziedzictwo
+  isbn: 9788328165069
+  image: batman.9.webp
 
