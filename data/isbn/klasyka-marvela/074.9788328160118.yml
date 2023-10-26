@@ -1,0 +1,37 @@
+---
+collection: klasyka-marvela
+name: Deadpool Classic - tom 10
+image: 074.9788328160118.webp
+image_source: https://egmont.pl
+isbn: 9788328160118
+release_date: '2021-03-24'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4963953/deadpool-classic-tom-10
+shops:
+  egmont: https://egmont.pl/Deadpool-Classic.-Tom-10,48608260,p.html
+  gildia: https://www.gildia.pl/komiksy/451718-deadpool-classic-tom-10
+reviews:
+  planeta_marvel: https://planetamarvel.net/deadpool-classic-tom-10-recenzja/
+issues:
+- name: 'Agent X #7'
+  comic_vine_issue_id: 98703
+- name: 'Agent X #8'
+  comic_vine_issue_id: 98704
+- name: 'Agent X #9'
+  comic_vine_issue_id: 99619
+- name: 'Agent X #10'
+  comic_vine_issue_id: 99620
+- name: 'Agent X #11'
+  comic_vine_issue_id: 99621
+- name: 'Agent X #12'
+  comic_vine_issue_id: 99622
+- name: 'Agent X #13'
+  comic_vine_issue_id: 99623
+- name: 'Agent X #14'
+  comic_vine_issue_id: 99624
+- name: 'Agent X #15'
+  comic_vine_issue_id: 99625
+- name: 'Fight-Man #1'
+  comic_vine_issue_id: 231931

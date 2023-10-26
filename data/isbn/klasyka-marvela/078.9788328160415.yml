@@ -1,0 +1,47 @@
+---
+collection: klasyka-marvela
+name: Domena Królów
+image: '078.9788328160415.webp'
+image_source: https://egmont.pl
+isbn: 9788328160415
+release_date: '2021-05-19'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4971855/domena-krolow
+shops:
+  egmont: https://egmont.pl/Domena-krolow,52261899,p.html
+  gildia: https://www.gildia.pl/komiksy/479863-domena-krolow
+reviews:
+  geeklife: https://www.geeklife.pl/2021/05/21/domena-krolow-dan-abnett-i-andy-lanning-recenzja-komiksu/
+issues:
+- name: 'Realm of Kings'
+  comic_vine_issue_id: 183724
+- name: 'Realm of Kings: Inhumans #1'
+  comic_vine_issue_id: 184031
+- name: 'Realm of Kings: Inhumans #2'
+  comic_vine_issue_id: 187674
+- name: 'Realm of Kings: Inhumans #3'
+  comic_vine_issue_id: 193356
+- name: 'Realm of Kings: Inhumans #4'
+  comic_vine_issue_id: 198366
+- name: 'Realm of Kings: Inhumans #5'
+  comic_vine_issue_id: 202680
+- name: 'Realm of Kings: Son of Hulk #1'
+  comic_vine_issue_id: 195366
+- name: 'Realm of Kings: Son of Hulk #2'
+  comic_vine_issue_id: 199046
+- name: 'Realm of Kings: Son of Hulk #3'
+  comic_vine_issue_id: 204630
+- name: 'Realm of Kings: Son of Hulk #4'
+  comic_vine_issue_id: 212044
+- name: 'Realm of Kings: Imperial Guard #1'
+  comic_vine_issue_id: 182952
+- name: 'Realm of Kings: Imperial Guard #2'
+  comic_vine_issue_id: 186676
+- name: 'Realm of Kings: Imperial Guard #3'
+  comic_vine_issue_id: 192405
+- name: 'Realm of Kings: Imperial Guard #4'
+  comic_vine_issue_id: 196456
+- name: 'Realm of Kings: Imperial Guard #5'
+  comic_vine_issue_id: 201034
