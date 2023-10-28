@@ -1,0 +1,51 @@
+---
+collection: klasyka-marvela
+name: Amazing Spider-Man Epic Collection - Kosmiczne przygody
+image: '092.9788328154315.webp'
+image_source: https://egmont.pl
+isbn: 9788328154315
+release_date: '2022-03-23'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5012631/amazing-spider-man-epic-collection-kosmiczne-przygody
+shops:
+  egmont: https://egmont.pl/Amazing-Spider-Man-Epic-Collection-Kosmiczne-przygody,62981143,p.html
+  gildia: https://www.gildia.pl/komiksy/510578-amazing-spider-man-epic-collection-4-kosmiczne-przygody
+reviews:
+  naekranie: https://naekranie.pl/recenzje/amazing-spider-man-epic-collection-kosmiczne-przygody-recenzja
+issues:
+- name: 'The Amazing Spider-Man (vol. 1) #326'
+  comic_vine_issue_id: 31991
+- name: 'The Amazing Spider-Man (vol. 1) #327'
+  comic_vine_issue_id: 32053
+- name: 'The Amazing Spider-Man (vol. 1) #328'
+  comic_vine_issue_id: 113265
+- name: 'The Amazing Spider-Man (vol. 1) #329'
+  comic_vine_issue_id: 32412
+- name: 'The Amazing Spider-Man (vol. 1) #330'
+  comic_vine_issue_id: 32513
+- name: 'The Amazing Spider-Man (vol. 1) #331'
+  comic_vine_issue_id: 32622
+- name: 'The Amazing Spider-Man (vol. 1) #332'
+  comic_vine_issue_id: 113926
+- name: 'The Amazing Spider-Man (vol. 1) #333'
+  comic_vine_issue_id: 32830
+- name: 'The Amazing Spider-Man Annual (vol. 1) #24'
+  comic_vine_issue_id: 112516
+- name: 'The Spectacular Spider-Man (vol. 1) #158'
+  comic_vine_issue_id: 32014
+- name: 'The Spectacular Spider-Man (vol. 1) #159'
+  comic_vine_issue_id: 32071
+- name: 'The Spectacular Spider-Man (vol. 1) #160'
+  comic_vine_issue_id: 32334
+- name: 'The Spectacular Spider-Man Annual #10'
+  comic_vine_issue_id: 32216
+- name: 'Web of Spider-Man (vol. 1) #59'
+  comic_vine_issue_id: 32075
+- name: 'Web of Spider-Man (vol. 1) #60'
+  comic_vine_issue_id: 32338
+- name: 'Web of Spider-Man (vol. 1) #61'
+  comic_vine_issue_id: 32437
+- name: 'Web of Spider-Man Annual #6'
+  comic_vine_issue_id: 77995

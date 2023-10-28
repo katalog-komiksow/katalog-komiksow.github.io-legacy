@@ -1,0 +1,55 @@
+---
+collection: klasyka-marvela
+name: Thor
+image: '097.9788328154483.webp'
+image_source: https://egmont.pl
+isbn: 9788328154483
+release_date: '2022-06-01'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5021725/thor
+shops:
+  egmont: https://egmont.pl/Thor,64365579,p.html
+  gildia: https://www.gildia.pl/komiksy/518213-thor
+reviews:
+  movies_room: https://moviesroom.pl/recenzje/recenzje-komiksow/thor-by-j-michael-straczynski-recenzja-komiksu/
+issues:
+- name: 'Fantastic Four (vol. 1) #536'
+  comic_vine_issue_id: 108475
+- name: 'Fantastic Four (vol. 1) #537'
+  comic_vine_issue_id: 108475
+- name: 'Thor (vol. 3) #1'
+  comic_vine_issue_id: 111243
+- name: 'Thor (vol. 3) #2'
+  comic_vine_issue_id: 112281
+- name: 'Thor (vol. 3) #3'
+  comic_vine_issue_id: 114396
+- name: 'Thor (vol. 3) #4'
+  comic_vine_issue_id: 117826
+- name: 'Thor (vol. 3) #5'
+  comic_vine_issue_id: 120612
+- name: 'Thor (vol. 3) #6'
+  comic_vine_issue_id: 124023
+- name: 'Thor (vol. 3) #7'
+  comic_vine_issue_id: 125704
+- name: 'Thor (vol. 3) #8'
+  comic_vine_issue_id: 128223
+- name: 'Thor (vol. 3) #9'
+  comic_vine_issue_id: 131006
+- name: 'Thor (vol. 3) #10'
+  comic_vine_issue_id: 134588
+- name: 'Thor (vol. 3) #11'
+  comic_vine_issue_id: 141236
+- name: 'Thor (vol. 3) #12'
+  comic_vine_issue_id: 148683
+- name: 'Thor (vol. 1) #600'
+  comic_vine_issue_id: 151878
+- name: 'Thor (vol. 1) #601'
+  comic_vine_issue_id: 155867
+- name: 'Thor (vol. 1) #602'
+  comic_vine_issue_id: 161595
+- name: 'Thor (vol. 1) #603'
+  comic_vine_issue_id: 174106
+- name: 'Thor Giant-Size Finale'
+  comic_vine_issue_id: 185502

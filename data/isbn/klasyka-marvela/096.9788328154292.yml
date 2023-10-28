@@ -1,0 +1,41 @@
+---
+collection: klasyka-marvela
+name: Oto nadchodzi... Daredevil - tom 1
+image: '096.9788328154292.webp'
+image_source: https://egmont.pl
+isbn: 9788328154292
+release_date: '2022-05-18'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5020028/daredevil-mark-waid---1
+shops:
+  egmont: https://egmont.pl/Daredevil.-Mark-Waid.-Tom-1,64365584,p.html
+  gildia: https://www.gildia.pl/komiksy/517298-daredevil-mark-waid-1
+reviews:
+  filmozercy: https://filmozercy.com/wpis/oto-nadchodzi-daredevil-tom-1-recenzja-komiksu-trudny-powrot-do-rzeczywistosci
+issues:
+- name: 'Daredevil (vol. 3) #1'
+  comic_vine_issue_id: 280290
+- name: 'Daredevil (vol. 3) #2'
+  comic_vine_issue_id: 286916
+- name: 'Daredevil (vol. 3) #3'
+  comic_vine_issue_id: 292615
+- name: 'Daredevil (vol. 3) #4'
+  comic_vine_issue_id: 293300
+- name: 'Daredevil (vol. 3) #5'
+  comic_vine_issue_id: 299571
+- name: 'Daredevil (vol. 3) #6'
+  comic_vine_issue_id: 304471
+- name: 'Daredevil (vol. 3) #7'
+  comic_vine_issue_id: 307448
+- name: 'Daredevil (vol. 3) #8'
+  comic_vine_issue_id: 311671
+- name: 'Daredevil (vol. 3) #9'
+  comic_vine_issue_id: 315743
+- name: 'Daredevil (vol. 3) #10'
+  comic_vine_issue_id: 324976
+- name: 'Daredevil (vol. 3) #10.1'
+  comic_vine_issue_id: 326824
+- name: 'The Amazing Spider-Man (vol. 1) #677'
+  comic_vine_issue_id: 310913
