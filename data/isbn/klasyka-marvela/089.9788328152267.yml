@@ -1,0 +1,32 @@
+---
+collection: klasyka-marvela
+name: 'Kapitan Ameryka tom 6: Odrodzenie'
+image: '089.9788328152267.webp'
+image_source: https://egmont.pl
+isbn: 9788328152267
+release_date: '2022-01-19'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4992034/kapitan-ameryka-odrodzenie
+shops:
+  egmont: https://egmont.pl/Kapitan-Ameryka.-Odrodzenie.-Tom-6,60975123,p.html
+  gildia: https://www.gildia.pl/komiksy/504970-kapitan-ameryka-6-odrodzenie
+reviews:
+  filmozercy: https://filmozercy.com/wpis/kapitan-ameryka-tom-6-odrodzenie-recenzja-komiksu-opinie-wrazenia-powrot-z-martwych
+  naekranie: https://naekranie.pl/recenzje/kapitan-ameryka-odrodzenie-tom-6-recenzja-komiksu
+issues:
+- name: 'Captain America Reborn #1'
+  comic_vine_issue_id: 162615
+- name: 'Captain America Reborn #2'
+  comic_vine_issue_id: 166223
+- name: 'Captain America Reborn #3'
+  comic_vine_issue_id: 171208
+- name: 'Captain America Reborn #4'
+  comic_vine_issue_id: 181437
+- name: 'Captain America Reborn #5'
+  comic_vine_issue_id: 187627
+- name: 'Captain America Reborn #6'
+  comic_vine_issue_id: 194589
+- name: 'Captain America: Reborn Prologue'
+  comic_vine_issue_id: 163036

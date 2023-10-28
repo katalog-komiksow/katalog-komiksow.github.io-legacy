@@ -1,0 +1,41 @@
+---
+collection: klasyka-marvela
+name: Ultimate X-Men - tom 3
+image: '083.9788328150041.webp'
+image_source: https://egmont.pl
+isbn: 9788328150041
+release_date: '2021-08-25'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4982284/ultimate-x-men-tom-3
+shops:
+  egmont: https://egmont.pl/Ultimate-X-Men.-Tom-3,56424462,p.html
+  gildia: https://www.gildia.pl/komiksy/489574-ultimate-x-men-3
+reviews:
+  naekranie: https://naekranie.pl/recenzje/ultimate-x-men-tom-3-recenzja-komiksu
+issues:
+- name: 'Ultimate X-Men (vol. 1) #26'
+  comic_vine_issue_id: 105484
+- name: 'Ultimate X-Men (vol. 1) #27'
+  comic_vine_issue_id: 105485
+- name: 'Ultimate X-Men (vol. 1) #28'
+  comic_vine_issue_id: 105486
+- name: 'Ultimate X-Men (vol. 1) #29'
+  comic_vine_issue_id: 105487
+- name: 'Ultimate X-Men (vol. 1) #30'
+  comic_vine_issue_id: 105488
+- name: 'Ultimate X-Men (vol. 1) #31'
+  comic_vine_issue_id: 105489
+- name: 'Ultimate X-Men (vol. 1) #32'
+  comic_vine_issue_id: 105490
+- name: 'Ultimate X-Men (vol. 1) #33'
+  comic_vine_issue_id: 105491
+- name: 'Ultimate War #1'
+  comic_vine_issue_id: 119760
+- name: 'Ultimate War #2'
+  comic_vine_issue_id: 119789
+- name: 'Ultimate War #3'
+  comic_vine_issue_id: 119793
+- name: 'Ultimate War #4'
+  comic_vine_issue_id: 119794
