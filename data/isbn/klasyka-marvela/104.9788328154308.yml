@@ -1,0 +1,43 @@
+---
+collection: klasyka-marvela
+name: Oto nadchodzi... Daredevil - tom 2
+image: 104.9788328154308.webp
+image_source: https://egmont.pl
+isbn: 9788328154308
+release_date: '2022-09-28'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5038801/daredevil-mark-waid-tom-2
+shops:
+  egmont: https://egmont.pl/Daredevil.-Mark-Waid.-Tom-2,67764245,p.html
+  gildia: https://www.gildia.pl/komiksy/531123-daredevil-mark-waid-2
+reviews:
+  filmozercy: https://filmozercy.com/wpis/oto-nadchodzi-daredevil-tom-2-recenzja-komiksu-przyjaciel-potrzebny-od-zaraz
+issues:
+  - name: 'The Avenging Spider-Man (vol. 1) #6'
+    comic_vine_issue_id: Avenging Spider-Man
+  - name: 'The Punisher (2011) #10'
+    comic_vine_issue_id: 331857
+  - name: 'Daredevil (vol. 3) #11'
+    comic_vine_issue_id: 333393
+  - name: 'Daredevil (vol. 3) #12'
+    comic_vine_issue_id: 334213
+  - name: 'Daredevil (vol. 3) #13'
+    comic_vine_issue_id: 335914
+  - name: 'Daredevil (vol. 3) #14'
+    comic_vine_issue_id: 341650
+  - name: 'Daredevil (vol. 3) #15'
+    comic_vine_issue_id: 346239
+  - name: 'Daredevil (vol. 3) #16'
+    comic_vine_issue_id: 348059
+  - name: 'Daredevil (vol. 3) #17'
+    comic_vine_issue_id: 350914
+  - name: 'Daredevil (vol. 3) #18'
+    comic_vine_issue_id: 357702
+  - name: 'Daredevil (vol. 3) #19'
+    comic_vine_issue_id: 362169
+  - name: 'Daredevil (vol. 3) #20'
+    comic_vine_issue_id: 369056
+  - name: 'Daredevil (vol. 3) #21'
+    comic_vine_issue_id: 373300

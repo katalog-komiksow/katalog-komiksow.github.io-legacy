@@ -1,0 +1,43 @@
+---
+collection: klasyka-marvela
+name: 'X-Men: Punkty Zwrotne - Masakra mutantów'
+image: 109.9788328154513.webp
+image_source: https://egmont.pl
+isbn: 9788328154513
+release_date: '2022-11-28'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5048215/x-men-punkty-zwrotne-masakra-mutantow
+shops:
+  egmont: https://egmont.pl/X-Men.-Punkty-zwrotne-Masakra-mutantow,69515268,p.html
+  gildia: https://www.gildia.pl/komiksy/539957-x-men-punkty-zwrotne-masakra-mutantow
+reviews:
+  paradoks: https://paradoks.net.pl/read/44998-x-men-punkty-zwrotne-masakra-mutantow-recenzja
+issues:
+- name: 'Uncanny X-Men (vol. 1) #210'
+  comic_vine_issue_id: 107057
+- name: 'Uncanny X-Men (vol. 1) #211'
+  comic_vine_issue_id: 27396
+- name: 'Uncanny X-Men (vol. 1) #212'
+  comic_vine_issue_id: 27501
+- name: 'Uncanny X-Men (vol. 1) #213'
+  comic_vine_issue_id: 27691
+- name: 'Uncanny X-Men (vol. 1) #214'
+  comic_vine_issue_id: 27803
+- name: 'X-Factor (vol. 1) #9'
+  comic_vine_issue_id: 27290
+- name: 'X-Factor (vol. 1) #10'
+  comic_vine_issue_id: 27399
+- name: 'X-Factor (vol. 1) #11'
+  comic_vine_issue_id: 27504
+- name: 'New Mutants (vol. 1) #46'
+  comic_vine_issue_id: 27523
+- name: 'The Mighty Thor (vol. 1) #373'
+  comic_vine_issue_id: 27395
+- name: 'The Mighty Thor (vol. 1) #374'
+  comic_vine_issue_id: 27500
+- name: 'Power Pack (vol. 1) #27'
+  comic_vine_issue_id: 27494
+- name: 'Daredevil (vol. 1) #238'
+  comic_vine_issue_id: 27676

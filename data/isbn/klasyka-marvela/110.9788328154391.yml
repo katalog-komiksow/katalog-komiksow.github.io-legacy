@@ -1,0 +1,47 @@
+---
+collection: klasyka-marvela
+name: Fantastyczna Czwórka - tom 2
+image: 110.9788328154391.webp
+image_source: https://egmont.pl
+isbn: 9788328154391
+release_date: '2022-12-07'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5049471/fantastyczna-czworka---tom-2
+shops:
+  egmont: https://egmont.pl/Fantastyczna-Czworka.-Tom-2,69515283,p.html
+  gildia: https://www.gildia.pl/komiksy/539792-fantastyczna-czworka-2
+reviews:
+  paradoks: https://paradoks.net.pl/read/45768-fantastyczna-czworka-tom-2-recenzja
+issues:
+  - name: 'Fantastic Four (vol. 1) #579'
+    comic_vine_issue_id: 216200
+  - name: 'Fantastic Four (vol. 1) #580'
+    comic_vine_issue_id: 220744
+  - name: 'Fantastic Four (vol. 1) #581'
+    comic_vine_issue_id: 226858
+  - name: 'Fantastic Four (vol. 1) #582'
+    comic_vine_issue_id: 231706
+  - name: 'Fantastic Four (vol. 1) #583'
+    comic_vine_issue_id: 235446
+  - name: 'Fantastic Four (vol. 1) #584'
+    comic_vine_issue_id: 239851
+  - name: 'Fantastic Four (vol. 1) #585'
+    comic_vine_issue_id: 246472
+  - name: 'Fantastic Four (vol. 1) #586'
+    comic_vine_issue_id: 250665
+  - name: 'Fantastic Four (vol. 1) #587'
+    comic_vine_issue_id: 259027
+  - name: 'Fantastic Four (vol. 1) #588'
+    comic_vine_issue_id: 259027
+  - name: 'FF (vol. 1) #1'
+    comic_vine_issue_id: 266491
+  - name: 'FF (vol. 1) #2'
+    comic_vine_issue_id: 268964
+  - name: 'FF (vol. 1) #3'
+    comic_vine_issue_id: 269820
+  - name: 'FF (vol. 1) #4'
+    comic_vine_issue_id: 271610
+  - name: 'FF (vol. 1) #5'
+    comic_vine_issue_id: 276606

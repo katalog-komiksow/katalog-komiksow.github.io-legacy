@@ -1,0 +1,47 @@
+---
+collection: klasyka-marvela
+name: 'X-Men: Punkty Zwrotne - Powtórne przyjście'
+image: 101.9788328154407.webp
+image_source: https://egmont.pl
+isbn: 9788328154407
+release_date: '2022-07-27'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5029096/x-men-punkty-zwrotne-powtorne-przyjscie
+shops:
+  egmont: https://egmont.pl/X-Men.-Punkty-zwrotne-Powtorne-przyjscie,66558983,p.html
+  gildia: https://www.gildia.pl/komiksy/524908-x-men-punkty-zwrotne-powtorne-przyjscie
+reviews:
+  naekranie: https://naekranie.pl/recenzje/x-men-punkty-zwrotne-powtorne-przyjscie-recenzja-komiksu
+issues:
+  - name: 'Second Coming: Prepare'
+    comic_vine_issue_id: 198355
+  - name: 'Second Coming #1'
+    comic_vine_issue_id: 202574
+  - name: 'Second Coming #2'
+    comic_vine_issue_id: 224511
+  - name: 'Uncanny X-Men (vol. 1) #523'
+    comic_vine_issue_id: 204515
+  - name: 'Uncanny X-Men (vol. 1) #524'
+    comic_vine_issue_id: 211929
+  - name: 'Uncanny X-Men (vol. 1) #525'
+    comic_vine_issue_id: 218329
+  - name: 'New Mutants (vol. 3) #12'
+    comic_vine_issue_id: 206640
+  - name: 'New Mutants (vol. 3) #13'
+    comic_vine_issue_id: 213447
+  - name: 'New Mutants (vol. 3) #14'
+    comic_vine_issue_id: 219419
+  - name: 'X-Men: Legacy (vol. 1) #235'
+    comic_vine_issue_id: 208533
+  - name: 'X-Men: Legacy (vol. 1) #236'
+    comic_vine_issue_id: 214734
+  - name: 'X-Men: Legacy (vol. 1) #237'
+    comic_vine_issue_id: 220732
+  - name: 'X-Force (vol. 3) #26'
+    comic_vine_issue_id: 64503
+  - name: 'X-Force (vol. 3) #27'
+    comic_vine_issue_id: 64504
+  - name: 'X-Force (vol. 3) #28'
+    comic_vine_issue_id: 64505
