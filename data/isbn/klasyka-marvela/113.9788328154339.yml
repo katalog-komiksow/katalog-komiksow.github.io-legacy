@@ -1,0 +1,45 @@
+---
+collection: klasyka-marvela
+name: Amazing Spider-Man Epic Collection - Każdy z każdym
+image: 113.9788328154339.webp
+image_source: https://egmont.pl
+isbn: 9788328154339
+release_date: '2023-02-08'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5050878/amazing-spider-man-epic-collection-kazdy-z-kazdym
+shops:
+  egmont: https://egmont.pl/Amazing-Spider-Man.-Epic-Collection.-Kazdy-z-kazdym,69515267,p.html
+  gildia: https://www.gildia.pl/komiksy/539789-amazing-spider-man-epic-collection-6-kazdy-z-kazdym
+reviews:
+  paradoks: https://paradoks.net.pl/read/44902-amazing-spider-man-epic-collection-kazdy-z-kazdym-recenzja
+issues:
+- name: 'The Amazing Spider-Man #351'
+  comic_vine_issue_id: 34638
+- name: 'The Amazing Spider-Man #352'
+  comic_vine_issue_id: 34755
+- name: 'The Amazing Spider-Man #353'
+  comic_vine_issue_id: 34871
+- name: 'The Amazing Spider-Man #354'
+  comic_vine_issue_id: 34930
+- name: 'The Amazing Spider-Man #355'
+  comic_vine_issue_id: 34993
+- name: 'The Amazing Spider-Man #356'
+  comic_vine_issue_id: 35047
+- name: 'The Amazing Spider-Man #357'
+  comic_vine_issue_id: 113266
+- name: 'The Amazing Spider-Man #358'
+  comic_vine_issue_id: 113267
+- name: 'The Amazing Spider-Man #359'
+  comic_vine_issue_id: 64492
+- name: 'The Amazing Spider-Man #360'
+  comic_vine_issue_id: 64493
+- name: 'The Amazing Spider-Man Annual (vol. 1) #25'
+  comic_vine_issue_id: 64429
+- name: 'Spectacular Spider-Man Annual #11'
+  comic_vine_issue_id: 33688
+- name: 'Web of Spider-Man Annual #7'
+  comic_vine_issue_id: 77996
+- name: 'Spider-Man: Fear Itself'
+  comic_vine_issue_id: 33873

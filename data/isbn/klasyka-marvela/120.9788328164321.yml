@@ -1,0 +1,43 @@
+---
+collection: klasyka-marvela
+name: Amazing Spider-Man Epic Collection. Plaga pająkobójców
+image: 120.9788328164321.webp
+image_source: https://egmont.pl
+isbn: 9788328164321
+release_date: '2023-07-26'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5079158/amazing-spider-man-epic-collection-plaga-pajakobojcow
+shops:
+  egmont: https://egmont.pl/Amazing-Spider-Man-Epic-Collection.-Plaga-pajakobojcow,73694224,p.html
+  gildia: https://www.gildia.pl/komiksy/564499-amazing-spider-man-epic-collection-7-plaga-pajakobojcow
+reviews:
+  paradoks: https://paradoks.net.pl/read/45511-the-amazing-spider-man-epic-collection-plaga-pajakobojcow-recenzja
+issues:
+- name: 'The Amazing Spider-Man (vol. 1) #368'
+  comic_vine_issue_id: 64592
+- name: 'The Amazing Spider-Man (vol. 1) #369'
+  comic_vine_issue_id: 64593
+- name: 'The Amazing Spider-Man (vol. 1) #370'
+  comic_vine_issue_id: 64594
+- name: 'The Amazing Spider-Man (vol. 1) #371'
+  comic_vine_issue_id: 64595
+- name: 'The Amazing Spider-Man (vol. 1) #372'
+  comic_vine_issue_id: 64596
+- name: 'The Amazing Spider-Man (vol. 1) #373'
+  comic_vine_issue_id: 64597
+- name: 'The Amazing Spider-Man (vol. 1) #374'
+  comic_vine_issue_id: 64598
+- name: 'The Amazing Spider-Man (vol. 1) #375'
+  comic_vine_issue_id: 64599
+- name: 'The Amazing Spider-Man (vol. 1) #376'
+  comic_vine_issue_id: 37134
+- name: 'The Amazing Spider-Man (vol. 1) #377'
+  comic_vine_issue_id: 37272
+- name: 'The Amazing Spider-Man Annual (vol. 1) #27'
+  comic_vine_issue_id: 64431
+- name: 'Spider-Man Special Edition: The Trial of Venom'
+  comic_vine_issue_id: 131350
+- name: 'Spider-Man/Dr. Strange: The Way to Dusty Death'
+  comic_vine_issue_id: 195705

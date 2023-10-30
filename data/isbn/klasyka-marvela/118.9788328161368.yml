@@ -1,0 +1,33 @@
+---
+collection: klasyka-marvela
+name: Tajna inwazja
+image: 118.9788328161368.webp
+image_source: https://egmont.pl
+isbn: 9788328161368
+release_date: '2023-05-31'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5070148/tajna-inwazja
+shops:
+  egmont: https://egmont.pl/Tajna-inwazja,72718374,p.html
+  gildia: https://www.gildia.pl/komiksy/557330-tajna-inwazja
+reviews:
+  paradoks: https://paradoks.net.pl/read/45210-tajna-inwazja-recenzja
+issues:
+- name: 'Secret Invasion #1'
+  comic_vine_issue_id: 126370
+- name: 'Secret Invasion #2'
+  comic_vine_issue_id: 129598
+- name: 'Secret Invasion #3'
+  comic_vine_issue_id: 131297
+- name: 'Secret Invasion #4'
+  comic_vine_issue_id: 132926
+- name: 'Secret Invasion #5'
+  comic_vine_issue_id: 135430
+- name: 'Secret Invasion #6'
+  comic_vine_issue_id: 138234
+- name: 'Secret Invasion #7'
+  comic_vine_issue_id: 140851
+- name: 'Secret Invasion #8'
+  comic_vine_issue_id: 144233
