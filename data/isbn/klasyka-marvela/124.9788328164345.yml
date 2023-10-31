@@ -1,0 +1,47 @@
+---
+collection: klasyka-marvela
+name: 'Amazing Spider-Man Epic Collection: Rzeź maksymalna'
+image: 124.9788328164345.webp
+image_source: https://egmont.pl
+isbn: 9788328164345
+release_date: '2023-09-27'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5087194/amazing-spider-man-epic-collection-rzez-maksymalna
+shops:
+  egmont: https://egmont.pl/Amazing-Spider-Man-Epic-Collection-Rzez-maksymalna,74866710,p.html
+  gildia: https://www.gildia.pl/komiksy/570240-amazing-spider-man-epic-collection-8-rzez-maksymalna
+reviews:
+  planeta_marvel: https://planetamarvel.net/amazing-spider-man-epic-collection-rzez-maksymalna-recenzja/
+issues:
+- name: 'Amazing Spider-Man #378'
+  comic_vine_issue_id: 37416
+- name: 'Amazing Spider-Man #379'
+  comic_vine_issue_id: 37416
+- name: 'Amazing Spider-Man #380'
+  comic_vine_issue_id: 37565
+- name: 'Web of Spider-Man #101'
+  comic_vine_issue_id: 37378
+- name: 'Web of Spider-Man #102'
+  comic_vine_issue_id: 37530
+- name: 'Web of Spider-Man #103'
+  comic_vine_issue_id: 37672
+- name: 'Spider-Man #35'
+  comic_vine_issue_id: 37374
+- name: 'Spider-Man #36'
+  comic_vine_issue_id: 37526
+- name: 'Spider-Man #37'
+  comic_vine_issue_id: 37668
+- name: 'Spectacular Spider-Man #201'
+  comic_vine_issue_id: 65595
+- name: 'Spectacular Spider-Man #202'
+  comic_vine_issue_id: 65596
+- name: 'Spectacular Spider-Man #203'
+  comic_vine_issue_id: 65597
+- name: 'Spider-Man/Punisher/Sabretooth: Designer Genes'
+  comic_vine_issue_id: 108126
+- name: 'Spider-Man Unlimited #1'
+  comic_vine_issue_id: 57288
+- name: 'Spider-Man Unlimited #2'
+  comic_vine_issue_id: 57289

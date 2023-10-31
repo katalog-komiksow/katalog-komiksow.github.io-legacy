@@ -1,0 +1,50 @@
+---
+collection: klasyka-marvela
+name: 'X-Men: Punkty zwrotne – Inferno'
+image: 126.9788328161313.webp
+image_source: https://egmont.pl
+isbn: 9788328161313
+release_date: '2023-10-25'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5090718/x-men-punkty-zwrotne-inferno
+shops:
+  egmont: https://egmont.pl/X-Men.-Punkty-zwrotne-Inferno,75819044,p.html
+  gildia: https://www.gildia.pl/komiksy/572634-x-men-punkty-zwrotne-inferno
+reviews: []
+issues:
+- name: 'X-Terminators #1'
+  comic_vine_issue_id: 30213
+- name: 'X-Terminators #2'
+  comic_vine_issue_id: 30342
+- name: 'X-Terminators #3'
+  comic_vine_issue_id: 30460
+- name: 'X-Terminators #4'
+  comic_vine_issue_id: 30811
+- name: 'Uncanny X-Men #239'
+  comic_vine_issue_id: 30811
+- name: 'Uncanny X-Men #240'
+  comic_vine_issue_id: 30797
+- name: 'Uncanny X-Men #241'
+  comic_vine_issue_id: 30905
+- name: 'Uncanny X-Men #242'
+  comic_vine_issue_id: 31006
+- name: 'Uncanny X-Men #243'
+  comic_vine_issue_id: 31117
+- name: 'X-Factor #35'
+  comic_vine_issue_id: 30451
+- name: 'X-Factor #36'
+  comic_vine_issue_id: 30800
+- name: 'X-Factor #37'
+  comic_vine_issue_id: 30908
+- name: 'X-Factor #38'
+  comic_vine_issue_id: 31009
+- name: 'X-Factor #39'
+  comic_vine_issue_id: 31120
+- name: 'New Mutants #71'
+  comic_vine_issue_id: 30824
+- name: 'New Mutants #72'
+  comic_vine_issue_id: 30929
+- name: 'New Mutants #73'
+  comic_vine_issue_id: 31027

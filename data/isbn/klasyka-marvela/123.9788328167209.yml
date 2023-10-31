@@ -1,0 +1,35 @@
+---
+collection: klasyka-marvela
+name: Ultimate X-Men - tom 6
+image: 123.9788328167209.webp
+image_source: https://egmont.pl
+isbn: 9788328167209
+release_date: '2023-08-23'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5077975/ultimate-x-men-tom-6
+shops:
+  egmont: https://egmont.pl/Ultimate-X-Men.-Tom-6,74350604,p.html
+  gildia: https://www.gildia.pl/komiksy/566003-ultimate-x-men-6
+reviews:
+  filmozercy: https://filmozercy.com/wpis/ultimate-x-men-tom-6-recenzja-komiksu-powrot-magneto
+issues:
+- name: 'Ultimate X-Men (vol. 1) #58'
+  comic_vine_issue_id: 101000
+- name: 'Ultimate X-Men (vol. 1) #59'
+  comic_vine_issue_id: 101000
+- name: 'Ultimate X-Men (vol. 1) #60'
+  comic_vine_issue_id: 105542
+- name: 'Ultimate X-Men (vol. 1) #61'
+  comic_vine_issue_id: 107548
+- name: 'Ultimate X-Men (vol. 1) #62'
+  comic_vine_issue_id: 107629
+- name: 'Ultimate X-Men (vol. 1) #63'
+  comic_vine_issue_id: 107630
+- name: 'Ultimate X-Men (vol. 1) #64'
+  comic_vine_issue_id: 107653
+- name: 'Ultimate X-Men (vol. 1) #65'
+  comic_vine_issue_id: 107654
+- name: 'Ultimate X-Men Annual #1'
+  comic_vine_issue_id: 111664

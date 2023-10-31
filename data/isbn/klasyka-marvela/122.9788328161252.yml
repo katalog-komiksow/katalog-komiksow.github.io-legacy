@@ -1,0 +1,41 @@
+---
+collection: klasyka-marvela
+name: Moon Knight
+image: 122.9788328161252.webp
+image_source: https://egmont.pl
+isbn: 9788328161252
+release_date: '2023-08-23'
+series:
+- Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5077959/moon-knight
+shops:
+  egmont: https://egmont.pl/Moon-Knight,74350598,p.html
+  gildia: https://www.gildia.pl/komiksy/565813-moon-knight-marvel-classic
+reviews:
+  filmozercy: https://filmozercy.com/wpis/moon-knight-recenzja-komiksu-kalifornijski-sen
+issues:
+- name: 'Moon Knight (vol. 6) #1'
+  comic_vine_issue_id: 269480
+- name: 'Moon Knight (vol. 6) #2'
+  comic_vine_issue_id: 272413
+- name: 'Moon Knight (vol. 6) #3'
+  comic_vine_issue_id: 277456
+- name: 'Moon Knight (vol. 6) #4'
+  comic_vine_issue_id: 283184
+- name: 'Moon Knight (vol. 6) #5'
+  comic_vine_issue_id: 291146
+- name: 'Moon Knight (vol. 6) #6'
+  comic_vine_issue_id: 294192
+- name: 'Moon Knight (vol. 6) #7'
+  comic_vine_issue_id: 300975
+- name: 'Moon Knight (vol. 6) #8'
+  comic_vine_issue_id: 305671
+- name: 'Moon Knight (vol. 6) #9'
+  comic_vine_issue_id: 311669
+- name: 'Moon Knight (vol. 6) #10'
+  comic_vine_issue_id: 317875
+- name: 'Moon Knight (vol. 6) #11'
+  comic_vine_issue_id: 323591
+- name: 'Moon Knight (vol. 6) #12'
+  comic_vine_issue_id: 333398
