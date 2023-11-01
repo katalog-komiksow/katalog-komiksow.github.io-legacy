@@ -1,0 +1,31 @@
+---
+collection: dc-odrodzenie
+name: 'Superman. Tom 1: Syn Supermana'
+image: 007.9788328127661.webp
+image_source: https://egmont.pl
+isbn: 9788328127661
+release_date: '2017-09-20'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4799729/superman-syn-supermana
+shops:
+  egmont: https://egmont.pl/Superman-Syn-Supermana.-Tom-1,3265561,p.html
+  gildia: https://www.gildia.pl/komiksy/342268-odrodzenie-superman-1-syn-supermana
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superman-tom-1-syn-supermana-recenzja-komiksu
+issues:
+- name: 'Superman: Rebirth'
+  comic_vine_issue_id: 533016
+- name: 'Superman (vol. 4) #1'
+  comic_vine_issue_id: 535341
+- name: 'Superman (vol. 4) #2'
+  comic_vine_issue_id: 538494
+- name: 'Superman (vol. 4) #3'
+  comic_vine_issue_id: 540058
+- name: 'Superman (vol. 4) #4'
+  comic_vine_issue_id: 542613
+- name: 'Superman (vol. 4) #5'
+  comic_vine_issue_id: 544972
+- name: 'Superman (vol. 4) #6'
+  comic_vine_issue_id: 548567

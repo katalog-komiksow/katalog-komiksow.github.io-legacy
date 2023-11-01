@@ -1,0 +1,33 @@
+---
+collection: dc-odrodzenie
+name: 'Batman - Detective Comics. Tom 1: Powstanie Batmanów'
+image: '009.9788328127722.webp'
+image_source: https://egmont.pl
+isbn: 9788328127722
+release_date: '2017-10-11'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4803538/batman---detective-comics-powstanie-batmanow
+shops:
+  egmont: https://egmont.pl/Batman-Detective-Comics-Powstanie-Batmanow.-Tom-1,4017165,p.html
+  gildia: https://egmont.pl/Batman-Detective-Comics-Powstanie-Batmanow.-Tom-1,4017165,p.html
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-detective-comics-tom-1-powstanie-batmanow-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/batman-detective-comics-01-powstanie-batmanow-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33944-detective-comics-tom-1-powstanie-batmanow-recenzja
+issues:
+- name: 'Detective Comics (vol. 1) #934'
+  comic_vine_issue_id: 534260
+- name: 'Detective Comics (vol. 1) #935'
+  comic_vine_issue_id: 537212
+- name: 'Detective Comics (vol. 1) #936'
+  comic_vine_issue_id: 539214
+- name: 'Detective Comics (vol. 1) #937'
+  comic_vine_issue_id: 541161
+- name: 'Detective Comics (vol. 1) #938'
+  comic_vine_issue_id: 543724
+- name: 'Detective Comics (vol. 1) #939'
+  comic_vine_issue_id: 546030
+- name: 'Detective Comics (vol. 1) #940'
+  comic_vine_issue_id: 549486

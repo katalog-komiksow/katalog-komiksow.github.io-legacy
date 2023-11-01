@@ -1,0 +1,33 @@
+---
+collection: dc-odrodzenie
+name: 'Batman. Tom 1: Jestem Gotham'
+image: 004.9788328127685.webp
+image_source: https://egmont.pl
+isbn: 9788328127685
+release_date: '2017-09-20'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://www.gildia.pl/komiksy/342288-odrodzenie-batman-1-jestem-gotham
+shops:
+  egmont: https://egmont.pl/Batman-Jestem-Gotham.-Tom-1,3265539,p.html
+  gildia: https://www.gildia.pl/komiksy/342288-odrodzenie-batman-1-jestem-gotham
+reviews:
+  filmozercy: https://filmozercy.com/wpis/batman-tom-1-jestem-gotham-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/batman-01-gotham-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33614-batman-tom-1-jestem-gotham-recenzja
+issues:
+- name: 'Batman: Rebirth'
+  comic_vine_issue_id: 533007
+- name: 'Batman (vol. 3) #1'
+  comic_vine_issue_id: 535328
+- name: 'Batman (vol. 3) #2'
+  comic_vine_issue_id: 538480
+- name: 'Batman (vol. 3) #3'
+  comic_vine_issue_id: 540047
+- name: 'Batman (vol. 3) #4'
+  comic_vine_issue_id: 542596
+- name: 'Batman (vol. 3) #5'
+  comic_vine_issue_id: 544955
+- name: 'Batman (vol. 3) #6'
+  comic_vine_issue_id: 548548

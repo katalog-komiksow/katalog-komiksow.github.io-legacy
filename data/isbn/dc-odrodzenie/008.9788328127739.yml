@@ -1,0 +1,31 @@
+---
+collection: dc-odrodzenie
+name: 'Superman - Action Comics. Tom 1: Ścieżka zagłady'
+image: '008.9788328127739.webp'
+image_source: https://egmont.pl
+isbn: 9788328127739
+release_date: '2017-10-11'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4803543/superman---action-comics-sciezka-zaglady
+shops:
+  egmont: https://egmont.pl/Superman-Action-Comics-Sciezka-zaglady.-Tom-1,4017162,p.html
+  gildia: https://www.gildia.pl/komiksy/344136-odrodzenie-superman-action-comics-1-sciezka-zaglady
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superman-action-comics-tom-1-sciezka-zaglady-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/superman-action-comics-01-sciezka-zaglady-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33915-superman-action-comics-tom-1-sciezka-zaglady-recenzja
+issues:
+- name: 'Action Comics (vol. 1) #957'
+  comic_vine_issue_id: 534253
+- name: 'Action Comics (vol. 1) #958'
+  comic_vine_issue_id: 537206
+- name: 'Action Comics (vol. 1) #959'
+  comic_vine_issue_id: 539207
+- name: 'Action Comics (vol. 1) #960'
+  comic_vine_issue_id: 541155
+- name: 'Action Comics (vol. 1) #961'
+  comic_vine_issue_id: 543716
+- name: 'Action Comics (vol. 1) #962'
+  comic_vine_issue_id: 546024

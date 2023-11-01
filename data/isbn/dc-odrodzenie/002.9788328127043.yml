@@ -1,0 +1,35 @@
+---
+collection: dc-odrodzenie
+name: 'Droga do Odrodzenia: Superman - Ostatnie dni Supermana'
+image: 002.9788328127043.webp
+image_source: https://egmont.pl
+isbn: 9788328127043
+release_date: '2017-08-17'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4731077/droga-do-odrodzenia-superman---ostatnie-dni-supermana
+shops:
+  egmont: https://egmont.pl/Superman-Ostatnie-dni-Supermana,2382877,p.html
+  gildia: https://www.gildia.pl/komiksy/340501-odrodzenie-droga-do-odrodzenia-superman-ostatnie-dni-supermana
+reviews:
+  filmozercy: https://filmozercy.com/wpis/droga-do-odrodzenia-superman-ostatnie-dni-supermana-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/superman-ostatnie-dni-supermana-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33264-superman-ostatnie-dni-supermana-recenzja
+issues:
+- name: 'Superman (vol. 3) #51'
+  comic_vine_issue_id: 523235
+- name: 'Superman (vol. 3) #52'
+  comic_vine_issue_id: 531863
+- name: 'Batman/Superman (vol. 1) #31'
+  comic_vine_issue_id: 524993
+- name: 'Batman/Superman (vol. 1) #32'
+  comic_vine_issue_id: 528478
+- name: 'Action Comics (vol. 2) #51'
+  comic_vine_issue_id: 526007
+- name: 'Action Comics (vol. 2) #52'
+  comic_vine_issue_id: 529617
+- name: 'Superman/Wonder Woman #28'
+  comic_vine_issue_id: 527124
+- name: 'Superman/Wonder Woman #29'
+  comic_vine_issue_id: 527124

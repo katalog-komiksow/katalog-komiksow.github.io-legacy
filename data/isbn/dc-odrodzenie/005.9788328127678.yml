@@ -1,0 +1,31 @@
+---
+collection: dc-odrodzenie
+name: 'Green Arrow. Tom 1: Śmierć i życie Olivera Queena'
+image: 005.9788328127678.webp
+image_source: https://egmont.pl
+isbn: 9788328127678
+release_date: '2017-09-20'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4799732/green-arrow-smierc-i-zycie-olivera-queena
+shops:
+  egmont: https://egmont.pl/Green-Arrow-Smierc-i-zycie-Olivera-Queena.-Tom-1,3265549,p.html
+  gildia: https://www.gildia.pl/komiksy/342269-odrodzenie-green-arrow-1-smierc-i-zycie-olivera-queena
+reviews:
+  filmozercy: https://filmozercy.com/wpis/green-arrow-tom-1-smierc-i-zycie-olivera-queena-prezentacja-komiksu
+  naekranie: https://naekranie.pl/recenzje/green-arrow-1-zycie-smierc-olivera-queena-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33579-green-arrow-tom-1-smierc-i-zycie-olivera-queena-recenzja
+issues:
+- name: 'Green Arrow: Rebirth'
+  comic_vine_issue_id: 533010
+- name: 'Green Arrow (vol.6) #1'
+  comic_vine_issue_id: 535334
+- name: 'Green Arrow (vol.6) #2'
+  comic_vine_issue_id: 538489
+- name: 'Green Arrow (vol.6) #3'
+  comic_vine_issue_id: 540050
+- name: 'Green Arrow (vol.6) #4'
+  comic_vine_issue_id: 542602
+- name: 'Green Arrow (vol.6) #5'
+  comic_vine_issue_id: 544959

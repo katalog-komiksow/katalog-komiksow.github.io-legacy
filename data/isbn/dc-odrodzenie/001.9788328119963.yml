@@ -1,0 +1,35 @@
+---
+collection: dc-odrodzenie
+name: Droga do Odrodzenia. Superman - Lois i Clark
+image: 001.9788328119963.webp
+image_source: https://egmont.pl
+isbn: 9788328119963
+release_date: '2017-06-21'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4725139/droga-do-odrodzenia-superman---lois-i-clark
+shops:
+  egmont: https://egmont.pl/Droga-do-Odrodzenia.-Superman-Lois-i-Clark,1404931,p.html
+  gildia: https://www.gildia.pl/komiksy/335700-odrodzenie-droga-do-odrodzenia-superman-lois-i-clark
+reviews:
+  filmozercy: https://filmozercy.com/wpis/droga-do-odrodzenia-superman-lois-i-clark-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/droga-do-odrodzenia-superman-lois-i-clark-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/32883-droga-do-odrodzenia-superman-lois-i-clark-recenzja
+issues:
+- name: 'Superman: Lois and Clark #1'
+  comic_vine_issue_id: 502845
+- name: 'Superman: Lois and Clark #2'
+  comic_vine_issue_id: 506639
+- name: 'Superman: Lois and Clark #3'
+  comic_vine_issue_id: 509691
+- name: 'Superman: Lois and Clark #4'
+  comic_vine_issue_id: 512405
+- name: 'Superman: Lois and Clark #5'
+  comic_vine_issue_id: 516581
+- name: 'Superman: Lois and Clark #6'
+  comic_vine_issue_id: 521318
+- name: 'Superman: Lois and Clark #7'
+  comic_vine_issue_id: 526031
+- name: 'Superman: Lois and Clark #8'
+  comic_vine_issue_id: 531865
