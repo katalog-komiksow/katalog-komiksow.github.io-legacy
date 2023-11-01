@@ -1,0 +1,30 @@
+---
+collection: dc-odrodzenie
+name: 'Batman: Noc Ludzi Potworów'
+image: 016.9788328127807.webp
+image_source: https://egmont.pl
+isbn: 9788328127807
+release_date: '2017-12-07'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810360/batman-noc-ludzi-potworow
+shops:
+  egmont: https://egmont.pl/Batman.-Noc-Ludzi-Potworow,5061660,p.html
+  gildia: https://www.gildia.pl/komiksy/344343-odrodzenie-batman-noc-ludzi-potworow
+reviews:
+  naekranie: https://naekranie.pl/recenzje/batman-noc-ludzi-potworow-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34319-batman-noc-ludzi-potworow-recenzja
+issues:
+- name: 'Batman (vol. 3) #7'
+  comic_vine_issue_id: 550321
+- name: 'Batman (vol. 3) #8'
+  comic_vine_issue_id: 552124
+- name: 'Detective Comics (vol. 1) #941'
+  comic_vine_issue_id: 551272
+- name: 'Detective Comics (vol. 1) #942'
+  comic_vine_issue_id: 552973
+- name: 'Nightwing (vol. 4) #5'
+  comic_vine_issue_id: 550332
+- name: 'Nightwing (vol. 4) #6'
+  comic_vine_issue_id: 552143

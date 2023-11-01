@@ -1,0 +1,32 @@
+---
+collection: dc-odrodzenie
+name: 'Wonder Woman. Tom 1: Kłamstwa'
+image: '019.9788328127814.webp'
+image_source: https://egmont.pl
+isbn: 9788328127814
+release_date: '2017-12-07'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810357/wonder-woman-klamstwa
+shops:
+  egmont: https://egmont.pl/Wonder-Woman.-Klamstwa.-Tom-1,5061635,p.html
+  gildia: https://www.gildia.pl/komiksy/344340-odrodzenie-wonder-woman-1-klamstwa
+reviews:
+  naekranie: https://naekranie.pl/recenzje/wonder-woman-01-klamstwa-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34244-wonder-woman-tom-1-klamstwa-recenzja
+issues:
+- name: 'Wonder Woman: Rebirth'
+  comic_vine_issue_id: 534272
+- name: 'Wonder Woman (vol. 5) #1'
+  comic_vine_issue_id: 537223
+- name: 'Wonder Woman (vol. 5) #3'
+  comic_vine_issue_id: 541185
+- name: 'Wonder Woman (vol. 5) #5'
+  comic_vine_issue_id: 546046
+- name: 'Wonder Woman (vol. 5) #7'
+  comic_vine_issue_id: 551287
+- name: 'Wonder Woman (vol. 5) #9'
+  comic_vine_issue_id: 555504
+- name: 'Wonder Woman (vol. 5) #11'
+  comic_vine_issue_id: 558948

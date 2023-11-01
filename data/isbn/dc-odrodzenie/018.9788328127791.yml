@@ -1,0 +1,32 @@
+---
+collection: dc-odrodzenie
+name: 'Nightwing. Tom 1: Lepszy niż Batman'
+image: '018.9788328127791.webp'
+image_source: https://egmont.pl
+isbn: 9788328127791
+release_date: '2017-12-07'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810359/nightwing-lepszy-niz-batman
+shops:
+  egmont: https://egmont.pl/Nightwing.-Lepszy-niz-Batman.-Tom-1,5061655,p.html
+  gildia: https://www.gildia.pl/komiksy/344342-odrodzenie-nightwing-1-lepszy-niz-batman
+reviews:
+  naekranie: https://naekranie.pl/recenzje/nightwing-tom-1-lepszy-niz-batman-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34250-nightwing-tom-1-lepszy-niz-batman-recenzja
+issues:
+- name: 'Nightwing: Rebirth'
+  comic_vine_issue_id: 539219
+- name: 'Nightwing (vol. 4) #1'
+  comic_vine_issue_id: 541172
+- name: 'Nightwing (vol. 4) #2'
+  comic_vine_issue_id: 542608
+- name: 'Nightwing (vol. 4) #3'
+  comic_vine_issue_id: 544968
+- name: 'Nightwing (vol. 4) #4'
+  comic_vine_issue_id: 548561
+- name: 'Nightwing (vol. 4) #7'
+  comic_vine_issue_id: 553930
+- name: 'Nightwing (vol. 4) #8'
+  comic_vine_issue_id: 556455

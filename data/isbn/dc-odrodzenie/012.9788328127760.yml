@@ -1,0 +1,29 @@
+---
+collection: dc-odrodzenie
+name: 'All-Star Batman. Tom 1: Mój największy wróg'
+image: 012.9788328127760.webp
+image_source: https://egmont.pl
+isbn: 9788328127760
+release_date: '2017-11-08'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810225/all-star-batman-moj-najwiekszy-wrog
+shops:
+  egmont: https://egmont.pl/All-Star-Batman-Moj-najwiekszy-wrog.-Tom-1,4361233,p.html
+  gildia: https://www.gildia.pl/komiksy/344339-odrodzenie-all-star-batman-1-moj-najwiekszy-wrog
+reviews:
+  geeklife: https://www.geeklife.pl/2017/12/08/all-star-batman-tom-1-moj-najwiekszy-wrog-recenzja/
+  naekranie: https://naekranie.pl/recenzje/all-star-batman-01-moj-najwiekszy-wrog-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34111-all-star-batman-tom-1-moj-najwiekszy-wrog-recenzja
+issues:
+- name: 'All-Star Batman #1'
+  comic_vine_issue_id: 543717
+- name: 'All-Star Batman #2'
+  comic_vine_issue_id: 549481
+- name: 'All-Star Batman #3'
+  comic_vine_issue_id: 552965
+- name: 'All-Star Batman #4'
+  comic_vine_issue_id: 557329
+- name: 'All-Star Batman #5'
+  comic_vine_issue_id: 571624

@@ -1,0 +1,30 @@
+---
+collection: dc-odrodzenie
+name: 'Liga Sprawiedliwości. Tom 1: Maszyny zagłady'
+image: 011.9788328127715.webp
+image_source: https://egmont.pl
+isbn: 9788328127715
+release_date: '2017-10-11'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4803542/liga-sprawiedliwosci-maszyny-zaglady
+shops:
+  egmont: https://egmont.pl/Liga-Sprawiedliwosci-Maszyny-zaglady.-Tom-1,4017158,p.html
+  gildia: https://www.gildia.pl/komiksy/344133-odrodzenie-liga-sprawiedliwosci-1-maszyny-zaglady
+reviews:
+  naekranie: https://naekranie.pl/recenzje/liga-sprawiedliwosci-01-maszyny-zaglady-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/33862-liga-sprawiedliwosci-tom-1-maszyny-zaglady-recenzja
+issues:
+- name: 'Justice League: Rebirth'
+  comic_vine_issue_id: 538492
+- name: 'Justice League (vol. 3) #1'
+  comic_vine_issue_id: 540053
+- name: 'Justice League (vol. 3) #2'
+  comic_vine_issue_id: 542606
+- name: 'Justice League (vol. 3) #3'
+  comic_vine_issue_id: 544964
+- name: 'Justice League (vol. 3) #4'
+  comic_vine_issue_id: 548559
+- name: 'Justice League (vol. 3) #5'
+  comic_vine_issue_id: 550329

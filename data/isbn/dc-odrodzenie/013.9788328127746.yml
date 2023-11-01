@@ -1,0 +1,33 @@
+---
+collection: dc-odrodzenie
+name: 'Aquaman. Tom 1: Utonięcie'
+image: 013.9788328127746.webp
+image_source: https://egmont.pl
+isbn: 9788328127746
+release_date: '2017-11-08'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4810224/aquaman-utoniecie
+shops:
+  egmont: https://egmont.pl/Aquaman-Utoniecie.-Tom-1,4361225,p.html
+  gildia: https://www.gildia.pl/komiksy/344320-odrodzenie-aquaman-1-utoniecie
+reviews:
+  filmozercy: https://filmozercy.com/wpis/aquaman-tom-1-utoniecie-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/aquaman-01-utoniecie-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34094-aquaman-tom-1-utoniecie-recenzja
+issues:
+- name: 'Aquaman: Rebirth'
+  comic_vine_issue_id: 534254
+- name: 'Aquaman (vol. 8) #1'
+  comic_vine_issue_id: 537207
+- name: 'Aquaman (vol. 8) #2'
+  comic_vine_issue_id: 538479
+- name: 'Aquaman (vol. 8) #3'
+  comic_vine_issue_id: 540043
+- name: 'Aquaman (vol. 8) #4'
+  comic_vine_issue_id: 542594
+- name: 'Aquaman (vol. 8) #5'
+  comic_vine_issue_id: 544953
+- name: 'Aquaman (vol. 8) #6'
+  comic_vine_issue_id: 548547
