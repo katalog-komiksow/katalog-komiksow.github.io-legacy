@@ -1,0 +1,36 @@
+---
+collection: dc-odrodzenie
+name: 'Aquaman. Tom 2: Nadpływa Czarna Manta'
+image: 023.9788328126701.webp
+image_source: https://egmont.pl
+isbn: 9788328126701
+release_date: '2018-02-21'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4819986/aquaman-nadplywa-czarna-manta
+shops:
+  egmont: https://egmont.pl/Aquaman-Nadplywa-Czarna-Manta.-Tom-2,6072352,p.html
+  gildia: https://www.gildia.pl/komiksy/356075-odrodzenie-aquaman-2-nadplywa-czarna-manta
+reviews:
+  filmozercy: https://filmozercy.com/wpis/aquaman-tom-2-nadplywa-czarna-manta-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/aquaman-02-nadplywa-czarna-manta-recenzja-komiksu
+issues:
+- name: 'Aquaman (vol. 8) #7'
+  comic_vine_issue_id: 550320
+- name: 'Aquaman (vol. 8) #8'
+  comic_vine_issue_id: 552122
+- name: 'Aquaman (vol. 8) #9'
+  comic_vine_issue_id: 553915
+- name: 'Aquaman (vol. 8) #10'
+  comic_vine_issue_id: 556440
+- name: 'Aquaman (vol. 8) #11'
+  comic_vine_issue_id: 558382
+- name: 'Aquaman (vol. 8) #12'
+  comic_vine_issue_id: 563689
+- name: 'Aquaman (vol. 8) #13'
+  comic_vine_issue_id: 569297
+- name: 'Aquaman (vol. 8) #14'
+  comic_vine_issue_id: 574833
+- name: 'Aquaman (vol. 8) #15'
+  comic_vine_issue_id: 576583

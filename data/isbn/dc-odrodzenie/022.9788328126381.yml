@@ -1,0 +1,33 @@
+---
+collection: dc-odrodzenie
+name: 'Superman. Tom 2: Pierwsze Próby Superboya'
+image: 022.9788328126381.webp
+image_source: https://egmont.pl
+isbn: 9788328126381
+release_date: '2018-01-24'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4816415/superman-pierwsze-proby-superboya
+shops:
+  egmont: https://egmont.pl/Superman-Pierwsze-proby-Superboya.-Tom-2,5695495,p.html
+  gildia: https://www.gildia.pl/komiksy/353902-odrodzenie-superman-2-pierwsze-proby-superboya
+reviews:
+  filmozercy: https://filmozercy.com/wpis/superman-tom-2-pierwsze-proby-superboya-recenzja-komiksu
+  naekranie: https://naekranie.pl/recenzje/superman-02-pierwsze-proby-superboya-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34513-superman-tom-2-pierwsze-proby-superboya-recenzja
+issues:
+- name: 'Superman (vol. 4) #7'
+  comic_vine_issue_id: 550337
+- name: 'Superman (vol. 4) #8'
+  comic_vine_issue_id: 552146
+- name: 'Superman (vol. 4) #9'
+  comic_vine_issue_id: 553934
+- name: 'Superman (vol. 4) #10'
+  comic_vine_issue_id: 556460
+- name: 'Superman (vol. 4) #11'
+  comic_vine_issue_id: 558402
+- name: 'Superman (vol. 4) #12'
+  comic_vine_issue_id: 563710
+- name: 'Superman (vol. 4) #13'
+  comic_vine_issue_id: 569316

@@ -1,0 +1,28 @@
+---
+collection: dc-odrodzenie
+name: 'Superman - Action Comics. Tom 2: Powrót do Daily Planet'
+image: 024.9788328126473.webp
+image_source: https://egmont.pl
+isbn: 9788328126473
+release_date: '2018-02-21'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4819985/superman---action-comics-powrot-do-quot-daily-planet-quot
+shops:
+  egmont: https://egmont.pl/Superman-Action-Comics-Powrot-do-Daily-Planet-.-Tom-2,6072323,p.html
+  gildia: https://www.gildia.pl/komiksy/356074-odrodzenie-superman-action-comics-2-powrot-do-daily-planet
+reviews:
+  filmozercy: https://filmozercy.com/wpis/action-comics-tom-2-powrot-do-daily-planet-recenzja-komiksu
+  paradoks: https://paradoks.net.pl/read/34642-superman-action-comics-tom-2-powrot-do-daily-planet-recenzja
+issues:
+- name: 'Action Comics (vol. 1) #963'
+  comic_vine_issue_id: 549480
+- name: 'Action Comics (vol. 1) #964'
+  comic_vine_issue_id: 551261
+- name: 'Action Comics (vol. 1) #965'
+  comic_vine_issue_id: 552964
+- name: 'Action Comics (vol. 1) #966'
+  comic_vine_issue_id: 555480
+- name: 'Justice League (vol. 2) #52'
+  comic_vine_issue_id: 537215

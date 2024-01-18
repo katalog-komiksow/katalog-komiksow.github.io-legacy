@@ -1,0 +1,29 @@
+---
+collection: dc-odrodzenie
+name: 'Green Arrow. Tom 2: Wyspa Blizn'
+image: 021.9788328126398.webp
+image_source: https://egmont.pl
+isbn: 9788328126398
+release_date: '2018-01-24'
+series:
+- DC Odrodzenie
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/4816418/green-arrow-wyspa-blizn
+shops:
+  egmont: https://egmont.pl/Green-Arrow-Wyspa-Blizn.-Tom-2,5695491,p.html
+  gildia: https://www.gildia.pl/komiksy/353907-odrodzenie-green-arrow-2-wyspa-blizn
+reviews:
+  paradoks: https://paradoks.net.pl/read/34596-green-arrow-tom-2-wyspa-blizn-recenzja
+issues:
+- name: 'Green Arrow (vol. 6) #6'
+  comic_vine_issue_id: 548557
+- name: 'Green Arrow (vol. 6) #7'
+  comic_vine_issue_id: 550326
+- name: 'Green Arrow (vol. 6) #8'
+  comic_vine_issue_id: 552135
+- name: 'Green Arrow (vol. 6) #9'
+  comic_vine_issue_id: 553923
+- name: 'Green Arrow (vol. 6) #10'
+  comic_vine_issue_id: 556450
+- name: 'Green Arrow (vol. 6) #11'
+  comic_vine_issue_id: 558391
