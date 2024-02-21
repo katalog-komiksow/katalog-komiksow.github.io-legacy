@@ -1,0 +1,53 @@
+---
+collection: marvel-mucha-comics
+name: "X-Statix: Powrót zza grobu - tom 2"
+image: 072.9788367571241.jpeg
+image_source: "https://muchacomics.com"
+isbn: 9788367571241
+release_date: "2023-10-06"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5088763/x-statix-powrot-zza-grobu-tom-2
+shops:
+  gildia: https://www.gildia.pl/komiksy/578065-x-statix-2-powrot-zza-grobu
+  muchacomics: https://muchacomics.com/pl/p/X-Statix-Powrot-zza-grobu-tom-2/332
+reviews:
+  paradoks: https://paradoks.net.pl/read/45877-x-statix-tom-2-powrot-zza-grobu-recenzja
+issues:
+  - name: "X-Statix #1"
+    comic_vine_issue_id: 78000
+  - name: "X-Statix #2"
+    comic_vine_issue_id: 78001
+  - name: "X-Statix #3"
+    comic_vine_issue_id: 78002
+  - name: "X-Statix #4"
+    comic_vine_issue_id: 108540
+  - name: "X-Statix #5"
+    comic_vine_issue_id: 108541
+  - name: "X-Statix #6"
+    comic_vine_issue_id: 108542
+  - name: "X-Statix #7"
+    comic_vine_issue_id: 108543
+  - name: "X-Statix #8"
+    comic_vine_issue_id: 108613
+  - name: "X-Statix #9"
+    comic_vine_issue_id: 108610
+  - name: "X-Statix #10"
+    comic_vine_issue_id: 108611
+  - name: "X-Statix #11"
+    comic_vine_issue_id: 108612
+  - name: "X-Statix #12"
+    comic_vine_issue_id: 108655
+  - name: "X-Statix #13"
+    comic_vine_issue_id: 108657
+  - name: "X-Statix #14"
+    comic_vine_issue_id: 108659
+  - name: "X-Statix #15"
+    comic_vine_issue_id: 108658
+  - name: "X-Statix #16"
+    comic_vine_issue_id: 108661
+  - name: "X-Statix #17"
+    comic_vine_issue_id: 108663
+  - name: "X-Statix #18"
+    comic_vine_issue_id: 108664
