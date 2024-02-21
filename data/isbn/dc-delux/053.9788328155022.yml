@@ -1,0 +1,27 @@
+---
+collection: dc-delux
+name: Inna historia uniwersum DC
+image: dc-delux.053.webp
+image_source: https://egmont.pl
+isbn: 9788328155022
+release_date: '2023-11-22'
+series:
+  - DC Delux
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5092826/inna-historia-uniwersum-dc
+shops:
+  egmont: https://egmont.pl/Inna-historia-uniwersum-DC,76806154,p.html
+  gildia: https://www.gildia.pl/komiksy/576982-inna-historia-uniwersum-dc
+reviews:
+  paradoks: https://paradoks.net.pl/read/46085-inna-historia-uniwersum-dc-recenzja
+issues:
+  - name: "The Other History of the DC Universe #1"
+    comic_vine_issue_id: 819294
+  - name: "The Other History of the DC Universe #2"
+    comic_vine_issue_id: 826319
+  - name: "The Other History of the DC Universe #3"
+    comic_vine_issue_id: 840009
+  - name: "The Other History of the DC Universe #4"
+    comic_vine_issue_id: 853383
+  - name: "The Other History of the DC Universe #5"
+    comic_vine_issue_id: 873940
