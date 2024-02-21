@@ -1,0 +1,43 @@
+---
+collection: marvel-mucha-comics
+name: "Legendy X-Men: Jim Lee"
+image: 074.9788367571265.jpeg
+image_source: "https://muchacomics.com"
+isbn: 9788367571265
+release_date: "2023-12-22"
+series:
+  - "Marvel (Mucha Comics)"
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5099244/legendy-x-men-jim-lee
+shops:
+  gildia: https://www.gildia.pl/komiksy/587461-legendy-x-men-jim-lee
+  muchacomics: https://muchacomics.com/pl/p/Legendy-X-Men-Jim-Lee/335
+reviews:
+  paradoks: https://paradoks.net.pl/read/46113-legendy-x-men-jim-lee-recenzja
+issues:
+  - name: "X-Men Vol. 2 #1"
+    comic_vine_issue_id: 34784
+  - name: "X-Men Vol. 2 #2"
+    comic_vine_issue_id: 34900
+  - name: "X-Men Vol. 2 #3"
+    comic_vine_issue_id: 35019
+  - name: "X-Men Vol. 2 #4"
+    comic_vine_issue_id: 35276
+  - name: "X-Men Vol. 2 #5"
+    comic_vine_issue_id: 35379
+  - name: "X-Men Vol. 2 #6"
+    comic_vine_issue_id: 35485
+  - name: "X-Men Vol. 2 #7"
+    comic_vine_issue_id: 35588
+  - name: "X-Men Vol. 2 #8"
+    comic_vine_issue_id: 35692
+  - name: "X-Men Vol. 2 #9"
+    comic_vine_issue_id: 106565
+  - name: "X-Men Vol. 2 #10"
+    comic_vine_issue_id: 35920
+  - name: "X-Men Vol. 2 #11"
+    comic_vine_issue_id: 36037
+  - name: "Ghost Rider Vol. 3 #26"
+    comic_vine_issue_id: 66441
+  - name: "Ghost Rider Vol. 3 #27"
+    comic_vine_issue_id: 66442
