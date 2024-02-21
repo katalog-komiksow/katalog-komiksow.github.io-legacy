@@ -1,0 +1,48 @@
+---
+collection: klasyka-marvela
+name: "Fantastyczna Czwórka. Tom 3"
+image: 129.9788328154391.webp
+image_source: https://egmont.pl
+isbn: 9788328154391
+release_date: '2023-11-22'
+series:
+  - Klasyka Marvela
+links:
+  lubimyczytac: https://lubimyczytac.pl/ksiazka/5094402/fantastyczna-czworka---tom-3
+shops:
+  egmont: https://egmont.pl/Fantastyczna-Czworka.-Tom-3,76806146,p.html
+  gildia: https://www.gildia.pl/komiksy/576979-fantastyczna-czworka-3
+reviews: []
+issues:
+  - name: 'Fantastic Four #600'
+    comic_vine_issue_id: 303357
+  - name: 'Fantastic Four #601'
+    comic_vine_issue_id: 307697
+  - name: 'Fantastic Four #602'
+    comic_vine_issue_id: 312722
+  - name: 'Fantastic Four #603'
+    comic_vine_issue_id: 316680
+  - name: 'Fantastic Four #604'
+    comic_vine_issue_id: 321298
+  - name: 'FF #6'
+    comic_vine_issue_id: 278717
+  - name: 'FF #7'
+    comic_vine_issue_id: 281813
+  - name: 'FF #8'
+    comic_vine_issue_id: 288455
+  - name: 'FF #9'
+    comic_vine_issue_id: 293581
+  - name: 'FF #10'
+    comic_vine_issue_id: 294897
+  - name: 'FF #11'
+    comic_vine_issue_id: 299749
+  - name: 'FF #12'
+    comic_vine_issue_id: 304460
+  - name: 'FF #13'
+    comic_vine_issue_id: 308502
+  - name: 'FF #14'
+    comic_vine_issue_id: 312723
+  - name: 'FF #15'
+    comic_vine_issue_id: 317926
+  - name: 'FF #16'
+    comic_vine_issue_id: 324964
